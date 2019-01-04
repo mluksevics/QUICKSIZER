@@ -4,6 +4,9 @@
 # User-specific files
 *.suo
 *.user
+QUICKSIZER/bin/
+publish/
+exclude/
 *.userosscache
 *.sln.docstates
 
