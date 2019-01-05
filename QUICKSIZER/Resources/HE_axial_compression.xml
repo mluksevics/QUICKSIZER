@@ -1,0 +1,6699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>1.0</Length>
+		<Resistance>26400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>1.0</Length>
+		<Resistance>22300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>1.0</Length>
+		<Resistance>19700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>1.0</Length>
+		<Resistance>18700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>1.0</Length>
+		<Resistance>17200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>1.0</Length>
+		<Resistance>14400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>1.0</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>1.0</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>1.0</Length>
+		<Resistance>9530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>1.0</Length>
+		<Resistance>8280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>1.0</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>1.0</Length>
+		<Resistance>17700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>1.0</Length>
+		<Resistance>14200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>1.0</Length>
+		<Resistance>12100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>1.0</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>1.0</Length>
+		<Resistance>7620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>1.0</Length>
+		<Resistance>20100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>1.0</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>1.0</Length>
+		<Resistance>13900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>1.0</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>1.0</Length>
+		<Resistance>9180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>1.0</Length>
+		<Resistance>6770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>1.0</Length>
+		<Resistance>18900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>1.0</Length>
+		<Resistance>15900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>1.0</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>1.0</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>1.0</Length>
+		<Resistance>8600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>1.0</Length>
+		<Resistance>6080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>1.0</Length>
+		<Resistance>18400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>1.0</Length>
+		<Resistance>15500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>1.0</Length>
+		<Resistance>12900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>1.0</Length>
+		<Resistance>9880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>1.0</Length>
+		<Resistance>8030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>1.0</Length>
+		<Resistance>5820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>1.0</Length>
+		<Resistance>18100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>1.0</Length>
+		<Resistance>15200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>1.0</Length>
+		<Resistance>12500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>1.0</Length>
+		<Resistance>9320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>1.0</Length>
+		<Resistance>7610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>1.0</Length>
+		<Resistance>5520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>1.0</Length>
+		<Resistance>12200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>1.0</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>1.0</Length>
+		<Resistance>7200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>1.0</Length>
+		<Resistance>5230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>1.0</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>1.0</Length>
+		<Resistance>8230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>1.0</Length>
+		<Resistance>6810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>1.0</Length>
+		<Resistance>4720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>1.0</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>1.0</Length>
+		<Resistance>7520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>1.0</Length>
+		<Resistance>6140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>4470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>1.0</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>1.0</Length>
+		<Resistance>6820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>1.0</Length>
+		<Resistance>5490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>4180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>1.0</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>1.0</Length>
+		<Resistance>6230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>1.0</Length>
+		<Resistance>4930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>3780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>1.0</Length>
+		<Resistance>10900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>1.0</Length>
+		<Resistance>5900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>1.0</Length>
+		<Resistance>4610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>1.0</Length>
+		<Resistance>3570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>1.0</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>1.0</Length>
+		<Resistance>8170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>1.0</Length>
+		<Resistance>5560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>1.0</Length>
+		<Resistance>4420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>3360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>1.0</Length>
+		<Resistance>10500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>1.0</Length>
+		<Resistance>7770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>1.0</Length>
+		<Resistance>5140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>1.0</Length>
+		<Resistance>3990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>1.0</Length>
+		<Resistance>3160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>1.0</Length>
+		<Resistance>8290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>1.0</Length>
+		<Resistance>6390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>1.0</Length>
+		<Resistance>4530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>3450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>1.0</Length>
+		<Resistance>7580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>1.0</Length>
+		<Resistance>5810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>1.0</Length>
+		<Resistance>4080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>1.0</Length>
+		<Resistance>2440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>1.0</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>1.0</Length>
+		<Resistance>5230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>3630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>1.0</Length>
+		<Resistance>2700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>1.0</Length>
+		<Resistance>5090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>1.0</Length>
+		<Resistance>4080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>1.0</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>1.0</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>1790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>1.0</Length>
+		<Resistance>4430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>1.0</Length>
+		<Resistance>3510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>1.0</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>1.0</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>1.0</Length>
+		<Resistance>1510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>1.0</Length>
+		<Resistance>3770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>1.0</Length>
+		<Resistance>2950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>1.0</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>3180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>1.0</Length>
+		<Resistance>1810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>1290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>1.0</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>2580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>1.0</Length>
+		<Resistance>742</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>1.0</Length>
+		<Resistance>2060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>1.0</Length>
+		<Resistance>790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>1.0</Length>
+		<Resistance>576</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>1.0</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>1.0</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>1.0</Length>
+		<Resistance>769</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>1.0</Length>
+		<Resistance>625</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>1.0</Length>
+		<Resistance>455</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>1.5</Length>
+		<Resistance>25200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>1.5</Length>
+		<Resistance>21200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>1.5</Length>
+		<Resistance>18700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>1.5</Length>
+		<Resistance>17800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>1.5</Length>
+		<Resistance>16700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>1.5</Length>
+		<Resistance>13900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>1.5</Length>
+		<Resistance>12200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>1.5</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>1.5</Length>
+		<Resistance>9200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>1.5</Length>
+		<Resistance>7980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>1.5</Length>
+		<Resistance>20100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>1.5</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>1.5</Length>
+		<Resistance>13700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>1.5</Length>
+		<Resistance>11700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>1.5</Length>
+		<Resistance>9760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>1.5</Length>
+		<Resistance>7340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>1.5</Length>
+		<Resistance>19300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>1.5</Length>
+		<Resistance>16100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>1.5</Length>
+		<Resistance>13500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>1.5</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>1.5</Length>
+		<Resistance>8910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>1.5</Length>
+		<Resistance>6530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>1.5</Length>
+		<Resistance>18200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>1.5</Length>
+		<Resistance>15300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>1.5</Length>
+		<Resistance>12900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>1.5</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>1.5</Length>
+		<Resistance>8370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>1.5</Length>
+		<Resistance>5880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>1.5</Length>
+		<Resistance>17800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>1.5</Length>
+		<Resistance>15000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>1.5</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>1.5</Length>
+		<Resistance>9610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>1.5</Length>
+		<Resistance>7820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>1.5</Length>
+		<Resistance>5620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>1.5</Length>
+		<Resistance>17500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>1.5</Length>
+		<Resistance>14700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>1.5</Length>
+		<Resistance>12200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>1.5</Length>
+		<Resistance>9070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>1.5</Length>
+		<Resistance>7420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>1.5</Length>
+		<Resistance>5340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>1.5</Length>
+		<Resistance>12000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>1.5</Length>
+		<Resistance>8550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>1.5</Length>
+		<Resistance>7120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>1.5</Length>
+		<Resistance>5060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>1.5</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>1.5</Length>
+		<Resistance>8040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>1.5</Length>
+		<Resistance>6650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>1.5</Length>
+		<Resistance>4580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>1.5</Length>
+		<Resistance>11300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>1.5</Length>
+		<Resistance>7350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>1.5</Length>
+		<Resistance>6000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>1.5</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>1.5</Length>
+		<Resistance>6670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>1.5</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>4060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>1.5</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>1.5</Length>
+		<Resistance>6050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>1.5</Length>
+		<Resistance>4780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>1.5</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>1.5</Length>
+		<Resistance>5720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>1.5</Length>
+		<Resistance>4470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>3440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>1.5</Length>
+		<Resistance>10500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>1.5</Length>
+		<Resistance>7970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>1.5</Length>
+		<Resistance>5410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>4280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>1.5</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>1.5</Length>
+		<Resistance>7580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>1.5</Length>
+		<Resistance>5000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>3870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>1.5</Length>
+		<Resistance>8030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>1.5</Length>
+		<Resistance>6170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>1.5</Length>
+		<Resistance>4360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>3310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>1.5</Length>
+		<Resistance>7270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>1.5</Length>
+		<Resistance>5550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>1.5</Length>
+		<Resistance>3890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>1.5</Length>
+		<Resistance>6530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>1.5</Length>
+		<Resistance>4960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>3440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>1.5</Length>
+		<Resistance>4800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>2980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>1.5</Length>
+		<Resistance>4140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>3280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>2730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>913</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>903</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>656</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>1800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>918</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>678</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>491</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>973</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>625</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>507</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>364</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>2</Length>
+		<Resistance>23800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>2</Length>
+		<Resistance>20000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>2</Length>
+		<Resistance>17700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>2</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>2</Length>
+		<Resistance>15800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>2</Length>
+		<Resistance>13400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>2</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>2</Length>
+		<Resistance>9860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>2</Length>
+		<Resistance>8840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>2</Length>
+		<Resistance>7650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>2</Length>
+		<Resistance>19100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>2</Length>
+		<Resistance>15900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>2</Length>
+		<Resistance>13400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>2</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>2</Length>
+		<Resistance>9400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>2</Length>
+		<Resistance>7050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>2</Length>
+		<Resistance>18300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>2</Length>
+		<Resistance>15300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>2</Length>
+		<Resistance>13000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>2</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>2</Length>
+		<Resistance>8590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>2</Length>
+		<Resistance>6270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>2</Length>
+		<Resistance>17300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>2</Length>
+		<Resistance>14500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>2</Length>
+		<Resistance>12400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>2</Length>
+		<Resistance>9890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>2</Length>
+		<Resistance>8070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>2</Length>
+		<Resistance>5650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>2</Length>
+		<Resistance>16900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>2</Length>
+		<Resistance>14200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>2</Length>
+		<Resistance>12100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>2</Length>
+		<Resistance>9270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>2</Length>
+		<Resistance>7550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>2</Length>
+		<Resistance>5410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>2</Length>
+		<Resistance>16700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>2</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>2</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>2</Length>
+		<Resistance>8760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>2</Length>
+		<Resistance>7170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>2</Length>
+		<Resistance>5140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>2</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>2</Length>
+		<Resistance>8260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>2</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>2</Length>
+		<Resistance>4870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>2</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>2</Length>
+		<Resistance>7770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>2</Length>
+		<Resistance>6420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>2</Length>
+		<Resistance>4410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>2</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>2</Length>
+		<Resistance>7100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>2</Length>
+		<Resistance>5800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>2</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>2</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>2</Length>
+		<Resistance>6460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>2</Length>
+		<Resistance>5180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>2</Length>
+		<Resistance>3920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>2</Length>
+		<Resistance>10500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>2</Length>
+		<Resistance>5770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>2</Length>
+		<Resistance>4560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>2</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>2</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>2</Length>
+		<Resistance>5470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>2</Length>
+		<Resistance>4260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>2</Length>
+		<Resistance>3270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>2</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>2</Length>
+		<Resistance>7630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>2</Length>
+		<Resistance>5160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>2</Length>
+		<Resistance>4080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>2</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>2</Length>
+		<Resistance>9800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>2</Length>
+		<Resistance>7250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>2</Length>
+		<Resistance>4780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>2</Length>
+		<Resistance>3690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>2</Length>
+		<Resistance>2900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>2</Length>
+		<Resistance>7660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>2</Length>
+		<Resistance>5880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>2</Length>
+		<Resistance>4150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>2</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>2</Length>
+		<Resistance>2510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>2</Length>
+		<Resistance>6900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>2</Length>
+		<Resistance>5270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>2</Length>
+		<Resistance>3680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>2</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>2</Length>
+		<Resistance>2180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>2</Length>
+		<Resistance>6160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>2</Length>
+		<Resistance>4680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>2</Length>
+		<Resistance>3230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>2</Length>
+		<Resistance>2390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>2</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>2</Length>
+		<Resistance>4500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>2</Length>
+		<Resistance>3590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>2</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>2</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>2</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>2</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>2</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>2</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>2</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>2</Length>
+		<Resistance>1290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>2</Length>
+		<Resistance>3200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>2</Length>
+		<Resistance>2500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>2</Length>
+		<Resistance>1860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>2</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>2</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>2</Length>
+		<Resistance>2620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>2</Length>
+		<Resistance>2010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>2</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>2</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>2</Length>
+		<Resistance>809</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>2</Length>
+		<Resistance>2040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>2</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>2</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>2</Length>
+		<Resistance>777</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>2</Length>
+		<Resistance>562</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>2</Length>
+		<Resistance>1520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>2</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>2</Length>
+		<Resistance>757</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>2</Length>
+		<Resistance>557</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>2</Length>
+		<Resistance>399</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>2</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>2</Length>
+		<Resistance>760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>2</Length>
+		<Resistance>480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>2</Length>
+		<Resistance>388</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>2</Length>
+		<Resistance>275</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>2.5</Length>
+		<Resistance>22400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>2.5</Length>
+		<Resistance>18800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>2.5</Length>
+		<Resistance>16600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>2.5</Length>
+		<Resistance>15700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>2.5</Length>
+		<Resistance>14900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>2.5</Length>
+		<Resistance>12800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>2.5</Length>
+		<Resistance>11300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>2.5</Length>
+		<Resistance>9440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>2.5</Length>
+		<Resistance>8450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>2.5</Length>
+		<Resistance>7290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>2.5</Length>
+		<Resistance>18000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>2.5</Length>
+		<Resistance>15000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>2.5</Length>
+		<Resistance>13000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>2.5</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>2.5</Length>
+		<Resistance>9010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>2.5</Length>
+		<Resistance>6730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>2.5</Length>
+		<Resistance>17300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>2.5</Length>
+		<Resistance>14400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>2.5</Length>
+		<Resistance>12500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>2.5</Length>
+		<Resistance>9930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>2.5</Length>
+		<Resistance>8240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>2.5</Length>
+		<Resistance>5980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>2.5</Length>
+		<Resistance>16400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>2.5</Length>
+		<Resistance>13800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>2.5</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>2.5</Length>
+		<Resistance>9490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>2.5</Length>
+		<Resistance>7750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>2.5</Length>
+		<Resistance>5400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>2.5</Length>
+		<Resistance>16100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>2.5</Length>
+		<Resistance>13500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>2.5</Length>
+		<Resistance>11700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>2.5</Length>
+		<Resistance>8900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>2.5</Length>
+		<Resistance>7260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>2.5</Length>
+		<Resistance>5170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>2.5</Length>
+		<Resistance>15800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>2.5</Length>
+		<Resistance>13300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>2.5</Length>
+		<Resistance>11400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>2.5</Length>
+		<Resistance>8420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>2.5</Length>
+		<Resistance>6960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>2.5</Length>
+		<Resistance>4910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>2.5</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>2.5</Length>
+		<Resistance>7940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>2.5</Length>
+		<Resistance>6620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>2.5</Length>
+		<Resistance>4660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>2.5</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>2.5</Length>
+		<Resistance>7480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>2.5</Length>
+		<Resistance>6180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>2.5</Length>
+		<Resistance>4280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>2.5</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>2.5</Length>
+		<Resistance>6840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>2.5</Length>
+		<Resistance>5580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>4040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>2.5</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>2.5</Length>
+		<Resistance>6220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>2.5</Length>
+		<Resistance>4990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>3760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>2.5</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>2.5</Length>
+		<Resistance>5490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>2.5</Length>
+		<Resistance>4330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>3280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>2.5</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>2.5</Length>
+		<Resistance>5200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>2.5</Length>
+		<Resistance>4050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>3100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>2.5</Length>
+		<Resistance>9630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>2.5</Length>
+		<Resistance>7280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>2.5</Length>
+		<Resistance>4920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>3880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>2920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>2.5</Length>
+		<Resistance>9360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>2.5</Length>
+		<Resistance>6920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>2.5</Length>
+		<Resistance>4550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>2.5</Length>
+		<Resistance>7280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>2.5</Length>
+		<Resistance>5580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>2.5</Length>
+		<Resistance>3930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>2970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>2370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>2.5</Length>
+		<Resistance>6520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>2.5</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>2.5</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>2590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>2040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>2.5</Length>
+		<Resistance>5790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>2.5</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>2.5</Length>
+		<Resistance>4180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>3330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>2560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>1800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>2.5</Length>
+		<Resistance>3520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>2890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>913</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>893</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>698</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>902</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>648</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>466</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>604</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>443</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>314</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>816</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>579</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>361</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>291</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>205</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>3</Length>
+		<Resistance>21000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>3</Length>
+		<Resistance>17500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>3</Length>
+		<Resistance>15400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>3</Length>
+		<Resistance>14600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>3</Length>
+		<Resistance>13800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>3</Length>
+		<Resistance>12200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>3</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>3</Length>
+		<Resistance>8980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>3</Length>
+		<Resistance>8010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>3</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>3</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>3</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>3</Length>
+		<Resistance>12300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>3</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>3</Length>
+		<Resistance>8580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>3</Length>
+		<Resistance>6360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>3</Length>
+		<Resistance>16200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>3</Length>
+		<Resistance>13500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>3</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>3</Length>
+		<Resistance>9770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>3</Length>
+		<Resistance>7850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>3</Length>
+		<Resistance>5660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>3</Length>
+		<Resistance>15400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>3</Length>
+		<Resistance>12900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>3</Length>
+		<Resistance>11400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>3</Length>
+		<Resistance>9040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>3</Length>
+		<Resistance>7400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>3</Length>
+		<Resistance>5130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>3</Length>
+		<Resistance>15200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>3</Length>
+		<Resistance>12700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>3</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>3</Length>
+		<Resistance>8490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>3</Length>
+		<Resistance>6930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>3</Length>
+		<Resistance>4900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>3</Length>
+		<Resistance>14900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>3</Length>
+		<Resistance>12500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>3</Length>
+		<Resistance>10900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>3</Length>
+		<Resistance>8040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>3</Length>
+		<Resistance>6730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>3</Length>
+		<Resistance>4660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>3</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>3</Length>
+		<Resistance>7590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>3</Length>
+		<Resistance>6320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>3</Length>
+		<Resistance>4570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>3</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>3</Length>
+		<Resistance>7160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>3</Length>
+		<Resistance>5920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>3</Length>
+		<Resistance>4120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>3</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>3</Length>
+		<Resistance>6560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>3</Length>
+		<Resistance>5340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>3</Length>
+		<Resistance>3850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>3</Length>
+		<Resistance>9920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>3</Length>
+		<Resistance>5960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>3</Length>
+		<Resistance>4780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>3</Length>
+		<Resistance>3590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>3</Length>
+		<Resistance>9750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>3</Length>
+		<Resistance>5190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>3</Length>
+		<Resistance>4100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>3</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>3</Length>
+		<Resistance>9680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>3</Length>
+		<Resistance>4920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>3</Length>
+		<Resistance>3830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>3</Length>
+		<Resistance>2910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>3</Length>
+		<Resistance>9150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>3</Length>
+		<Resistance>6910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>3</Length>
+		<Resistance>4660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>3</Length>
+		<Resistance>3660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>3</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>3</Length>
+		<Resistance>8910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>3</Length>
+		<Resistance>6560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>3</Length>
+		<Resistance>4300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>3</Length>
+		<Resistance>3310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>3</Length>
+		<Resistance>2590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>3</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>3</Length>
+		<Resistance>5270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>3</Length>
+		<Resistance>3700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>3</Length>
+		<Resistance>2790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>3</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>3</Length>
+		<Resistance>6120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>3</Length>
+		<Resistance>4650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>3</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>3</Length>
+		<Resistance>2410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>3</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>3</Length>
+		<Resistance>5380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>3</Length>
+		<Resistance>4060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>3</Length>
+		<Resistance>2790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>3</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>3</Length>
+		<Resistance>1600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>3</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>3</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>3</Length>
+		<Resistance>2340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>3</Length>
+		<Resistance>1640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>3</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>3</Length>
+		<Resistance>3180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>3</Length>
+		<Resistance>2500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>3</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>3</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>3</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>3</Length>
+		<Resistance>2560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>3</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>3</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>3</Length>
+		<Resistance>996</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>3</Length>
+		<Resistance>794</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>3</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>3</Length>
+		<Resistance>1510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>3</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>3</Length>
+		<Resistance>754</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>3</Length>
+		<Resistance>590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>3</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>3</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>3</Length>
+		<Resistance>742</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>3</Length>
+		<Resistance>531</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>3</Length>
+		<Resistance>379</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>3</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>3</Length>
+		<Resistance>733</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>3</Length>
+		<Resistance>478</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>3</Length>
+		<Resistance>349</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>3</Length>
+		<Resistance>246</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>3</Length>
+		<Resistance>632</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>3</Length>
+		<Resistance>445</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>3</Length>
+		<Resistance>275</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>3</Length>
+		<Resistance>222</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>3</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>3.5</Length>
+		<Resistance>19400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>3.5</Length>
+		<Resistance>16200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>3.5</Length>
+		<Resistance>14200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>3.5</Length>
+		<Resistance>13400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>3.5</Length>
+		<Resistance>12700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>3.5</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>3.5</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>3.5</Length>
+		<Resistance>8460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>3.5</Length>
+		<Resistance>7510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>3.5</Length>
+		<Resistance>6410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>3.5</Length>
+		<Resistance>15600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>3.5</Length>
+		<Resistance>13000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>3.5</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>3.5</Length>
+		<Resistance>9640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>3.5</Length>
+		<Resistance>8090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>3.5</Length>
+		<Resistance>5950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>3.5</Length>
+		<Resistance>15100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>3.5</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>3.5</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>3.5</Length>
+		<Resistance>9190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>3.5</Length>
+		<Resistance>7420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>3.5</Length>
+		<Resistance>5300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>3.5</Length>
+		<Resistance>14400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>3.5</Length>
+		<Resistance>12100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>3.5</Length>
+		<Resistance>10800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>3.5</Length>
+		<Resistance>8530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>3.5</Length>
+		<Resistance>7150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>3.5</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>3.5</Length>
+		<Resistance>14200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>3.5</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>3.5</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>3.5</Length>
+		<Resistance>8030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>3.5</Length>
+		<Resistance>6770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>3.5</Length>
+		<Resistance>4600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>3.5</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>3.5</Length>
+		<Resistance>11700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>3.5</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>3.5</Length>
+		<Resistance>7620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>3.5</Length>
+		<Resistance>6380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>3.5</Length>
+		<Resistance>4460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>3.5</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>3.5</Length>
+		<Resistance>7200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>3.5</Length>
+		<Resistance>6000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>3.5</Length>
+		<Resistance>4280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>3.5</Length>
+		<Resistance>9910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>3.5</Length>
+		<Resistance>6800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>3.5</Length>
+		<Resistance>5620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>3.5</Length>
+		<Resistance>3880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>3.5</Length>
+		<Resistance>9720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>3.5</Length>
+		<Resistance>6230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>3.5</Length>
+		<Resistance>5080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>3630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>3.5</Length>
+		<Resistance>9480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>3.5</Length>
+		<Resistance>5680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>3.5</Length>
+		<Resistance>4550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>3390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>3.5</Length>
+		<Resistance>9330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>3.5</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>3.5</Length>
+		<Resistance>3850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>2870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>3.5</Length>
+		<Resistance>9270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>3.5</Length>
+		<Resistance>4630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>3.5</Length>
+		<Resistance>3600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>3.5</Length>
+		<Resistance>8660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>3.5</Length>
+		<Resistance>6520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>3.5</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>3440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>2570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>3.5</Length>
+		<Resistance>8430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>3.5</Length>
+		<Resistance>6200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>3.5</Length>
+		<Resistance>4050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>3110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>2430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>3.5</Length>
+		<Resistance>6460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>3.5</Length>
+		<Resistance>4930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>3.5</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>2600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>2060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>3.5</Length>
+		<Resistance>5700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>3.5</Length>
+		<Resistance>4320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>3.5</Length>
+		<Resistance>3000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>3.5</Length>
+		<Resistance>4960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>3.5</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>2550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>3.5</Length>
+		<Resistance>3480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>1470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>3.5</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>909</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>856</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>681</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>902</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>631</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>492</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>893</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>607</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>433</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>809</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>587</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>381</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>278</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>195</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>497</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>4</Length>
+		<Resistance>17800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>4</Length>
+		<Resistance>14800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>4</Length>
+		<Resistance>13000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>4</Length>
+		<Resistance>12200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>4</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>4</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>4</Length>
+		<Resistance>9350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>4</Length>
+		<Resistance>7890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>4</Length>
+		<Resistance>6950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>4</Length>
+		<Resistance>5900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>4</Length>
+		<Resistance>14400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>4</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>4</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>4</Length>
+		<Resistance>9360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>4</Length>
+		<Resistance>7550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>4</Length>
+		<Resistance>5490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>4</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>4</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>4</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>4</Length>
+		<Resistance>8540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>4</Length>
+		<Resistance>6930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>4</Length>
+		<Resistance>4900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>4</Length>
+		<Resistance>13400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>4</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>4</Length>
+		<Resistance>10100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>4</Length>
+		<Resistance>7970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>4</Length>
+		<Resistance>6760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>4</Length>
+		<Resistance>4470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>4</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>4</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>4</Length>
+		<Resistance>9930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>4</Length>
+		<Resistance>7520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>4</Length>
+		<Resistance>6340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>4</Length>
+		<Resistance>4370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>4</Length>
+		<Resistance>13100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>4</Length>
+		<Resistance>10900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>4</Length>
+		<Resistance>9730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>4</Length>
+		<Resistance>7140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>4</Length>
+		<Resistance>5980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>4</Length>
+		<Resistance>4210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>4</Length>
+		<Resistance>9570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>4</Length>
+		<Resistance>6770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>4</Length>
+		<Resistance>5640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>4</Length>
+		<Resistance>3970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>4</Length>
+		<Resistance>9360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>4</Length>
+		<Resistance>6400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>4</Length>
+		<Resistance>5290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>4</Length>
+		<Resistance>3610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>4</Length>
+		<Resistance>9200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>4</Length>
+		<Resistance>5880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>4</Length>
+		<Resistance>4780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>4</Length>
+		<Resistance>3390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>4</Length>
+		<Resistance>8990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>4</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>4</Length>
+		<Resistance>4290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>4</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>4</Length>
+		<Resistance>8870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>4</Length>
+		<Resistance>4560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>4</Length>
+		<Resistance>3590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>4</Length>
+		<Resistance>2660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>4</Length>
+		<Resistance>8820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>4</Length>
+		<Resistance>4330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>4</Length>
+		<Resistance>3360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>4</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>4</Length>
+		<Resistance>8140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>4</Length>
+		<Resistance>6120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>4</Length>
+		<Resistance>4100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>4</Length>
+		<Resistance>3200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>4</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>4</Length>
+		<Resistance>7930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>4</Length>
+		<Resistance>5820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>4</Length>
+		<Resistance>3790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>4</Length>
+		<Resistance>2900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>4</Length>
+		<Resistance>2250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>4</Length>
+		<Resistance>6020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>4</Length>
+		<Resistance>4590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>4</Length>
+		<Resistance>3210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>4</Length>
+		<Resistance>2400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>4</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>4</Length>
+		<Resistance>5260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>4</Length>
+		<Resistance>3980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>4</Length>
+		<Resistance>2740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>4</Length>
+		<Resistance>2030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>4</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>4</Length>
+		<Resistance>4530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>4</Length>
+		<Resistance>3390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>4</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>4</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>4</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>4</Length>
+		<Resistance>3120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>4</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>4</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>4</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>4</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>4</Length>
+		<Resistance>2500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>4</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>4</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>4</Length>
+		<Resistance>975</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>4</Length>
+		<Resistance>788</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>4</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>4</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>4</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>4</Length>
+		<Resistance>730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>4</Length>
+		<Resistance>580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>4</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>4</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>4</Length>
+		<Resistance>755</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>4</Length>
+		<Resistance>527</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>4</Length>
+		<Resistance>411</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>4</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>4</Length>
+		<Resistance>739</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>4</Length>
+		<Resistance>499</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>4</Length>
+		<Resistance>355</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>4</Length>
+		<Resistance>252</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>4</Length>
+		<Resistance>659</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>4</Length>
+		<Resistance>476</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>4</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>4</Length>
+		<Resistance>224</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>4</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>4</Length>
+		<Resistance>399</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>4</Length>
+		<Resistance>278</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>4</Length>
+		<Resistance>171</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>4</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>4</Length>
+		<Resistance>95.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>4.5</Length>
+		<Resistance>14600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>4.5</Length>
+		<Resistance>12000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>4.5</Length>
+		<Resistance>10500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>4.5</Length>
+		<Resistance>9910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>4.5</Length>
+		<Resistance>9360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>4.5</Length>
+		<Resistance>9150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>4.5</Length>
+		<Resistance>8140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>4.5</Length>
+		<Resistance>6610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>4.5</Length>
+		<Resistance>5750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>4.5</Length>
+		<Resistance>4810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>4.5</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>4.5</Length>
+		<Resistance>9780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>4.5</Length>
+		<Resistance>8930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>4.5</Length>
+		<Resistance>7740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>4.5</Length>
+		<Resistance>6420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>4.5</Length>
+		<Resistance>4510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>4.5</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>4.5</Length>
+		<Resistance>9600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>4.5</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>4.5</Length>
+		<Resistance>7140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>4.5</Length>
+		<Resistance>6070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>4.5</Length>
+		<Resistance>4230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>4.5</Length>
+		<Resistance>11300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>4.5</Length>
+		<Resistance>9320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>4.5</Length>
+		<Resistance>8560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>4.5</Length>
+		<Resistance>6720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>4.5</Length>
+		<Resistance>5690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>4.5</Length>
+		<Resistance>3860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>4.5</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>4.5</Length>
+		<Resistance>9240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>4.5</Length>
+		<Resistance>8480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>4.5</Length>
+		<Resistance>6380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>4.5</Length>
+		<Resistance>5370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>4.5</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>4.5</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>4.5</Length>
+		<Resistance>9180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>4.5</Length>
+		<Resistance>8350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>4.5</Length>
+		<Resistance>6090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>4.5</Length>
+		<Resistance>5090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>4.5</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>4.5</Length>
+		<Resistance>8260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>4.5</Length>
+		<Resistance>5800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>4.5</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>4.5</Length>
+		<Resistance>3290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>4.5</Length>
+		<Resistance>8120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>4.5</Length>
+		<Resistance>5510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>4.5</Length>
+		<Resistance>4540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>4.5</Length>
+		<Resistance>3010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>4.5</Length>
+		<Resistance>8020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>4.5</Length>
+		<Resistance>5070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>4.5</Length>
+		<Resistance>4120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>2850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>4.5</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>4.5</Length>
+		<Resistance>4640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>4.5</Length>
+		<Resistance>3700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>4.5</Length>
+		<Resistance>7800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>4.5</Length>
+		<Resistance>3890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>4.5</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>4.5</Length>
+		<Resistance>7780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>4.5</Length>
+		<Resistance>3690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>4.5</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>4.5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>4.5</Length>
+		<Resistance>7050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>4.5</Length>
+		<Resistance>5280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>4.5</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>4.5</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>2010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>4.5</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>4.5</Length>
+		<Resistance>5020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>4.5</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>4.5</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>4.5</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>4.5</Length>
+		<Resistance>5120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>4.5</Length>
+		<Resistance>3880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>4.5</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>1570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>4.5</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>4.5</Length>
+		<Resistance>3290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>4.5</Length>
+		<Resistance>2250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>1650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>4.5</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>4.5</Length>
+		<Resistance>3680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>4.5</Length>
+		<Resistance>2740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>4.5</Length>
+		<Resistance>1330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>4.5</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>4.5</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>4.5</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>4.5</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>787</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>4.5</Length>
+		<Resistance>1910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>4.5</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>4.5</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>4.5</Length>
+		<Resistance>731</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>4.5</Length>
+		<Resistance>589</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>4.5</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>4.5</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>783</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>4.5</Length>
+		<Resistance>534</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>423</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>777</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>4.5</Length>
+		<Resistance>539</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>375</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>4.5</Length>
+		<Resistance>292</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>709</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>349</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>248</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>4.5</Length>
+		<Resistance>175</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>4.5</Length>
+		<Resistance>455</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>327</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>211</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>4.5</Length>
+		<Resistance>153</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>4.5</Length>
+		<Resistance>107</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>4.5</Length>
+		<Resistance>271</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>4.5</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>4.5</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>4.5</Length>
+		<Resistance>92.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>4.5</Length>
+		<Resistance>64.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 584</Name>
+		<Weight>584</Weight>
+		<Length>5</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 494</Name>
+		<Weight>494</Weight>
+		<Length>5</Length>
+		<Resistance>9660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 438</Name>
+		<Weight>438</Weight>
+		<Length>5</Length>
+		<Resistance>8450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 415</Name>
+		<Weight>415</Weight>
+		<Length>5</Length>
+		<Resistance>7920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 393</Name>
+		<Weight>393</Weight>
+		<Length>5</Length>
+		<Resistance>7480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 M*</Name>
+		<Weight>349</Weight>
+		<Length>5</Length>
+		<Resistance>7320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 B*</Name>
+		<Weight>314</Weight>
+		<Length>5</Length>
+		<Resistance>6500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 A*</Name>
+		<Weight>272</Weight>
+		<Length>5</Length>
+		<Resistance>5600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 x 249*</Name>
+		<Weight>249</Weight>
+		<Length>5</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 1000 AA*</Name>
+		<Weight>222</Weight>
+		<Length>5</Length>
+		<Resistance>4000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 466</Name>
+		<Weight>466</Weight>
+		<Length>5</Length>
+		<Resistance>9620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 x 391</Name>
+		<Weight>391</Weight>
+		<Length>5</Length>
+		<Resistance>7900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 M*</Name>
+		<Weight>333</Weight>
+		<Length>5</Length>
+		<Resistance>7200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 B*</Name>
+		<Weight>291</Weight>
+		<Length>5</Length>
+		<Resistance>6220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 A*</Name>
+		<Weight>252</Weight>
+		<Length>5</Length>
+		<Resistance>5340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 900 AA*</Name>
+		<Weight>198</Weight>
+		<Length>5</Length>
+		<Resistance>3750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 444</Name>
+		<Weight>444</Weight>
+		<Length>5</Length>
+		<Resistance>9520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 x 373</Name>
+		<Weight>373</Weight>
+		<Length>5</Length>
+		<Resistance>7810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 M</Name>
+		<Weight>317</Weight>
+		<Length>5</Length>
+		<Resistance>7140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 B*</Name>
+		<Weight>262</Weight>
+		<Length>5</Length>
+		<Resistance>5780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 A*</Name>
+		<Weight>224</Weight>
+		<Length>5</Length>
+		<Resistance>4910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 800 AA*</Name>
+		<Weight>172</Weight>
+		<Length>5</Length>
+		<Resistance>3330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 418</Name>
+		<Weight>418</Weight>
+		<Length>5</Length>
+		<Resistance>9270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 x 352</Name>
+		<Weight>352</Weight>
+		<Length>5</Length>
+		<Resistance>7630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 M</Name>
+		<Weight>301</Weight>
+		<Length>5</Length>
+		<Resistance>7040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 B</Name>
+		<Weight>241</Weight>
+		<Length>5</Length>
+		<Resistance>5490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 A*</Name>
+		<Weight>204</Weight>
+		<Length>5</Length>
+		<Resistance>4640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 700 AA*</Name>
+		<Weight>150</Weight>
+		<Length>5</Length>
+		<Resistance>3070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 407</Name>
+		<Weight>407</Weight>
+		<Length>5</Length>
+		<Resistance>9230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 x 343</Name>
+		<Weight>343</Weight>
+		<Length>5</Length>
+		<Resistance>7610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 M</Name>
+		<Weight>293</Weight>
+		<Length>5</Length>
+		<Resistance>7010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 B</Name>
+		<Weight>225</Weight>
+		<Length>5</Length>
+		<Resistance>5240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 A*</Name>
+		<Weight>190</Weight>
+		<Length>5</Length>
+		<Resistance>4410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 650 AA*</Name>
+		<Weight>138</Weight>
+		<Length>5</Length>
+		<Resistance>2900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 399</Name>
+		<Weight>399</Weight>
+		<Length>5</Length>
+		<Resistance>9210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 x 337</Name>
+		<Weight>337</Weight>
+		<Length>5</Length>
+		<Resistance>7590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 M</Name>
+		<Weight>285</Weight>
+		<Length>5</Length>
+		<Resistance>6930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 B</Name>
+		<Weight>212</Weight>
+		<Length>5</Length>
+		<Resistance>5020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 A*</Name>
+		<Weight>178</Weight>
+		<Length>5</Length>
+		<Resistance>4190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 600 AA*</Name>
+		<Weight>129</Weight>
+		<Length>5</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 M</Name>
+		<Weight>278</Weight>
+		<Length>5</Length>
+		<Resistance>6890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 B</Name>
+		<Weight>199</Weight>
+		<Length>5</Length>
+		<Resistance>4800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 A*</Name>
+		<Weight>166</Weight>
+		<Length>5</Length>
+		<Resistance>3990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 550 AA*</Name>
+		<Weight>120</Weight>
+		<Length>5</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 M</Name>
+		<Weight>270</Weight>
+		<Length>5</Length>
+		<Resistance>6810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 B</Name>
+		<Weight>187</Weight>
+		<Length>5</Length>
+		<Resistance>4580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 A</Name>
+		<Weight>155</Weight>
+		<Length>5</Length>
+		<Resistance>3770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 500 AA*</Name>
+		<Weight>107</Weight>
+		<Length>5</Length>
+		<Resistance>2440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 M</Name>
+		<Weight>263</Weight>
+		<Length>5</Length>
+		<Resistance>6760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 B</Name>
+		<Weight>171</Weight>
+		<Length>5</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 A</Name>
+		<Weight>140</Weight>
+		<Length>5</Length>
+		<Resistance>3430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 450 AA*</Name>
+		<Weight>99.7</Weight>
+		<Length>5</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 M</Name>
+		<Weight>256</Weight>
+		<Length>5</Length>
+		<Resistance>6670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 B</Name>
+		<Weight>155</Weight>
+		<Length>5</Length>
+		<Resistance>3880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 A</Name>
+		<Weight>125</Weight>
+		<Length>5</Length>
+		<Resistance>3090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 400 AA</Name>
+		<Weight>92.4</Weight>
+		<Length>5</Length>
+		<Resistance>2210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 M</Name>
+		<Weight>250</Weight>
+		<Length>5</Length>
+		<Resistance>6640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 B</Name>
+		<Weight>142</Weight>
+		<Length>5</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 A</Name>
+		<Weight>112</Weight>
+		<Length>5</Length>
+		<Resistance>2540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 360 AA</Name>
+		<Weight>83.7</Weight>
+		<Length>5</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 M</Name>
+		<Weight>248</Weight>
+		<Length>5</Length>
+		<Resistance>6640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 B</Name>
+		<Weight>134</Weight>
+		<Length>5</Length>
+		<Resistance>3090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 A</Name>
+		<Weight>105</Weight>
+		<Length>5</Length>
+		<Resistance>2390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 340 AA</Name>
+		<Weight>78.9</Weight>
+		<Length>5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 M</Name>
+		<Weight>245</Weight>
+		<Length>5</Length>
+		<Resistance>5980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 C</Name>
+		<Weight>186</Weight>
+		<Length>5</Length>
+		<Resistance>4450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 B</Name>
+		<Weight>127</Weight>
+		<Length>5</Length>
+		<Resistance>2930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 A</Name>
+		<Weight>97.6</Weight>
+		<Length>5</Length>
+		<Resistance>2260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 320 AA</Name>
+		<Weight>74.2</Weight>
+		<Length>5</Length>
+		<Resistance>1650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 M</Name>
+		<Weight>238</Weight>
+		<Length>5</Length>
+		<Resistance>5840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 C</Name>
+		<Weight>177</Weight>
+		<Length>5</Length>
+		<Resistance>4230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 B</Name>
+		<Weight>117</Weight>
+		<Length>5</Length>
+		<Resistance>2710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 A</Name>
+		<Weight>88.3</Weight>
+		<Length>5</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 300 AA</Name>
+		<Weight>69.8</Weight>
+		<Length>5</Length>
+		<Resistance>1570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 M</Name>
+		<Weight>189</Weight>
+		<Length>5</Length>
+		<Resistance>4260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 C</Name>
+		<Weight>145</Weight>
+		<Length>5</Length>
+		<Resistance>3210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 B</Name>
+		<Weight>103</Weight>
+		<Length>5</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 A</Name>
+		<Weight>76.4</Weight>
+		<Length>5</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 280 AA</Name>
+		<Weight>61.2</Weight>
+		<Length>5</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 M</Name>
+		<Weight>172</Weight>
+		<Length>5</Length>
+		<Resistance>3580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 C</Name>
+		<Weight>132</Weight>
+		<Length>5</Length>
+		<Resistance>2670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 B</Name>
+		<Weight>93</Weight>
+		<Length>5</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 A</Name>
+		<Weight>68.2</Weight>
+		<Length>5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 260 AA</Name>
+		<Weight>54.1</Weight>
+		<Length>5</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 M</Name>
+		<Weight>157</Weight>
+		<Length>5</Length>
+		<Resistance>2950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 C</Name>
+		<Weight>119</Weight>
+		<Length>5</Length>
+		<Resistance>2180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 B</Name>
+		<Weight>83.2</Weight>
+		<Length>5</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 A</Name>
+		<Weight>60.3</Weight>
+		<Length>5</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 240 AA</Name>
+		<Weight>47.4</Weight>
+		<Length>5</Length>
+		<Resistance>800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 M</Name>
+		<Weight>117</Weight>
+		<Length>5</Length>
+		<Resistance>1920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 C</Name>
+		<Weight>94.1</Weight>
+		<Length>5</Length>
+		<Resistance>1510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 B</Name>
+		<Weight>71.5</Weight>
+		<Length>5</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 A</Name>
+		<Weight>50.5</Weight>
+		<Length>5</Length>
+		<Resistance>776</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 220 AA</Name>
+		<Weight>40.4</Weight>
+		<Length>5</Length>
+		<Resistance>606</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 M</Name>
+		<Weight>103</Weight>
+		<Length>5</Length>
+		<Resistance>1470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 C</Name>
+		<Weight>81.9</Weight>
+		<Length>5</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 B</Name>
+		<Weight>61.3</Weight>
+		<Length>5</Length>
+		<Resistance>829</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 A</Name>
+		<Weight>42.3</Weight>
+		<Length>5</Length>
+		<Resistance>555</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 200 AA</Name>
+		<Weight>34.6</Weight>
+		<Length>5</Length>
+		<Resistance>447</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 M</Name>
+		<Weight>88.9</Weight>
+		<Length>5</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 C</Name>
+		<Weight>69.8</Weight>
+		<Length>5</Length>
+		<Resistance>827</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 B</Name>
+		<Weight>51.2</Weight>
+		<Length>5</Length>
+		<Resistance>587</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 A</Name>
+		<Weight>35.5</Weight>
+		<Length>5</Length>
+		<Resistance>400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 180 AA</Name>
+		<Weight>28.7</Weight>
+		<Length>5</Length>
+		<Resistance>316</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 M</Name>
+		<Weight>76.2</Weight>
+		<Length>5</Length>
+		<Resistance>773</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 C</Name>
+		<Weight>59.2</Weight>
+		<Length>5</Length>
+		<Resistance>577</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 B</Name>
+		<Weight>42.6</Weight>
+		<Length>5</Length>
+		<Resistance>399</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 A</Name>
+		<Weight>30.4</Weight>
+		<Length>5</Length>
+		<Resistance>277</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 160 AA</Name>
+		<Weight>23.8</Weight>
+		<Length>5</Length>
+		<Resistance>216</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 M</Name>
+		<Weight>63.2</Weight>
+		<Length>5</Length>
+		<Resistance>521</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 C</Name>
+		<Weight>48.2</Weight>
+		<Length>5</Length>
+		<Resistance>381</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 B</Name>
+		<Weight>33.7</Weight>
+		<Length>5</Length>
+		<Resistance>255</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 A</Name>
+		<Weight>24.7</Weight>
+		<Length>5</Length>
+		<Resistance>181</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 140 AA</Name>
+		<Weight>18.1</Weight>
+		<Length>5</Length>
+		<Resistance>128</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 M</Name>
+		<Weight>52.1</Weight>
+		<Length>5</Length>
+		<Resistance>331</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 C</Name>
+		<Weight>39.2</Weight>
+		<Length>5</Length>
+		<Resistance>237</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 B</Name>
+		<Weight>26.7</Weight>
+		<Length>5</Length>
+		<Resistance>153</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 A</Name>
+		<Weight>19.9</Weight>
+		<Length>5</Length>
+		<Resistance>111</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 120 AA</Name>
+		<Weight>14.6</Weight>
+		<Length>5</Length>
+		<Resistance>77.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 M</Name>
+		<Weight>41.8</Weight>
+		<Length>5</Length>
+		<Resistance>195</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 C</Name>
+		<Weight>30.9</Weight>
+		<Length>5</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 B</Name>
+		<Weight>20.4</Weight>
+		<Length>5</Length>
+		<Resistance>82.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 A</Name>
+		<Weight>16.7</Weight>
+		<Length>5</Length>
+		<Resistance>66.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>HE 100 AA</Name>
+		<Weight>12.2</Weight>
+		<Length>5</Length>
+		<Resistance>45.9</Resistance>
+	</Beaminfo>
+</Root>

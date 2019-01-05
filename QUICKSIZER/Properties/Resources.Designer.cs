@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QUICKSIZER.Properties
-{
-
-
+namespace QUICKSIZER.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -22,49 +22,68 @@ namespace QUICKSIZER.Properties
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    internal class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("QUICKSIZER.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 1000 x 584&lt;/Name&gt;
+        ///		&lt;Weight&gt;584&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.0&lt;/Length&gt;
+        ///		&lt;Resistance&gt;26400&lt;/Resistance&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 1000 x 494&lt;/Name&gt;
+        ///		&lt;Weight&gt;494&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.0&lt;/Length&gt;
+        ///		&lt;Resistance&gt;22300&lt;/Resistance&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 1000 x 438&lt;/Name&gt;
+        ///		&lt;Weight&gt;438&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.0&lt;/Length&gt;
+        ///		&lt;Resistance&gt;19700&lt;/Res [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HE_axial_compression {
+            get {
+                return ResourceManager.GetString("HE_axial_compression", resourceCulture);
             }
         }
     }
