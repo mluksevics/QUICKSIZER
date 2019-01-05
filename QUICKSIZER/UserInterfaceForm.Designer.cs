@@ -34,9 +34,6 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tabControl2 = new System.Windows.Forms.TabControl();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.UBsectionsListBox = new System.Windows.Forms.ListBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
@@ -50,6 +47,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.UBsectionsListBox = new System.Windows.Forms.ListBox();
+            this.UCSectionsListBox = new System.Windows.Forms.ListBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabControl2.SuspendLayout();
@@ -62,7 +61,7 @@
             this.tabControl1.Location = new System.Drawing.Point(3, 4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(477, 348);
+            this.tabControl1.Size = new System.Drawing.Size(549, 348);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -80,7 +79,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(469, 322);
+            this.tabPage1.Size = new System.Drawing.Size(541, 322);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Column - axial force only";
             // 
@@ -88,8 +87,7 @@
             // 
             this.SteelGrade.FormattingEnabled = true;
             this.SteelGrade.Items.AddRange(new object[] {
-            "S355",
-            "S275"});
+            "S355"});
             this.SteelGrade.Location = new System.Drawing.Point(180, 62);
             this.SteelGrade.Name = "SteelGrade";
             this.SteelGrade.Size = new System.Drawing.Size(100, 21);
@@ -114,53 +112,27 @@
             this.tabControl2.Location = new System.Drawing.Point(6, 94);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(458, 222);
+            this.tabControl2.Size = new System.Drawing.Size(529, 222);
             this.tabControl2.TabIndex = 14;
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.listBox1);
-            this.tabPage2.Controls.Add(this.textBox3);
+            this.tabPage2.Controls.Add(this.UCSectionsListBox);
             this.tabPage2.Controls.Add(this.UBsectionsListBox);
             this.tabPage2.Controls.Add(this.label6);
             this.tabPage2.Controls.Add(this.label5);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(450, 196);
+            this.tabPage2.Size = new System.Drawing.Size(521, 196);
             this.tabPage2.TabIndex = 0;
             this.tabPage2.Text = "UK specific";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(228, 25);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(215, 160);
-            this.listBox1.TabIndex = 22;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox3.Location = new System.Drawing.Point(7, 175);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(215, 18);
-            this.textBox3.TabIndex = 21;
-            this.textBox3.Text = "100% UB456x456x056 L.eff=5m N.Rd=34000kN";
-            // 
-            // UBsectionsListBox
-            // 
-            this.UBsectionsListBox.FormattingEnabled = true;
-            this.UBsectionsListBox.Location = new System.Drawing.Point(6, 25);
-            this.UBsectionsListBox.Name = "UBsectionsListBox";
-            this.UBsectionsListBox.Size = new System.Drawing.Size(215, 160);
-            this.UBsectionsListBox.TabIndex = 20;
-            // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(224, 9);
+            this.label6.Location = new System.Drawing.Point(262, 9);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(67, 13);
             this.label6.TabIndex = 16;
@@ -263,7 +235,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(274, 362);
+            this.label2.Location = new System.Drawing.Point(342, 359);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(155, 13);
             this.label2.TabIndex = 1;
@@ -272,18 +244,38 @@
             // button2
             // 
             this.button2.Cursor = System.Windows.Forms.Cursors.Help;
-            this.button2.Location = new System.Drawing.Point(435, 358);
+            this.button2.Location = new System.Drawing.Point(503, 355);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(45, 20);
             this.button2.TabIndex = 2;
             this.button2.Text = "About";
             this.button2.UseVisualStyleBackColor = true;
             // 
+            // UBsectionsListBox
+            // 
+            this.UBsectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UBsectionsListBox.FormattingEnabled = true;
+            this.UBsectionsListBox.ItemHeight = 12;
+            this.UBsectionsListBox.Location = new System.Drawing.Point(6, 25);
+            this.UBsectionsListBox.Name = "UBsectionsListBox";
+            this.UBsectionsListBox.Size = new System.Drawing.Size(250, 160);
+            this.UBsectionsListBox.TabIndex = 20;
+            // 
+            // UCSectionsListBox
+            // 
+            this.UCSectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UCSectionsListBox.FormattingEnabled = true;
+            this.UCSectionsListBox.ItemHeight = 12;
+            this.UCSectionsListBox.Location = new System.Drawing.Point(262, 25);
+            this.UCSectionsListBox.Name = "UCSectionsListBox";
+            this.UCSectionsListBox.Size = new System.Drawing.Size(250, 160);
+            this.UCSectionsListBox.TabIndex = 21;
+            // 
             // UserInterfaceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(485, 381);
+            this.ClientSize = new System.Drawing.Size(555, 381);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.tabControl1);
@@ -312,9 +304,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TabControl tabControl2;
         private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.ListBox UBsectionsListBox;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TabPage tabPage3;
@@ -324,6 +313,8 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ComboBox SteelGrade;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ListBox UCSectionsListBox;
+        private System.Windows.Forms.ListBox UBsectionsListBox;
     }
 }
 

@@ -19,7 +19,9 @@ namespace QUICKSIZER
 
         public override string ToString()
         {
-            return Utilisation +  " " + Name + "   Weight: " + Weight + " L.eff: " + EffectiveLength + " Capacity: " +Capacity;
+            return Utilisation*100 +  "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" +Capacity +"kN";
+
+            //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }
         public override bool Equals(object obj)
         {
