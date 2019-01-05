@@ -67,12 +67,12 @@ namespace QUICKSIZER
         private void button1_Click(object sender, EventArgs e)
         {
             //getting input parameters from the Form
-            double AxialForce = 0;
-            double EffectiveLength = 0;
+            double AxialForceInput = 0;
+            double EffectiveLengthInput = 0;
             try
             {
-                AxialForce = Math.Abs(Convert.ToDouble(AxialNed.Text));
-                EffectiveLength = RoundEffectiveLength(Convert.ToDouble(AxialLeff.Text));
+                AxialForceInput = Math.Abs(Convert.ToDouble(AxialNed.Text));
+                EffectiveLengthInput = RoundEffectiveLength(Convert.ToDouble(AxialLeff.Text));
             }
             catch (Exception)
             {
@@ -80,66 +80,10 @@ namespace QUICKSIZER
             }
 
 
-            //defining a list with sections
-            List<SectionData> sectionsList = new List<SectionData>();
-
-            // loading the XML document
             string xmlData = Properties.Resources.HE_axial_compression;
-            XmlDocument doc = new XmlDocument();
-            doc.LoadXml(xmlData);
-
-            // processing XML node-by-node
-            foreach (XmlNode node in doc.DocumentElement.ChildNodes)
-            {
-                // reading from XML and assigning to variables
-                string section = node.ChildNodes[0].InnerText;
-                double weight = Convert.ToDouble( node.ChildNodes[1].InnerText);
-                double Leff = Convert.ToDouble( node.ChildNodes[2].InnerText);
-                double capacity = Convert.ToDouble( node.ChildNodes[3].InnerText);
-
-                //if capacity refers to wrong effective length, ignore the row
-                if (EffectiveLength != Leff)
-                {
-                    continue;
-                }
-                
-                //calculate utilisation ratio and ignore all sections that are over 100%
-                if (AxialForce/capacity > 1)
-                {
-                    continue;
-                }
-
-                // creating a new SectionData object and adding to the list if data contains relevant effective length;
-                sectionsList.Add(new SectionData() {
-                    Name = section,
-                    Weight = weight,
-                    EffectiveLength = Leff,
-                    Capacity = capacity,
-                Utilisation = Math.Round(AxialForce / capacity, 2)
-                });
-
-            }
-            
-            //sort list of sections by utilisation (see class SectionData definition)
-            sectionsList.Sort();
-
-            // output information into ListBox
-            List<string> listboxItems = new List<string>();
-
-            foreach (SectionData section in sectionsList)
-            {
-                listboxItems.Add(section.ToString());
-            }
-            /*
-            for (int i = 0; i < 20; i++)
-            {
-                listboxItems.Add(sectionsList[i].ToString());
-            }
-            */
-            UBsectionsListBox.DataSource = listboxItems;
-
-
-
+            List<string> UBlistboxItemsOutput = new List<string>();
+            UBlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlData);
+            UBsectionsListBox.DataSource = UBlistboxItemsOutput;
         }
 
 
