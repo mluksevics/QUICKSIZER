@@ -142,5 +142,10 @@ namespace QUICKSIZER
             AnglesSectionsListBox.DataSource = AngleslistboxItemsOutput;
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            AboutForm f2 = new AboutForm(); 
+            f2.ShowDialog();
+        }
     }
 }

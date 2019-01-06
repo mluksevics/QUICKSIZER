@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="NewClasses\SectionSelecton.cs" />
     <Compile Include="UserInterfaceForm.cs">
       <SubType>Form</SubType>
@@ -56,6 +62,9 @@
     <Compile Include="NewClasses\SectionData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserInterfaceForm.resx">
       <DependentUpon>UserInterfaceForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,43 +92,43 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\CHS_NRd.xml" />
+    <EmbeddedResource Include="Resources\CHS_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\EHS_NRd.xml" />
+    <EmbeddedResource Include="Resources\EHS_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\HEA_NRd.xml" />
+    <EmbeddedResource Include="Resources\HEA_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\HEB_NRd.xml" />
+    <EmbeddedResource Include="Resources\HEB_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\IPE_NRd.xml" />
+    <EmbeddedResource Include="Resources\IPE_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Lequal_NRd.xml" />
+    <EmbeddedResource Include="Resources\Lequal_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\PFC_NRd.xml" />
+    <EmbeddedResource Include="Resources\PFC_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\RHS_NRd.xml" />
+    <EmbeddedResource Include="Resources\RHS_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\SHS_NRd.xml" />
+    <EmbeddedResource Include="Resources\SHS_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\UB_NRd.xml" />
+    <EmbeddedResource Include="Resources\UB_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\UBP_NRd.xml" />
+    <EmbeddedResource Include="Resources\UBP_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\UC_NRd.xml" />
+    <EmbeddedResource Include="Resources\UC_NRd.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\UPE_UPN_NRd.xml" />
+    <EmbeddedResource Include="Resources\UPE_UPN_NRd.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
