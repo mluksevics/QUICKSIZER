@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>1</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>1.5</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>2</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>2.5</Length>
+		<Resistance>1520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>3</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>3.5</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>4</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>5</Length>
+		<Resistance>764</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>6</Length>
+		<Resistance>579</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>7</Length>
+		<Resistance>450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>8</Length>
+		<Resistance>358</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>9</Length>
+		<Resistance>291</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>10</Length>
+		<Resistance>240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>11</Length>
+		<Resistance>202</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>12</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>13</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 45</Name>
+		<Weight>45</Weight>
+		<Length>14</Length>
+		<Resistance>129</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>1</Length>
+		<Resistance>2360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>1.5</Length>
+		<Resistance>2200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>2</Length>
+		<Resistance>2020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>2.5</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>3</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>3.5</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>4</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>5</Length>
+		<Resistance>934</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>6</Length>
+		<Resistance>709</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>7</Length>
+		<Resistance>551</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>8</Length>
+		<Resistance>439</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>9</Length>
+		<Resistance>357</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>10</Length>
+		<Resistance>295</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>11</Length>
+		<Resistance>248</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>12</Length>
+		<Resistance>211</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>13</Length>
+		<Resistance>182</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 203 x 203 x 54</Name>
+		<Weight>54</Weight>
+		<Length>14</Length>
+		<Resistance>159</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>1</Length>
+		<Resistance>2830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>1.5</Length>
+		<Resistance>2670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>2</Length>
+		<Resistance>2510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>2.5</Length>
+		<Resistance>2350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>3</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>3.5</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>4</Length>
+		<Resistance>1790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>5</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>6</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>7</Length>
+		<Resistance>900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>8</Length>
+		<Resistance>728</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>9</Length>
+		<Resistance>598</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>10</Length>
+		<Resistance>499</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>11</Length>
+		<Resistance>422</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>12</Length>
+		<Resistance>361</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>13</Length>
+		<Resistance>312</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 63</Name>
+		<Weight>63</Weight>
+		<Length>14</Length>
+		<Resistance>273</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>1</Length>
+		<Resistance>3190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>1.5</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>2</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>2.5</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>3</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>3.5</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>4</Length>
+		<Resistance>2030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>5</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>6</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>7</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>8</Length>
+		<Resistance>829</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>9</Length>
+		<Resistance>682</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>10</Length>
+		<Resistance>569</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>11</Length>
+		<Resistance>481</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>12</Length>
+		<Resistance>411</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>13</Length>
+		<Resistance>356</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 71</Name>
+		<Weight>71</Weight>
+		<Length>14</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>1</Length>
+		<Resistance>3830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>1.5</Length>
+		<Resistance>3620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>2</Length>
+		<Resistance>3410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>2.5</Length>
+		<Resistance>3190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>3</Length>
+		<Resistance>2960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>3.5</Length>
+		<Resistance>2710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>4</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>5</Length>
+		<Resistance>1970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>6</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>7</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>8</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>9</Length>
+		<Resistance>833</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>10</Length>
+		<Resistance>695</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>11</Length>
+		<Resistance>588</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>12</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>13</Length>
+		<Resistance>436</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 254 x 254 x 85</Name>
+		<Weight>85</Weight>
+		<Length>14</Length>
+		<Resistance>381</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>1</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>1.5</Length>
+		<Resistance>4810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>2</Length>
+		<Resistance>4590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>2.5</Length>
+		<Resistance>4350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>3</Length>
+		<Resistance>4110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>3.5</Length>
+		<Resistance>3860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>4</Length>
+		<Resistance>3590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>5</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>6</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>7</Length>
+		<Resistance>2080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>8</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>9</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>10</Length>
+		<Resistance>1210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>11</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>12</Length>
+		<Resistance>884</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>13</Length>
+		<Resistance>768</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 110</Name>
+		<Weight>110</Weight>
+		<Length>14</Length>
+		<Resistance>673</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>1</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>1.5</Length>
+		<Resistance>5380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>2</Length>
+		<Resistance>5130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>2.5</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>3</Length>
+		<Resistance>4620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>3.5</Length>
+		<Resistance>4340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>4</Length>
+		<Resistance>4050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>5</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>6</Length>
+		<Resistance>2880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>7</Length>
+		<Resistance>2390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>8</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>9</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>10</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>11</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>12</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>13</Length>
+		<Resistance>893</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 126</Name>
+		<Weight>126</Weight>
+		<Length>14</Length>
+		<Resistance>783</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>1</Length>
+		<Resistance>6550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>1.5</Length>
+		<Resistance>6370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>2</Length>
+		<Resistance>6080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>2.5</Length>
+		<Resistance>5790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>3</Length>
+		<Resistance>5480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>3.5</Length>
+		<Resistance>5160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>4</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>5</Length>
+		<Resistance>4130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>6</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>7</Length>
+		<Resistance>2870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>8</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>9</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>10</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>11</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>12</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>13</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 149</Name>
+		<Weight>149</Weight>
+		<Length>14</Length>
+		<Resistance>945</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>1</Length>
+		<Resistance>8170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>1.5</Length>
+		<Resistance>7960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>2</Length>
+		<Resistance>7620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>2.5</Length>
+		<Resistance>7260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>3</Length>
+		<Resistance>6890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>3.5</Length>
+		<Resistance>6500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>4</Length>
+		<Resistance>6080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>5</Length>
+		<Resistance>5230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>6</Length>
+		<Resistance>4410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>7</Length>
+		<Resistance>3670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>8</Length>
+		<Resistance>3060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>9</Length>
+		<Resistance>2560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>10</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>11</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>12</Length>
+		<Resistance>1600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>13</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 186</Name>
+		<Weight>186</Weight>
+		<Length>14</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>1</Length>
+		<Resistance>9800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>1.5</Length>
+		<Resistance>9570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>2</Length>
+		<Resistance>9160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>2.5</Length>
+		<Resistance>8740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>3</Length>
+		<Resistance>8300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>3.5</Length>
+		<Resistance>7850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>4</Length>
+		<Resistance>7370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>5</Length>
+		<Resistance>6370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>6</Length>
+		<Resistance>5380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>7</Length>
+		<Resistance>4500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>8</Length>
+		<Resistance>3760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>9</Length>
+		<Resistance>3160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>10</Length>
+		<Resistance>2680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>11</Length>
+		<Resistance>2290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>12</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>13</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 223</Name>
+		<Weight>223</Weight>
+		<Length>14</Length>
+		<Resistance>1510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>1</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>1.5</Length>
+		<Resistance>3380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>2</Length>
+		<Resistance>3220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>2.5</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>3</Length>
+		<Resistance>2880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>3.5</Length>
+		<Resistance>2700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>4</Length>
+		<Resistance>2510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>6</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>7</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>8</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>9</Length>
+		<Resistance>992</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>10</Length>
+		<Resistance>835</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>11</Length>
+		<Resistance>711</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>12</Length>
+		<Resistance>612</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>13</Length>
+		<Resistance>532</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 79*</Name>
+		<Weight>79</Weight>
+		<Length>14</Length>
+		<Resistance>466</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>1</Length>
+		<Resistance>3980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>1.5</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>2</Length>
+		<Resistance>3660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>2.5</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>3</Length>
+		<Resistance>3270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>3.5</Length>
+		<Resistance>3060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>4</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>5</Length>
+		<Resistance>2400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>6</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>7</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>8</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>9</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>10</Length>
+		<Resistance>941</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>11</Length>
+		<Resistance>801</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>12</Length>
+		<Resistance>689</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>13</Length>
+		<Resistance>599</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 88</Name>
+		<Weight>88</Weight>
+		<Length>14</Length>
+		<Resistance>525</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>1</Length>
+		<Resistance>4290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>1.5</Length>
+		<Resistance>4150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>2</Length>
+		<Resistance>3950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>2.5</Length>
+		<Resistance>3750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>3</Length>
+		<Resistance>3540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>3.5</Length>
+		<Resistance>3310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>4</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>5</Length>
+		<Resistance>2600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>6</Length>
+		<Resistance>2150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>7</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>8</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>9</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>10</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>11</Length>
+		<Resistance>872</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>12</Length>
+		<Resistance>751</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>13</Length>
+		<Resistance>652</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 305 x 305 x 95</Name>
+		<Weight>95</Weight>
+		<Length>14</Length>
+		<Resistance>571</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>1</Length>
+		<Resistance>4700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>1.5</Length>
+		<Resistance>4660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>2</Length>
+		<Resistance>4490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>2.5</Length>
+		<Resistance>4320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>3</Length>
+		<Resistance>4140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>3.5</Length>
+		<Resistance>3950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>4</Length>
+		<Resistance>3760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>5</Length>
+		<Resistance>3350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>6</Length>
+		<Resistance>2930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>7</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>8</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>9</Length>
+		<Resistance>1840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>10</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>11</Length>
+		<Resistance>1360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>12</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>13</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 109*</Name>
+		<Weight>109</Weight>
+		<Length>14</Length>
+		<Resistance>913</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>1</Length>
+		<Resistance>6010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>1.5</Length>
+		<Resistance>5960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>2</Length>
+		<Resistance>5740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>2.5</Length>
+		<Resistance>5510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>3</Length>
+		<Resistance>5280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>3.5</Length>
+		<Resistance>5040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>4</Length>
+		<Resistance>4790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>5</Length>
+		<Resistance>4250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>6</Length>
+		<Resistance>3700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>7</Length>
+		<Resistance>3180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>8</Length>
+		<Resistance>2710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>9</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>10</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>11</Length>
+		<Resistance>1710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>12</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>13</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 133</Name>
+		<Weight>133</Weight>
+		<Length>14</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>1</Length>
+		<Resistance>6680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>1.5</Length>
+		<Resistance>6640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>2</Length>
+		<Resistance>6390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>2.5</Length>
+		<Resistance>6150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>3</Length>
+		<Resistance>5900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>3.5</Length>
+		<Resistance>5640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>4</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>5</Length>
+		<Resistance>4790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>6</Length>
+		<Resistance>4190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>7</Length>
+		<Resistance>3620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>8</Length>
+		<Resistance>3100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>9</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>10</Length>
+		<Resistance>2270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>11</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>12</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>13</Length>
+		<Resistance>1490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 152</Name>
+		<Weight>152</Weight>
+		<Length>14</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>1</Length>
+		<Resistance>7640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>1.5</Length>
+		<Resistance>7600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>2</Length>
+		<Resistance>7320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>2.5</Length>
+		<Resistance>7040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>3</Length>
+		<Resistance>6760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>3.5</Length>
+		<Resistance>6460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>4</Length>
+		<Resistance>6160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>5</Length>
+		<Resistance>5510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>6</Length>
+		<Resistance>4830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>7</Length>
+		<Resistance>4170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>8</Length>
+		<Resistance>3580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>9</Length>
+		<Resistance>3060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>10</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>11</Length>
+		<Resistance>2270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>12</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>13</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UBP 356 x 368 x 174</Name>
+		<Weight>174</Weight>
+		<Length>14</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+</Root>

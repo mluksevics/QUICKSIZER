@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>1</Length>
+		<Resistance>297</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>1.5</Length>
+		<Resistance>191</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>2</Length>
+		<Resistance>124</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>2.5</Length>
+		<Resistance>85.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>3</Length>
+		<Resistance>61.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>3.5</Length>
+		<Resistance>46.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>4</Length>
+		<Resistance>36.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>5</Length>
+		<Resistance>24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>6</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>7</Length>
+		<Resistance>12.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>8</Length>
+		<Resistance>9.79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>9</Length>
+		<Resistance>7.79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>10</Length>
+		<Resistance>6.35</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>11</Length>
+		<Resistance>5.28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>12</Length>
+		<Resistance>4.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>13</Length>
+		<Resistance>3.81</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 100x50x10</Name>
+		<Weight>10</Weight>
+		<Length>14</Length>
+		<Resistance>3.29</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>1</Length>
+		<Resistance>510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>1.5</Length>
+		<Resistance>379</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>2</Length>
+		<Resistance>268</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>2.5</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>3</Length>
+		<Resistance>142</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>3.5</Length>
+		<Resistance>109</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>4</Length>
+		<Resistance>85.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>5</Length>
+		<Resistance>57.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>6</Length>
+		<Resistance>40.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>7</Length>
+		<Resistance>30.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>8</Length>
+		<Resistance>23.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>9</Length>
+		<Resistance>18.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>10</Length>
+		<Resistance>15.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>11</Length>
+		<Resistance>12.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>12</Length>
+		<Resistance>10.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>13</Length>
+		<Resistance>9.24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 125x65x15</Name>
+		<Weight>15</Weight>
+		<Length>14</Length>
+		<Resistance>8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>1</Length>
+		<Resistance>661</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>1.5</Length>
+		<Resistance>527</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>2</Length>
+		<Resistance>396</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>2.5</Length>
+		<Resistance>294</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>3</Length>
+		<Resistance>222</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>3.5</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>4</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>5</Length>
+		<Resistance>91.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>6</Length>
+		<Resistance>65.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>7</Length>
+		<Resistance>49.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>8</Length>
+		<Resistance>38.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>9</Length>
+		<Resistance>30.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>10</Length>
+		<Resistance>25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>11</Length>
+		<Resistance>20.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>12</Length>
+		<Resistance>17.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>13</Length>
+		<Resistance>15.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x75x18</Name>
+		<Weight>18</Weight>
+		<Length>14</Length>
+		<Resistance>13.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>1</Length>
+		<Resistance>938</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>1.5</Length>
+		<Resistance>796</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>2</Length>
+		<Resistance>643</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>2.5</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>3</Length>
+		<Resistance>394</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>3.5</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>4</Length>
+		<Resistance>250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>5</Length>
+		<Resistance>170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>6</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>7</Length>
+		<Resistance>92.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>8</Length>
+		<Resistance>72.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>9</Length>
+		<Resistance>58</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>10</Length>
+		<Resistance>47.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>11</Length>
+		<Resistance>39.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>12</Length>
+		<Resistance>33.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>13</Length>
+		<Resistance>28.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 150x90x24</Name>
+		<Weight>24</Weight>
+		<Length>14</Length>
+		<Resistance>24.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>1</Length>
+		<Resistance>749</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>1.5</Length>
+		<Resistance>594</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>2</Length>
+		<Resistance>445</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>2.5</Length>
+		<Resistance>330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>3</Length>
+		<Resistance>249</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>3.5</Length>
+		<Resistance>193</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>4</Length>
+		<Resistance>153</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>5</Length>
+		<Resistance>103</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>6</Length>
+		<Resistance>73.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>7</Length>
+		<Resistance>55</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>8</Length>
+		<Resistance>42.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>9</Length>
+		<Resistance>34.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>10</Length>
+		<Resistance>27.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>11</Length>
+		<Resistance>23.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>12</Length>
+		<Resistance>19.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>13</Length>
+		<Resistance>16.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x75x20</Name>
+		<Weight>20</Weight>
+		<Length>14</Length>
+		<Resistance>14.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>1</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>1.5</Length>
+		<Resistance>869</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>2</Length>
+		<Resistance>703</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>2.5</Length>
+		<Resistance>551</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>3</Length>
+		<Resistance>430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>3.5</Length>
+		<Resistance>340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>4</Length>
+		<Resistance>273</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>5</Length>
+		<Resistance>186</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>6</Length>
+		<Resistance>134</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>7</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>8</Length>
+		<Resistance>79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>9</Length>
+		<Resistance>63.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>10</Length>
+		<Resistance>51.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>11</Length>
+		<Resistance>43.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>12</Length>
+		<Resistance>36.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>13</Length>
+		<Resistance>31.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 180x90x26</Name>
+		<Weight>26</Weight>
+		<Length>14</Length>
+		<Resistance>27.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>1</Length>
+		<Resistance>866</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>1.5</Length>
+		<Resistance>689</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>2</Length>
+		<Resistance>517</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>2.5</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>3</Length>
+		<Resistance>289</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>3.5</Length>
+		<Resistance>224</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>4</Length>
+		<Resistance>178</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>5</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>6</Length>
+		<Resistance>85.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>7</Length>
+		<Resistance>64</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>8</Length>
+		<Resistance>49.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>9</Length>
+		<Resistance>39.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>10</Length>
+		<Resistance>32.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>11</Length>
+		<Resistance>27.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>12</Length>
+		<Resistance>22.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>13</Length>
+		<Resistance>19.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x75x23</Name>
+		<Weight>23</Weight>
+		<Length>14</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>1</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>1.5</Length>
+		<Resistance>990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>2</Length>
+		<Resistance>800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>2.5</Length>
+		<Resistance>626</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>3</Length>
+		<Resistance>489</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>3.5</Length>
+		<Resistance>386</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>4</Length>
+		<Resistance>310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>5</Length>
+		<Resistance>211</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>6</Length>
+		<Resistance>152</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>7</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>8</Length>
+		<Resistance>89.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>9</Length>
+		<Resistance>71.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>10</Length>
+		<Resistance>58.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>11</Length>
+		<Resistance>49</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>12</Length>
+		<Resistance>41.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>13</Length>
+		<Resistance>35.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 200x90x30</Name>
+		<Weight>30</Weight>
+		<Length>14</Length>
+		<Resistance>30.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>1</Length>
+		<Resistance>941</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>1.5</Length>
+		<Resistance>743</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>2</Length>
+		<Resistance>554</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>2.5</Length>
+		<Resistance>409</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>3</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>3.5</Length>
+		<Resistance>238</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>4</Length>
+		<Resistance>189</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>5</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>6</Length>
+		<Resistance>90.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>7</Length>
+		<Resistance>67.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>8</Length>
+		<Resistance>52.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>9</Length>
+		<Resistance>42.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>10</Length>
+		<Resistance>34.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>11</Length>
+		<Resistance>28.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>12</Length>
+		<Resistance>24.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>13</Length>
+		<Resistance>20.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x75x26</Name>
+		<Weight>26</Weight>
+		<Length>14</Length>
+		<Resistance>18</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>1</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>1.5</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>2</Length>
+		<Resistance>859</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>2.5</Length>
+		<Resistance>671</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>3</Length>
+		<Resistance>523</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>3.5</Length>
+		<Resistance>413</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>4</Length>
+		<Resistance>332</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>5</Length>
+		<Resistance>226</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>6</Length>
+		<Resistance>163</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>7</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>8</Length>
+		<Resistance>95.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>9</Length>
+		<Resistance>76.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>10</Length>
+		<Resistance>62.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>11</Length>
+		<Resistance>52.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>12</Length>
+		<Resistance>44.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>13</Length>
+		<Resistance>38</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 230x90x32</Name>
+		<Weight>32</Weight>
+		<Length>14</Length>
+		<Resistance>33</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>1</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>1.5</Length>
+		<Resistance>783</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>2</Length>
+		<Resistance>579</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>2.5</Length>
+		<Resistance>425</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>3</Length>
+		<Resistance>319</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>3.5</Length>
+		<Resistance>246</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>4</Length>
+		<Resistance>195</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>5</Length>
+		<Resistance>131</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>6</Length>
+		<Resistance>93.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>7</Length>
+		<Resistance>69.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>8</Length>
+		<Resistance>54.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>9</Length>
+		<Resistance>43.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>10</Length>
+		<Resistance>35.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>11</Length>
+		<Resistance>29.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>12</Length>
+		<Resistance>24.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>13</Length>
+		<Resistance>21.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x75x28</Name>
+		<Weight>28</Weight>
+		<Length>14</Length>
+		<Resistance>18.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>1</Length>
+		<Resistance>1360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>1.5</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>2</Length>
+		<Resistance>918</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>2.5</Length>
+		<Resistance>714</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>3</Length>
+		<Resistance>555</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>3.5</Length>
+		<Resistance>437</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>4</Length>
+		<Resistance>351</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>5</Length>
+		<Resistance>238</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>6</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>7</Length>
+		<Resistance>129</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>8</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>9</Length>
+		<Resistance>80.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>10</Length>
+		<Resistance>66.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>11</Length>
+		<Resistance>55.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>12</Length>
+		<Resistance>46.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>13</Length>
+		<Resistance>40.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 260x90x35</Name>
+		<Weight>35</Weight>
+		<Length>14</Length>
+		<Resistance>34.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>1</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>1.5</Length>
+		<Resistance>1550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>2</Length>
+		<Resistance>1290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>2.5</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>3</Length>
+		<Resistance>834</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>3.5</Length>
+		<Resistance>668</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>4</Length>
+		<Resistance>542</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>5</Length>
+		<Resistance>373</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>6</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>7</Length>
+		<Resistance>204</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>8</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>9</Length>
+		<Resistance>128</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>10</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>11</Length>
+		<Resistance>87.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>12</Length>
+		<Resistance>74.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>13</Length>
+		<Resistance>63.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x100x46</Name>
+		<Weight>46</Weight>
+		<Length>14</Length>
+		<Resistance>55.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>1</Length>
+		<Resistance>1610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>1.5</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>2</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>2.5</Length>
+		<Resistance>828</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>3</Length>
+		<Resistance>641</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>3.5</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>4</Length>
+		<Resistance>404</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>5</Length>
+		<Resistance>274</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>6</Length>
+		<Resistance>197</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>7</Length>
+		<Resistance>149</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>8</Length>
+		<Resistance>116</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>9</Length>
+		<Resistance>92.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>10</Length>
+		<Resistance>75.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>11</Length>
+		<Resistance>63.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>12</Length>
+		<Resistance>53.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>13</Length>
+		<Resistance>45.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 300x90x41</Name>
+		<Weight>41</Weight>
+		<Length>14</Length>
+		<Resistance>39.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>1</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>1.5</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>2</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>2.5</Length>
+		<Resistance>1210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>3</Length>
+		<Resistance>957</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>3.5</Length>
+		<Resistance>764</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>4</Length>
+		<Resistance>619</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>5</Length>
+		<Resistance>424</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>6</Length>
+		<Resistance>307</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>7</Length>
+		<Resistance>232</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>8</Length>
+		<Resistance>181</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>9</Length>
+		<Resistance>146</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>10</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>11</Length>
+		<Resistance>99.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>12</Length>
+		<Resistance>84.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>13</Length>
+		<Resistance>72.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 380x100x54</Name>
+		<Weight>54</Weight>
+		<Length>14</Length>
+		<Resistance>62.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>1</Length>
+		<Resistance>2490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>1.5</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>2</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>2.5</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>3</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>3.5</Length>
+		<Resistance>872</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>4</Length>
+		<Resistance>704</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>5</Length>
+		<Resistance>481</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>6</Length>
+		<Resistance>348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>7</Length>
+		<Resistance>263</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>8</Length>
+		<Resistance>205</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>9</Length>
+		<Resistance>164</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>10</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>11</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>12</Length>
+		<Resistance>95.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>13</Length>
+		<Resistance>81.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>PFC 430x100x64</Name>
+		<Weight>64</Weight>
+		<Length>14</Length>
+		<Resistance>70.9</Resistance>
+	</Beaminfo>
+	</Root>

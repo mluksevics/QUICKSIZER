@@ -83,7 +83,43 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\HE_axial_compression.xml" />
+    <None Include="Resources\CHS_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EHS_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HEA_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HEB_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IPE_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lequal_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PFC_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RHS_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SHS_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UB_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UBP_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UC_NRd.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UPE_UPN_NRd.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

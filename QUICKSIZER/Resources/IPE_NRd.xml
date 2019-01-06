@@ -1,0 +1,6939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>1</Length>
+		<Resistance>206</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>1</Length>
+		<Resistance>309</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>1</Length>
+		<Resistance>424</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>1</Length>
+		<Resistance>555</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>1</Length>
+		<Resistance>693</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>1</Length>
+		<Resistance>855</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>1</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>1</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>1</Length>
+		<Resistance>1490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>1</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>1</Length>
+		<Resistance>2040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>1</Length>
+		<Resistance>2370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>1</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>1</Length>
+		<Resistance>3200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>1</Length>
+		<Resistance>3720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>1</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>1</Length>
+		<Resistance>4900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>1</Length>
+		<Resistance>5030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>1</Length>
+		<Resistance>5560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>1</Length>
+		<Resistance>6810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>1</Length>
+		<Resistance>7930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>1</Length>
+		<Resistance>9040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>1</Length>
+		<Resistance>122</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>1</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>1</Length>
+		<Resistance>253</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>1</Length>
+		<Resistance>347</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>1</Length>
+		<Resistance>446</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>1</Length>
+		<Resistance>569</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>1</Length>
+		<Resistance>704</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>1</Length>
+		<Resistance>874</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>1</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>1</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>1</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>1</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>1</Length>
+		<Resistance>2030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>1</Length>
+		<Resistance>2300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>1</Length>
+		<Resistance>2670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>1</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>1</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>1</Length>
+		<Resistance>4150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>1</Length>
+		<Resistance>102</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>1</Length>
+		<Resistance>167</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>1</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>1</Length>
+		<Resistance>328</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>1</Length>
+		<Resistance>429</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>1</Length>
+		<Resistance>549</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>1</Length>
+		<Resistance>684</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>1</Length>
+		<Resistance>821</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>1</Length>
+		<Resistance>968</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>1</Length>
+		<Resistance>100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>1</Length>
+		<Resistance>791</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>1</Length>
+		<Resistance>968</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>1</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>1</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>1</Length>
+		<Resistance>2080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>1</Length>
+		<Resistance>2430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>1</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>1</Length>
+		<Resistance>3270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>1</Length>
+		<Resistance>3900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>1</Length>
+		<Resistance>4550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>1</Length>
+		<Resistance>5070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>1</Length>
+		<Resistance>6620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>1</Length>
+		<Resistance>3540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>1</Length>
+		<Resistance>4390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>1</Length>
+		<Resistance>5480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>1</Length>
+		<Resistance>6770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>1</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>282</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>396</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>529</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>684</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>865</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>1910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>2250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>2990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>1.5</Length>
+		<Resistance>3990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>1.5</Length>
+		<Resistance>4650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>1.5</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>1.5</Length>
+		<Resistance>5320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>1.5</Length>
+		<Resistance>6540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>1.5</Length>
+		<Resistance>7620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>1.5</Length>
+		<Resistance>8690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>1.5</Length>
+		<Resistance>63.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>95.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>152</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>317</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>434</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>562</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>729</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>904</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>1.5</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>2150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>2970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>3450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>1.5</Length>
+		<Resistance>3950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>1.5</Length>
+		<Resistance>52.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>91.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>146</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>216</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>303</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>417</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>1.5</Length>
+		<Resistance>544</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>697</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>864</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>51.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>609</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>785</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>981</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>1.5</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>1.5</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>3660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>1.5</Length>
+		<Resistance>4290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>1.5</Length>
+		<Resistance>4910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>1.5</Length>
+		<Resistance>6280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>1.5</Length>
+		<Resistance>3300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>1.5</Length>
+		<Resistance>4120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>1.5</Length>
+		<Resistance>5160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>1.5</Length>
+		<Resistance>6390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>1.5</Length>
+		<Resistance>7480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>2</Length>
+		<Resistance>69.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>2</Length>
+		<Resistance>118</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>2</Length>
+		<Resistance>182</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>2</Length>
+		<Resistance>266</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>2</Length>
+		<Resistance>372</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>2</Length>
+		<Resistance>501</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>2</Length>
+		<Resistance>667</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>2</Length>
+		<Resistance>852</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>2</Length>
+		<Resistance>1110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>2</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>2</Length>
+		<Resistance>1690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>2</Length>
+		<Resistance>2040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>2</Length>
+		<Resistance>2410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>2</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>2</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>2</Length>
+		<Resistance>3720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>2</Length>
+		<Resistance>4360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>2</Length>
+		<Resistance>4600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>2</Length>
+		<Resistance>5070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>2</Length>
+		<Resistance>6240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>2</Length>
+		<Resistance>7280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>2</Length>
+		<Resistance>8310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>2</Length>
+		<Resistance>37.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>2</Length>
+		<Resistance>57.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>2</Length>
+		<Resistance>94.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>2</Length>
+		<Resistance>149</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>2</Length>
+		<Resistance>212</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>2</Length>
+		<Resistance>305</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>2</Length>
+		<Resistance>411</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>2</Length>
+		<Resistance>560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>2</Length>
+		<Resistance>723</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>2</Length>
+		<Resistance>950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>2</Length>
+		<Resistance>1210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>2</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>2</Length>
+		<Resistance>1710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>2</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>2</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>2</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>2</Length>
+		<Resistance>3230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>2</Length>
+		<Resistance>3720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>2</Length>
+		<Resistance>31.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>2</Length>
+		<Resistance>55.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>2</Length>
+		<Resistance>90.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>2</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>2</Length>
+		<Resistance>202</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>2</Length>
+		<Resistance>291</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>2</Length>
+		<Resistance>396</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>2</Length>
+		<Resistance>536</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>2</Length>
+		<Resistance>694</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>2</Length>
+		<Resistance>30.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>2</Length>
+		<Resistance>430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>2</Length>
+		<Resistance>583</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2</Length>
+		<Resistance>764</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>2</Length>
+		<Resistance>970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>2</Length>
+		<Resistance>1330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>2</Length>
+		<Resistance>1670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>2</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>2</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>2</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>2</Length>
+		<Resistance>3370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>2</Length>
+		<Resistance>3970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>2</Length>
+		<Resistance>4600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>2</Length>
+		<Resistance>5880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>2</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>2</Length>
+		<Resistance>3800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>2</Length>
+		<Resistance>4800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>2</Length>
+		<Resistance>5960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>2</Length>
+		<Resistance>7030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>46.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>124</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>184</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>262</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>361</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>495</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>651</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>888</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>2550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>2980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>2.5</Length>
+		<Resistance>3400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>2.5</Length>
+		<Resistance>4020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>2.5</Length>
+		<Resistance>4340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>2.5</Length>
+		<Resistance>4790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>2.5</Length>
+		<Resistance>5910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>2.5</Length>
+		<Resistance>6900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>2.5</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>2.5</Length>
+		<Resistance>25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>38.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>63.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>147</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>215</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>296</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>415</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>552</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>759</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>2.5</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>2970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>2.5</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>2.5</Length>
+		<Resistance>20.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>36.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>60.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>94.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>205</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>2.5</Length>
+		<Resistance>284</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>398</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>531</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>20.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>305</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>423</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>571</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>747</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>2.5</Length>
+		<Resistance>1710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>2.5</Length>
+		<Resistance>2070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>2.5</Length>
+		<Resistance>3600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>2.5</Length>
+		<Resistance>4190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>2.5</Length>
+		<Resistance>5420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>2.5</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>2.5</Length>
+		<Resistance>3420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>2.5</Length>
+		<Resistance>4360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>2.5</Length>
+		<Resistance>5450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>2.5</Length>
+		<Resistance>6500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>3</Length>
+		<Resistance>32.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>3</Length>
+		<Resistance>56.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>3</Length>
+		<Resistance>89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>3</Length>
+		<Resistance>133</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>3</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>3</Length>
+		<Resistance>267</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>3</Length>
+		<Resistance>371</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>3</Length>
+		<Resistance>496</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>3</Length>
+		<Resistance>695</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>3</Length>
+		<Resistance>942</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>3</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>3</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>3</Length>
+		<Resistance>1800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>3</Length>
+		<Resistance>2200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>3</Length>
+		<Resistance>2680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>3</Length>
+		<Resistance>3160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>3</Length>
+		<Resistance>3800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>3</Length>
+		<Resistance>4040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>3</Length>
+		<Resistance>4460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>3</Length>
+		<Resistance>5530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>3</Length>
+		<Resistance>6470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>3</Length>
+		<Resistance>7390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>3</Length>
+		<Resistance>17.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>3</Length>
+		<Resistance>27.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>3</Length>
+		<Resistance>45.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>3</Length>
+		<Resistance>72.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>3</Length>
+		<Resistance>106</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>3</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>3</Length>
+		<Resistance>218</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>3</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>3</Length>
+		<Resistance>420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>3</Length>
+		<Resistance>594</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>3</Length>
+		<Resistance>811</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>3</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>3</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>3</Length>
+		<Resistance>1520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>3</Length>
+		<Resistance>1840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>3</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>3</Length>
+		<Resistance>2670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>3</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>3</Length>
+		<Resistance>14.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>3</Length>
+		<Resistance>26.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>3</Length>
+		<Resistance>43.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>3</Length>
+		<Resistance>68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>3</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>3</Length>
+		<Resistance>150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>3</Length>
+		<Resistance>210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>3</Length>
+		<Resistance>298</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>3</Length>
+		<Resistance>405</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>3</Length>
+		<Resistance>14.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>3</Length>
+		<Resistance>223</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>3</Length>
+		<Resistance>314</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3</Length>
+		<Resistance>430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>3</Length>
+		<Resistance>571</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>3</Length>
+		<Resistance>843</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>3</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>3</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>3</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>3</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>3</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>3</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>3</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>3</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>3</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>3</Length>
+		<Resistance>2990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>3</Length>
+		<Resistance>3860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>3</Length>
+		<Resistance>4860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>3</Length>
+		<Resistance>5880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>24.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>42.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>66.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>146</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>204</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>286</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>385</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>548</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>756</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>959</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>2290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>3.5</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>3.5</Length>
+		<Resistance>3320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>3.5</Length>
+		<Resistance>3710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>3.5</Length>
+		<Resistance>4090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>3.5</Length>
+		<Resistance>5100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>3.5</Length>
+		<Resistance>5980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>3.5</Length>
+		<Resistance>7140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>3.5</Length>
+		<Resistance>13.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>20.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>33.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>54.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>80.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>167</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>239</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>326</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>468</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>3.5</Length>
+		<Resistance>834</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>2340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>3.5</Length>
+		<Resistance>2810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>3.5</Length>
+		<Resistance>10.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>19.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>32.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>51.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>76.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>3.5</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>229</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>314</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>10.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>169</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>331</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>444</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>666</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>922</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>3.5</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>3.5</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>3.5</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>3.5</Length>
+		<Resistance>3240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>3.5</Length>
+		<Resistance>4300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>3.5</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>3.5</Length>
+		<Resistance>2550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>3.5</Length>
+		<Resistance>3340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>3.5</Length>
+		<Resistance>4230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>3.5</Length>
+		<Resistance>5200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>4</Length>
+		<Resistance>19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>4</Length>
+		<Resistance>32.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>4</Length>
+		<Resistance>52.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>4</Length>
+		<Resistance>78.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>4</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>4</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>4</Length>
+		<Resistance>225</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>4</Length>
+		<Resistance>305</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>4</Length>
+		<Resistance>438</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>4</Length>
+		<Resistance>611</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>4</Length>
+		<Resistance>781</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>4</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>4</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>4</Length>
+		<Resistance>1550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>4</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>4</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>4</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>4</Length>
+		<Resistance>3340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>4</Length>
+		<Resistance>3690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>4</Length>
+		<Resistance>4630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>4</Length>
+		<Resistance>5700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>4</Length>
+		<Resistance>6470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>4</Length>
+		<Resistance>10.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>4</Length>
+		<Resistance>15.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>4</Length>
+		<Resistance>26.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>4</Length>
+		<Resistance>42.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>4</Length>
+		<Resistance>62.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>4</Length>
+		<Resistance>93.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>4</Length>
+		<Resistance>131</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>4</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>4</Length>
+		<Resistance>258</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>4</Length>
+		<Resistance>374</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>4</Length>
+		<Resistance>526</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>4</Length>
+		<Resistance>680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>4</Length>
+		<Resistance>903</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>4</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>4</Length>
+		<Resistance>1370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>4</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>4</Length>
+		<Resistance>2030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>4</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>4</Length>
+		<Resistance>8.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>4</Length>
+		<Resistance>15.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>4</Length>
+		<Resistance>25.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>4</Length>
+		<Resistance>39.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>4</Length>
+		<Resistance>59.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>4</Length>
+		<Resistance>88.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>4</Length>
+		<Resistance>125</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>4</Length>
+		<Resistance>181</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>4</Length>
+		<Resistance>249</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>4</Length>
+		<Resistance>8.27</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>4</Length>
+		<Resistance>133</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>4</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>4</Length>
+		<Resistance>262</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>4</Length>
+		<Resistance>352</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>4</Length>
+		<Resistance>534</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>4</Length>
+		<Resistance>749</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>4</Length>
+		<Resistance>943</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>4</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>4</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>4</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>4</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>4</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>4</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>4</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>4</Length>
+		<Resistance>2150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>4</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>4</Length>
+		<Resistance>3630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>4</Length>
+		<Resistance>4520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>5</Length>
+		<Resistance>12.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>5</Length>
+		<Resistance>21.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>5</Length>
+		<Resistance>34.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>5</Length>
+		<Resistance>51.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>5</Length>
+		<Resistance>75</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>5</Length>
+		<Resistance>106</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>5</Length>
+		<Resistance>150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>5</Length>
+		<Resistance>204</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>5</Length>
+		<Resistance>296</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>5</Length>
+		<Resistance>417</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>5</Length>
+		<Resistance>537</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>5</Length>
+		<Resistance>699</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>5</Length>
+		<Resistance>871</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>5</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>5</Length>
+		<Resistance>1380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>5</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>5</Length>
+		<Resistance>2090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>5</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>5</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>5</Length>
+		<Resistance>3830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>5</Length>
+		<Resistance>4480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>5</Length>
+		<Resistance>5110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>5</Length>
+		<Resistance>6.59</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>5</Length>
+		<Resistance>10.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>5</Length>
+		<Resistance>17.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>5</Length>
+		<Resistance>27.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>5</Length>
+		<Resistance>41</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>5</Length>
+		<Resistance>61.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>5</Length>
+		<Resistance>86.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>5</Length>
+		<Resistance>125</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>5</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>5</Length>
+		<Resistance>252</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>5</Length>
+		<Resistance>359</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>5</Length>
+		<Resistance>467</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>5</Length>
+		<Resistance>629</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>5</Length>
+		<Resistance>770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>5</Length>
+		<Resistance>974</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>5</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>5</Length>
+		<Resistance>1520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>5</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>5</Length>
+		<Resistance>5.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>5</Length>
+		<Resistance>9.82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>5</Length>
+		<Resistance>16.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>5</Length>
+		<Resistance>26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>5</Length>
+		<Resistance>38.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>5</Length>
+		<Resistance>58.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>5</Length>
+		<Resistance>82.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>5</Length>
+		<Resistance>120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>5</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>5</Length>
+		<Resistance>5.36</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>5</Length>
+		<Resistance>87.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>5</Length>
+		<Resistance>125</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>5</Length>
+		<Resistance>174</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>5</Length>
+		<Resistance>236</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>5</Length>
+		<Resistance>361</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>5</Length>
+		<Resistance>513</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>5</Length>
+		<Resistance>651</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>5</Length>
+		<Resistance>834</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>5</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>5</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>5</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>5</Length>
+		<Resistance>2020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>5</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>5</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>5</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>5</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>5</Length>
+		<Resistance>2640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>5</Length>
+		<Resistance>3360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>6</Length>
+		<Resistance>8.65</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>6</Length>
+		<Resistance>15</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>6</Length>
+		<Resistance>24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>6</Length>
+		<Resistance>36.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>6</Length>
+		<Resistance>53</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>6</Length>
+		<Resistance>74.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>6</Length>
+		<Resistance>106</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>6</Length>
+		<Resistance>145</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>6</Length>
+		<Resistance>212</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>6</Length>
+		<Resistance>300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>6</Length>
+		<Resistance>388</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>6</Length>
+		<Resistance>507</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>6</Length>
+		<Resistance>635</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>6</Length>
+		<Resistance>800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>6</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>6</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>6</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>6</Length>
+		<Resistance>2110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>6</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>6</Length>
+		<Resistance>2950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>6</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>6</Length>
+		<Resistance>3980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>6</Length>
+		<Resistance>4.61</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>6</Length>
+		<Resistance>7.16</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>6</Length>
+		<Resistance>12</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>6</Length>
+		<Resistance>19.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>6</Length>
+		<Resistance>28.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>6</Length>
+		<Resistance>43.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>6</Length>
+		<Resistance>61.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>6</Length>
+		<Resistance>88.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>6</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>6</Length>
+		<Resistance>181</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>6</Length>
+		<Resistance>258</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>6</Length>
+		<Resistance>338</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>6</Length>
+		<Resistance>457</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>6</Length>
+		<Resistance>562</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>6</Length>
+		<Resistance>714</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>6</Length>
+		<Resistance>911</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>6</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>6</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>6</Length>
+		<Resistance>3.81</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>6</Length>
+		<Resistance>6.89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>6</Length>
+		<Resistance>11.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>6</Length>
+		<Resistance>18.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>6</Length>
+		<Resistance>27.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>6</Length>
+		<Resistance>41.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>6</Length>
+		<Resistance>58.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>6</Length>
+		<Resistance>85.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>6</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>6</Length>
+		<Resistance>3.75</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>6</Length>
+		<Resistance>61.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>6</Length>
+		<Resistance>88.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>6</Length>
+		<Resistance>124</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>6</Length>
+		<Resistance>168</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>6</Length>
+		<Resistance>259</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>6</Length>
+		<Resistance>370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>6</Length>
+		<Resistance>471</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>6</Length>
+		<Resistance>607</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>6</Length>
+		<Resistance>751</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>6</Length>
+		<Resistance>986</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>6</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>6</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>6</Length>
+		<Resistance>2060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>6</Length>
+		<Resistance>841</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>6</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>6</Length>
+		<Resistance>1520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>6</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>6</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>7</Length>
+		<Resistance>6.41</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>7</Length>
+		<Resistance>11.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>7</Length>
+		<Resistance>17.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>7</Length>
+		<Resistance>26.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>7</Length>
+		<Resistance>39.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>7</Length>
+		<Resistance>55.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>7</Length>
+		<Resistance>79.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>7</Length>
+		<Resistance>109</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>7</Length>
+		<Resistance>159</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>7</Length>
+		<Resistance>226</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>7</Length>
+		<Resistance>293</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>7</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>7</Length>
+		<Resistance>481</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>7</Length>
+		<Resistance>607</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>7</Length>
+		<Resistance>770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>7</Length>
+		<Resistance>946</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>7</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>7</Length>
+		<Resistance>1640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>7</Length>
+		<Resistance>1800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>7</Length>
+		<Resistance>2300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>7</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>7</Length>
+		<Resistance>3120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>7</Length>
+		<Resistance>3.41</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>7</Length>
+		<Resistance>5.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>7</Length>
+		<Resistance>8.91</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>7</Length>
+		<Resistance>14.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>7</Length>
+		<Resistance>21.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>7</Length>
+		<Resistance>32.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>7</Length>
+		<Resistance>45.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>7</Length>
+		<Resistance>66.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>7</Length>
+		<Resistance>91.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>7</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>7</Length>
+		<Resistance>194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>7</Length>
+		<Resistance>254</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>7</Length>
+		<Resistance>346</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>7</Length>
+		<Resistance>426</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>7</Length>
+		<Resistance>542</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>7</Length>
+		<Resistance>694</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>7</Length>
+		<Resistance>862</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>7</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>7</Length>
+		<Resistance>2.82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>7</Length>
+		<Resistance>5.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>7</Length>
+		<Resistance>8.55</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>7</Length>
+		<Resistance>13.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>7</Length>
+		<Resistance>20.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>7</Length>
+		<Resistance>30.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>7</Length>
+		<Resistance>43.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>7</Length>
+		<Resistance>63.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>7</Length>
+		<Resistance>88.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>7</Length>
+		<Resistance>2.78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>7</Length>
+		<Resistance>46</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>7</Length>
+		<Resistance>65.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>7</Length>
+		<Resistance>92.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>7</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>7</Length>
+		<Resistance>194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>7</Length>
+		<Resistance>278</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>7</Length>
+		<Resistance>355</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>7</Length>
+		<Resistance>459</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>7</Length>
+		<Resistance>569</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>7</Length>
+		<Resistance>750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>7</Length>
+		<Resistance>935</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>7</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>7</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>7</Length>
+		<Resistance>638</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>7</Length>
+		<Resistance>859</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>7</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>7</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>7</Length>
+		<Resistance>1940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>8</Length>
+		<Resistance>4.93</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>8</Length>
+		<Resistance>8.58</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>8</Length>
+		<Resistance>13.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>8</Length>
+		<Resistance>20.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>8</Length>
+		<Resistance>30.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>8</Length>
+		<Resistance>43.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>8</Length>
+		<Resistance>61.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>8</Length>
+		<Resistance>84.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>8</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>8</Length>
+		<Resistance>176</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>8</Length>
+		<Resistance>228</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>8</Length>
+		<Resistance>299</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>8</Length>
+		<Resistance>376</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>8</Length>
+		<Resistance>475</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>8</Length>
+		<Resistance>604</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>8</Length>
+		<Resistance>743</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>8</Length>
+		<Resistance>938</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>8</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>8</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>8</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>8</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>8</Length>
+		<Resistance>2490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>8</Length>
+		<Resistance>2.62</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>8</Length>
+		<Resistance>4.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>8</Length>
+		<Resistance>6.87</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>8</Length>
+		<Resistance>11.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>8</Length>
+		<Resistance>16.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>8</Length>
+		<Resistance>25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>8</Length>
+		<Resistance>35.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>8</Length>
+		<Resistance>51.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>8</Length>
+		<Resistance>71.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>8</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>8</Length>
+		<Resistance>151</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>8</Length>
+		<Resistance>198</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>8</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>8</Length>
+		<Resistance>333</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>8</Length>
+		<Resistance>425</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>8</Length>
+		<Resistance>544</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>8</Length>
+		<Resistance>677</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>8</Length>
+		<Resistance>859</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>8</Length>
+		<Resistance>2.17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>8</Length>
+		<Resistance>3.92</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>8</Length>
+		<Resistance>6.59</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>8</Length>
+		<Resistance>10.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>8</Length>
+		<Resistance>15.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>8</Length>
+		<Resistance>23.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>8</Length>
+		<Resistance>33.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>8</Length>
+		<Resistance>49.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>8</Length>
+		<Resistance>68.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>8</Length>
+		<Resistance>2.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>8</Length>
+		<Resistance>35.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>8</Length>
+		<Resistance>51</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>8</Length>
+		<Resistance>71.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>8</Length>
+		<Resistance>97.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>8</Length>
+		<Resistance>151</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>8</Length>
+		<Resistance>217</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>8</Length>
+		<Resistance>277</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>8</Length>
+		<Resistance>358</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>8</Length>
+		<Resistance>445</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>8</Length>
+		<Resistance>588</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>8</Length>
+		<Resistance>734</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>8</Length>
+		<Resistance>899</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>8</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>8</Length>
+		<Resistance>500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>8</Length>
+		<Resistance>674</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>8</Length>
+		<Resistance>911</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>8</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>8</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>9</Length>
+		<Resistance>3.91</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>9</Length>
+		<Resistance>6.82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>9</Length>
+		<Resistance>10.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>9</Length>
+		<Resistance>16.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>9</Length>
+		<Resistance>24.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>9</Length>
+		<Resistance>34.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>9</Length>
+		<Resistance>49</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>9</Length>
+		<Resistance>67.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>9</Length>
+		<Resistance>98.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>9</Length>
+		<Resistance>141</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>9</Length>
+		<Resistance>183</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>9</Length>
+		<Resistance>240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>9</Length>
+		<Resistance>302</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>9</Length>
+		<Resistance>382</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>9</Length>
+		<Resistance>485</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>9</Length>
+		<Resistance>598</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>9</Length>
+		<Resistance>756</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>9</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>9</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>9</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>9</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>9</Length>
+		<Resistance>2020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>9</Length>
+		<Resistance>2.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>9</Length>
+		<Resistance>3.24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>9</Length>
+		<Resistance>5.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>9</Length>
+		<Resistance>8.91</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>9</Length>
+		<Resistance>13.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>9</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>9</Length>
+		<Resistance>28.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>9</Length>
+		<Resistance>40.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>9</Length>
+		<Resistance>56.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>9</Length>
+		<Resistance>84.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>9</Length>
+		<Resistance>121</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>9</Length>
+		<Resistance>159</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>9</Length>
+		<Resistance>217</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>9</Length>
+		<Resistance>267</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>9</Length>
+		<Resistance>341</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>9</Length>
+		<Resistance>438</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>9</Length>
+		<Resistance>545</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>9</Length>
+		<Resistance>693</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>9</Length>
+		<Resistance>1.72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>9</Length>
+		<Resistance>3.11</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>9</Length>
+		<Resistance>5.23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>9</Length>
+		<Resistance>8.31</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>9</Length>
+		<Resistance>12.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>9</Length>
+		<Resistance>18.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>9</Length>
+		<Resistance>26.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>9</Length>
+		<Resistance>39.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>9</Length>
+		<Resistance>54.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>9</Length>
+		<Resistance>1.69</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>9</Length>
+		<Resistance>28.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>9</Length>
+		<Resistance>40.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>9</Length>
+		<Resistance>57.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>9</Length>
+		<Resistance>77.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>9</Length>
+		<Resistance>121</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>9</Length>
+		<Resistance>174</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>9</Length>
+		<Resistance>222</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>9</Length>
+		<Resistance>287</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>9</Length>
+		<Resistance>357</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>9</Length>
+		<Resistance>473</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>9</Length>
+		<Resistance>591</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>9</Length>
+		<Resistance>724</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>9</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>9</Length>
+		<Resistance>401</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>9</Length>
+		<Resistance>542</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>9</Length>
+		<Resistance>733</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>9</Length>
+		<Resistance>952</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>9</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>10</Length>
+		<Resistance>3.18</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>10</Length>
+		<Resistance>5.54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>10</Length>
+		<Resistance>8.87</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>10</Length>
+		<Resistance>13.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>10</Length>
+		<Resistance>19.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>10</Length>
+		<Resistance>28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>10</Length>
+		<Resistance>40</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>10</Length>
+		<Resistance>54.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>10</Length>
+		<Resistance>80.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>10</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>10</Length>
+		<Resistance>149</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>10</Length>
+		<Resistance>197</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>10</Length>
+		<Resistance>247</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>10</Length>
+		<Resistance>313</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>10</Length>
+		<Resistance>398</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>10</Length>
+		<Resistance>491</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>10</Length>
+		<Resistance>622</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>10</Length>
+		<Resistance>865</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>10</Length>
+		<Resistance>952</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>10</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>10</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>10</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>10</Length>
+		<Resistance>1.69</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>10</Length>
+		<Resistance>2.63</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>10</Length>
+		<Resistance>4.43</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>10</Length>
+		<Resistance>7.25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>10</Length>
+		<Resistance>10.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>10</Length>
+		<Resistance>16.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>10</Length>
+		<Resistance>22.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>10</Length>
+		<Resistance>33.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>10</Length>
+		<Resistance>46.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>10</Length>
+		<Resistance>68.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>10</Length>
+		<Resistance>98.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>10</Length>
+		<Resistance>130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>10</Length>
+		<Resistance>177</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>10</Length>
+		<Resistance>219</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>10</Length>
+		<Resistance>280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>10</Length>
+		<Resistance>359</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>10</Length>
+		<Resistance>448</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>10</Length>
+		<Resistance>570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>10</Length>
+		<Resistance>1.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>10</Length>
+		<Resistance>2.53</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>10</Length>
+		<Resistance>4.25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>10</Length>
+		<Resistance>6.76</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>10</Length>
+		<Resistance>10.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>10</Length>
+		<Resistance>15.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>10</Length>
+		<Resistance>21.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>10</Length>
+		<Resistance>32.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>10</Length>
+		<Resistance>44.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>10</Length>
+		<Resistance>1.38</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>10</Length>
+		<Resistance>23.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>10</Length>
+		<Resistance>33.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>10</Length>
+		<Resistance>46.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>10</Length>
+		<Resistance>63.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>10</Length>
+		<Resistance>98.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>10</Length>
+		<Resistance>142</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>10</Length>
+		<Resistance>182</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>10</Length>
+		<Resistance>236</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>10</Length>
+		<Resistance>293</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>10</Length>
+		<Resistance>388</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>10</Length>
+		<Resistance>485</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>10</Length>
+		<Resistance>595</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>10</Length>
+		<Resistance>826</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>10</Length>
+		<Resistance>329</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>10</Length>
+		<Resistance>445</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>10</Length>
+		<Resistance>603</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>10</Length>
+		<Resistance>783</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>10</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>11</Length>
+		<Resistance>2.64</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>11</Length>
+		<Resistance>4.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>11</Length>
+		<Resistance>7.36</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>11</Length>
+		<Resistance>11.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>11</Length>
+		<Resistance>16.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>11</Length>
+		<Resistance>23.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>11</Length>
+		<Resistance>33.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>11</Length>
+		<Resistance>45.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>11</Length>
+		<Resistance>66.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>11</Length>
+		<Resistance>95.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>11</Length>
+		<Resistance>125</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>11</Length>
+		<Resistance>164</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>11</Length>
+		<Resistance>206</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>11</Length>
+		<Resistance>261</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>11</Length>
+		<Resistance>333</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>11</Length>
+		<Resistance>411</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>11</Length>
+		<Resistance>520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>11</Length>
+		<Resistance>725</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>11</Length>
+		<Resistance>798</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>11</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>11</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>11</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>11</Length>
+		<Resistance>1.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>11</Length>
+		<Resistance>2.18</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>11</Length>
+		<Resistance>3.68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>11</Length>
+		<Resistance>6.02</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>11</Length>
+		<Resistance>8.91</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>11</Length>
+		<Resistance>13.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>11</Length>
+		<Resistance>19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>11</Length>
+		<Resistance>27.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>11</Length>
+		<Resistance>38.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>11</Length>
+		<Resistance>57.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>11</Length>
+		<Resistance>82.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>11</Length>
+		<Resistance>108</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>11</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>11</Length>
+		<Resistance>183</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>11</Length>
+		<Resistance>234</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>11</Length>
+		<Resistance>300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>11</Length>
+		<Resistance>374</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>11</Length>
+		<Resistance>477</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>11</Length>
+		<Resistance>1.16</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>11</Length>
+		<Resistance>2.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>11</Length>
+		<Resistance>3.53</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>11</Length>
+		<Resistance>5.61</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>11</Length>
+		<Resistance>8.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>11</Length>
+		<Resistance>12.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>11</Length>
+		<Resistance>18.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>11</Length>
+		<Resistance>26.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>11</Length>
+		<Resistance>37.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>11</Length>
+		<Resistance>1.14</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>11</Length>
+		<Resistance>19.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>11</Length>
+		<Resistance>27.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>11</Length>
+		<Resistance>38.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>11</Length>
+		<Resistance>52.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>11</Length>
+		<Resistance>82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>11</Length>
+		<Resistance>118</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>11</Length>
+		<Resistance>152</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>11</Length>
+		<Resistance>196</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>11</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>11</Length>
+		<Resistance>324</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>11</Length>
+		<Resistance>405</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>11</Length>
+		<Resistance>497</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>11</Length>
+		<Resistance>691</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>11</Length>
+		<Resistance>275</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>11</Length>
+		<Resistance>371</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>11</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>11</Length>
+		<Resistance>654</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>11</Length>
+		<Resistance>850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>12</Length>
+		<Resistance>2.22</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>12</Length>
+		<Resistance>3.87</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>12</Length>
+		<Resistance>6.21</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>12</Length>
+		<Resistance>9.42</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>12</Length>
+		<Resistance>13.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>12</Length>
+		<Resistance>19.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>12</Length>
+		<Resistance>28.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>12</Length>
+		<Resistance>38.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>12</Length>
+		<Resistance>56.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>12</Length>
+		<Resistance>81</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>12</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>12</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>12</Length>
+		<Resistance>175</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>12</Length>
+		<Resistance>221</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>12</Length>
+		<Resistance>282</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>12</Length>
+		<Resistance>348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>12</Length>
+		<Resistance>441</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>12</Length>
+		<Resistance>616</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>12</Length>
+		<Resistance>678</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>12</Length>
+		<Resistance>876</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>12</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>12</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>12</Length>
+		<Resistance>1.18</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>12</Length>
+		<Resistance>1.84</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>12</Length>
+		<Resistance>3.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>12</Length>
+		<Resistance>5.07</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>12</Length>
+		<Resistance>7.51</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>12</Length>
+		<Resistance>11.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>12</Length>
+		<Resistance>16</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>12</Length>
+		<Resistance>23.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>12</Length>
+		<Resistance>32.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>12</Length>
+		<Resistance>48.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>12</Length>
+		<Resistance>69.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>12</Length>
+		<Resistance>91.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>12</Length>
+		<Resistance>125</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>12</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>12</Length>
+		<Resistance>198</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>12</Length>
+		<Resistance>255</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>12</Length>
+		<Resistance>318</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>12</Length>
+		<Resistance>405</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>12</Length>
+		<Resistance>0.974</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>12</Length>
+		<Resistance>1.77</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>12</Length>
+		<Resistance>2.97</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>12</Length>
+		<Resistance>4.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>12</Length>
+		<Resistance>7.12</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>12</Length>
+		<Resistance>10.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>12</Length>
+		<Resistance>15.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>12</Length>
+		<Resistance>22.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>12</Length>
+		<Resistance>31.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>12</Length>
+		<Resistance>0.959</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>12</Length>
+		<Resistance>16.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>12</Length>
+		<Resistance>23.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>12</Length>
+		<Resistance>32.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>12</Length>
+		<Resistance>44.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>12</Length>
+		<Resistance>69.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>12</Length>
+		<Resistance>100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>12</Length>
+		<Resistance>128</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>12</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>12</Length>
+		<Resistance>207</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>12</Length>
+		<Resistance>274</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>12</Length>
+		<Resistance>344</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>12</Length>
+		<Resistance>422</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>12</Length>
+		<Resistance>586</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>12</Length>
+		<Resistance>233</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>12</Length>
+		<Resistance>315</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>12</Length>
+		<Resistance>427</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>12</Length>
+		<Resistance>555</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>12</Length>
+		<Resistance>722</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>13</Length>
+		<Resistance>1.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>13</Length>
+		<Resistance>3.31</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>13</Length>
+		<Resistance>5.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>13</Length>
+		<Resistance>8.05</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>13</Length>
+		<Resistance>11.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>13</Length>
+		<Resistance>16.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>13</Length>
+		<Resistance>24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>13</Length>
+		<Resistance>32.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>13</Length>
+		<Resistance>48.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>13</Length>
+		<Resistance>69.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>13</Length>
+		<Resistance>90.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>13</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>13</Length>
+		<Resistance>150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>13</Length>
+		<Resistance>190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>13</Length>
+		<Resistance>242</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>13</Length>
+		<Resistance>299</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>13</Length>
+		<Resistance>379</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>13</Length>
+		<Resistance>530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>13</Length>
+		<Resistance>584</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>13</Length>
+		<Resistance>754</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>13</Length>
+		<Resistance>895</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>13</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>13</Length>
+		<Resistance>1.01</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>13</Length>
+		<Resistance>1.57</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>13</Length>
+		<Resistance>2.65</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>13</Length>
+		<Resistance>4.33</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>13</Length>
+		<Resistance>6.42</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>13</Length>
+		<Resistance>9.71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>13</Length>
+		<Resistance>13.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>13</Length>
+		<Resistance>20</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>13</Length>
+		<Resistance>27.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>13</Length>
+		<Resistance>41.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>13</Length>
+		<Resistance>59.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>13</Length>
+		<Resistance>78.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>13</Length>
+		<Resistance>107</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>13</Length>
+		<Resistance>133</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>13</Length>
+		<Resistance>170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>13</Length>
+		<Resistance>218</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>13</Length>
+		<Resistance>273</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>13</Length>
+		<Resistance>348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>13</Length>
+		<Resistance>0.832</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>13</Length>
+		<Resistance>1.51</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>13</Length>
+		<Resistance>2.54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>13</Length>
+		<Resistance>4.04</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>13</Length>
+		<Resistance>6.09</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>13</Length>
+		<Resistance>9.23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>13</Length>
+		<Resistance>13.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>13</Length>
+		<Resistance>19.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>13</Length>
+		<Resistance>26.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>13</Length>
+		<Resistance>0.819</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>13</Length>
+		<Resistance>13.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>13</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>13</Length>
+		<Resistance>28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>13</Length>
+		<Resistance>38.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>13</Length>
+		<Resistance>59.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>13</Length>
+		<Resistance>85.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>13</Length>
+		<Resistance>110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>13</Length>
+		<Resistance>143</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>13</Length>
+		<Resistance>178</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>13</Length>
+		<Resistance>236</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>13</Length>
+		<Resistance>295</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>13</Length>
+		<Resistance>362</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>13</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>13</Length>
+		<Resistance>200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>13</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>13</Length>
+		<Resistance>367</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>13</Length>
+		<Resistance>477</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>13</Length>
+		<Resistance>620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 100</Name>
+		<Weight>8.1</Weight>
+		<Length>14</Length>
+		<Resistance>1.64</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 120</Name>
+		<Weight>10.4</Weight>
+		<Length>14</Length>
+		<Resistance>2.86</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 140</Name>
+		<Weight>12.9</Weight>
+		<Length>14</Length>
+		<Resistance>4.58</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 160</Name>
+		<Weight>15.8</Weight>
+		<Length>14</Length>
+		<Resistance>6.96</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 180</Name>
+		<Weight>18.8</Weight>
+		<Length>14</Length>
+		<Resistance>10.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 200</Name>
+		<Weight>22.4</Weight>
+		<Length>14</Length>
+		<Resistance>14.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 220</Name>
+		<Weight>26.2</Weight>
+		<Length>14</Length>
+		<Resistance>20.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 240</Name>
+		<Weight>30.7</Weight>
+		<Length>14</Length>
+		<Resistance>28.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 270</Name>
+		<Weight>36.1</Weight>
+		<Length>14</Length>
+		<Resistance>41.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 300*</Name>
+		<Weight>42.2</Weight>
+		<Length>14</Length>
+		<Resistance>60.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 330*</Name>
+		<Weight>49.1</Weight>
+		<Length>14</Length>
+		<Resistance>78.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 360*</Name>
+		<Weight>57.1</Weight>
+		<Length>14</Length>
+		<Resistance>103</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 400*</Name>
+		<Weight>66.3</Weight>
+		<Length>14</Length>
+		<Resistance>130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 450*</Name>
+		<Weight>77.6</Weight>
+		<Length>14</Length>
+		<Resistance>165</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 500*</Name>
+		<Weight>90.7</Weight>
+		<Length>14</Length>
+		<Resistance>210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 550*</Name>
+		<Weight>106</Weight>
+		<Length>14</Length>
+		<Resistance>259</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 600*</Name>
+		<Weight>122</Weight>
+		<Length>14</Length>
+		<Resistance>329</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 134*</Name>
+		<Weight>134</Weight>
+		<Length>14</Length>
+		<Resistance>460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 147*</Name>
+		<Weight>147</Weight>
+		<Length>14</Length>
+		<Resistance>507</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 173*</Name>
+		<Weight>173</Weight>
+		<Length>14</Length>
+		<Resistance>655</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 196*</Name>
+		<Weight>196</Weight>
+		<Length>14</Length>
+		<Resistance>778</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 750 x 220*</Name>
+		<Weight>220</Weight>
+		<Length>14</Length>
+		<Resistance>897</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE 80</Name>
+		<Weight>6</Weight>
+		<Length>14</Length>
+		<Resistance>0.869</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 100</Name>
+		<Weight>6.9</Weight>
+		<Length>14</Length>
+		<Resistance>1.35</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 120</Name>
+		<Weight>8.7</Weight>
+		<Length>14</Length>
+		<Resistance>2.29</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 140</Name>
+		<Weight>10.5</Weight>
+		<Length>14</Length>
+		<Resistance>3.74</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 160</Name>
+		<Weight>12.7</Weight>
+		<Length>14</Length>
+		<Resistance>5.55</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 180</Name>
+		<Weight>15.4</Weight>
+		<Length>14</Length>
+		<Resistance>8.39</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 200*</Name>
+		<Weight>18.4</Weight>
+		<Length>14</Length>
+		<Resistance>11.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 220*</Name>
+		<Weight>22.2</Weight>
+		<Length>14</Length>
+		<Resistance>17.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 240*</Name>
+		<Weight>26.2</Weight>
+		<Length>14</Length>
+		<Resistance>24.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 270*</Name>
+		<Weight>30.7</Weight>
+		<Length>14</Length>
+		<Resistance>35.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 300*</Name>
+		<Weight>36.5</Weight>
+		<Length>14</Length>
+		<Resistance>51.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 330*</Name>
+		<Weight>43</Weight>
+		<Length>14</Length>
+		<Resistance>68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 360*</Name>
+		<Weight>50.2</Weight>
+		<Length>14</Length>
+		<Resistance>93.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 400*</Name>
+		<Weight>57.4</Weight>
+		<Length>14</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 450*</Name>
+		<Weight>67.2</Weight>
+		<Length>14</Length>
+		<Resistance>147</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 500*</Name>
+		<Weight>79.4</Weight>
+		<Length>14</Length>
+		<Resistance>190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 550*</Name>
+		<Weight>92.1</Weight>
+		<Length>14</Length>
+		<Resistance>237</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 600*</Name>
+		<Weight>108</Weight>
+		<Length>14</Length>
+		<Resistance>302</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE A 80</Name>
+		<Weight>5</Weight>
+		<Length>14</Length>
+		<Resistance>0.718</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 100</Name>
+		<Weight>6.7</Weight>
+		<Length>14</Length>
+		<Resistance>1.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 120</Name>
+		<Weight>8.4</Weight>
+		<Length>14</Length>
+		<Resistance>2.19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 140</Name>
+		<Weight>10.1</Weight>
+		<Length>14</Length>
+		<Resistance>3.49</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 160</Name>
+		<Weight>12.3</Weight>
+		<Length>14</Length>
+		<Resistance>5.26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 180</Name>
+		<Weight>14.9</Weight>
+		<Length>14</Length>
+		<Resistance>7.98</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 200*</Name>
+		<Weight>18</Weight>
+		<Length>14</Length>
+		<Resistance>11.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 220*</Name>
+		<Weight>21.2</Weight>
+		<Length>14</Length>
+		<Resistance>16.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 240*</Name>
+		<Weight>24.9</Weight>
+		<Length>14</Length>
+		<Resistance>23.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE AA 80</Name>
+		<Weight>4.9</Weight>
+		<Length>14</Length>
+		<Resistance>0.707</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 180</Name>
+		<Weight>21.3</Weight>
+		<Length>14</Length>
+		<Resistance>11.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 200</Name>
+		<Weight>25.1</Weight>
+		<Length>14</Length>
+		<Resistance>17.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 220</Name>
+		<Weight>29.4</Weight>
+		<Length>14</Length>
+		<Resistance>24.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 240</Name>
+		<Weight>34.3</Weight>
+		<Length>14</Length>
+		<Resistance>33</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 270</Name>
+		<Weight>42.3</Weight>
+		<Length>14</Length>
+		<Resistance>51.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 300</Name>
+		<Weight>49.3</Weight>
+		<Length>14</Length>
+		<Resistance>74.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 330</Name>
+		<Weight>57</Weight>
+		<Length>14</Length>
+		<Resistance>95.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 360</Name>
+		<Weight>66</Weight>
+		<Length>14</Length>
+		<Resistance>124</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 400</Name>
+		<Weight>75.7</Weight>
+		<Length>14</Length>
+		<Resistance>154</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 450</Name>
+		<Weight>92.4</Weight>
+		<Length>14</Length>
+		<Resistance>204</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 500*</Name>
+		<Weight>107</Weight>
+		<Length>14</Length>
+		<Resistance>256</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 550*</Name>
+		<Weight>123</Weight>
+		<Length>14</Length>
+		<Resistance>314</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE O 600</Name>
+		<Weight>154</Weight>
+		<Length>14</Length>
+		<Resistance>437</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 400</Name>
+		<Weight>84</Weight>
+		<Length>14</Length>
+		<Resistance>173</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 450</Name>
+		<Weight>107</Weight>
+		<Length>14</Length>
+		<Resistance>234</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 500</Name>
+		<Weight>129</Weight>
+		<Length>14</Length>
+		<Resistance>318</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 550</Name>
+		<Weight>159</Weight>
+		<Length>14</Length>
+		<Resistance>414</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>IPE V 600</Name>
+		<Weight>184</Weight>
+		<Length>14</Length>
+		<Resistance>538</Resistance>
+	</Beaminfo>
+</Root>

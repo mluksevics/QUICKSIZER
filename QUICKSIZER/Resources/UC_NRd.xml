@@ -1,0 +1,4287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>1</Length>
+		<Resistance>955</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>1.5</Length>
+		<Resistance>856</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>2</Length>
+		<Resistance>746</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>2.5</Length>
+		<Resistance>632</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>3</Length>
+		<Resistance>524</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>3.5</Length>
+		<Resistance>431</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>4</Length>
+		<Resistance>356</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>5</Length>
+		<Resistance>250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>6</Length>
+		<Resistance>183</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>7</Length>
+		<Resistance>140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>8</Length>
+		<Resistance>110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>9</Length>
+		<Resistance>88.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>10</Length>
+		<Resistance>72.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>11</Length>
+		<Resistance>60.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>12</Length>
+		<Resistance>51.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>13</Length>
+		<Resistance>44.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 23</Name>
+		<Weight>23</Weight>
+		<Length>14</Length>
+		<Resistance>38.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>1</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>1.5</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>2</Length>
+		<Resistance>999</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>2.5</Length>
+		<Resistance>854</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>3</Length>
+		<Resistance>714</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>3.5</Length>
+		<Resistance>592</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>4</Length>
+		<Resistance>492</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>5</Length>
+		<Resistance>347</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>6</Length>
+		<Resistance>256</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>7</Length>
+		<Resistance>195</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>8</Length>
+		<Resistance>153</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>9</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>10</Length>
+		<Resistance>102</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>11</Length>
+		<Resistance>85</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>12</Length>
+		<Resistance>72.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>13</Length>
+		<Resistance>62</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 30</Name>
+		<Weight>30</Weight>
+		<Length>14</Length>
+		<Resistance>53.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>1</Length>
+		<Resistance>1550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>1.5</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>2</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>2.5</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>3</Length>
+		<Resistance>889</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>3.5</Length>
+		<Resistance>738</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>4</Length>
+		<Resistance>614</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>5</Length>
+		<Resistance>435</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>6</Length>
+		<Resistance>320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>7</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>8</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>9</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>10</Length>
+		<Resistance>127</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>11</Length>
+		<Resistance>107</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>12</Length>
+		<Resistance>90.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>13</Length>
+		<Resistance>77.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152 x 152 x 37</Name>
+		<Weight>37</Weight>
+		<Length>14</Length>
+		<Resistance>67.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>1</Length>
+		<Resistance>4280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>1.5</Length>
+		<Resistance>4010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>2</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>2.5</Length>
+		<Resistance>3430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>3</Length>
+		<Resistance>3120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>3.5</Length>
+		<Resistance>2790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>4</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>5</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>6</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>7</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>8</Length>
+		<Resistance>921</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>9</Length>
+		<Resistance>751</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>10</Length>
+		<Resistance>624</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>11</Length>
+		<Resistance>525</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>12</Length>
+		<Resistance>449</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>13</Length>
+		<Resistance>387</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 100</Name>
+		<Weight>100</Weight>
+		<Length>14</Length>
+		<Resistance>337</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>1</Length>
+		<Resistance>2020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>1.5</Length>
+		<Resistance>1890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>2</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>2.5</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>3</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>3.5</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>4</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>5</Length>
+		<Resistance>832</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>6</Length>
+		<Resistance>635</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>7</Length>
+		<Resistance>495</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>8</Length>
+		<Resistance>395</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>9</Length>
+		<Resistance>321</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>10</Length>
+		<Resistance>266</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>11</Length>
+		<Resistance>224</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>12</Length>
+		<Resistance>191</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>13</Length>
+		<Resistance>165</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 46</Name>
+		<Weight>46</Weight>
+		<Length>14</Length>
+		<Resistance>143</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>1</Length>
+		<Resistance>2290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>1.5</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>2</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>2.5</Length>
+		<Resistance>1800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>3</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>3.5</Length>
+		<Resistance>1430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>4</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>5</Length>
+		<Resistance>952</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>6</Length>
+		<Resistance>728</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>7</Length>
+		<Resistance>568</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>8</Length>
+		<Resistance>453</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>9</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>10</Length>
+		<Resistance>306</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>11</Length>
+		<Resistance>257</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>12</Length>
+		<Resistance>219</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>13</Length>
+		<Resistance>189</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 52</Name>
+		<Weight>52</Weight>
+		<Length>14</Length>
+		<Resistance>165</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>1</Length>
+		<Resistance>2640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>1.5</Length>
+		<Resistance>2470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>2</Length>
+		<Resistance>2280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>2.5</Length>
+		<Resistance>2080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>3</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>3.5</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>4</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>5</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>6</Length>
+		<Resistance>844</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>7</Length>
+		<Resistance>659</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>8</Length>
+		<Resistance>526</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>9</Length>
+		<Resistance>428</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>10</Length>
+		<Resistance>355</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>11</Length>
+		<Resistance>299</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>12</Length>
+		<Resistance>255</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>13</Length>
+		<Resistance>220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 60</Name>
+		<Weight>60</Weight>
+		<Length>14</Length>
+		<Resistance>191</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>1</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>1.5</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>2</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>2.5</Length>
+		<Resistance>2430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>3</Length>
+		<Resistance>2200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>3.5</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>4</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>5</Length>
+		<Resistance>1330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>6</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>7</Length>
+		<Resistance>801</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>8</Length>
+		<Resistance>640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>9</Length>
+		<Resistance>522</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>10</Length>
+		<Resistance>433</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>11</Length>
+		<Resistance>365</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>12</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>13</Length>
+		<Resistance>269</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 71</Name>
+		<Weight>71</Weight>
+		<Length>14</Length>
+		<Resistance>234</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>1</Length>
+		<Resistance>3700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>1.5</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>2</Length>
+		<Resistance>3220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>2.5</Length>
+		<Resistance>2960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>3</Length>
+		<Resistance>2680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>3.5</Length>
+		<Resistance>2400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>4</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>5</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>6</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>7</Length>
+		<Resistance>983</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>8</Length>
+		<Resistance>786</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>9</Length>
+		<Resistance>641</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>10</Length>
+		<Resistance>532</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>11</Length>
+		<Resistance>448</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>12</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>13</Length>
+		<Resistance>330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203 x 203 x 86</Name>
+		<Weight>86</Weight>
+		<Length>14</Length>
+		<Resistance>288</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>1</Length>
+		<Resistance>4710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>1.5</Length>
+		<Resistance>4480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>2</Length>
+		<Resistance>4240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>2.5</Length>
+		<Resistance>3990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>3</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>3.5</Length>
+		<Resistance>3450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>4</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>5</Length>
+		<Resistance>2600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>6</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>7</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>8</Length>
+		<Resistance>1380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>9</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>10</Length>
+		<Resistance>957</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>11</Length>
+		<Resistance>812</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>12</Length>
+		<Resistance>696</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>13</Length>
+		<Resistance>603</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 107</Name>
+		<Weight>107</Weight>
+		<Length>14</Length>
+		<Resistance>528</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>1</Length>
+		<Resistance>5800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>1.5</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>2</Length>
+		<Resistance>5250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>2.5</Length>
+		<Resistance>4950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>3</Length>
+		<Resistance>4630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>3.5</Length>
+		<Resistance>4290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>4</Length>
+		<Resistance>3940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>5</Length>
+		<Resistance>3250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>6</Length>
+		<Resistance>2640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>7</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>8</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>9</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>10</Length>
+		<Resistance>1210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>11</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>12</Length>
+		<Resistance>882</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>13</Length>
+		<Resistance>764</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 132</Name>
+		<Weight>132</Weight>
+		<Length>14</Length>
+		<Resistance>668</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>1</Length>
+		<Resistance>7340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>1.5</Length>
+		<Resistance>7030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>2</Length>
+		<Resistance>6670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>2.5</Length>
+		<Resistance>6300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>3</Length>
+		<Resistance>5900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>3.5</Length>
+		<Resistance>5490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>4</Length>
+		<Resistance>5060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>5</Length>
+		<Resistance>4190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>6</Length>
+		<Resistance>3420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>7</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>8</Length>
+		<Resistance>2270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>9</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>10</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>11</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>12</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>13</Length>
+		<Resistance>999</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 167</Name>
+		<Weight>167</Weight>
+		<Length>14</Length>
+		<Resistance>874</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>1</Length>
+		<Resistance>3300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>1.5</Length>
+		<Resistance>3130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>2</Length>
+		<Resistance>2960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>2.5</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>3</Length>
+		<Resistance>2580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>3.5</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>4</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>5</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>6</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>7</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>8</Length>
+		<Resistance>925</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>9</Length>
+		<Resistance>762</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>10</Length>
+		<Resistance>637</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>11</Length>
+		<Resistance>540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>12</Length>
+		<Resistance>463</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>13</Length>
+		<Resistance>401</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 73</Name>
+		<Weight>73</Weight>
+		<Length>14</Length>
+		<Resistance>350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>1</Length>
+		<Resistance>3910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>1.5</Length>
+		<Resistance>3720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>2</Length>
+		<Resistance>3520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>2.5</Length>
+		<Resistance>3310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>3</Length>
+		<Resistance>3090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>3.5</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>4</Length>
+		<Resistance>2620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>5</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>6</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>7</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>8</Length>
+		<Resistance>1140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>9</Length>
+		<Resistance>940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>10</Length>
+		<Resistance>787</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>11</Length>
+		<Resistance>667</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>12</Length>
+		<Resistance>572</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>13</Length>
+		<Resistance>496</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254 x 254 x 89</Name>
+		<Weight>89</Weight>
+		<Length>14</Length>
+		<Resistance>434</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>1</Length>
+		<Resistance>5180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>1.5</Length>
+		<Resistance>5050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>2</Length>
+		<Resistance>4830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>2.5</Length>
+		<Resistance>4610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>3</Length>
+		<Resistance>4370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>3.5</Length>
+		<Resistance>4130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>4</Length>
+		<Resistance>3870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>5</Length>
+		<Resistance>3330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>6</Length>
+		<Resistance>2810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>7</Length>
+		<Resistance>2340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>8</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>9</Length>
+		<Resistance>1640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>10</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>11</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>12</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>13</Length>
+		<Resistance>890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 118</Name>
+		<Weight>118</Weight>
+		<Length>14</Length>
+		<Resistance>781</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>1</Length>
+		<Resistance>6020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>1.5</Length>
+		<Resistance>5870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>2</Length>
+		<Resistance>5620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>2.5</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>3</Length>
+		<Resistance>5090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>3.5</Length>
+		<Resistance>4810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>4</Length>
+		<Resistance>4510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>5</Length>
+		<Resistance>3890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>6</Length>
+		<Resistance>3290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>7</Length>
+		<Resistance>2750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>8</Length>
+		<Resistance>2290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>9</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>10</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>11</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>12</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>13</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 137</Name>
+		<Weight>137</Weight>
+		<Length>14</Length>
+		<Resistance>920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>1</Length>
+		<Resistance>6950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>1.5</Length>
+		<Resistance>6790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>2</Length>
+		<Resistance>6500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>2.5</Length>
+		<Resistance>6200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>3</Length>
+		<Resistance>5900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>3.5</Length>
+		<Resistance>5570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>4</Length>
+		<Resistance>5230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>5</Length>
+		<Resistance>4530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>6</Length>
+		<Resistance>3830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>7</Length>
+		<Resistance>3210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>8</Length>
+		<Resistance>2680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>9</Length>
+		<Resistance>2250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>10</Length>
+		<Resistance>1910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>11</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>12</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>13</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 158</Name>
+		<Weight>158</Weight>
+		<Length>14</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>1</Length>
+		<Resistance>8710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>1.5</Length>
+		<Resistance>8530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>2</Length>
+		<Resistance>8170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>2.5</Length>
+		<Resistance>7810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>3</Length>
+		<Resistance>7430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>3.5</Length>
+		<Resistance>7030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>4</Length>
+		<Resistance>6620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>5</Length>
+		<Resistance>5750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>6</Length>
+		<Resistance>4890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>7</Length>
+		<Resistance>4110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>8</Length>
+		<Resistance>3440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>9</Length>
+		<Resistance>2900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>10</Length>
+		<Resistance>2460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>11</Length>
+		<Resistance>2110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>12</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>13</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 198</Name>
+		<Weight>198</Weight>
+		<Length>14</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>1</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>1.5</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>2</Length>
+		<Resistance>9920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>2.5</Length>
+		<Resistance>9490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>3</Length>
+		<Resistance>9040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>3.5</Length>
+		<Resistance>8570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>4</Length>
+		<Resistance>8080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>5</Length>
+		<Resistance>7040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>6</Length>
+		<Resistance>6010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>7</Length>
+		<Resistance>5060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>8</Length>
+		<Resistance>4250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>9</Length>
+		<Resistance>3590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>10</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>11</Length>
+		<Resistance>2610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>12</Length>
+		<Resistance>2260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>13</Length>
+		<Resistance>1970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 240</Name>
+		<Weight>240</Weight>
+		<Length>14</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>1</Length>
+		<Resistance>12800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>1.5</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>2</Length>
+		<Resistance>12000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>2.5</Length>
+		<Resistance>11500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>3</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>3.5</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>4</Length>
+		<Resistance>9800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>5</Length>
+		<Resistance>8540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>6</Length>
+		<Resistance>7290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>7</Length>
+		<Resistance>6140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>8</Length>
+		<Resistance>5160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>9</Length>
+		<Resistance>4350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>10</Length>
+		<Resistance>3700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>11</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>12</Length>
+		<Resistance>2740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>13</Length>
+		<Resistance>2390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 283+</Name>
+		<Weight>283</Weight>
+		<Length>14</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>1</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>1.5</Length>
+		<Resistance>4260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>2</Length>
+		<Resistance>4070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>2.5</Length>
+		<Resistance>3870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>3</Length>
+		<Resistance>3670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>3.5</Length>
+		<Resistance>3450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>4</Length>
+		<Resistance>3230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>5</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>6</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>7</Length>
+		<Resistance>1920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>8</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>9</Length>
+		<Resistance>1330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>10</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>11</Length>
+		<Resistance>962</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>12</Length>
+		<Resistance>829</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>13</Length>
+		<Resistance>721</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305 x 305 x 97</Name>
+		<Weight>97</Weight>
+		<Length>14</Length>
+		<Resistance>632</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>1</Length>
+		<Resistance>5670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>1.5</Length>
+		<Resistance>5650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>2</Length>
+		<Resistance>5460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>2.5</Length>
+		<Resistance>5260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>3</Length>
+		<Resistance>5060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>3.5</Length>
+		<Resistance>4840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>4</Length>
+		<Resistance>4630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>5</Length>
+		<Resistance>4160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>6</Length>
+		<Resistance>3680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>7</Length>
+		<Resistance>3200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>8</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>9</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>10</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>11</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>12</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>13</Length>
+		<Resistance>1360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 129</Name>
+		<Weight>129</Weight>
+		<Length>14</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>1</Length>
+		<Resistance>6720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>1.5</Length>
+		<Resistance>6710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>2</Length>
+		<Resistance>6480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>2.5</Length>
+		<Resistance>6240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>3</Length>
+		<Resistance>6000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>3.5</Length>
+		<Resistance>5760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>4</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>5</Length>
+		<Resistance>4950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>6</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>7</Length>
+		<Resistance>3820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>8</Length>
+		<Resistance>3300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>9</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>10</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>11</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>12</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>13</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 153</Name>
+		<Weight>153</Weight>
+		<Length>14</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>1</Length>
+		<Resistance>7780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>1.5</Length>
+		<Resistance>7770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>2</Length>
+		<Resistance>7500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>2.5</Length>
+		<Resistance>7230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>3</Length>
+		<Resistance>6960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>3.5</Length>
+		<Resistance>6670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>4</Length>
+		<Resistance>6380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>5</Length>
+		<Resistance>5750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>6</Length>
+		<Resistance>5100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>7</Length>
+		<Resistance>4440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>8</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>9</Length>
+		<Resistance>3310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>10</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>11</Length>
+		<Resistance>2480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>12</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>13</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 177</Name>
+		<Weight>177</Weight>
+		<Length>14</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>1</Length>
+		<Resistance>8870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>1.5</Length>
+		<Resistance>8870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>2</Length>
+		<Resistance>8560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>2.5</Length>
+		<Resistance>8260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>3</Length>
+		<Resistance>7950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>3.5</Length>
+		<Resistance>7630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>4</Length>
+		<Resistance>7290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>5</Length>
+		<Resistance>6580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>6</Length>
+		<Resistance>5840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>7</Length>
+		<Resistance>5100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>8</Length>
+		<Resistance>4420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>9</Length>
+		<Resistance>3810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>10</Length>
+		<Resistance>3290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>11</Length>
+		<Resistance>2850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>12</Length>
+		<Resistance>2490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>13</Length>
+		<Resistance>2190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 368 x 202</Name>
+		<Weight>202</Weight>
+		<Length>14</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>1</Length>
+		<Resistance>49200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>1.5</Length>
+		<Resistance>49200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>2</Length>
+		<Resistance>48700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>2.5</Length>
+		<Resistance>47300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>3</Length>
+		<Resistance>45900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>3.5</Length>
+		<Resistance>44500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>4</Length>
+		<Resistance>43100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>5</Length>
+		<Resistance>40100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>6</Length>
+		<Resistance>36900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>7</Length>
+		<Resistance>33500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>8</Length>
+		<Resistance>30100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>9</Length>
+		<Resistance>26900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>10</Length>
+		<Resistance>23800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>11</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>12</Length>
+		<Resistance>18700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>13</Length>
+		<Resistance>16600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1086+</Name>
+		<Weight>1086</Weight>
+		<Length>14</Length>
+		<Resistance>14900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>1</Length>
+		<Resistance>54300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>1.5</Length>
+		<Resistance>54300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>2</Length>
+		<Resistance>53900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>2.5</Length>
+		<Resistance>52500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>3</Length>
+		<Resistance>51000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>3.5</Length>
+		<Resistance>49500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>4</Length>
+		<Resistance>47900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>5</Length>
+		<Resistance>44700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>6</Length>
+		<Resistance>41300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>7</Length>
+		<Resistance>37700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>8</Length>
+		<Resistance>34000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>9</Length>
+		<Resistance>30500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>10</Length>
+		<Resistance>27200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>11</Length>
+		<Resistance>24100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>12</Length>
+		<Resistance>21500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>13</Length>
+		<Resistance>19100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1202+</Name>
+		<Weight>1202</Weight>
+		<Length>14</Length>
+		<Resistance>17100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>1</Length>
+		<Resistance>58700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>1.5</Length>
+		<Resistance>58700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>2</Length>
+		<Resistance>58400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>2.5</Length>
+		<Resistance>56800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>3</Length>
+		<Resistance>55300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>3.5</Length>
+		<Resistance>53700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>4</Length>
+		<Resistance>52000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>5</Length>
+		<Resistance>48600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>6</Length>
+		<Resistance>45000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>7</Length>
+		<Resistance>41200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>8</Length>
+		<Resistance>37300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>9</Length>
+		<Resistance>33500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>10</Length>
+		<Resistance>29900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>11</Length>
+		<Resistance>26600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>12</Length>
+		<Resistance>23700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>13</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 1299+</Name>
+		<Weight>1299</Weight>
+		<Length>14</Length>
+		<Resistance>18900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>1</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>1.5</Length>
+		<Resistance>10300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>2</Length>
+		<Resistance>10000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>2.5</Length>
+		<Resistance>9700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>3</Length>
+		<Resistance>9370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>3.5</Length>
+		<Resistance>9020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>4</Length>
+		<Resistance>8660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>5</Length>
+		<Resistance>7900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>6</Length>
+		<Resistance>7100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>7</Length>
+		<Resistance>6280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>8</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>9</Length>
+		<Resistance>4790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>10</Length>
+		<Resistance>4170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>11</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>12</Length>
+		<Resistance>3180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>13</Length>
+		<Resistance>2800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 235</Name>
+		<Weight>235</Weight>
+		<Length>14</Length>
+		<Resistance>2480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>1</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>1.5</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>2</Length>
+		<Resistance>12300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>2.5</Length>
+		<Resistance>11900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>3</Length>
+		<Resistance>11500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>3.5</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>4</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>5</Length>
+		<Resistance>9700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>6</Length>
+		<Resistance>8720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>7</Length>
+		<Resistance>7730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>8</Length>
+		<Resistance>6780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>9</Length>
+		<Resistance>5910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>10</Length>
+		<Resistance>5150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>11</Length>
+		<Resistance>4500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>12</Length>
+		<Resistance>3940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>13</Length>
+		<Resistance>3480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 287</Name>
+		<Weight>287</Weight>
+		<Length>14</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>1</Length>
+		<Resistance>15400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>1.5</Length>
+		<Resistance>15400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>2</Length>
+		<Resistance>15000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>2.5</Length>
+		<Resistance>14500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>3</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>3.5</Length>
+		<Resistance>13500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>4</Length>
+		<Resistance>12900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>5</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>6</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>7</Length>
+		<Resistance>9400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>8</Length>
+		<Resistance>8240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>9</Length>
+		<Resistance>7180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>10</Length>
+		<Resistance>6250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>11</Length>
+		<Resistance>5460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>12</Length>
+		<Resistance>4780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>13</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 340+</Name>
+		<Weight>340</Weight>
+		<Length>14</Length>
+		<Resistance>3740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>1</Length>
+		<Resistance>17800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>1.5</Length>
+		<Resistance>17800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>2</Length>
+		<Resistance>17300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>2.5</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>3</Length>
+		<Resistance>16200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>3.5</Length>
+		<Resistance>15600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>4</Length>
+		<Resistance>15000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>5</Length>
+		<Resistance>13700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>6</Length>
+		<Resistance>12400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>7</Length>
+		<Resistance>11000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>8</Length>
+		<Resistance>9640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>9</Length>
+		<Resistance>8420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>10</Length>
+		<Resistance>7340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>11</Length>
+		<Resistance>6420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>12</Length>
+		<Resistance>5630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>13</Length>
+		<Resistance>4960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 393+</Name>
+		<Weight>393</Weight>
+		<Length>14</Length>
+		<Resistance>4400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>1</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>1.5</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>2</Length>
+		<Resistance>20600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>2.5</Length>
+		<Resistance>20000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>3</Length>
+		<Resistance>19300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>3.5</Length>
+		<Resistance>18600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>4</Length>
+		<Resistance>17900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>5</Length>
+		<Resistance>16400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>6</Length>
+		<Resistance>14800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>7</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>8</Length>
+		<Resistance>11600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>9</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>10</Length>
+		<Resistance>8910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>11</Length>
+		<Resistance>7800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>12</Length>
+		<Resistance>6850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>13</Length>
+		<Resistance>6040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 467+</Name>
+		<Weight>467</Weight>
+		<Length>14</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>1</Length>
+		<Resistance>23000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>1.5</Length>
+		<Resistance>23000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>2</Length>
+		<Resistance>22500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>2.5</Length>
+		<Resistance>21800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>3</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>3.5</Length>
+		<Resistance>20400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>4</Length>
+		<Resistance>19600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>5</Length>
+		<Resistance>18000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>6</Length>
+		<Resistance>16300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>7</Length>
+		<Resistance>14500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>8</Length>
+		<Resistance>12800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>9</Length>
+		<Resistance>11200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>10</Length>
+		<Resistance>9840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>11</Length>
+		<Resistance>8620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>12</Length>
+		<Resistance>7580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>13</Length>
+		<Resistance>6690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 509+</Name>
+		<Weight>509</Weight>
+		<Length>14</Length>
+		<Resistance>5940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>1</Length>
+		<Resistance>24900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>1.5</Length>
+		<Resistance>24900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>2</Length>
+		<Resistance>24400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>2.5</Length>
+		<Resistance>23600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>3</Length>
+		<Resistance>22900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>3.5</Length>
+		<Resistance>22100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>4</Length>
+		<Resistance>21200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>5</Length>
+		<Resistance>19500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>6</Length>
+		<Resistance>17700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>7</Length>
+		<Resistance>15800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>8</Length>
+		<Resistance>14000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>9</Length>
+		<Resistance>12300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>10</Length>
+		<Resistance>10700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>11</Length>
+		<Resistance>9410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>12</Length>
+		<Resistance>8280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>13</Length>
+		<Resistance>7310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 551+</Name>
+		<Weight>551</Weight>
+		<Length>14</Length>
+		<Resistance>6490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>1</Length>
+		<Resistance>26800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>1.5</Length>
+		<Resistance>26800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>2</Length>
+		<Resistance>26300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>2.5</Length>
+		<Resistance>25400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>3</Length>
+		<Resistance>24600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>3.5</Length>
+		<Resistance>23800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>4</Length>
+		<Resistance>22900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>5</Length>
+		<Resistance>21100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>6</Length>
+		<Resistance>19100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>7</Length>
+		<Resistance>17100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>8</Length>
+		<Resistance>15100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>9</Length>
+		<Resistance>13300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>10</Length>
+		<Resistance>11700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>11</Length>
+		<Resistance>10200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>12</Length>
+		<Resistance>9000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>13</Length>
+		<Resistance>7950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 592+</Name>
+		<Weight>592</Weight>
+		<Length>14</Length>
+		<Resistance>7060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>1</Length>
+		<Resistance>28700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>1.5</Length>
+		<Resistance>28700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>2</Length>
+		<Resistance>28100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>2.5</Length>
+		<Resistance>27300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>3</Length>
+		<Resistance>26400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>3.5</Length>
+		<Resistance>25500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>4</Length>
+		<Resistance>24600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>5</Length>
+		<Resistance>22600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>6</Length>
+		<Resistance>20500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>7</Length>
+		<Resistance>18400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>8</Length>
+		<Resistance>16300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>9</Length>
+		<Resistance>14400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>10</Length>
+		<Resistance>12600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>11</Length>
+		<Resistance>11100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>12</Length>
+		<Resistance>9750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>13</Length>
+		<Resistance>8620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 634+</Name>
+		<Weight>634</Weight>
+		<Length>14</Length>
+		<Resistance>7660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>1</Length>
+		<Resistance>30700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>1.5</Length>
+		<Resistance>30700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>2</Length>
+		<Resistance>30100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>2.5</Length>
+		<Resistance>29200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>3</Length>
+		<Resistance>28300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>3.5</Length>
+		<Resistance>27300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>4</Length>
+		<Resistance>26300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>5</Length>
+		<Resistance>24300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>6</Length>
+		<Resistance>22100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>7</Length>
+		<Resistance>19800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>8</Length>
+		<Resistance>17600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>9</Length>
+		<Resistance>15500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>10</Length>
+		<Resistance>13700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>11</Length>
+		<Resistance>12000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>12</Length>
+		<Resistance>10600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>13</Length>
+		<Resistance>9360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 677+</Name>
+		<Weight>677</Weight>
+		<Length>14</Length>
+		<Resistance>8320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>1</Length>
+		<Resistance>33700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>1.5</Length>
+		<Resistance>33700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>2</Length>
+		<Resistance>33100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>2.5</Length>
+		<Resistance>32100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>3</Length>
+		<Resistance>31100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>3.5</Length>
+		<Resistance>30100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>4</Length>
+		<Resistance>29000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>5</Length>
+		<Resistance>26800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>6</Length>
+		<Resistance>24400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>7</Length>
+		<Resistance>22000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>8</Length>
+		<Resistance>19600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>9</Length>
+		<Resistance>17300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>10</Length>
+		<Resistance>15200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>11</Length>
+		<Resistance>13400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>12</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>13</Length>
+		<Resistance>10500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 744+</Name>
+		<Weight>744</Weight>
+		<Length>14</Length>
+		<Resistance>9300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>1</Length>
+		<Resistance>37000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>1.5</Length>
+		<Resistance>37000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>2</Length>
+		<Resistance>36500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>2.5</Length>
+		<Resistance>35400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>3</Length>
+		<Resistance>34300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>3.5</Length>
+		<Resistance>33200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>4</Length>
+		<Resistance>32100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>5</Length>
+		<Resistance>29700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>6</Length>
+		<Resistance>27100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>7</Length>
+		<Resistance>24400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>8</Length>
+		<Resistance>21800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>9</Length>
+		<Resistance>19300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>10</Length>
+		<Resistance>17000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>11</Length>
+		<Resistance>15000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>12</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>13</Length>
+		<Resistance>11700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 818+</Name>
+		<Weight>818</Weight>
+		<Length>14</Length>
+		<Resistance>10400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>1</Length>
+		<Resistance>40800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>1.5</Length>
+		<Resistance>40800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>2</Length>
+		<Resistance>40200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>2.5</Length>
+		<Resistance>39100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>3</Length>
+		<Resistance>37900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>3.5</Length>
+		<Resistance>36700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>4</Length>
+		<Resistance>35400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>5</Length>
+		<Resistance>32800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>6</Length>
+		<Resistance>30100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>7</Length>
+		<Resistance>27200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>8</Length>
+		<Resistance>24300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>9</Length>
+		<Resistance>21600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>10</Length>
+		<Resistance>19000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>11</Length>
+		<Resistance>16800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>12</Length>
+		<Resistance>14900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>13</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 900+</Name>
+		<Weight>900</Weight>
+		<Length>14</Length>
+		<Resistance>11800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>1</Length>
+		<Resistance>44800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>1.5</Length>
+		<Resistance>44800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>2</Length>
+		<Resistance>44300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>2.5</Length>
+		<Resistance>43000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>3</Length>
+		<Resistance>41700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>3.5</Length>
+		<Resistance>40400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>4</Length>
+		<Resistance>39100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>5</Length>
+		<Resistance>36300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>6</Length>
+		<Resistance>33300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>7</Length>
+		<Resistance>30200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>8</Length>
+		<Resistance>27100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>9</Length>
+		<Resistance>24100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>10</Length>
+		<Resistance>21300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>11</Length>
+		<Resistance>18800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>12</Length>
+		<Resistance>16700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>13</Length>
+		<Resistance>14800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356 x 406 x 990+</Name>
+		<Weight>990</Weight>
+		<Length>14</Length>
+		<Resistance>13200</Resistance>
+	</Beaminfo>
+	</Root>

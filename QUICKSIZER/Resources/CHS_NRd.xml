@@ -1,0 +1,7041 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>1</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>2</Length>
+		<Resistance>983</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>866</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>3</Length>
+		<Resistance>725</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>4</Length>
+		<Resistance>478</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>5</Length>
+		<Resistance>325</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>6</Length>
+		<Resistance>232</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>7</Length>
+		<Resistance>174</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>8</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>9</Length>
+		<Resistance>108</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>10</Length>
+		<Resistance>87.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>11</Length>
+		<Resistance>72.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>12</Length>
+		<Resistance>61.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>13</Length>
+		<Resistance>52.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x10.0</Name>
+		<Weight>25.7</Weight>
+		<Length>14</Length>
+		<Resistance>45.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>1</Length>
+		<Resistance>430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>1.5</Length>
+		<Resistance>410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>2</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>2.5</Length>
+		<Resistance>344</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>3</Length>
+		<Resistance>295</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>3.5</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>4</Length>
+		<Resistance>200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>5</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>6</Length>
+		<Resistance>98.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>7</Length>
+		<Resistance>73.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>8</Length>
+		<Resistance>57.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>9</Length>
+		<Resistance>45.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>10</Length>
+		<Resistance>37.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>11</Length>
+		<Resistance>31.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>12</Length>
+		<Resistance>26.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>13</Length>
+		<Resistance>22.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x3.6</Name>
+		<Weight>9.83</Weight>
+		<Length>14</Length>
+		<Resistance>19.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>1</Length>
+		<Resistance>478</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>456</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>2</Length>
+		<Resistance>425</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>381</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>3</Length>
+		<Resistance>326</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>4</Length>
+		<Resistance>221</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>5</Length>
+		<Resistance>151</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>6</Length>
+		<Resistance>109</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>7</Length>
+		<Resistance>81.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>8</Length>
+		<Resistance>63.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>9</Length>
+		<Resistance>50.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>10</Length>
+		<Resistance>41.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>11</Length>
+		<Resistance>34.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>12</Length>
+		<Resistance>28.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>13</Length>
+		<Resistance>24.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x4.0</Name>
+		<Weight>10.9</Weight>
+		<Length>14</Length>
+		<Resistance>21.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>1</Length>
+		<Resistance>591</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>563</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>2</Length>
+		<Resistance>524</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>469</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>3</Length>
+		<Resistance>400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>4</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>5</Length>
+		<Resistance>185</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>6</Length>
+		<Resistance>132</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>7</Length>
+		<Resistance>99.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>8</Length>
+		<Resistance>77.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>9</Length>
+		<Resistance>61.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>10</Length>
+		<Resistance>50.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>11</Length>
+		<Resistance>41.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>12</Length>
+		<Resistance>35.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>13</Length>
+		<Resistance>30.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x5.0</Name>
+		<Weight>13.5</Weight>
+		<Length>14</Length>
+		<Resistance>26.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>1</Length>
+		<Resistance>735</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>699</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>2</Length>
+		<Resistance>649</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>579</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>3</Length>
+		<Resistance>491</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>403</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>4</Length>
+		<Resistance>329</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>5</Length>
+		<Resistance>224</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>6</Length>
+		<Resistance>161</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>7</Length>
+		<Resistance>121</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>8</Length>
+		<Resistance>93.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>9</Length>
+		<Resistance>74.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>10</Length>
+		<Resistance>60.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>11</Length>
+		<Resistance>50.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>12</Length>
+		<Resistance>42.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>13</Length>
+		<Resistance>36.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 114.3x6.3</Name>
+		<Weight>16.8</Weight>
+		<Length>14</Length>
+		<Resistance>31.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>1</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>1.5</Length>
+		<Resistance>1370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>2</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>2.5</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>3</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>3.5</Length>
+		<Resistance>966</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>4</Length>
+		<Resistance>824</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>5</Length>
+		<Resistance>588</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>6</Length>
+		<Resistance>429</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>7</Length>
+		<Resistance>324</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>8</Length>
+		<Resistance>253</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>9</Length>
+		<Resistance>203</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>10</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>11</Length>
+		<Resistance>138</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>12</Length>
+		<Resistance>117</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>13</Length>
+		<Resistance>99.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x10.0</Name>
+		<Weight>32</Weight>
+		<Length>14</Length>
+		<Resistance>86.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>1</Length>
+		<Resistance>740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>715</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>2</Length>
+		<Resistance>684</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>643</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>3</Length>
+		<Resistance>589</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>522</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>4</Length>
+		<Resistance>450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>5</Length>
+		<Resistance>325</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>6</Length>
+		<Resistance>239</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>7</Length>
+		<Resistance>181</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>8</Length>
+		<Resistance>141</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>9</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>10</Length>
+		<Resistance>92.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>11</Length>
+		<Resistance>77</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>12</Length>
+		<Resistance>65.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>13</Length>
+		<Resistance>55.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x5.0</Name>
+		<Weight>16.6</Weight>
+		<Length>14</Length>
+		<Resistance>48.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>1</Length>
+		<Resistance>921</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>889</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>2</Length>
+		<Resistance>849</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>797</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>3</Length>
+		<Resistance>728</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>643</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>4</Length>
+		<Resistance>553</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>5</Length>
+		<Resistance>398</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>6</Length>
+		<Resistance>292</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>7</Length>
+		<Resistance>221</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>8</Length>
+		<Resistance>172</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>9</Length>
+		<Resistance>138</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>10</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>11</Length>
+		<Resistance>94</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>12</Length>
+		<Resistance>79.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>13</Length>
+		<Resistance>68.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x6.3</Name>
+		<Weight>20.7</Weight>
+		<Length>14</Length>
+		<Resistance>58.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>1</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>1.5</Length>
+		<Resistance>1110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>2</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>2.5</Length>
+		<Resistance>995</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>3</Length>
+		<Resistance>905</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>3.5</Length>
+		<Resistance>796</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>4</Length>
+		<Resistance>682</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>5</Length>
+		<Resistance>489</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>6</Length>
+		<Resistance>357</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>7</Length>
+		<Resistance>270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>8</Length>
+		<Resistance>211</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>9</Length>
+		<Resistance>169</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>10</Length>
+		<Resistance>138</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>11</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>12</Length>
+		<Resistance>97.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>13</Length>
+		<Resistance>83.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 139.7x8.0</Name>
+		<Weight>26</Weight>
+		<Length>14</Length>
+		<Resistance>72.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>1</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>1.5</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>2</Length>
+		<Resistance>1650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>2.5</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>3</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>3.5</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>4</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>5</Length>
+		<Resistance>973</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>6</Length>
+		<Resistance>737</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>7</Length>
+		<Resistance>567</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>8</Length>
+		<Resistance>446</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>9</Length>
+		<Resistance>359</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>10</Length>
+		<Resistance>295</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>11</Length>
+		<Resistance>246</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>12</Length>
+		<Resistance>209</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>13</Length>
+		<Resistance>179</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x10.0</Name>
+		<Weight>39</Weight>
+		<Length>14</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>1</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>1.5</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>2</Length>
+		<Resistance>2030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>2.5</Length>
+		<Resistance>1940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>3</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>3.5</Length>
+		<Resistance>1690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>4</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>5</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>6</Length>
+		<Resistance>887</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>7</Length>
+		<Resistance>681</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>8</Length>
+		<Resistance>535</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>9</Length>
+		<Resistance>431</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>10</Length>
+		<Resistance>354</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>11</Length>
+		<Resistance>295</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>12</Length>
+		<Resistance>250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>13</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x12.5</Name>
+		<Weight>48</Weight>
+		<Length>14</Length>
+		<Resistance>186</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>1</Length>
+		<Resistance>907</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>883</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>2</Length>
+		<Resistance>856</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>823</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>3</Length>
+		<Resistance>782</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>4</Length>
+		<Resistance>666</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>5</Length>
+		<Resistance>524</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>6</Length>
+		<Resistance>400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>7</Length>
+		<Resistance>309</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>8</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>9</Length>
+		<Resistance>196</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>10</Length>
+		<Resistance>161</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>11</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>12</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>13</Length>
+		<Resistance>98</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x5.0</Name>
+		<Weight>20.1</Weight>
+		<Length>14</Length>
+		<Resistance>85</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>1</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>2</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>3</Length>
+		<Resistance>974</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>907</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>4</Length>
+		<Resistance>826</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>5</Length>
+		<Resistance>647</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>6</Length>
+		<Resistance>493</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>7</Length>
+		<Resistance>380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>8</Length>
+		<Resistance>300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>9</Length>
+		<Resistance>241</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>10</Length>
+		<Resistance>198</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>11</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>12</Length>
+		<Resistance>140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>13</Length>
+		<Resistance>120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x6.3</Name>
+		<Weight>25.2</Weight>
+		<Length>14</Length>
+		<Resistance>104</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>1</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>2</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>3</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>4</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>5</Length>
+		<Resistance>800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>6</Length>
+		<Resistance>608</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>7</Length>
+		<Resistance>469</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>8</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>9</Length>
+		<Resistance>297</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>10</Length>
+		<Resistance>244</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>11</Length>
+		<Resistance>204</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>12</Length>
+		<Resistance>173</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>13</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 168.3x8.0</Name>
+		<Weight>31.6</Weight>
+		<Length>14</Length>
+		<Resistance>128</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>1</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>2</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>1890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>3</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>4</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>5</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>6</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>7</Length>
+		<Resistance>846</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>8</Length>
+		<Resistance>674</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>9</Length>
+		<Resistance>547</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>10</Length>
+		<Resistance>451</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>11</Length>
+		<Resistance>378</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>12</Length>
+		<Resistance>320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>13</Length>
+		<Resistance>275</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x10.0</Name>
+		<Weight>45.3</Weight>
+		<Length>14</Length>
+		<Resistance>239</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>1</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>2470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>2</Length>
+		<Resistance>2400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>2330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>3</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>2130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>4</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>5</Length>
+		<Resistance>1650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>6</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>7</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>8</Length>
+		<Resistance>814</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>9</Length>
+		<Resistance>660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>10</Length>
+		<Resistance>544</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>11</Length>
+		<Resistance>455</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>12</Length>
+		<Resistance>386</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>13</Length>
+		<Resistance>332</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x12.5</Name>
+		<Weight>55.9</Weight>
+		<Length>14</Length>
+		<Resistance>288</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>1</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>2</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>974</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>3</Length>
+		<Resistance>940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>897</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>4</Length>
+		<Resistance>845</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>5</Length>
+		<Resistance>713</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>6</Length>
+		<Resistance>572</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>7</Length>
+		<Resistance>453</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>8</Length>
+		<Resistance>362</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>9</Length>
+		<Resistance>294</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>10</Length>
+		<Resistance>243</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>11</Length>
+		<Resistance>203</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>12</Length>
+		<Resistance>173</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>13</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x5.0</Name>
+		<Weight>23.3</Weight>
+		<Length>14</Length>
+		<Resistance>129</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>1</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>1290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>2</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>3</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>4</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>5</Length>
+		<Resistance>888</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>6</Length>
+		<Resistance>711</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>7</Length>
+		<Resistance>562</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>8</Length>
+		<Resistance>449</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>9</Length>
+		<Resistance>364</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>10</Length>
+		<Resistance>301</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>11</Length>
+		<Resistance>252</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>12</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>13</Length>
+		<Resistance>184</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x6.3</Name>
+		<Weight>29.1</Weight>
+		<Length>14</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>1</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>2</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>3</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>4</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>5</Length>
+		<Resistance>1110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>6</Length>
+		<Resistance>884</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>7</Length>
+		<Resistance>697</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>8</Length>
+		<Resistance>556</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>9</Length>
+		<Resistance>451</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>10</Length>
+		<Resistance>372</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>11</Length>
+		<Resistance>312</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>12</Length>
+		<Resistance>265</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>13</Length>
+		<Resistance>227</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 193.7x8.0</Name>
+		<Weight>36.6</Weight>
+		<Length>14</Length>
+		<Resistance>197</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>1</Length>
+		<Resistance>14.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>1.5</Length>
+		<Resistance>6.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>2</Length>
+		<Resistance>3.78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>2.5</Length>
+		<Resistance>2.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>3</Length>
+		<Resistance>1.71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>3.5</Length>
+		<Resistance>1.26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>4</Length>
+		<Resistance>0.971</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>5</Length>
+		<Resistance>0.624</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>6</Length>
+		<Resistance>0.435</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>7</Length>
+		<Resistance>0.32</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>8</Length>
+		<Resistance>0.246</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>9</Length>
+		<Resistance>0.194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>10</Length>
+		<Resistance>0.158</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>11</Length>
+		<Resistance>0.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>12</Length>
+		<Resistance>0.11</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>13</Length>
+		<Resistance>0.094</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 21.3x3.2</Name>
+		<Weight>1.43</Weight>
+		<Length>14</Length>
+		<Resistance>0.081</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>1</Length>
+		<Resistance>2330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>2300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>2</Length>
+		<Resistance>2250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>2200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>3</Length>
+		<Resistance>2130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>2060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>4</Length>
+		<Resistance>1970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>6</Length>
+		<Resistance>1450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>7</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>8</Length>
+		<Resistance>958</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>9</Length>
+		<Resistance>784</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>10</Length>
+		<Resistance>650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>11</Length>
+		<Resistance>547</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>12</Length>
+		<Resistance>466</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>13</Length>
+		<Resistance>401</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x10.0</Name>
+		<Weight>51.6</Weight>
+		<Length>14</Length>
+		<Resistance>348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>1</Length>
+		<Resistance>2880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>2</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>2710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>3</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>2530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>4</Length>
+		<Resistance>2420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>6</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>7</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>8</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>9</Length>
+		<Resistance>950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>10</Length>
+		<Resistance>787</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>11</Length>
+		<Resistance>662</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>12</Length>
+		<Resistance>563</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>13</Length>
+		<Resistance>485</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x12.5</Name>
+		<Weight>63.7</Weight>
+		<Length>14</Length>
+		<Resistance>421</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>1</Length>
+		<Resistance>3620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>3560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>2</Length>
+		<Resistance>3480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>3400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>3</Length>
+		<Resistance>3290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>4</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>5</Length>
+		<Resistance>2640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>6</Length>
+		<Resistance>2180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>7</Length>
+		<Resistance>1760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>8</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>9</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>10</Length>
+		<Resistance>961</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>11</Length>
+		<Resistance>807</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>12</Length>
+		<Resistance>687</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>13</Length>
+		<Resistance>591</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x16.0</Name>
+		<Weight>80.1</Weight>
+		<Length>14</Length>
+		<Resistance>514</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>1</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>2</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>3</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>4</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>5</Length>
+		<Resistance>903</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>6</Length>
+		<Resistance>763</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>7</Length>
+		<Resistance>624</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>8</Length>
+		<Resistance>508</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>9</Length>
+		<Resistance>417</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>10</Length>
+		<Resistance>347</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>11</Length>
+		<Resistance>292</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>12</Length>
+		<Resistance>248</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>13</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x5.0</Name>
+		<Weight>26.4</Weight>
+		<Length>14</Length>
+		<Resistance>186</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>1</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>1470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>2</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>3</Length>
+		<Resistance>1370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>4</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>5</Length>
+		<Resistance>1130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>6</Length>
+		<Resistance>950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>7</Length>
+		<Resistance>776</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>8</Length>
+		<Resistance>631</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>9</Length>
+		<Resistance>518</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>10</Length>
+		<Resistance>430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>11</Length>
+		<Resistance>362</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>12</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>13</Length>
+		<Resistance>265</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x6.3</Name>
+		<Weight>33.1</Weight>
+		<Length>14</Length>
+		<Resistance>231</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>1</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>2</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>3</Length>
+		<Resistance>1730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>1670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>4</Length>
+		<Resistance>1600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>6</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>7</Length>
+		<Resistance>968</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>8</Length>
+		<Resistance>786</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>9</Length>
+		<Resistance>644</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>10</Length>
+		<Resistance>535</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>11</Length>
+		<Resistance>450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>12</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>13</Length>
+		<Resistance>330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 219.1x8.0</Name>
+		<Weight>41.6</Weight>
+		<Length>14</Length>
+		<Resistance>287</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>1</Length>
+		<Resistance>29.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>1.5</Length>
+		<Resistance>14.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>2</Length>
+		<Resistance>8.24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>2.5</Length>
+		<Resistance>5.35</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>3</Length>
+		<Resistance>3.75</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>3.5</Length>
+		<Resistance>2.77</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>4</Length>
+		<Resistance>2.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>5</Length>
+		<Resistance>1.37</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>6</Length>
+		<Resistance>0.959</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>7</Length>
+		<Resistance>0.707</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>8</Length>
+		<Resistance>0.542</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>9</Length>
+		<Resistance>0.429</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>10</Length>
+		<Resistance>0.348</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>11</Length>
+		<Resistance>0.288</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>12</Length>
+		<Resistance>0.242</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>13</Length>
+		<Resistance>0.207</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 26.9x3.2</Name>
+		<Weight>1.87</Weight>
+		<Length>14</Length>
+		<Resistance>0.178</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>1</Length>
+		<Resistance>2930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>2920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>2</Length>
+		<Resistance>2880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>2830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>3</Length>
+		<Resistance>2780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>4</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>5</Length>
+		<Resistance>2480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>6</Length>
+		<Resistance>2260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>7</Length>
+		<Resistance>1980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>8</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>9</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>10</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>11</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>12</Length>
+		<Resistance>890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>13</Length>
+		<Resistance>771</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x10.0</Name>
+		<Weight>64.9</Weight>
+		<Length>14</Length>
+		<Resistance>673</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>1</Length>
+		<Resistance>3620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>3610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>2</Length>
+		<Resistance>3550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>3490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>3</Length>
+		<Resistance>3420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>3350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>4</Length>
+		<Resistance>3260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>5</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>6</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>7</Length>
+		<Resistance>2430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>8</Length>
+		<Resistance>2070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>9</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>10</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>11</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>12</Length>
+		<Resistance>1080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>13</Length>
+		<Resistance>935</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x12.5</Name>
+		<Weight>80.3</Weight>
+		<Length>14</Length>
+		<Resistance>816</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>1</Length>
+		<Resistance>4580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>1.5</Length>
+		<Resistance>4560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>2</Length>
+		<Resistance>4490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>2.5</Length>
+		<Resistance>4410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>3</Length>
+		<Resistance>4320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>3.5</Length>
+		<Resistance>4230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>4</Length>
+		<Resistance>4120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>5</Length>
+		<Resistance>3840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>6</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>7</Length>
+		<Resistance>3030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>8</Length>
+		<Resistance>2570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>9</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>10</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>11</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>12</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>13</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x16.0</Name>
+		<Weight>101</Weight>
+		<Length>14</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>1</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>1.5</Length>
+		<Resistance>1490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>2</Length>
+		<Resistance>1470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>2.5</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>3</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>3.5</Length>
+		<Resistance>1390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>4</Length>
+		<Resistance>1360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>5</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>6</Length>
+		<Resistance>1160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>7</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>8</Length>
+		<Resistance>886</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>9</Length>
+		<Resistance>753</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>10</Length>
+		<Resistance>639</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>11</Length>
+		<Resistance>545</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>12</Length>
+		<Resistance>468</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>13</Length>
+		<Resistance>406</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x5.0</Name>
+		<Weight>33</Weight>
+		<Length>14</Length>
+		<Resistance>355</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>1</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>2</Length>
+		<Resistance>1840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>3</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>4</Length>
+		<Resistance>1700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>5</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>6</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>7</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>8</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>9</Length>
+		<Resistance>937</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>10</Length>
+		<Resistance>794</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>11</Length>
+		<Resistance>677</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>12</Length>
+		<Resistance>582</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>13</Length>
+		<Resistance>504</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x6.3</Name>
+		<Weight>41.4</Weight>
+		<Length>14</Length>
+		<Resistance>441</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>1</Length>
+		<Resistance>2360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>2</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>3</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>2190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>4</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>5</Length>
+		<Resistance>2010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>6</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>7</Length>
+		<Resistance>1610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>8</Length>
+		<Resistance>1380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>9</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>10</Length>
+		<Resistance>992</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>11</Length>
+		<Resistance>845</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>12</Length>
+		<Resistance>726</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>13</Length>
+		<Resistance>629</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 273.0x8.0</Name>
+		<Weight>52.3</Weight>
+		<Length>14</Length>
+		<Resistance>549</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>1</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>2</Length>
+		<Resistance>3470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>3430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>3</Length>
+		<Resistance>3380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>3320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>4</Length>
+		<Resistance>3260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>5</Length>
+		<Resistance>3130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>6</Length>
+		<Resistance>2960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>7</Length>
+		<Resistance>2730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>8</Length>
+		<Resistance>2470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>9</Length>
+		<Resistance>2180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>10</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>11</Length>
+		<Resistance>1650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>12</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>13</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x10.0</Name>
+		<Weight>77.4</Weight>
+		<Length>14</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>1</Length>
+		<Resistance>4330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>1.5</Length>
+		<Resistance>4330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>2</Length>
+		<Resistance>4300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>2.5</Length>
+		<Resistance>4240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>3</Length>
+		<Resistance>4170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>3.5</Length>
+		<Resistance>4110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>4</Length>
+		<Resistance>4040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>5</Length>
+		<Resistance>3860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>6</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>7</Length>
+		<Resistance>3360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>8</Length>
+		<Resistance>3030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>9</Length>
+		<Resistance>2670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>10</Length>
+		<Resistance>2320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>11</Length>
+		<Resistance>2020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>12</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>13</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x12.5</Name>
+		<Weight>96</Weight>
+		<Length>14</Length>
+		<Resistance>1340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>1</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>1.5</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>2</Length>
+		<Resistance>5450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>2.5</Length>
+		<Resistance>5380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>3</Length>
+		<Resistance>5300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>3.5</Length>
+		<Resistance>5210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>4</Length>
+		<Resistance>5120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>5</Length>
+		<Resistance>4900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>6</Length>
+		<Resistance>4610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>7</Length>
+		<Resistance>4250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>8</Length>
+		<Resistance>3810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>9</Length>
+		<Resistance>3350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>10</Length>
+		<Resistance>2910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>11</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>12</Length>
+		<Resistance>2190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>13</Length>
+		<Resistance>1910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x16.0</Name>
+		<Weight>121</Weight>
+		<Length>14</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>1</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>2</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>3</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>4</Length>
+		<Resistance>2090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>6</Length>
+		<Resistance>1890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>7</Length>
+		<Resistance>1750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>8</Length>
+		<Resistance>1590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>9</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>10</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>11</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>12</Length>
+		<Resistance>931</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>13</Length>
+		<Resistance>814</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x6.3</Name>
+		<Weight>49.3</Weight>
+		<Length>14</Length>
+		<Resistance>716</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>1</Length>
+		<Resistance>2820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>2820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>2</Length>
+		<Resistance>2800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>3</Length>
+		<Resistance>2720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>2680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>4</Length>
+		<Resistance>2630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>5</Length>
+		<Resistance>2520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>6</Length>
+		<Resistance>2390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>7</Length>
+		<Resistance>2210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>8</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>9</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>10</Length>
+		<Resistance>1550</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>11</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>12</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>13</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 323.9x8.0</Name>
+		<Weight>62.3</Weight>
+		<Length>14</Length>
+		<Resistance>903</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>1</Length>
+		<Resistance>56.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>1.5</Length>
+		<Resistance>28.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>2</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>2.5</Length>
+		<Resistance>11.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>3</Length>
+		<Resistance>7.79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>3.5</Length>
+		<Resistance>5.77</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>4</Length>
+		<Resistance>4.44</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>5</Length>
+		<Resistance>2.87</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>6</Length>
+		<Resistance>2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>7</Length>
+		<Resistance>1.48</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>8</Length>
+		<Resistance>1.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>9</Length>
+		<Resistance>0.899</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>10</Length>
+		<Resistance>0.729</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>11</Length>
+		<Resistance>0.604</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>12</Length>
+		<Resistance>0.508</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>13</Length>
+		<Resistance>0.433</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x3.2</Name>
+		<Weight>2.41</Weight>
+		<Length>14</Length>
+		<Resistance>0.374</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>1</Length>
+		<Resistance>67.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>1.5</Length>
+		<Resistance>34</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>2</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>2.5</Length>
+		<Resistance>13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>3</Length>
+		<Resistance>9.12</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>3.5</Length>
+		<Resistance>6.76</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>4</Length>
+		<Resistance>5.21</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>5</Length>
+		<Resistance>3.36</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>6</Length>
+		<Resistance>2.35</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>7</Length>
+		<Resistance>1.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>8</Length>
+		<Resistance>1.33</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>9</Length>
+		<Resistance>1.05</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>10</Length>
+		<Resistance>0.854</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>11</Length>
+		<Resistance>0.707</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>12</Length>
+		<Resistance>0.595</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>13</Length>
+		<Resistance>0.507</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 33.7x4.0</Name>
+		<Weight>2.93</Weight>
+		<Length>14</Length>
+		<Resistance>0.438</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>1</Length>
+		<Resistance>4440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>4440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>2</Length>
+		<Resistance>4440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>4400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>3</Length>
+		<Resistance>4360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>4310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>4</Length>
+		<Resistance>4260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>5</Length>
+		<Resistance>4140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>6</Length>
+		<Resistance>4010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>7</Length>
+		<Resistance>3850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>8</Length>
+		<Resistance>3660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>9</Length>
+		<Resistance>3420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>10</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>11</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>12</Length>
+		<Resistance>2580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>13</Length>
+		<Resistance>2310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x10.0</Name>
+		<Weight>97.8</Weight>
+		<Length>14</Length>
+		<Resistance>2060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>1</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>1.5</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>2</Length>
+		<Resistance>5500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>2.5</Length>
+		<Resistance>5460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>3</Length>
+		<Resistance>5400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>3.5</Length>
+		<Resistance>5340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>4</Length>
+		<Resistance>5280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>5</Length>
+		<Resistance>5130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>6</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>7</Length>
+		<Resistance>4770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>8</Length>
+		<Resistance>4520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>9</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>10</Length>
+		<Resistance>3880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>11</Length>
+		<Resistance>3520</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>12</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>13</Length>
+		<Resistance>2830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x12.5</Name>
+		<Weight>121</Weight>
+		<Length>14</Length>
+		<Resistance>2530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>1</Length>
+		<Resistance>6960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>1.5</Length>
+		<Resistance>6960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>2</Length>
+		<Resistance>6960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>2.5</Length>
+		<Resistance>6900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>3</Length>
+		<Resistance>6830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>3.5</Length>
+		<Resistance>6750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>4</Length>
+		<Resistance>6670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>5</Length>
+		<Resistance>6480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>6</Length>
+		<Resistance>6270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>7</Length>
+		<Resistance>6010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>8</Length>
+		<Resistance>5690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>9</Length>
+		<Resistance>5310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>10</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>11</Length>
+		<Resistance>4420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>12</Length>
+		<Resistance>3970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>13</Length>
+		<Resistance>3540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 406.4x16.0</Name>
+		<Weight>154</Weight>
+		<Length>14</Length>
+		<Resistance>3170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>1</Length>
+		<Resistance>98.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>1.5</Length>
+		<Resistance>57.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>2</Length>
+		<Resistance>34.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>2.5</Length>
+		<Resistance>23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>3</Length>
+		<Resistance>16.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>3.5</Length>
+		<Resistance>12.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>4</Length>
+		<Resistance>9.33</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>5</Length>
+		<Resistance>6.04</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>6</Length>
+		<Resistance>4.23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>7</Length>
+		<Resistance>3.12</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>8</Length>
+		<Resistance>2.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>9</Length>
+		<Resistance>1.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>10</Length>
+		<Resistance>1.54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>11</Length>
+		<Resistance>1.28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>12</Length>
+		<Resistance>1.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>13</Length>
+		<Resistance>0.918</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x3.2</Name>
+		<Weight>3.09</Weight>
+		<Length>14</Length>
+		<Resistance>0.792</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>1</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>1.5</Length>
+		<Resistance>68.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>2</Length>
+		<Resistance>41</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>2.5</Length>
+		<Resistance>27</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>3</Length>
+		<Resistance>19.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>3.5</Length>
+		<Resistance>14.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>4</Length>
+		<Resistance>11</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>5</Length>
+		<Resistance>7.09</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>6</Length>
+		<Resistance>4.96</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>7</Length>
+		<Resistance>3.66</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>8</Length>
+		<Resistance>2.82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>9</Length>
+		<Resistance>2.23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>10</Length>
+		<Resistance>1.81</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>11</Length>
+		<Resistance>1.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>12</Length>
+		<Resistance>1.26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>13</Length>
+		<Resistance>1.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 42.4x4.0</Name>
+		<Weight>3.79</Weight>
+		<Length>14</Length>
+		<Resistance>0.93</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>1</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>1.5</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>2</Length>
+		<Resistance>4970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>2.5</Length>
+		<Resistance>4960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>3</Length>
+		<Resistance>4920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>3.5</Length>
+		<Resistance>4870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>4</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>5</Length>
+		<Resistance>4720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>6</Length>
+		<Resistance>4600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>7</Length>
+		<Resistance>4460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>8</Length>
+		<Resistance>4300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>9</Length>
+		<Resistance>4100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>10</Length>
+		<Resistance>3870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>11</Length>
+		<Resistance>3610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>12</Length>
+		<Resistance>3330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>13</Length>
+		<Resistance>3040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x10.0</Name>
+		<Weight>110</Weight>
+		<Length>14</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>1</Length>
+		<Resistance>6210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>1.5</Length>
+		<Resistance>6210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>2</Length>
+		<Resistance>6210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>2.5</Length>
+		<Resistance>6200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>3</Length>
+		<Resistance>6140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>3.5</Length>
+		<Resistance>6080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>4</Length>
+		<Resistance>6020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>5</Length>
+		<Resistance>5890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>6</Length>
+		<Resistance>5740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>7</Length>
+		<Resistance>5570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>8</Length>
+		<Resistance>5360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>9</Length>
+		<Resistance>5110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>10</Length>
+		<Resistance>4820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>11</Length>
+		<Resistance>4490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>12</Length>
+		<Resistance>4130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>13</Length>
+		<Resistance>3770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x12.5</Name>
+		<Weight>137</Weight>
+		<Length>14</Length>
+		<Resistance>3420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>1</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>1.5</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>2</Length>
+		<Resistance>7880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>2.5</Length>
+		<Resistance>7860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>3</Length>
+		<Resistance>7790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>3.5</Length>
+		<Resistance>7720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>4</Length>
+		<Resistance>7640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>5</Length>
+		<Resistance>7470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>6</Length>
+		<Resistance>7280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>7</Length>
+		<Resistance>7050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>8</Length>
+		<Resistance>6780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>9</Length>
+		<Resistance>6460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>10</Length>
+		<Resistance>6090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>11</Length>
+		<Resistance>5660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>12</Length>
+		<Resistance>5210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>13</Length>
+		<Resistance>4750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 457.0x16.0</Name>
+		<Weight>174</Weight>
+		<Length>14</Length>
+		<Resistance>4300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>1</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>1.5</Length>
+		<Resistance>82.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>2</Length>
+		<Resistance>51.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>2.5</Length>
+		<Resistance>34.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>3</Length>
+		<Resistance>24.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>3.5</Length>
+		<Resistance>18.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>4</Length>
+		<Resistance>14.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>5</Length>
+		<Resistance>9.14</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>6</Length>
+		<Resistance>6.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>7</Length>
+		<Resistance>4.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>8</Length>
+		<Resistance>3.64</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>9</Length>
+		<Resistance>2.89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>10</Length>
+		<Resistance>2.34</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>11</Length>
+		<Resistance>1.94</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>12</Length>
+		<Resistance>1.63</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>13</Length>
+		<Resistance>1.39</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x3.2</Name>
+		<Weight>3.56</Weight>
+		<Length>14</Length>
+		<Resistance>1.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>1</Length>
+		<Resistance>153</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>1.5</Length>
+		<Resistance>98.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>2</Length>
+		<Resistance>61.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>2.5</Length>
+		<Resistance>40.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>3</Length>
+		<Resistance>29</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>3.5</Length>
+		<Resistance>21.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>4</Length>
+		<Resistance>16.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>5</Length>
+		<Resistance>10.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>6</Length>
+		<Resistance>7.58</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>7</Length>
+		<Resistance>5.61</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>8</Length>
+		<Resistance>4.31</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>9</Length>
+		<Resistance>3.42</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>10</Length>
+		<Resistance>2.78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>11</Length>
+		<Resistance>2.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>12</Length>
+		<Resistance>1.94</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>13</Length>
+		<Resistance>1.65</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x4.0</Name>
+		<Weight>4.37</Weight>
+		<Length>14</Length>
+		<Resistance>1.43</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>1</Length>
+		<Resistance>185</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>1.5</Length>
+		<Resistance>117</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>2</Length>
+		<Resistance>72.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>2.5</Length>
+		<Resistance>48.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>3</Length>
+		<Resistance>34.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>3.5</Length>
+		<Resistance>25.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>4</Length>
+		<Resistance>19.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>5</Length>
+		<Resistance>12.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>6</Length>
+		<Resistance>8.92</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>7</Length>
+		<Resistance>6.59</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>8</Length>
+		<Resistance>5.07</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>9</Length>
+		<Resistance>4.02</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>10</Length>
+		<Resistance>3.26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>11</Length>
+		<Resistance>2.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>12</Length>
+		<Resistance>2.27</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>13</Length>
+		<Resistance>1.94</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x5.0</Name>
+		<Weight>5.34</Weight>
+		<Length>14</Length>
+		<Resistance>1.68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>1</Length>
+		<Resistance>222</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>1.5</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>2</Length>
+		<Resistance>84.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>2.5</Length>
+		<Resistance>56</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>3</Length>
+		<Resistance>39.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>3.5</Length>
+		<Resistance>29.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>4</Length>
+		<Resistance>22.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>5</Length>
+		<Resistance>14.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>6</Length>
+		<Resistance>10.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>7</Length>
+		<Resistance>7.65</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>8</Length>
+		<Resistance>5.88</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>9</Length>
+		<Resistance>4.66</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>10</Length>
+		<Resistance>3.78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>11</Length>
+		<Resistance>3.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>12</Length>
+		<Resistance>2.64</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>13</Length>
+		<Resistance>2.25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 48.3x6.3</Name>
+		<Weight>6.53</Weight>
+		<Length>14</Length>
+		<Resistance>1.94</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>1</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>1.5</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>2</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>2.5</Length>
+		<Resistance>5540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>3</Length>
+		<Resistance>5510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>3.5</Length>
+		<Resistance>5460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>4</Length>
+		<Resistance>5420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>5</Length>
+		<Resistance>5320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>6</Length>
+		<Resistance>5210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>7</Length>
+		<Resistance>5080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>8</Length>
+		<Resistance>4940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>9</Length>
+		<Resistance>4770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>10</Length>
+		<Resistance>4580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>11</Length>
+		<Resistance>4350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>12</Length>
+		<Resistance>4090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>13</Length>
+		<Resistance>3810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x10.0</Name>
+		<Weight>123</Weight>
+		<Length>14</Length>
+		<Resistance>3530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>1</Length>
+		<Resistance>6920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>1.5</Length>
+		<Resistance>6920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>2</Length>
+		<Resistance>6920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>2.5</Length>
+		<Resistance>6920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>3</Length>
+		<Resistance>6880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>3.5</Length>
+		<Resistance>6830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>4</Length>
+		<Resistance>6770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>5</Length>
+		<Resistance>6640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>6</Length>
+		<Resistance>6500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>7</Length>
+		<Resistance>6350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>8</Length>
+		<Resistance>6160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>9</Length>
+		<Resistance>5950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>10</Length>
+		<Resistance>5700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>11</Length>
+		<Resistance>5420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>12</Length>
+		<Resistance>5090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>13</Length>
+		<Resistance>4740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x12.5</Name>
+		<Weight>153</Weight>
+		<Length>14</Length>
+		<Resistance>4380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>1</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>1.5</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>2</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>2.5</Length>
+		<Resistance>8770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>3</Length>
+		<Resistance>8720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>3.5</Length>
+		<Resistance>8640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>4</Length>
+		<Resistance>8570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>5</Length>
+		<Resistance>8410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>6</Length>
+		<Resistance>8230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>7</Length>
+		<Resistance>8030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>8</Length>
+		<Resistance>7800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>9</Length>
+		<Resistance>7530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>10</Length>
+		<Resistance>7210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>11</Length>
+		<Resistance>6840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>12</Length>
+		<Resistance>6420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>13</Length>
+		<Resistance>5970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 508.0x16.0</Name>
+		<Weight>194</Weight>
+		<Length>14</Length>
+		<Resistance>5510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>1</Length>
+		<Resistance>177</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>1.5</Length>
+		<Resistance>140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>2</Length>
+		<Resistance>96.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>2.5</Length>
+		<Resistance>66.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>3</Length>
+		<Resistance>47.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>3.5</Length>
+		<Resistance>35.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>4</Length>
+		<Resistance>27.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>5</Length>
+		<Resistance>18.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>6</Length>
+		<Resistance>12.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>7</Length>
+		<Resistance>9.46</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>8</Length>
+		<Resistance>7.29</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>9</Length>
+		<Resistance>5.78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>10</Length>
+		<Resistance>4.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>11</Length>
+		<Resistance>3.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>12</Length>
+		<Resistance>3.28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>13</Length>
+		<Resistance>2.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x3.2</Name>
+		<Weight>4.51</Weight>
+		<Length>14</Length>
+		<Resistance>2.42</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>1</Length>
+		<Resistance>218</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>1.5</Length>
+		<Resistance>170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>2</Length>
+		<Resistance>117</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>2.5</Length>
+		<Resistance>80.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>3</Length>
+		<Resistance>57.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>3.5</Length>
+		<Resistance>43.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>4</Length>
+		<Resistance>33.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>5</Length>
+		<Resistance>22</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>6</Length>
+		<Resistance>15.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>7</Length>
+		<Resistance>11.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>8</Length>
+		<Resistance>8.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>9</Length>
+		<Resistance>6.99</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>10</Length>
+		<Resistance>5.68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>11</Length>
+		<Resistance>4.71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>12</Length>
+		<Resistance>3.96</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>13</Length>
+		<Resistance>3.38</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x4.0</Name>
+		<Weight>5.55</Weight>
+		<Length>14</Length>
+		<Resistance>2.92</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>1</Length>
+		<Resistance>266</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>1.5</Length>
+		<Resistance>205</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>2</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>2.5</Length>
+		<Resistance>95.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>3</Length>
+		<Resistance>68.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>3.5</Length>
+		<Resistance>51.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>4</Length>
+		<Resistance>39.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>5</Length>
+		<Resistance>26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>6</Length>
+		<Resistance>18.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>7</Length>
+		<Resistance>13.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>8</Length>
+		<Resistance>10.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>9</Length>
+		<Resistance>8.25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>10</Length>
+		<Resistance>6.71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>11</Length>
+		<Resistance>5.56</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>12</Length>
+		<Resistance>4.68</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>13</Length>
+		<Resistance>4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x5.0</Name>
+		<Weight>6.82</Weight>
+		<Length>14</Length>
+		<Resistance>3.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>1</Length>
+		<Resistance>325</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>1.5</Length>
+		<Resistance>247</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>2</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>2.5</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>3</Length>
+		<Resistance>81.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>3.5</Length>
+		<Resistance>60.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>4</Length>
+		<Resistance>47.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>5</Length>
+		<Resistance>30.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>6</Length>
+		<Resistance>21.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>7</Length>
+		<Resistance>16</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>8</Length>
+		<Resistance>12.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>9</Length>
+		<Resistance>9.76</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>10</Length>
+		<Resistance>7.93</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>11</Length>
+		<Resistance>6.57</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>12</Length>
+		<Resistance>5.54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>13</Length>
+		<Resistance>4.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 60.3x6.3</Name>
+		<Weight>8.39</Weight>
+		<Length>14</Length>
+		<Resistance>4.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>1</Length>
+		<Resistance>218</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>1.5</Length>
+		<Resistance>194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>2</Length>
+		<Resistance>156</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>2.5</Length>
+		<Resistance>116</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>3</Length>
+		<Resistance>86.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>3.5</Length>
+		<Resistance>66</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>4</Length>
+		<Resistance>51.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>5</Length>
+		<Resistance>34</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>6</Length>
+		<Resistance>24</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>7</Length>
+		<Resistance>17.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>8</Length>
+		<Resistance>13.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>9</Length>
+		<Resistance>10.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>10</Length>
+		<Resistance>8.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>11</Length>
+		<Resistance>7.38</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>12</Length>
+		<Resistance>6.22</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>13</Length>
+		<Resistance>5.32</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x2.9</Name>
+		<Weight>5.24</Weight>
+		<Length>14</Length>
+		<Resistance>4.59</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>1</Length>
+		<Resistance>240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>1.5</Length>
+		<Resistance>213</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>2</Length>
+		<Resistance>171</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>2.5</Length>
+		<Resistance>127</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>3</Length>
+		<Resistance>94.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>3.5</Length>
+		<Resistance>72.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>4</Length>
+		<Resistance>56.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>5</Length>
+		<Resistance>37.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>6</Length>
+		<Resistance>26.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>7</Length>
+		<Resistance>19.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>8</Length>
+		<Resistance>15</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>9</Length>
+		<Resistance>11.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>10</Length>
+		<Resistance>9.71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>11</Length>
+		<Resistance>8.05</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>12</Length>
+		<Resistance>6.79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>13</Length>
+		<Resistance>5.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x3.2</Name>
+		<Weight>5.75</Weight>
+		<Length>14</Length>
+		<Resistance>5.01</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>1</Length>
+		<Resistance>296</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>1.5</Length>
+		<Resistance>261</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>2</Length>
+		<Resistance>208</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>2.5</Length>
+		<Resistance>154</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>3</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>3.5</Length>
+		<Resistance>87.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>4</Length>
+		<Resistance>68.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>5</Length>
+		<Resistance>44.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>6</Length>
+		<Resistance>31.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>7</Length>
+		<Resistance>23.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>8</Length>
+		<Resistance>18.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>9</Length>
+		<Resistance>14.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>10</Length>
+		<Resistance>11.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>11</Length>
+		<Resistance>9.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>12</Length>
+		<Resistance>8.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>13</Length>
+		<Resistance>7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x4.0</Name>
+		<Weight>7.11</Weight>
+		<Length>14</Length>
+		<Resistance>6.05</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>1</Length>
+		<Resistance>365</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>1.5</Length>
+		<Resistance>321</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>2</Length>
+		<Resistance>254</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>2.5</Length>
+		<Resistance>187</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>3</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>3.5</Length>
+		<Resistance>106</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>4</Length>
+		<Resistance>82.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>5</Length>
+		<Resistance>54.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>6</Length>
+		<Resistance>38.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>7</Length>
+		<Resistance>28.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>8</Length>
+		<Resistance>21.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>9</Length>
+		<Resistance>17.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>10</Length>
+		<Resistance>14.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>11</Length>
+		<Resistance>11.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>12</Length>
+		<Resistance>9.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>13</Length>
+		<Resistance>8.46</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x5.0</Name>
+		<Weight>8.77</Weight>
+		<Length>14</Length>
+		<Resistance>7.31</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>1</Length>
+		<Resistance>448</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>392</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>2</Length>
+		<Resistance>307</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>225</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>3</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>4</Length>
+		<Resistance>98.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>5</Length>
+		<Resistance>64.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>6</Length>
+		<Resistance>45.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>7</Length>
+		<Resistance>33.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>8</Length>
+		<Resistance>26.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>9</Length>
+		<Resistance>20.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>10</Length>
+		<Resistance>16.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>11</Length>
+		<Resistance>14</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>12</Length>
+		<Resistance>11.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>13</Length>
+		<Resistance>10.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 76.1x6.3</Name>
+		<Weight>10.8</Weight>
+		<Length>14</Length>
+		<Resistance>8.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>1</Length>
+		<Resistance>823</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>747</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>2</Length>
+		<Resistance>628</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>487</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>3</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>284</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>4</Length>
+		<Resistance>223</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>5</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>6</Length>
+		<Resistance>104</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>7</Length>
+		<Resistance>77.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>8</Length>
+		<Resistance>60</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>9</Length>
+		<Resistance>47.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>10</Length>
+		<Resistance>38.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>11</Length>
+		<Resistance>32.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>12</Length>
+		<Resistance>27.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>13</Length>
+		<Resistance>23.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x10.0</Name>
+		<Weight>19.5</Weight>
+		<Length>14</Length>
+		<Resistance>20.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>1</Length>
+		<Resistance>289</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>1.5</Length>
+		<Resistance>266</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>2</Length>
+		<Resistance>232</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>2.5</Length>
+		<Resistance>187</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>3</Length>
+		<Resistance>145</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>3.5</Length>
+		<Resistance>112</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>4</Length>
+		<Resistance>89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>5</Length>
+		<Resistance>59.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>6</Length>
+		<Resistance>41.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>7</Length>
+		<Resistance>31.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>8</Length>
+		<Resistance>24.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>9</Length>
+		<Resistance>19.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>10</Length>
+		<Resistance>15.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>11</Length>
+		<Resistance>13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>12</Length>
+		<Resistance>10.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>13</Length>
+		<Resistance>9.35</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x3.2</Name>
+		<Weight>6.76</Weight>
+		<Length>14</Length>
+		<Resistance>8.09</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>1</Length>
+		<Resistance>358</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>1.5</Length>
+		<Resistance>330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>2</Length>
+		<Resistance>286</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>2.5</Length>
+		<Resistance>229</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>3</Length>
+		<Resistance>177</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>3.5</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>4</Length>
+		<Resistance>109</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>5</Length>
+		<Resistance>72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>6</Length>
+		<Resistance>51.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>7</Length>
+		<Resistance>38</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>8</Length>
+		<Resistance>29.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>9</Length>
+		<Resistance>23.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>10</Length>
+		<Resistance>19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>11</Length>
+		<Resistance>15.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>12</Length>
+		<Resistance>13.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>13</Length>
+		<Resistance>11.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x4.0</Name>
+		<Weight>8.38</Weight>
+		<Length>14</Length>
+		<Resistance>9.84</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>1</Length>
+		<Resistance>441</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>405</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>2</Length>
+		<Resistance>350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>279</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>3</Length>
+		<Resistance>215</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>166</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>4</Length>
+		<Resistance>131</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>5</Length>
+		<Resistance>87.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>6</Length>
+		<Resistance>61.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>7</Length>
+		<Resistance>46</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>8</Length>
+		<Resistance>35.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>9</Length>
+		<Resistance>28.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>10</Length>
+		<Resistance>23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>11</Length>
+		<Resistance>19.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>12</Length>
+		<Resistance>16.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>13</Length>
+		<Resistance>13.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x5.0</Name>
+		<Weight>10.3</Weight>
+		<Length>14</Length>
+		<Resistance>11.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>1</Length>
+		<Resistance>544</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>498</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>2</Length>
+		<Resistance>427</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>338</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>3</Length>
+		<Resistance>259</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>201</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>4</Length>
+		<Resistance>158</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>5</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>6</Length>
+		<Resistance>74.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>7</Length>
+		<Resistance>55.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>8</Length>
+		<Resistance>42.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>9</Length>
+		<Resistance>34</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>10</Length>
+		<Resistance>27.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>11</Length>
+		<Resistance>23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>12</Length>
+		<Resistance>19.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>13</Length>
+		<Resistance>16.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>CHS 88.9x6.3</Name>
+		<Weight>12.8</Weight>
+		<Length>14</Length>
+		<Resistance>14.3</Resistance>
+	</Beaminfo>
+	</Root>
