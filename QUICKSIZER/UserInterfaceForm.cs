@@ -23,46 +23,8 @@ namespace QUICKSIZER
         {
 
         }
-        
-        //transforming Effective Length to one of those used in tables
-        double RoundEffectiveLength(double inputLength)
-        {
-            double roundedLength = 0;
 
-            if (inputLength > 14)
-            {
-                MessageBox.Show("Wow! Looks like your columns is really long. Sorry, I can only deal with lenght up to 14m.");
-            }
-            else if (inputLength <= 0)
-            {
-                MessageBox.Show("Hey! You are trying to kill me! No negative values allowed for length input.");
-            }
-            else if (inputLength < 4)
-            {
-                double remainder = inputLength % 0.5;
-                if (remainder != 0 )
-                {
-                    roundedLength = inputLength - remainder + 0.5;
-                }
-                else
-                {
-                    roundedLength = inputLength;
-                }
-            }
-            else if (inputLength >= 4)
-            {
-                double remainder = inputLength % 1;
-                if (remainder != 0)
-                {
-                    roundedLength = inputLength - remainder + 1;
-                }
-                else
-                {
-                    roundedLength = inputLength;
-                }
-            }
-            return roundedLength;
-        }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -74,7 +36,7 @@ namespace QUICKSIZER
             try
             {
                 AxialForceInput = Math.Abs(Convert.ToDouble(AxialNed.Text));
-                EffectiveLengthInput = RoundEffectiveLength(Convert.ToDouble(AxialLeff.Text));
+                EffectiveLengthInput = Convert.ToDouble(AxialLeff.Text);
             }
             catch (Exception)
             {
@@ -112,19 +74,19 @@ namespace QUICKSIZER
             List<string> AngleslistboxItemsOutput = new List<string>();
 
             //running the section selection;
-            HEAlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataHEA);
-            HEBlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataHEB);
-            IPElistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataIPE);
-            UPElistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataUPE);
-            UBlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataUB);
-            UClistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataUC);
-            UBPlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataUBP);
-            PFClistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataPFC);
-            SHSlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataSHS);
-            CHSlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataCHS);
-            RHSlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataRHS);
-            EHSlistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataEHS);
-            AngleslistboxItemsOutput = SectionSelecton.EvaluateSections(AxialForceInput, EffectiveLengthInput, xmlDataAngle);
+            HEAlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataHEA);
+            HEBlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataHEB);
+            IPElistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataIPE);
+            UPElistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataUPE);
+            UBlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataUB);
+            UClistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataUC);
+            UBPlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataUBP);
+            PFClistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataPFC);
+            SHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataSHS);
+            CHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataCHS);
+            RHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataRHS);
+            EHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataEHS);
+            AngleslistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataAngle);
 
             //output results to listbox
             HEAsectionsListBox.DataSource = HEAlistboxItemsOutput;
@@ -146,6 +108,16 @@ namespace QUICKSIZER
         {
             AboutForm f2 = new AboutForm(); 
             f2.ShowDialog();
+        }
+
+        private void label48_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label52_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -14,15 +14,39 @@ namespace QUICKSIZER
         public string Name { get; set; }
         public double Weight { get; set; }
         public double EffectiveLength { get; set; }
-        public double Capacity { get; set; }
-        public double Utilisation { get; set; }
+        public double NRd { get; set; }
+        public double MRd { get; set; }
+        public double VRd { get; set; }
+        public double uDeflection { get; set; }
+        public double N_utilisation { get; set; }
+        public double M_utilisation { get; set; }
+        public double V_utilisation { get; set; }
+        public double Total_utilisation { get; set; }
+        public double Governing { get; set; }
 
         public override string ToString()
         {
-            return Utilisation*100 +  "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" +Capacity +"kN";
+            return N_utilisation*100 +  "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" +NRd +"kN";
 
             //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }
+
+        public string AxialOutput()
+        {
+            return N_utilisation * 100 + "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" + NRd + "kN";
+
+            //100% UB456x456x056 L.eff=5m N.Rd=34000kN
+        }
+
+
+        public string BendingOutput()
+        {
+            return Total_utilisation * 100 + "% (" + Governing + ") " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m u.defl=" + uDeflection + "mm M.Rd=" + MRd + "kNm V.Rd="+ VRd;
+
+            //100% UB456x456x056 L.eff=5m N.Rd=34000kN
+        }
+
+
         public override bool Equals(object obj)
         {
             if (obj == null) return false;

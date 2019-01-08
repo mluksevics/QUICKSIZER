@@ -146,6 +146,36 @@ namespace QUICKSIZER.Properties {
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
         ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
         ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 A&lt;/Name&gt;
+        ///		&lt;Weight&gt;16.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;625&lt;/NRd&gt;
+        ///		&lt;MRd&gt;29.5&lt;/MRd&gt;
+        ///		&lt;VRd&gt;154&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;349&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 AA&lt;/Name&gt;
+        ///		&lt;Weight&gt;12.2&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;455&lt;/NRd&gt;
+        ///		&lt;MRd&gt;20.7&lt;/MRd&gt;
+        ///		&lt;VRd&gt;126&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;236&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 1000 A*&lt; [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HEA_NRd1 {
+            get {
+                return ResourceManager.GetString("HEA_NRd1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
         ///		&lt;Name&gt;HE 100 B&lt;/Name&gt;
         ///		&lt;Weight&gt;20.4&lt;/Weight&gt;
         ///		&lt;Length&gt;1.0&lt;/Length&gt;
@@ -338,7 +368,7 @@ namespace QUICKSIZER.Properties {
         /// <summary>
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
         ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
-        ///	
+        ///	&lt;Beaminfo&gt;
         ///		&lt;Name&gt;UBP 203 x 203 x 45&lt;/Name&gt;
         ///		&lt;Weight&gt;45&lt;/Weight&gt;
         ///		&lt;Length&gt;1&lt;/Length&gt;
@@ -354,7 +384,7 @@ namespace QUICKSIZER.Properties {
         ///		&lt;Name&gt;UBP 203 x 203 x 45&lt;/Name&gt;
         ///		&lt;Weight&gt;45&lt;/Weight&gt;
         ///		&lt;Length&gt;2&lt;/Length&gt;
-        ///		&lt;Resistance&gt;1680&lt;/Resistan [rest of string was truncated]&quot;;.
+        ///		&lt;Resistance&gt;1680 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string UBP_NRd {
             get {
