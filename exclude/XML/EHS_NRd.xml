@@ -1,0 +1,3981 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>1</Length>
+		<NRd>404</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>1.5</Length>
+		<NRd>368</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>2</Length>
+		<NRd>313</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>2.5</Length>
+		<NRd>246</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>3</Length>
+		<NRd>188</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>3.5</Length>
+		<NRd>145</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>4</Length>
+		<NRd>114</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>5</Length>
+		<NRd>75.7</NRd>
+		<MRd>19.9</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>6</Length>
+		<NRd>53.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>7</Length>
+		<NRd>39.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>8</Length>
+		<NRd>30.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>9</Length>
+		<NRd>24.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>10</Length>
+		<NRd>19.9</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>11</Length>
+		<NRd>16.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>12</Length>
+		<NRd>13.9</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>13</Length>
+		<NRd>11.9</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>14</Length>
+		<NRd>10.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>239</VRd>
+		<Inertia>301</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>1</Length>
+		<NRd>555</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>1.5</Length>
+		<NRd>499</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>2</Length>
+		<NRd>410</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>2.5</Length>
+		<NRd>311</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>3</Length>
+		<NRd>234</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>3.5</Length>
+		<NRd>179</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>4</Length>
+		<NRd>141</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>5</Length>
+		<NRd>92.7</NRd>
+		<MRd>24.5</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>6</Length>
+		<NRd>65.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>7</Length>
+		<NRd>48.6</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>8</Length>
+		<NRd>37.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>9</Length>
+		<NRd>29.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>10</Length>
+		<NRd>24.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>11</Length>
+		<NRd>20.2</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>12</Length>
+		<NRd>17</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>13</Length>
+		<NRd>14.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>14</Length>
+		<NRd>12.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>297</VRd>
+		<Inertia>367</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>1</Length>
+		<NRd>690</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>1.5</Length>
+		<NRd>616</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>2</Length>
+		<NRd>501</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>2.5</Length>
+		<NRd>377</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>3</Length>
+		<NRd>282</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>3.5</Length>
+		<NRd>215</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>4</Length>
+		<NRd>169</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>5</Length>
+		<NRd>111</NRd>
+		<MRd>30.1</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>6</Length>
+		<NRd>78.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>7</Length>
+		<NRd>58.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>8</Length>
+		<NRd>45</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>9</Length>
+		<NRd>35.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>10</Length>
+		<NRd>29.1</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>11</Length>
+		<NRd>24.1</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>12</Length>
+		<NRd>20.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>13</Length>
+		<NRd>17.4</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>14</Length>
+		<NRd>15</NRd>
+		<MRd>0.001</MRd>
+		<VRd>371</VRd>
+		<Inertia>448</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>1</Length>
+		<NRd>1500</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>1.5</Length>
+		<NRd>1410</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>2</Length>
+		<NRd>1280</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>2.5</Length>
+		<NRd>1100</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>3</Length>
+		<NRd>897</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>3.5</Length>
+		<NRd>717</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>4</Length>
+		<NRd>576</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>5</Length>
+		<NRd>388</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>6</Length>
+		<NRd>277</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>7</Length>
+		<NRd>207</NRd>
+		<MRd>83.4</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>8</Length>
+		<NRd>160</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>9</Length>
+		<NRd>127</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>10</Length>
+		<NRd>104</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>11</Length>
+		<NRd>86.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>12</Length>
+		<NRd>72.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>13</Length>
+		<NRd>62.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>14</Length>
+		<NRd>53.9</NRd>
+		<MRd>0.001</MRd>
+		<VRd>779</VRd>
+		<Inertia>1640</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>1</Length>
+		<NRd>1830</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>1.5</Length>
+		<NRd>1720</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>2</Length>
+		<NRd>1560</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>2.5</Length>
+		<NRd>1320</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>3</Length>
+		<NRd>1070</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>3.5</Length>
+		<NRd>848</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>4</Length>
+		<NRd>679</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>5</Length>
+		<NRd>456</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>6</Length>
+		<NRd>325</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>7</Length>
+		<NRd>242</NRd>
+		<MRd>101</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>8</Length>
+		<NRd>188</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>9</Length>
+		<NRd>150</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>10</Length>
+		<NRd>122</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>11</Length>
+		<NRd>101</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>12</Length>
+		<NRd>85.4</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>13</Length>
+		<NRd>73</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>14</Length>
+		<NRd>63.2</NRd>
+		<MRd>0.001</MRd>
+		<VRd>961</VRd>
+		<Inertia>1950</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>1</Length>
+		<NRd>677</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>1.5</Length>
+		<NRd>645</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>2</Length>
+		<NRd>602</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>2.5</Length>
+		<NRd>541</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>3</Length>
+		<NRd>464</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>3.5</Length>
+		<NRd>384</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>4</Length>
+		<NRd>315</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>5</Length>
+		<NRd>216</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>6</Length>
+		<NRd>155</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>7</Length>
+		<NRd>116</NRd>
+		<MRd>44.4</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>8</Length>
+		<NRd>90.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>9</Length>
+		<NRd>72</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>10</Length>
+		<NRd>58.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>11</Length>
+		<NRd>48.9</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>12</Length>
+		<NRd>41.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>13</Length>
+		<NRd>35.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>14</Length>
+		<NRd>30.6</NRd>
+		<MRd>0.001</MRd>
+		<VRd>400</VRd>
+		<Inertia>897</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>1</Length>
+		<NRd>941</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>1.5</Length>
+		<NRd>891</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>2</Length>
+		<NRd>821</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>2.5</Length>
+		<NRd>720</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>3</Length>
+		<NRd>600</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>3.5</Length>
+		<NRd>486</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>4</Length>
+		<NRd>393</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>5</Length>
+		<NRd>267</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>6</Length>
+		<NRd>191</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>7</Length>
+		<NRd>143</NRd>
+		<MRd>55</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>8</Length>
+		<NRd>111</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>9</Length>
+		<NRd>88.2</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>10</Length>
+		<NRd>72</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>11</Length>
+		<NRd>59.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>12</Length>
+		<NRd>50.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>13</Length>
+		<NRd>43.2</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>14</Length>
+		<NRd>37.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>500</VRd>
+		<Inertia>1100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>1</Length>
+		<NRd>1220</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>1.5</Length>
+		<NRd>1150</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>2</Length>
+		<NRd>1050</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>2.5</Length>
+		<NRd>910</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>3</Length>
+		<NRd>747</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>3.5</Length>
+		<NRd>600</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>4</Length>
+		<NRd>483</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>5</Length>
+		<NRd>326</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>6</Length>
+		<NRd>233</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>7</Length>
+		<NRd>174</NRd>
+		<MRd>68.5</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>8</Length>
+		<NRd>135</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>9</Length>
+		<NRd>107</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>10</Length>
+		<NRd>87.6</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>11</Length>
+		<NRd>72.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>12</Length>
+		<NRd>61.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>13</Length>
+		<NRd>52.6</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>14</Length>
+		<NRd>45.5</NRd>
+		<MRd>0.001</MRd>
+		<VRd>630</VRd>
+		<Inertia>1360</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>1</Length>
+		<NRd>1940</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>1.5</Length>
+		<NRd>1860</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>2</Length>
+		<NRd>1770</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>2.5</Length>
+		<NRd>1640</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>3</Length>
+		<NRd>1470</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>3.5</Length>
+		<NRd>1270</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>4</Length>
+		<NRd>1070</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>5</Length>
+		<NRd>754</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>6</Length>
+		<NRd>548</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>7</Length>
+		<NRd>413</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>8</Length>
+		<NRd>322</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>9</Length>
+		<NRd>257</NRd>
+		<MRd>133</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>10</Length>
+		<NRd>210</NRd>
+		<MRd>0.001</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>11</Length>
+		<NRd>175</NRd>
+		<MRd>0.001</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>12</Length>
+		<NRd>148</NRd>
+		<MRd>0.001</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>13</Length>
+		<NRd>127</NRd>
+		<MRd>0.001</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>14</Length>
+		<NRd>110</NRd>
+		<MRd>0.001</MRd>
+		<VRd>984</VRd>
+		<Inertia>3320</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>1</Length>
+		<NRd>2380</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>1.5</Length>
+		<NRd>2290</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>2</Length>
+		<NRd>2170</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>2.5</Length>
+		<NRd>2000</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>3</Length>
+		<NRd>1780</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>3.5</Length>
+		<NRd>1530</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>4</Length>
+		<NRd>1280</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>5</Length>
+		<NRd>900</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>6</Length>
+		<NRd>653</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>7</Length>
+		<NRd>492</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>8</Length>
+		<NRd>383</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>9</Length>
+		<NRd>306</NRd>
+		<MRd>163</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>10</Length>
+		<NRd>250</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>11</Length>
+		<NRd>208</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>12</Length>
+		<NRd>176</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>13</Length>
+		<NRd>151</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>14</Length>
+		<NRd>130</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1220</VRd>
+		<Inertia>4000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>1</Length>
+		<NRd>1090</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>1.5</Length>
+		<NRd>1050</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>2</Length>
+		<NRd>1010</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>2.5</Length>
+		<NRd>951</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>3</Length>
+		<NRd>877</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>3.5</Length>
+		<NRd>783</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>4</Length>
+		<NRd>680</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>5</Length>
+		<NRd>496</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>6</Length>
+		<NRd>365</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>7</Length>
+		<NRd>277</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>8</Length>
+		<NRd>217</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>9</Length>
+		<NRd>174</NRd>
+		<MRd>87.3</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>10</Length>
+		<NRd>142</NRd>
+		<MRd>0.001</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>11</Length>
+		<NRd>118</NRd>
+		<MRd>0.001</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>12</Length>
+		<NRd>100</NRd>
+		<MRd>0.001</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>13</Length>
+		<NRd>85.8</NRd>
+		<MRd>0.001</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>14</Length>
+		<NRd>74.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>629</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>1</Length>
+		<NRd>1530</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>1.5</Length>
+		<NRd>1480</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>2</Length>
+		<NRd>1400</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>2.5</Length>
+		<NRd>1310</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>3</Length>
+		<NRd>1180</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>3.5</Length>
+		<NRd>1030</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>4</Length>
+		<NRd>877</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>5</Length>
+		<NRd>623</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>6</Length>
+		<NRd>454</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>7</Length>
+		<NRd>343</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>8</Length>
+		<NRd>268</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>9</Length>
+		<NRd>214</NRd>
+		<MRd>109</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>10</Length>
+		<NRd>175</NRd>
+		<MRd>0.001</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>11</Length>
+		<NRd>146</NRd>
+		<MRd>0.001</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>12</Length>
+		<NRd>123</NRd>
+		<MRd>0.001</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>13</Length>
+		<NRd>105</NRd>
+		<MRd>0.001</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>14</Length>
+		<NRd>91.3</NRd>
+		<MRd>0.001</MRd>
+		<VRd>794</VRd>
+		<Inertia>2730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>1</Length>
+		<NRd>2360</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>1.5</Length>
+		<NRd>2300</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>2</Length>
+		<NRd>2220</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>2.5</Length>
+		<NRd>2120</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>3</Length>
+		<NRd>1990</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>3.5</Length>
+		<NRd>1830</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>4</Length>
+		<NRd>1630</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>5</Length>
+		<NRd>1240</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>6</Length>
+		<NRd>931</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>7</Length>
+		<NRd>713</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>8</Length>
+		<NRd>559</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>9</Length>
+		<NRd>450</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>10</Length>
+		<NRd>369</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>11</Length>
+		<NRd>308</NRd>
+		<MRd>196</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>12</Length>
+		<NRd>260</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>13</Length>
+		<NRd>223</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>14</Length>
+		<NRd>194</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1190</VRd>
+		<Inertia>5870</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>1</Length>
+		<NRd>2930</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>1.5</Length>
+		<NRd>2840</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>2</Length>
+		<NRd>2740</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>2.5</Length>
+		<NRd>2610</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>3</Length>
+		<NRd>2450</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>3.5</Length>
+		<NRd>2240</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>4</Length>
+		<NRd>1990</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>5</Length>
+		<NRd>1500</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>6</Length>
+		<NRd>1120</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>7</Length>
+		<NRd>857</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>8</Length>
+		<NRd>673</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>9</Length>
+		<NRd>540</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>10</Length>
+		<NRd>443</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>11</Length>
+		<NRd>369</NRd>
+		<MRd>239</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>12</Length>
+		<NRd>313</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>13</Length>
+		<NRd>268</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>14</Length>
+		<NRd>232</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1470</VRd>
+		<Inertia>7120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>1</Length>
+		<NRd>3300</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>1.5</Length>
+		<NRd>3200</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>2</Length>
+		<NRd>3080</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>2.5</Length>
+		<NRd>2940</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>3</Length>
+		<NRd>2740</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>3.5</Length>
+		<NRd>2500</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>4</Length>
+		<NRd>2220</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>5</Length>
+		<NRd>1660</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>6</Length>
+		<NRd>1240</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>7</Length>
+		<NRd>947</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>8</Length>
+		<NRd>742</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>9</Length>
+		<NRd>596</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>10</Length>
+		<NRd>489</NRd>
+		<MRd>268</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>11</Length>
+		<NRd>407</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>12</Length>
+		<NRd>345</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>13</Length>
+		<NRd>296</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>14</Length>
+		<NRd>256</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1660</VRd>
+		<Inertia>7920</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>1</Length>
+		<NRd>3680</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>1.5</Length>
+		<NRd>3570</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>2</Length>
+		<NRd>3440</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>2.5</Length>
+		<NRd>3270</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>3</Length>
+		<NRd>3050</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>3.5</Length>
+		<NRd>2770</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>4</Length>
+		<NRd>2450</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>5</Length>
+		<NRd>1830</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>6</Length>
+		<NRd>1360</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>7</Length>
+		<NRd>1040</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>8</Length>
+		<NRd>812</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>9</Length>
+		<NRd>652</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>10</Length>
+		<NRd>534</NRd>
+		<MRd>297</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>11</Length>
+		<NRd>445</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>12</Length>
+		<NRd>377</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>13</Length>
+		<NRd>323</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>14</Length>
+		<NRd>280</NRd>
+		<MRd>0.001</MRd>
+		<VRd>1860</VRd>
+		<Inertia>8730</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>1</Length>
+		<NRd>1710</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>1.5</Length>
+		<NRd>1670</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>2</Length>
+		<NRd>1620</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>2.5</Length>
+		<NRd>1560</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>3</Length>
+		<NRd>1480</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>3.5</Length>
+		<NRd>1380</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>4</Length>
+		<NRd>1260</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>5</Length>
+		<NRd>986</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>6</Length>
+		<NRd>753</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>7</Length>
+		<NRd>581</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>8</Length>
+		<NRd>458</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>9</Length>
+		<NRd>369</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>10</Length>
+		<NRd>303</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>11</Length>
+		<NRd>253</NRd>
+		<MRd>159</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>12</Length>
+		<NRd>215</NRd>
+		<MRd>0.001</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>13</Length>
+		<NRd>184</NRd>
+		<MRd>0.001</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>14</Length>
+		<NRd>160</NRd>
+		<MRd>0.001</MRd>
+		<VRd>958</VRd>
+		<Inertia>4810</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>1</Length>
+		<NRd>2790</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>1.5</Length>
+		<NRd>2760</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>2</Length>
+		<NRd>2700</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>2.5</Length>
+		<NRd>2650</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>3</Length>
+		<NRd>2580</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>3.5</Length>
+		<NRd>2500</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>4</Length>
+		<NRd>2410</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>5</Length>
+		<NRd>2160</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>6</Length>
+		<NRd>1850</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>7</Length>
+		<NRd>1530</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>8</Length>
+		<NRd>1260</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>9</Length>
+		<NRd>1040</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>10</Length>
+		<NRd>862</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>11</Length>
+		<NRd>727</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>12</Length>
+		<NRd>620</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>13</Length>
+		<NRd>534</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>14</Length>
+		<NRd>465</NRd>
+		<MRd>355</MRd>
+		<VRd>1600</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>1</Length>
+		<NRd>3870</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>1.5</Length>
+		<NRd>3810</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>2</Length>
+		<NRd>3730</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>2.5</Length>
+		<NRd>3640</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>3</Length>
+		<NRd>3530</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>3.5</Length>
+		<NRd>3410</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>4</Length>
+		<NRd>3250</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>5</Length>
+		<NRd>2860</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>6</Length>
+		<NRd>2380</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>7</Length>
+		<NRd>1930</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>8</Length>
+		<NRd>1560</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>9</Length>
+		<NRd>1280</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>10</Length>
+		<NRd>1060</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>11</Length>
+		<NRd>890</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>12</Length>
+		<NRd>757</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>13</Length>
+		<NRd>652</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>14</Length>
+		<NRd>566</NRd>
+		<MRd>437</MRd>
+		<VRd>1990</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>1</Length>
+		<NRd>4510</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>1.5</Length>
+		<NRd>4430</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>2</Length>
+		<NRd>4330</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>2.5</Length>
+		<NRd>4220</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>3</Length>
+		<NRd>4090</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>3.5</Length>
+		<NRd>3940</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>4</Length>
+		<NRd>3750</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>5</Length>
+		<NRd>3260</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>6</Length>
+		<NRd>2690</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>7</Length>
+		<NRd>2160</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>8</Length>
+		<NRd>1740</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>9</Length>
+		<NRd>1420</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>10</Length>
+		<NRd>1180</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>11</Length>
+		<NRd>990</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>12</Length>
+		<NRd>842</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>13</Length>
+		<NRd>724</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>14</Length>
+		<NRd>629</NRd>
+		<MRd>491</MRd>
+		<VRd>2250</VRd>
+		<Inertia>19600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>1</Length>
+		<NRd>5080</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>1.5</Length>
+		<NRd>4990</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>2</Length>
+		<NRd>4880</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>2.5</Length>
+		<NRd>4750</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>3</Length>
+		<NRd>4600</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>3.5</Length>
+		<NRd>4420</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>4</Length>
+		<NRd>4200</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>5</Length>
+		<NRd>3640</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>6</Length>
+		<NRd>2990</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>7</Length>
+		<NRd>2400</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>8</Length>
+		<NRd>1930</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>9</Length>
+		<NRd>1580</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>10</Length>
+		<NRd>1300</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>11</Length>
+		<NRd>1090</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>12</Length>
+		<NRd>931</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>13</Length>
+		<NRd>800</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>14</Length>
+		<NRd>695</NRd>
+		<MRd>547</MRd>
+		<VRd>2520</VRd>
+		<Inertia>21700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>1</Length>
+		<NRd>2010</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>1.5</Length>
+		<NRd>2000</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>2</Length>
+		<NRd>1960</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>2.5</Length>
+		<NRd>1920</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>3</Length>
+		<NRd>1880</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>3.5</Length>
+		<NRd>1830</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>4</Length>
+		<NRd>1770</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>5</Length>
+		<NRd>1620</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>6</Length>
+		<NRd>1420</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>7</Length>
+		<NRd>1200</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>8</Length>
+		<NRd>1000</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>9</Length>
+		<NRd>833</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>10</Length>
+		<NRd>697</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>11</Length>
+		<NRd>589</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>12</Length>
+		<NRd>503</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>13</Length>
+		<NRd>435</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>14</Length>
+		<NRd>379</NRd>
+		<MRd>288</MRd>
+		<VRd>1290</VRd>
+		<Inertia>11700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>1</Length>
+		<NRd>3150</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>1.5</Length>
+		<NRd>3150</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>2</Length>
+		<NRd>3120</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>2.5</Length>
+		<NRd>3070</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>3</Length>
+		<NRd>3020</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>3.5</Length>
+		<NRd>2970</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>4</Length>
+		<NRd>2910</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>5</Length>
+		<NRd>2770</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>6</Length>
+		<NRd>2590</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>7</Length>
+		<NRd>2360</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>8</Length>
+		<NRd>2100</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>9</Length>
+		<NRd>1820</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>10</Length>
+		<NRd>1570</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>11</Length>
+		<NRd>1350</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>12</Length>
+		<NRd>1170</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>13</Length>
+		<NRd>1020</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>14</Length>
+		<NRd>894</NRd>
+		<MRd>564</MRd>
+		<VRd>2010</VRd>
+		<Inertia>28500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>1</Length>
+		<NRd>4350</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>1.5</Length>
+		<NRd>4350</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>2</Length>
+		<NRd>4280</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>2.5</Length>
+		<NRd>4220</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>3</Length>
+		<NRd>4140</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>3.5</Length>
+		<NRd>4060</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>4</Length>
+		<NRd>3970</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>5</Length>
+		<NRd>3750</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>6</Length>
+		<NRd>3460</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>7</Length>
+		<NRd>3090</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>8</Length>
+		<NRd>2690</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>9</Length>
+		<NRd>2300</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>10</Length>
+		<NRd>1960</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>11</Length>
+		<NRd>1680</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>12</Length>
+		<NRd>1440</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>13</Length>
+		<NRd>1250</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>14</Length>
+		<NRd>1100</NRd>
+		<MRd>696</MRd>
+		<VRd>2500</VRd>
+		<Inertia>35000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>1</Length>
+		<NRd>5260</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>1.5</Length>
+		<NRd>5250</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>2</Length>
+		<NRd>5170</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>2.5</Length>
+		<NRd>5080</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>3</Length>
+		<NRd>4990</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>3.5</Length>
+		<NRd>4880</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>4</Length>
+		<NRd>4760</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>5</Length>
+		<NRd>4470</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>6</Length>
+		<NRd>4080</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>7</Length>
+		<NRd>3600</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>8</Length>
+		<NRd>3090</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>9</Length>
+		<NRd>2620</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>10</Length>
+		<NRd>2230</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>11</Length>
+		<NRd>1900</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>12</Length>
+		<NRd>1630</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>13</Length>
+		<NRd>1410</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>14</Length>
+		<NRd>1240</NRd>
+		<MRd>782</MRd>
+		<VRd>2830</VRd>
+		<Inertia>39300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>1</Length>
+		<NRd>6240</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>1.5</Length>
+		<NRd>6220</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>2</Length>
+		<NRd>6120</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>2.5</Length>
+		<NRd>6010</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>3</Length>
+		<NRd>5890</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>3.5</Length>
+		<NRd>5760</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>4</Length>
+		<NRd>5610</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>5</Length>
+		<NRd>5230</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>6</Length>
+		<NRd>4720</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>7</Length>
+		<NRd>4120</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>8</Length>
+		<NRd>3500</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>9</Length>
+		<NRd>2950</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>10</Length>
+		<NRd>2490</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>11</Length>
+		<NRd>2120</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>12</Length>
+		<NRd>1810</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>13</Length>
+		<NRd>1570</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>14</Length>
+		<NRd>1370</NRd>
+		<MRd>873</MRd>
+		<VRd>3170</VRd>
+		<Inertia>43700</Inertia>
+	</Beaminfo>
+</Root>
