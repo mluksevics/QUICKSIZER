@@ -129,16 +129,6 @@
             this.SHSbendingListBox = new System.Windows.Forms.ListBox();
             this.label36 = new System.Windows.Forms.Label();
             this.label37 = new System.Windows.Forms.Label();
-            this.tabPage12 = new System.Windows.Forms.TabPage();
-            this.label39 = new System.Windows.Forms.Label();
-            this.listBox18 = new System.Windows.Forms.ListBox();
-            this.listBox19 = new System.Windows.Forms.ListBox();
-            this.label40 = new System.Windows.Forms.Label();
-            this.label41 = new System.Windows.Forms.Label();
-            this.listBox20 = new System.Windows.Forms.ListBox();
-            this.listBox21 = new System.Windows.Forms.ListBox();
-            this.label42 = new System.Windows.Forms.Label();
-            this.label43 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
@@ -155,7 +145,6 @@
             this.tabPage8.SuspendLayout();
             this.tabPage9.SuspendLayout();
             this.tabPage10.SuspendLayout();
-            this.tabPage12.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -567,10 +556,10 @@
             this.label19.AutoSize = true;
             this.label19.Location = new System.Drawing.Point(12, 302);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(511, 13);
+            this.label19.Size = new System.Drawing.Size(767, 13);
             this.label19.TabIndex = 51;
             this.label19.Text = "Service Class 2 conditions assumed. Medium term duration for load (e.g. imposed l" +
-    "oad) has been assumed. ";
+    "oad) has been assumed. Beam weights kg/m shown for comparative purposes. ";
             // 
             // GL28sectionsListBox
             // 
@@ -730,7 +719,7 @@
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage7.Size = new System.Drawing.Size(822, 464);
             this.tabPage7.TabIndex = 1;
-            this.tabPage7.Text = "Beam - uniform load";
+            this.tabPage7.Text = "Steel beam - bending only";
             // 
             // BeamDeflectionLimit
             // 
@@ -907,7 +896,6 @@
             this.tabControl3.Controls.Add(this.tabPage8);
             this.tabControl3.Controls.Add(this.tabPage9);
             this.tabControl3.Controls.Add(this.tabPage10);
-            this.tabControl3.Controls.Add(this.tabPage12);
             this.tabControl3.Location = new System.Drawing.Point(6, 110);
             this.tabControl3.Name = "tabControl3";
             this.tabControl3.SelectedIndex = 0;
@@ -1206,110 +1194,6 @@
             this.label37.TabIndex = 34;
             this.label37.Text = "Square Hollow Sections (SHS):";
             // 
-            // tabPage12
-            // 
-            this.tabPage12.Controls.Add(this.label39);
-            this.tabPage12.Controls.Add(this.listBox18);
-            this.tabPage12.Controls.Add(this.listBox19);
-            this.tabPage12.Controls.Add(this.label40);
-            this.tabPage12.Controls.Add(this.label41);
-            this.tabPage12.Controls.Add(this.listBox20);
-            this.tabPage12.Controls.Add(this.listBox21);
-            this.tabPage12.Controls.Add(this.label42);
-            this.tabPage12.Controls.Add(this.label43);
-            this.tabPage12.Location = new System.Drawing.Point(4, 22);
-            this.tabPage12.Name = "tabPage12";
-            this.tabPage12.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage12.Size = new System.Drawing.Size(806, 322);
-            this.tabPage12.TabIndex = 4;
-            this.tabPage12.Text = "Timber";
-            this.tabPage12.UseVisualStyleBackColor = true;
-            // 
-            // label39
-            // 
-            this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(12, 302);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(182, 13);
-            this.label39.TabIndex = 51;
-            this.label39.Text = "Service Class 2 conditions assumed. ";
-            // 
-            // listBox18
-            // 
-            this.listBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox18.FormattingEnabled = true;
-            this.listBox18.ItemHeight = 12;
-            this.listBox18.Location = new System.Drawing.Point(408, 173);
-            this.listBox18.Name = "listBox18";
-            this.listBox18.Size = new System.Drawing.Size(390, 124);
-            this.listBox18.TabIndex = 50;
-            // 
-            // listBox19
-            // 
-            this.listBox19.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox19.FormattingEnabled = true;
-            this.listBox19.ItemHeight = 12;
-            this.listBox19.Location = new System.Drawing.Point(9, 173);
-            this.listBox19.Name = "listBox19";
-            this.listBox19.Size = new System.Drawing.Size(389, 124);
-            this.listBox19.TabIndex = 49;
-            // 
-            // label40
-            // 
-            this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(408, 157);
-            this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(146, 13);
-            this.label40.TabIndex = 48;
-            this.label40.Text = "Glulam GL28h timber - square";
-            // 
-            // label41
-            // 
-            this.label41.AutoSize = true;
-            this.label41.Location = new System.Drawing.Point(6, 157);
-            this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(146, 13);
-            this.label41.TabIndex = 47;
-            this.label41.Text = "Glulam GL24h timber - square";
-            // 
-            // listBox20
-            // 
-            this.listBox20.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox20.FormattingEnabled = true;
-            this.listBox20.ItemHeight = 12;
-            this.listBox20.Location = new System.Drawing.Point(408, 24);
-            this.listBox20.Name = "listBox20";
-            this.listBox20.Size = new System.Drawing.Size(390, 124);
-            this.listBox20.TabIndex = 46;
-            // 
-            // listBox21
-            // 
-            this.listBox21.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox21.FormattingEnabled = true;
-            this.listBox21.ItemHeight = 12;
-            this.listBox21.Location = new System.Drawing.Point(9, 24);
-            this.listBox21.Name = "listBox21";
-            this.listBox21.Size = new System.Drawing.Size(389, 124);
-            this.listBox21.TabIndex = 45;
-            // 
-            // label42
-            // 
-            this.label42.AutoSize = true;
-            this.label42.Location = new System.Drawing.Point(408, 8);
-            this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(124, 13);
-            this.label42.TabIndex = 44;
-            this.label42.Text = "Solid C24 timber - square";
-            // 
-            // label43
-            // 
-            this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(6, 8);
-            this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(124, 13);
-            this.label43.TabIndex = 43;
-            this.label43.Text = "Solid C16 timber - square";
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -1373,8 +1257,6 @@
             this.tabPage9.PerformLayout();
             this.tabPage10.ResumeLayout(false);
             this.tabPage10.PerformLayout();
-            this.tabPage12.ResumeLayout(false);
-            this.tabPage12.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1483,16 +1365,6 @@
         private System.Windows.Forms.ListBox SHSbendingListBox;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.TabPage tabPage12;
-        private System.Windows.Forms.Label label39;
-        private System.Windows.Forms.ListBox listBox18;
-        private System.Windows.Forms.ListBox listBox19;
-        private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label41;
-        private System.Windows.Forms.ListBox listBox20;
-        private System.Windows.Forms.ListBox listBox21;
-        private System.Windows.Forms.Label label42;
-        private System.Windows.Forms.Label label43;
         private System.Windows.Forms.ToolTip toolTip1;
     }
 }
