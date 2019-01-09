@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>1</Length>
+		<NRd>18.1549253143023</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>1</Length>
+		<NRd>60.6762107677629</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>1</Length>
+		<NRd>119.182717755812</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>1</Length>
+		<NRd>193.577821526349</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>1</Length>
+		<NRd>284.633671188954</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>1</Length>
+		<NRd>392.616948579016</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>1</Length>
+		<NRd>517.636918711332</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>1</Length>
+		<NRd>659.747093319762</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>1</Length>
+		<NRd>818.977213391299</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>1</Length>
+		<NRd>995.345361146425</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>1</Length>
+		<NRd>1188.86327852833</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>1</Length>
+		<NRd>1399.53898083481</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>1</Length>
+		<NRd>1627.37815741487</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>1</Length>
+		<NRd>1872.38497524709</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>1</Length>
+		<NRd>2134.56256583724</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>1.5</Length>
+		<NRd>9.19368664352947</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>1.5</Length>
+		<NRd>40.8485819571801</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>1.5</Length>
+		<NRd>100.0704958672</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>1.5</Length>
+		<NRd>176.626281885639</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>1.5</Length>
+		<NRd>268.161114950578</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>1.5</Length>
+		<NRd>375.638158999934</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>1.5</Length>
+		<NRd>499.63516557483</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>1.5</Length>
+		<NRd>640.425760175148</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>1.5</Length>
+		<NRd>798.149938913033</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>1.5</Length>
+		<NRd>972.886410484097</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>1.5</Length>
+		<NRd>1164.6830671005</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>1.5</Length>
+		<NRd>1373.57094084985</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>1.5</Length>
+		<NRd>1599.57116755934</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>1.5</Length>
+		<NRd>1842.69873013042</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>1.5</Length>
+		<NRd>2102.96460079099</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>2</Length>
+		<NRd>5.37356530464149</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>2</Length>
+		<NRd>25.5577928063882</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>2</Length>
+		<NRd>72.619701257209</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>2</Length>
+		<NRd>148.101959351319</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>2</Length>
+		<NRd>242.704843071051</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>2</Length>
+		<NRd>352.117385176041</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>2</Length>
+		<NRd>476.730871023249</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>2</Length>
+		<NRd>617.307760927984</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>2</Length>
+		<NRd>774.311286105396</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>2</Length>
+		<NRd>948.002569615672</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>2</Length>
+		<NRd>1138.53468475582</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>2</Length>
+		<NRd>1346.0024663201</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>2</Length>
+		<NRd>1570.46779431606</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>2</Length>
+		<NRd>1811.97289156746</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>2</Length>
+		<NRd>2070.54767484533</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>2.5</Length>
+		<NRd>3.50501069700537</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>2.5</Length>
+		<NRd>17.0364124691052</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>2.5</Length>
+		<NRd>50.8426826335237</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>2.5</Length>
+		<NRd>113.468283214389</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>2.5</Length>
+		<NRd>204.964322718429</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>2.5</Length>
+		<NRd>317.234829180633</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>2.5</Length>
+		<NRd>444.848610248488</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>2.5</Length>
+		<NRd>587.180285641516</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>2.5</Length>
+		<NRd>744.891985973827</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>2.5</Length>
+		<NRd>918.577159226625</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>2.5</Length>
+		<NRd>1108.62310896485</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>2.5</Length>
+		<NRd>1315.27338866756</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>2.5</Length>
+		<NRd>1538.68447322159</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>2.5</Length>
+		<NRd>1778.96044493097</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>2.5</Length>
+		<NRd>2036.17303455608</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>3</Length>
+		<NRd>2.46256654697149</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>3</Length>
+		<NRd>12.0905219354434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>3</Length>
+		<NRd>36.7747465741179</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>3</Length>
+		<NRd>85.154940092013</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>3</Length>
+		<NRd>163.39432782872</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>3</Length>
+		<NRd>270.766619472926</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>3</Length>
+		<NRd>400.2819834688</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>3</Length>
+		<NRd>546.085896909866</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>3</Length>
+		<NRd>706.505127542554</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>3</Length>
+		<NRd>881.82536402662</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>3</Length>
+		<NRd>1072.64445980231</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>3</Length>
+		<NRd>1279.44255190181</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>3</Length>
+		<NRd>1502.55263599974</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>3</Length>
+		<NRd>1742.20039373714</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>3</Length>
+		<NRd>1998.54066229932</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>3.5</Length>
+		<NRd>1.82375641112761</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>3.5</Length>
+		<NRd>9.00606652760406</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>3.5</Length>
+		<NRd>27.6517291576953</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>3.5</Length>
+		<NRd>65.0944269398879</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>3.5</Length>
+		<NRd>128.528296012682</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>3.5</Length>
+		<NRd>222.397835100203</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>3.5</Length>
+		<NRd>345.565375406152</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>3.5</Length>
+		<NRd>491.969213729393</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>3.5</Length>
+		<NRd>655.764129766084</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>3.5</Length>
+		<NRd>834.427748104709</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>3.5</Length>
+		<NRd>1027.70600669944</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>3.5</Length>
+		<NRd>1236.0568074911</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>3.5</Length>
+		<NRd>1459.9882925087</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>3.5</Length>
+		<NRd>1699.90212024236</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>3.5</Length>
+		<NRd>1956.09042211838</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>4</Length>
+		<NRd>1.40453748606321</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>4</Length>
+		<NRd>6.96217511453657</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>4</Length>
+		<NRd>21.494261218566</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>4</Length>
+		<NRd>51.0419492559681</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>4</Length>
+		<NRd>102.231171225553</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>4</Length>
+		<NRd>180.974719849725</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>4</Length>
+		<NRd>290.478805028836</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>4</Length>
+		<NRd>429.390990579658</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>4</Length>
+		<NRd>592.407837405277</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>4</Length>
+		<NRd>773.92113093444</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>4</Length>
+		<NRd>970.819372284206</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>4</Length>
+		<NRd>1182.2693650617</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>4</Length>
+		<NRd>1408.46954070417</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>4</Length>
+		<NRd>1649.87660277894</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>4</Length>
+		<NRd>1906.923484093</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>5</Length>
+		<NRd>0.906222617163889</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>5</Length>
+		<NRd>4.51331949808309</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>5</Length>
+		<NRd>14.0200427880215</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>5</Length>
+		<NRd>33.5847831540093</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>5</Length>
+		<NRd>68.1456498764207</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>5</Length>
+		<NRd>123.037123966138</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>5</Length>
+		<NRd>203.370730534095</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>5</Length>
+		<NRd>313.101851004585</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>5</Length>
+		<NRd>453.873132857556</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>5</Length>
+		<NRd>624.185109705702</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>5</Length>
+		<NRd>819.857290873718</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>5</Length>
+		<NRd>1035.98867062914</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>5</Length>
+		<NRd>1268.93931672253</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>5</Length>
+		<NRd>1516.90526919407</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>5</Length>
+		<NRd>1779.39444099395</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>6</Length>
+		<NRd>0.632709512673209</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>6</Length>
+		<NRd>3.16020934364223</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>6</Length>
+		<NRd>9.85026618788595</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>6</Length>
+		<NRd>23.6981597014222</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>6</Length>
+		<NRd>48.3620877417734</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>6</Length>
+		<NRd>88.0113902377723</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>6</Length>
+		<NRd>147.098986296471</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>6</Length>
+		<NRd>230.020135257494</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>6</Length>
+		<NRd>340.619760368052</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>6</Length>
+		<NRd>481.547311761544</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>6</Length>
+		<NRd>653.577311314881</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>6</Length>
+		<NRd>855.221500430239</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>6</Length>
+		<NRd>1083.0664778917</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>6</Length>
+		<NRd>1332.91763416187</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>6</Length>
+		<NRd>1601.1279338752</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>7</Length>
+		<NRd>0.466633236870896</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>7</Length>
+		<NRd>2.33529499942397</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>7</Length>
+		<NRd>7.29502564451043</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>7</Length>
+		<NRd>17.5961542622332</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>7</Length>
+		<NRd>36.0242661104162</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>7</Length>
+		<NRd>65.8261749818583</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>7</Length>
+		<NRd>110.606916630781</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>7</Length>
+		<NRd>174.183548840588</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>7</Length>
+		<NRd>260.377707759552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>7</Length>
+		<NRd>372.728011729239</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>7</Length>
+		<NRd>514.113184050729</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>7</Length>
+		<NRd>686.311121724779</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>7</Length>
+		<NRd>889.591340400811</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>7</Length>
+		<NRd>1122.53057825552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>7</Length>
+		<NRd>1382.26150162461</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>8</Length>
+		<NRd>0.358296564326731</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>8</Length>
+		<NRd>1.79570567774027</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>8</Length>
+		<NRd>5.61814994425285</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>8</Length>
+		<NRd>13.5750569872051</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>8</Length>
+		<NRd>27.8487004581463</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>8</Length>
+		<NRd>51.0125896451764</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>8</Length>
+		<NRd>85.9770448742639</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>8</Length>
+		<NRd>135.916063502371</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>8</Length>
+		<NRd>204.167797023873</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>8</Length>
+		<NRd>294.099189204899</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>8</Length>
+		<NRd>408.924684902211</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>8</Length>
+		<NRd>551.47195038754</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>8</Length>
+		<NRd>723.898879398901</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>8</Length>
+		<NRd>927.391698929144</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>8</Length>
+		<NRd>1161.91522011534</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>9</Length>
+		<NRd>0.283735039371302</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>9</Length>
+		<NRd>1.42359640351472</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>9</Length>
+		<NRd>4.45912720263797</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>9</Length>
+		<NRd>10.7881768378675</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>9</Length>
+		<NRd>22.1630989227434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>9</Length>
+		<NRd>40.6649159208582</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>9</Length>
+		<NRd>68.6711678895085</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>9</Length>
+		<NRd>108.81469741899</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>9</Length>
+		<NRd>163.92985255834</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>9</Length>
+		<NRd>236.981670703814</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>9</Length>
+		<NRd>330.972719167061</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>9</Length>
+		<NRd>448.821868595037</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>9</Length>
+		<NRd>593.210325312419</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>9</Length>
+		<NRd>766.394460828117</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>9</Length>
+		<NRd>969.99476092424</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>10</Length>
+		<NRd>0.230239811244554</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>10</Length>
+		<NRd>1.15621103083529</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>10</Length>
+		<NRd>3.62489046865556</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>10</Length>
+		<NRd>8.77835928789509</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>10</Length>
+		<NRd>18.0532779923324</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>10</Length>
+		<NRd>33.1636437567266</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>10</Length>
+		<NRd>56.080171152086</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>10</Length>
+		<NRd>89.0048806811481</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>10</Length>
+		<NRd>134.339132616037</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>10</Length>
+		<NRd>194.642903431434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>10</Length>
+		<NRd>272.582599505683</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>10</Length>
+		<NRd>370.864227310373</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>10</Length>
+		<NRd>492.148495864553</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>10</Length>
+		<NRd>638.944820159705</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>10</Length>
+		<NRd>813.482922136379</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>11</Length>
+		<NRd>0.190562277285838</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>11</Length>
+		<NRd>0.957648099868538</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>11</Length>
+		<NRd>3.00456888597476</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>11</Length>
+		<NRd>7.28172071737602</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>11</Length>
+		<NRd>14.987680177537</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>11</Length>
+		<NRd>27.5570560478991</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>11</Length>
+		<NRd>46.6464201877016</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>11</Length>
+		<NRd>74.1175263975452</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>11</Length>
+		<NRd>112.01686071064</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>11</Length>
+		<NRd>162.550350465405</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>11</Length>
+		<NRd>228.051797490215</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>11</Length>
+		<NRd>310.943311457226</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>11</Length>
+		<NRd>413.685750117714</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>11</Length>
+		<NRd>538.71702294732</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>11</Length>
+		<NRd>688.376268840482</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>12</Length>
+		<NRd>0.16032308677607</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>12</Length>
+		<NRd>0.806167269735144</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>12</Length>
+		<NRd>2.53083805069283</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>12</Length>
+		<NRd>6.13745297756269</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>12</Length>
+		<NRd>12.6408373745689</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>12</Length>
+		<NRd>23.2586004729292</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>12</Length>
+		<NRd>39.4010647515438</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>12</Length>
+		<NRd>62.6595760308291</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>12</Length>
+		<NRd>94.7926388056886</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>12</Length>
+		<NRd>137.709210592948</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>12</Length>
+		<NRd>193.448350967094</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>12</Length>
+		<NRd>264.154259245127</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>12</Length>
+		<NRd>352.045560951089</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>12</Length>
+		<NRd>459.377543303713</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>12</Length>
+		<NRd>588.395945185886</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>13</Length>
+		<NRd>0.136749789876963</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>13</Length>
+		<NRd>0.687980173221858</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>13</Length>
+		<NRd>2.16090858199111</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>13</Length>
+		<NRd>5.2430857147203</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>13</Length>
+		<NRd>10.8046638964896</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>13</Length>
+		<NRd>19.8916222245636</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>13</Length>
+		<NRd>33.7182803708606</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>13</Length>
+		<NRd>53.6588032751353</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>13</Length>
+		<NRd>81.2373553440305</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>13</Length>
+		<NRd>118.116503563716</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>13</Length>
+		<NRd>166.083393806144</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>13</Length>
+		<NRd>227.033134121103</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>13</Length>
+		<NRd>302.948715757101</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>13</Length>
+		<NRd>395.87669424856</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>13</Length>
+		<NRd>507.897754140053</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>14</Length>
+		<NRd>0.118017926370915</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>14</Length>
+		<NRd>0.593999600059144</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>14</Length>
+		<NRd>1.86653294748359</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>14</Length>
+		<NRd>4.53083833827146</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>14</Length>
+		<NRd>9.34117999769588</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>14</Length>
+		<NRd>17.2055842042744</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>14</Length>
+		<NRd>29.1801025780417</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>14</Length>
+		<NRd>46.4624242629181</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>14</Length>
+		<NRd>70.384617048933</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>14</Length>
+		<NRd>102.404744575486</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>14</Length>
+		<NRd>144.097064441665</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>14</Length>
+		<NRd>197.140460250405</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>14</Length>
+		<NRd>263.304699927433</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>14</Length>
+		<NRd>344.434045102419</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C24 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>14</Length>
+		<NRd>442.427666523125</NRd>
+	</Beaminfo>
+</Root>

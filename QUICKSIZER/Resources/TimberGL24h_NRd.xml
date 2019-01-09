@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>1</Length>
+		<NRd>24.6254677488396</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>1</Length>
+		<NRd>70.5310655356626</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>1</Length>
+		<NRd>130.480445530267</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>1</Length>
+		<NRd>207.077378220172</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>1</Length>
+		<NRd>300.777973016617</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>1</Length>
+		<NRd>411.698656168369</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>1</Length>
+		<NRd>539.88344151691</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>1</Length>
+		<NRd>685.353117733179</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>1</Length>
+		<NRd>848.118979040283</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>1</Length>
+		<NRd>1028.18777464265</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>1</Length>
+		<NRd>1225.5638244863</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>1</Length>
+		<NRd>1440.25004056488</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>1</Length>
+		<NRd>1672.24846676484</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>1</Length>
+		<NRd>1921.56058498209</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>1</Length>
+		<NRd>2188.18749867962</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>1.5</Length>
+		<NRd>12.6903448031429</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>1.5</Length>
+		<NRd>55.407302434889</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>1.5</Length>
+		<NRd>121.354538755107</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>1.5</Length>
+		<NRd>199.656327036524</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>1.5</Length>
+		<NRd>293.581002443102</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>1.5</Length>
+		<NRd>404.223332467935</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>1.5</Length>
+		<NRd>531.904906733641</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>1.5</Length>
+		<NRd>676.750439287388</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>1.5</Length>
+		<NRd>838.818759879951</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>1.5</Length>
+		<NRd>1018.14159044404</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>1.5</Length>
+		<NRd>1214.73774341305</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>1.5</Length>
+		<NRd>1428.61918911458</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>1.5</Length>
+		<NRd>1659.79396544379</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>1.5</Length>
+		<NRd>1908.26770284064</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>1.5</Length>
+		<NRd>2174.0444817224</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>2</Length>
+		<NRd>7.34517194423608</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>2</Length>
+		<NRd>35.3858546762091</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>2</Length>
+		<NRd>98.5018709953582</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>2</Length>
+		<NRd>184.635148766751</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>2</Length>
+		<NRd>282.12426214265</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>2</Length>
+		<NRd>393.964518564969</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>2</Length>
+		<NRd>521.921782121069</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>2</Length>
+		<NRd>666.618223283922</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>2</Length>
+		<NRd>828.309512880686</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>2</Length>
+		<NRd>1007.11855360181</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>2</Length>
+		<NRd>1203.11189206647</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>2</Length>
+		<NRd>1416.32892508311</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>2</Length>
+		<NRd>1646.79462467347</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>2</Length>
+		<NRd>1894.52568807265</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>2</Length>
+		<NRd>2159.53376606764</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>2.5</Length>
+		<NRd>4.7596654975143</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>2.5</Length>
+		<NRd>23.4319752896561</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>2.5</Length>
+		<NRd>70.4264290997233</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>2.5</Length>
+		<NRd>153.909173430247</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>2.5</Length>
+		<NRd>260.213427489494</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>2.5</Length>
+		<NRd>377.468443736463</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>2.5</Length>
+		<NRd>507.808577087483</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>2.5</Length>
+		<NRd>653.496649989571</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>2.5</Length>
+		<NRd>815.502784564171</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>2.5</Length>
+		<NRd>994.257584144144</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>2.5</Length>
+		<NRd>1189.97500358044</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>2.5</Length>
+		<NRd>1402.77256243372</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>2.5</Length>
+		<NRd>1632.72021148025</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>2.5</Length>
+		<NRd>1879.86233135386</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>2.5</Length>
+		<NRd>2144.22855893687</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>3</Length>
+		<NRd>3.32924708959503</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>3</Length>
+		<NRd>16.5266368745312</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>3</Length>
+		<NRd>50.7613792125714</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>3</Length>
+		<NRd>117.888415045643</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>3</Length>
+		<NRd>221.629209739556</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>3</Length>
+		<NRd>348.047204428792</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>3</Length>
+		<NRd>485.41815502043</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>3</Length>
+		<NRd>634.779589820964</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>3</Length>
+		<NRd>798.625308146097</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>3</Length>
+		<NRd>978.262162091683</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>3</Length>
+		<NRd>1174.32400977241</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>3</Length>
+		<NRd>1387.13955572624</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>3</Length>
+		<NRd>1616.89332987174</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>3</Length>
+		<NRd>1863.69640398154</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>3</Length>
+		<NRd>2127.61962693457</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>3.5</Length>
+		<NRd>2.45776221489473</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>3.5</Length>
+		<NRd>12.2530525201771</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>3.5</Length>
+		<NRd>37.9676926380452</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>3.5</Length>
+		<NRd>90.0326060932742</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>3.5</Length>
+		<NRd>177.764673491335</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>3.5</Length>
+		<NRd>301.661979923285</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>3.5</Length>
+		<NRd>448.133417202434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>3.5</Length>
+		<NRd>605.807566777132</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>3.5</Length>
+		<NRd>774.620109141158</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>3.5</Length>
+		<NRd>957.034584406706</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>3.5</Length>
+		<NRd>1154.63428075976</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>3.5</Length>
+		<NRd>1368.26438289472</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>3.5</Length>
+		<NRd>1598.38545774577</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>3.5</Length>
+		<NRd>1845.26322574257</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>3.5</Length>
+		<NRd>2109.06014470004</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>4</Length>
+		<NRd>1.88826513065128</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>4</Length>
+		<NRd>9.43865523411239</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>4</Length>
+		<NRd>29.3806877769443</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>4</Length>
+		<NRd>70.3029789463769</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>4</Length>
+		<NRd>141.543418704836</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>4</Length>
+		<NRd>250.034998664192</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>4</Length>
+		<NRd>394.007483981433</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>4</Length>
+		<NRd>560.479825410559</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>4</Length>
+		<NRd>738.540595067005</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>4</Length>
+		<NRd>927.137342514727</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>4</Length>
+		<NRd>1128.4970485706</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>4</Length>
+		<NRd>1344.38915940325</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>4</Length>
+		<NRd>1575.85807425987</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>4</Length>
+		<NRd>1823.50478390596</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>4</Length>
+		<NRd>2087.68712848428</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>5</Length>
+		<NRd>1.21421086036409</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>5</Length>
+		<NRd>6.08814895190728</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>5</Length>
+		<NRd>19.0386619900572</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>5</Length>
+		<NRd>45.9073246514755</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>5</Length>
+		<NRd>93.7279011586243</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>5</Length>
+		<NRd>170.082010881536</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>5</Length>
+		<NRd>281.705716398893</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>5</Length>
+		<NRd>431.688027866304</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>5</Length>
+		<NRd>615.636693720989</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>5</Length>
+		<NRd>821.989657730129</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>5</Length>
+		<NRd>1040.85370995798</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>5</Length>
+		<NRd>1269.6808798148</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>5</Length>
+		<NRd>1509.87377494585</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>5</Length>
+		<NRd>1763.27663839157</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>5</Length>
+		<NRd>2031.23430834993</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>6</Length>
+		<NRd>0.845813316975295</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>6</Length>
+		<NRd>4.24859654396539</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>6</Length>
+		<NRd>13.3169883583801</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>6</Length>
+		<NRd>32.2167477242343</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>6</Length>
+		<NRd>66.1065474981247</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>6</Length>
+		<NRd>120.932366493398</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>6</Length>
+		<NRd>203.045516850286</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>6</Length>
+		<NRd>318.472692085882</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>6</Length>
+		<NRd>471.553660182573</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>6</Length>
+		<NRd>662.745309503517</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>6</Length>
+		<NRd>886.516838958224</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>6</Length>
+		<NRd>1132.63674291668</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>6</Length>
+		<NRd>1392.18881771517</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>6</Length>
+		<NRd>1661.71633890076</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>6</Length>
+		<NRd>1941.67262008172</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>7</Length>
+		<NRd>0.622778624029295</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>7</Length>
+		<NRd>3.1320053326053</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>7</Length>
+		<NRd>9.83104885957892</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>7</Length>
+		<NRd>23.8268235697705</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>7</Length>
+		<NRd>49.0122100807085</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>7</Length>
+		<NRd>89.978356316892</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>7</Length>
+		<NRd>151.870770552181</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>7</Length>
+		<NRd>240.143544060774</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>7</Length>
+		<NRd>360.130424373097</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>7</Length>
+		<NRd>516.301570392387</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>7</Length>
+		<NRd>711.058693965341</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>7</Length>
+		<NRd>943.149275205066</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>7</Length>
+		<NRd>1206.64791969314</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>7</Length>
+		<NRd>1492.45976775257</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>7</Length>
+		<NRd>1792.53366880974</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>8</Length>
+		<NRd>0.47759843243519</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>8</Length>
+		<NRd>2.40394451740081</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>8</Length>
+		<NRd>7.55306052260514</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>8</Length>
+		<NRd>18.3271323055341</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>8</Length>
+		<NRd>37.7546209364496</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>8</Length>
+		<NRd>69.4452529073153</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>8</Length>
+		<NRd>117.522751107777</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>8</Length>
+		<NRd>186.520121512823</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>8</Length>
+		<NRd>281.211915785508</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>8</Length>
+		<NRd>406.340979187481</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>8</Length>
+		<NRd>566.173674819346</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>8</Length>
+		<NRd>763.800034416559</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>8</Length>
+		<NRd>1000.13999465677</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>8</Length>
+		<NRd>1272.86704666798</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>8</Length>
+		<NRd>1576.02993592573</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>9</Length>
+		<NRd>0.377843956800614</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>9</Length>
+		<NRd>1.90307996319441</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>9</Length>
+		<NRd>5.98362354076779</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>9</Length>
+		<NRd>14.5308030243167</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>9</Length>
+		<NRd>29.9632238063552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>9</Length>
+		<NRd>55.1805940551788</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>9</Length>
+		<NRd>93.5273085348952</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>9</Length>
+		<NRd>148.739731870781</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>9</Length>
+		<NRd>224.867612191395</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>9</Length>
+		<NRd>326.154385783872</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>9</Length>
+		<NRd>456.852412913143</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>9</Length>
+		<NRd>620.937282165293</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>9</Length>
+		<NRd>821.674144427482</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>9</Length>
+		<NRd>1060.99573541079</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>9</Length>
+		<NRd>1338.72369349037</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>10</Length>
+		<NRd>0.306366755803386</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>10</Length>
+		<NRd>1.54386503399926</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>10</Length>
+		<NRd>4.85684344145636</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>10</Length>
+		<NRd>11.8016570665705</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>10</Length>
+		<NRd>24.3525958076291</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>10</Length>
+		<NRd>44.885253013194</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>10</Length>
+		<NRd>76.1546479602288</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>10</Length>
+		<NRd>121.265325937617</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>10</Length>
+		<NRd>183.629298605902</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>10</Length>
+		<NRd>266.90555501018</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>10</Length>
+		<NRd>374.911604634497</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>10</Length>
+		<NRd>511.492709714156</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>10</Length>
+		<NRd>680.328043526145</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>10</Length>
+		<NRd>884.646366905228</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>10</Length>
+		<NRd>1126.82286559557</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>11</Length>
+		<NRd>0.253407907785231</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>11</Length>
+		<NRd>1.27752325481154</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>11</Length>
+		<NRd>4.0207116711785</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>11</Length>
+		<NRd>9.77455352603447</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>11</Length>
+		<NRd>20.180344044946</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>11</Length>
+		<NRd>37.217811921804</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>11</Length>
+		<NRd>63.1909278775389</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>11</Length>
+		<NRd>100.709388452299</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>11</Length>
+		<NRd>152.663769995598</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>11</Length>
+		<NRd>222.191451313141</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>11</Length>
+		<NRd>312.629060449808</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>11</Length>
+		<NRd>427.445227814598</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>11</Length>
+		<NRd>570.144634216729</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>11</Length>
+		<NRd>744.130684295332</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>11</Length>
+		<NRd>952.510167438581</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>12</Length>
+		<NRd>0.213081999916029</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>12</Length>
+		<NRd>1.07459647297918</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>12</Length>
+		<NRd>3.38325326790118</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>12</Length>
+		<NRd>8.22798399252535</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>12</Length>
+		<NRd>16.9943861758616</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>12</Length>
+		<NRd>31.3566807245707</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>12</Length>
+		<NRd>53.2679534335204</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>12</Length>
+		<NRd>84.9478971070115</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>12</Length>
+		<NRd>128.866990896937</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>12</Length>
+		<NRd>187.725639471262</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>12</Length>
+		<NRd>264.426189992499</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>12</Length>
+		<NRd>362.034871875724</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>12</Length>
+		<NRd>483.729465973592</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>12</Length>
+		<NRd>632.726810517392</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>12</Length>
+		<NRd>812.182067401143</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>13</Length>
+		<NRd>0.181668638110312</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>13</Length>
+		<NRd>0.916442314608854</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>13</Length>
+		<NRd>2.88618223390354</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>13</Length>
+		<NRd>7.02131814014451</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>13</Length>
+		<NRd>14.5069765593544</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>13</Length>
+		<NRd>26.7770202137914</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>13</Length>
+		<NRd>45.5070256796249</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>13</Length>
+		<NRd>72.6057356259604</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>13</Length>
+		<NRd>110.204379338419</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>13</Length>
+		<NRd>160.643048771522</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>13</Length>
+		<NRd>226.453022686552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>13</Length>
+		<NRd>310.333514643974</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>13</Length>
+		<NRd>415.120737156952</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>13</Length>
+		<NRd>543.746370910853</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>13</Length>
+		<NRd>699.181454158865</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 50x50</Name>
+		<Weight>1.05</Weight>
+		<Length>14</Length>
+		<NRd>0.156722581506915</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 75x75</Name>
+		<Weight>2.3625</Weight>
+		<Length>14</Length>
+		<NRd>0.790797017861555</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 100x100</Name>
+		<Weight>4.2</Weight>
+		<Length>14</Length>
+		<NRd>2.49111449611718</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 125x125</Name>
+		<Weight>6.5625</Weight>
+		<Length>14</Length>
+		<NRd>6.06181845853329</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 150x150</Name>
+		<Weight>9.45</Weight>
+		<Length>14</Length>
+		<NRd>12.5280213304212</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 175x175</Name>
+		<Weight>12.8625</Weight>
+		<Length>14</Length>
+		<NRd>23.1312478504782</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 200x200</Name>
+		<Weight>16.8</Weight>
+		<Length>14</Length>
+		<NRd>39.3241954383157</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 225x225</Name>
+		<Weight>21.2625</Weight>
+		<Length>14</Length>
+		<NRd>62.7645219684039</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 250x250</Name>
+		<Weight>26.25</Weight>
+		<Length>14</Length>
+		<NRd>95.307294279082</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 275x275</Name>
+		<Weight>31.7625</Weight>
+		<Length>14</Length>
+		<NRd>138.995621070761</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 300x300</Name>
+		<Weight>37.8</Weight>
+		<Length>14</Length>
+		<NRd>196.048840322834</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 325x325</Name>
+		<Weight>44.3625</Weight>
+		<Length>14</Length>
+		<NRd>268.847418441976</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 350x350</Name>
+		<Weight>51.45</Weight>
+		<Length>14</Length>
+		<NRd>359.913425267568</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 375x375</Name>
+		<Weight>59.0625</Weight>
+		<Length>14</Length>
+		<NRd>471.885049446574</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL24h 400x400</Name>
+		<Weight>67.2</Weight>
+		<Length>14</Length>
+		<NRd>607.483082208723</NRd>
+	</Beaminfo>
+</Root>

@@ -28,6 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserInterfaceForm));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.SteelGrade = new System.Windows.Forms.ComboBox();
@@ -66,12 +68,12 @@
             this.label21 = new System.Windows.Forms.Label();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.label19 = new System.Windows.Forms.Label();
-            this.listBox11 = new System.Windows.Forms.ListBox();
-            this.listBox12 = new System.Windows.Forms.ListBox();
+            this.GL28sectionsListBox = new System.Windows.Forms.ListBox();
+            this.GL24sectionsListBox = new System.Windows.Forms.ListBox();
             this.label20 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
-            this.listBox13 = new System.Windows.Forms.ListBox();
-            this.listBox15 = new System.Windows.Forms.ListBox();
+            this.C24sectionsListBox = new System.Windows.Forms.ListBox();
+            this.C16sectionsListBox = new System.Windows.Forms.ListBox();
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -139,6 +141,7 @@
             this.label43 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabControl2.SuspendLayout();
@@ -543,12 +546,12 @@
             // tabPage6
             // 
             this.tabPage6.Controls.Add(this.label19);
-            this.tabPage6.Controls.Add(this.listBox11);
-            this.tabPage6.Controls.Add(this.listBox12);
+            this.tabPage6.Controls.Add(this.GL28sectionsListBox);
+            this.tabPage6.Controls.Add(this.GL24sectionsListBox);
             this.tabPage6.Controls.Add(this.label20);
             this.tabPage6.Controls.Add(this.label22);
-            this.tabPage6.Controls.Add(this.listBox13);
-            this.tabPage6.Controls.Add(this.listBox15);
+            this.tabPage6.Controls.Add(this.C24sectionsListBox);
+            this.tabPage6.Controls.Add(this.C16sectionsListBox);
             this.tabPage6.Controls.Add(this.label23);
             this.tabPage6.Controls.Add(this.label24);
             this.tabPage6.Location = new System.Drawing.Point(4, 22);
@@ -564,29 +567,30 @@
             this.label19.AutoSize = true;
             this.label19.Location = new System.Drawing.Point(12, 302);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(182, 13);
+            this.label19.Size = new System.Drawing.Size(511, 13);
             this.label19.TabIndex = 51;
-            this.label19.Text = "Service Class 2 conditions assumed. ";
+            this.label19.Text = "Service Class 2 conditions assumed. Medium term duration for load (e.g. imposed l" +
+    "oad) has been assumed. ";
             // 
-            // listBox11
+            // GL28sectionsListBox
             // 
-            this.listBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox11.FormattingEnabled = true;
-            this.listBox11.ItemHeight = 12;
-            this.listBox11.Location = new System.Drawing.Point(407, 173);
-            this.listBox11.Name = "listBox11";
-            this.listBox11.Size = new System.Drawing.Size(390, 124);
-            this.listBox11.TabIndex = 50;
+            this.GL28sectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.GL28sectionsListBox.FormattingEnabled = true;
+            this.GL28sectionsListBox.ItemHeight = 12;
+            this.GL28sectionsListBox.Location = new System.Drawing.Point(407, 173);
+            this.GL28sectionsListBox.Name = "GL28sectionsListBox";
+            this.GL28sectionsListBox.Size = new System.Drawing.Size(390, 124);
+            this.GL28sectionsListBox.TabIndex = 50;
             // 
-            // listBox12
+            // GL24sectionsListBox
             // 
-            this.listBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox12.FormattingEnabled = true;
-            this.listBox12.ItemHeight = 12;
-            this.listBox12.Location = new System.Drawing.Point(9, 173);
-            this.listBox12.Name = "listBox12";
-            this.listBox12.Size = new System.Drawing.Size(388, 124);
-            this.listBox12.TabIndex = 49;
+            this.GL24sectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.GL24sectionsListBox.FormattingEnabled = true;
+            this.GL24sectionsListBox.ItemHeight = 12;
+            this.GL24sectionsListBox.Location = new System.Drawing.Point(9, 173);
+            this.GL24sectionsListBox.Name = "GL24sectionsListBox";
+            this.GL24sectionsListBox.Size = new System.Drawing.Size(388, 124);
+            this.GL24sectionsListBox.TabIndex = 49;
             // 
             // label20
             // 
@@ -595,7 +599,7 @@
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(146, 13);
             this.label20.TabIndex = 48;
-            this.label20.Text = "Glulam GL27h timber - square";
+            this.label20.Text = "Glulam GL28h timber - square";
             // 
             // label22
             // 
@@ -606,25 +610,25 @@
             this.label22.TabIndex = 47;
             this.label22.Text = "Glulam GL24h timber - square";
             // 
-            // listBox13
+            // C24sectionsListBox
             // 
-            this.listBox13.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox13.FormattingEnabled = true;
-            this.listBox13.ItemHeight = 12;
-            this.listBox13.Location = new System.Drawing.Point(407, 24);
-            this.listBox13.Name = "listBox13";
-            this.listBox13.Size = new System.Drawing.Size(390, 124);
-            this.listBox13.TabIndex = 46;
+            this.C24sectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.C24sectionsListBox.FormattingEnabled = true;
+            this.C24sectionsListBox.ItemHeight = 12;
+            this.C24sectionsListBox.Location = new System.Drawing.Point(407, 24);
+            this.C24sectionsListBox.Name = "C24sectionsListBox";
+            this.C24sectionsListBox.Size = new System.Drawing.Size(390, 124);
+            this.C24sectionsListBox.TabIndex = 46;
             // 
-            // listBox15
+            // C16sectionsListBox
             // 
-            this.listBox15.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox15.FormattingEnabled = true;
-            this.listBox15.ItemHeight = 12;
-            this.listBox15.Location = new System.Drawing.Point(9, 24);
-            this.listBox15.Name = "listBox15";
-            this.listBox15.Size = new System.Drawing.Size(388, 124);
-            this.listBox15.TabIndex = 45;
+            this.C16sectionsListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.C16sectionsListBox.FormattingEnabled = true;
+            this.C16sectionsListBox.ItemHeight = 12;
+            this.C16sectionsListBox.Location = new System.Drawing.Point(9, 24);
+            this.C16sectionsListBox.Name = "C16sectionsListBox";
+            this.C16sectionsListBox.Size = new System.Drawing.Size(388, 124);
+            this.C16sectionsListBox.TabIndex = 45;
             // 
             // label23
             // 
@@ -666,6 +670,7 @@
             // 
             this.AxialLeff.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AxialLeff.Location = new System.Drawing.Point(180, 35);
+            this.AxialLeff.MaxLength = 5;
             this.AxialLeff.Name = "AxialLeff";
             this.AxialLeff.Size = new System.Drawing.Size(100, 20);
             this.AxialLeff.TabIndex = 5;
@@ -684,6 +689,7 @@
             // 
             this.AxialNed.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.AxialNed.Location = new System.Drawing.Point(180, 9);
+            this.AxialNed.MaxLength = 6;
             this.AxialNed.Name = "AxialNed";
             this.AxialNed.Size = new System.Drawing.Size(100, 20);
             this.AxialNed.TabIndex = 3;
@@ -788,6 +794,7 @@
             // 
             this.BeamDeflectionLimitRatio.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BeamDeflectionLimitRatio.Location = new System.Drawing.Point(295, 35);
+            this.BeamDeflectionLimitRatio.MaxLength = 5;
             this.BeamDeflectionLimitRatio.Name = "BeamDeflectionLimitRatio";
             this.BeamDeflectionLimitRatio.Size = new System.Drawing.Size(57, 20);
             this.BeamDeflectionLimitRatio.TabIndex = 28;
@@ -808,10 +815,12 @@
             // 
             this.BeamUDLatSLS.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BeamUDLatSLS.Location = new System.Drawing.Point(295, 9);
+            this.BeamUDLatSLS.MaxLength = 5;
             this.BeamUDLatSLS.Name = "BeamUDLatSLS";
             this.BeamUDLatSLS.Size = new System.Drawing.Size(57, 20);
             this.BeamUDLatSLS.TabIndex = 26;
             this.BeamUDLatSLS.Text = "10";
+            this.toolTip1.SetToolTip(this.BeamUDLatSLS, resources.GetString("BeamUDLatSLS.ToolTip"));
             this.BeamUDLatSLS.TextChanged += new System.EventHandler(this.BeamUDLatSLS_TextChanged);
             // 
             // label47
@@ -857,6 +866,7 @@
             // 
             this.BeamSpan.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BeamSpan.Location = new System.Drawing.Point(117, 35);
+            this.BeamSpan.MaxLength = 5;
             this.BeamSpan.Name = "BeamSpan";
             this.BeamSpan.Size = new System.Drawing.Size(57, 20);
             this.BeamSpan.TabIndex = 21;
@@ -876,6 +886,7 @@
             // 
             this.BeamUDLatULS.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BeamUDLatULS.Location = new System.Drawing.Point(117, 9);
+            this.BeamUDLatULS.MaxLength = 5;
             this.BeamUDLatULS.Name = "BeamUDLatULS";
             this.BeamUDLatULS.Size = new System.Drawing.Size(57, 20);
             this.BeamUDLatULS.TabIndex = 19;
@@ -1250,7 +1261,7 @@
             this.label40.Name = "label40";
             this.label40.Size = new System.Drawing.Size(146, 13);
             this.label40.TabIndex = 48;
-            this.label40.Text = "Glulam GL27h timber - square";
+            this.label40.Text = "Glulam GL28h timber - square";
             // 
             // label41
             // 
@@ -1319,6 +1330,15 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // toolTip1
+            // 
+            this.toolTip1.AutomaticDelay = 50;
+            this.toolTip1.AutoPopDelay = 50000;
+            this.toolTip1.InitialDelay = 50;
+            this.toolTip1.ReshowDelay = 10;
+            this.toolTip1.ShowAlways = true;
+            this.toolTip1.ToolTipTitle = "ULS/1.35";
+            // 
             // UserInterfaceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1329,6 +1349,7 @@
             this.Controls.Add(this.tabControl1);
             this.Name = "UserInterfaceForm";
             this.Text = "Structural Scheme Design Sizer";
+            this.Load += new System.EventHandler(this.UserInterfaceForm_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
@@ -1407,12 +1428,12 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.TabPage tabPage6;
         private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.ListBox listBox11;
-        private System.Windows.Forms.ListBox listBox12;
+        private System.Windows.Forms.ListBox GL28sectionsListBox;
+        private System.Windows.Forms.ListBox GL24sectionsListBox;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.ListBox listBox13;
-        private System.Windows.Forms.ListBox listBox15;
+        private System.Windows.Forms.ListBox C24sectionsListBox;
+        private System.Windows.Forms.ListBox C16sectionsListBox;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.TabPage tabPage7;
@@ -1472,6 +1493,7 @@
         private System.Windows.Forms.ListBox listBox21;
         private System.Windows.Forms.Label label42;
         private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

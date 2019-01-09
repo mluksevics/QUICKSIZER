@@ -139,11 +139,32 @@
   <data name="PFC_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PFC_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="Quick_sizer16x16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quick_sizer16x16.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quick_sizer24x24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quick_sizer24x24.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quick_sizer32x32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quick_sizer32x32.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="RHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\RHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="SHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="TimberC16_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TimberC16_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="TimberC24_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TimberC24_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="TimberGL24h_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TimberGL24h_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="TimberGL28h_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TimberGL28h_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
   <data name="UBP_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\UBP_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>

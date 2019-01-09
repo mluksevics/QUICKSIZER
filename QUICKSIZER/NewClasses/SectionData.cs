@@ -33,7 +33,7 @@ namespace QUICKSIZER
 
         public string AxialOutput()
         {
-            return N_utilisation * 100 + "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" + NRd + "kN";
+            return N_utilisation * 100 + "% " + Name + " | " + Math.Round(Weight,1) + "kg L.eff=" + EffectiveLength + "m N.Rd=" + Math.Round(NRd,1) + "kN";
 
             //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }

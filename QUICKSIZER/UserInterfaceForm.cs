@@ -14,9 +14,12 @@ namespace QUICKSIZER
 {
     public partial class UserInterfaceForm : Form
     {
+        
+
         public UserInterfaceForm()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.Quick_sizer16x16;
         }
 
 
@@ -59,6 +62,10 @@ namespace QUICKSIZER
             string xmlDataEHS = Properties.Resources.EHS_NRd;
             string xmlDataRHS = Properties.Resources.RHS_NRd;
             string xmlDataAngle = Properties.Resources.Lequal_NRd;
+            string xmlDataC16 = Properties.Resources.TimberC16_NRd;
+            string xmlDataC24 = Properties.Resources.TimberC24_NRd;
+            string xmlDataGL24 = Properties.Resources.TimberGL24h_NRd;
+            string xmlDataGL28 = Properties.Resources.TimberGL28h_NRd;
 
             //defining ouput variables;
             List<string> HEAlistboxItemsOutput = new List<string>();
@@ -74,6 +81,10 @@ namespace QUICKSIZER
             List<string> RHSlistboxItemsOutput = new List<string>();
             List<string> EHSlistboxItemsOutput = new List<string>();
             List<string> AngleslistboxItemsOutput = new List<string>();
+            List<string> C16listboxItemsOutput = new List<string>();
+            List<string> C24listboxItemsOutput = new List<string>();
+            List<string> GL24listboxItemsOutput = new List<string>();
+            List<string> GL28listboxItemsOutput = new List<string>();
 
             //running the section selection;
             HEAlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataHEA);
@@ -89,6 +100,10 @@ namespace QUICKSIZER
             RHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataRHS);
             EHSlistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataEHS);
             AngleslistboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataAngle);
+            C16listboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataC16);
+            C24listboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataC24);
+            GL24listboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataGL24);
+            GL28listboxItemsOutput = SectionSelecton.EvaluateAxialForce(AxialForceInput, EffectiveLengthInput, xmlDataGL28);
 
             //output results to listbox
             HEAsectionsListBox.DataSource = HEAlistboxItemsOutput;
@@ -104,6 +119,10 @@ namespace QUICKSIZER
             RHSsectionsListBox.DataSource = RHSlistboxItemsOutput;
             EHSsectionsListBox.DataSource = EHSlistboxItemsOutput;
             AnglesSectionsListBox.DataSource = AngleslistboxItemsOutput;
+            C16sectionsListBox.DataSource = C16listboxItemsOutput;
+            C24sectionsListBox.DataSource = C24listboxItemsOutput;
+            GL24sectionsListBox.DataSource = GL24listboxItemsOutput;
+            GL28sectionsListBox.DataSource = GL28listboxItemsOutput;
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -286,6 +305,16 @@ namespace QUICKSIZER
                 MessageBox.Show("Something weird is going on with your input data. Are you sure that you have entered numbers?");
             }
 
+
+        }
+
+        private void UserInterfaceForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolTip1_Popup(object sender, PopupEventArgs e)
+        {
 
         }
     }

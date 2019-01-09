@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>1</Length>
+		<NRd>13.608303440845</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>1</Length>
+		<NRd>47.6859682065281</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>1</Length>
+		<NRd>95.2908460763429</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>1</Length>
+		<NRd>155.552994645508</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>1</Length>
+		<NRd>229.20601027802</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>1</Length>
+		<NRd>316.518368646966</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>1</Length>
+		<NRd>417.598957339901</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>1</Length>
+		<NRd>532.500365583788</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>1</Length>
+		<NRd>661.251489307233</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>1</Length>
+		<NRd>803.86974479147</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>1</Length>
+		<NRd>960.366368187656</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>1</Length>
+		<NRd>1130.74899230478</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>1</Length>
+		<NRd>1315.02301523824</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>1</Length>
+		<NRd>1513.19237975013</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>1</Length>
+		<NRd>1725.26004263977</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>1.5</Length>
+		<NRd>6.76725589603003</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>1.5</Length>
+		<NRd>30.6186827419013</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>1.5</Length>
+		<NRd>77.6143847546089</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>1.5</Length>
+		<NRd>139.997356449567</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>1.5</Length>
+		<NRd>214.404403671772</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>1.5</Length>
+		<NRd>301.499836567984</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>1.5</Length>
+		<NRd>401.844309640217</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>1.5</Length>
+		<NRd>515.713523125545</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>1.5</Length>
+		<NRd>643.248346076331</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>1.5</Length>
+		<NRd>784.527284530841</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>1.5</Length>
+		<NRd>939.597654014776</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>1.5</Length>
+		<NRd>1108.48984991683</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>1.5</Length>
+		<NRd>1291.22442266597</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>1.5</Length>
+		<NRd>1487.81585094128</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>1.5</Length>
+		<NRd>1698.27468391969</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>2</Length>
+		<NRd>3.94095915836459</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>2</Length>
+		<NRd>18.8654051243021</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>2</Length>
+		<NRd>54.4332137633801</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>2</Length>
+		<NRd>113.907757497816</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>2</Length>
+		<NRd>190.743872826112</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>2</Length>
+		<NRd>279.920636776933</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>2</Length>
+		<NRd>381.163384305372</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>2</Length>
+		<NRd>495.110047383116</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>2</Length>
+		<NRd>622.211978582033</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>2</Length>
+		<NRd>762.731799117285</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>2</Length>
+		<NRd>916.82404111208</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>2</Length>
+		<NRd>1084.5840124276</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>2</Length>
+		<NRd>1266.07347458787</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>2</Length>
+		<NRd>1461.33426596014</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>2</Length>
+		<NRd>1670.3958293596</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>2.5</Length>
+		<NRd>2.56694452930037</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>2.5</Length>
+		<NRd>12.5186362502895</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>2.5</Length>
+		<NRd>37.6097738152877</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>2.5</Length>
+		<NRd>85.0518965052814</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>2.5</Length>
+		<NRd>156.79565908748</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>2.5</Length>
+		<NRd>247.50342281251</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>2.5</Length>
+		<NRd>351.565515182644</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>2.5</Length>
+		<NRd>467.473189198145</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>2.5</Length>
+		<NRd>595.567787977143</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>2.5</Length>
+		<NRd>736.374093591838</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>2.5</Length>
+		<NRd>890.269720225687</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>2.5</Length>
+		<NRd>1057.49898987939</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>2.5</Length>
+		<NRd>1238.21994279038</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>2.5</Length>
+		<NRd>1432.53756423762</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>2.5</Length>
+		<NRd>1640.52388367027</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>3</Length>
+		<NRd>1.80214711403888</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>3</Length>
+		<NRd>8.86715810632032</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>3</Length>
+		<NRd>27.0690235841201</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>3</Length>
+		<NRd>63.0957829803083</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>3</Length>
+		<NRd>122.474730967605</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>3</Length>
+		<NRd>206.382683202348</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>3</Length>
+		<NRd>310.457539018436</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>3</Length>
+		<NRd>429.173713858753</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>3</Length>
+		<NRd>559.98942579827</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>3</Length>
+		<NRd>702.663143526223</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>3</Length>
+		<NRd>857.617614687086</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>3</Length>
+		<NRd>1025.28816444523</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>3</Length>
+		<NRd>1205.99934627193</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>3</Length>
+		<NRd>1399.97695180957</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>3</Length>
+		<NRd>1607.37723856087</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>3.5</Length>
+		<NRd>1.33402849150677</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>3.5</Length>
+		<NRd>6.59810967475105</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>3.5</Length>
+		<NRd>20.3063500769469</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>3.5</Length>
+		<NRd>47.9864226075981</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>3.5</Length>
+		<NRd>95.3576666965401</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>3.5</Length>
+		<NRd>166.701717150351</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>3.5</Length>
+		<NRd>262.716565082668</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>3.5</Length>
+		<NRd>379.788582784786</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>3.5</Length>
+		<NRd>512.786919199484</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>3.5</Length>
+		<NRd>658.505299163325</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>3.5</Length>
+		<NRd>816.024711642559</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>3.5</Length>
+		<NRd>985.494042881809</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>3.5</Length>
+		<NRd>1167.3128644352</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>3.5</Length>
+		<NRd>1361.85044469538</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>3.5</Length>
+		<NRd>1569.39132369952</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>4</Length>
+		<NRd>1.02704615743066</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>4</Length>
+		<NRd>5.09734431047221</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>4</Length>
+		<NRd>15.7638366334584</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>4</Length>
+		<NRd>37.5288064198923</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>4</Length>
+		<NRd>75.4616204972084</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>4</Length>
+		<NRd>134.409681137252</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>4</Length>
+		<NRd>217.73285505352</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>4</Length>
+		<NRd>325.820828242454</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>4</Length>
+		<NRd>455.631029991262</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>4</Length>
+		<NRd>602.527474131982</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>4</Length>
+		<NRd>762.975491304449</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>4</Length>
+		<NRd>935.439340074065</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>4</Length>
+		<NRd>1119.68254710773</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>4</Length>
+		<NRd>1315.96762821826</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>4</Length>
+		<NRd>1524.65353722149</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>5</Length>
+		<NRd>0.662376721410434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>5</Length>
+		<NRd>3.30182107518134</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>5</Length>
+		<NRd>10.2677781172015</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>5</Length>
+		<NRd>24.6309947397787</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>5</Length>
+		<NRd>50.0745450011578</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>5</Length>
+		<NRd>90.6574084723252</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>5</Length>
+		<NRd>150.439095261151</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>5</Length>
+		<NRd>232.907246059279</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>5</Length>
+		<NRd>340.207586021125</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>5</Length>
+		<NRd>472.385318773084</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>5</Length>
+		<NRd>627.182636349918</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>5</Length>
+		<NRd>800.910824167382</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>5</Length>
+		<NRd>990.013691250038</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>5</Length>
+		<NRd>1192.1492051632</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>5</Length>
+		<NRd>1406.26206073058</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>6</Length>
+		<NRd>0.46233363930399</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>6</Length>
+		<NRd>2.31085385421899</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>6</Length>
+		<NRd>7.20858845615552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>6</Length>
+		<NRd>17.3592909204244</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>6</Length>
+		<NRd>35.4686324252813</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>6</Length>
+		<NRd>64.6483511144597</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>6</Length>
+		<NRd>108.27609433648</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>6</Length>
+		<NRd>169.788646118719</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>6</Length>
+		<NRd>252.383131921233</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>6</Length>
+		<NRd>358.611340820235</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>6</Length>
+		<NRd>489.898923870421</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>6</Length>
+		<NRd>646.12601036339</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>6</Length>
+		<NRd>825.530732809392</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>6</Length>
+		<NRd>1025.16981748034</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>6</Length>
+		<NRd>1241.83015607374</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>7</Length>
+		<NRd>0.340912831913972</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>7</Length>
+		<NRd>1.70711999296358</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>7</Length>
+		<NRd>5.3361139660271</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>7</Length>
+		<NRd>12.88042181689</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>7</Length>
+		<NRd>26.3924386990042</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>7</Length>
+		<NRd>48.2767496899662</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>7</Length>
+		<NRd>81.2254003077874</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>7</Length>
+		<NRd>128.127944030256</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>7</Length>
+		<NRd>191.945690430392</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>7</Length>
+		<NRd>275.537994665538</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>7</Length>
+		<NRd>381.43066678616</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>7</Length>
+		<NRd>511.528766906563</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>7</Length>
+		<NRd>666.806868601406</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>7</Length>
+		<NRd>847.062252976638</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>7</Length>
+		<NRd>1050.86626033067</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>8</Length>
+		<NRd>0.261726814143638</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>8</Length>
+		<NRd>1.31238210995496</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>8</Length>
+		<NRd>4.10818462972265</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>8</Length>
+		<NRd>9.93235559077274</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>8</Length>
+		<NRd>20.3893772418889</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>8</Length>
+		<NRd>37.37778055627</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>8</Length>
+		<NRd>63.0553465338334</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>8</Length>
+		<NRd>99.793319809942</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>8</Length>
+		<NRd>150.115225679569</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>8</Length>
+		<NRd>216.614768592347</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>8</Length>
+		<NRd>301.846481988834</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>8</Length>
+		<NRd>408.18327593387</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>8</Length>
+		<NRd>537.638724549007</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>8</Length>
+		<NRd>691.661871149894</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>8</Length>
+		<NRd>870.931420214081</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>9</Length>
+		<NRd>0.207238464046109</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>9</Length>
+		<NRd>1.04025068843398</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>9</Length>
+		<NRd>3.25987902373826</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>9</Length>
+		<NRd>7.89067422509332</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>9</Length>
+		<NRd>16.2193240263499</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>9</Length>
+		<NRd>29.7775563914077</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>9</Length>
+		<NRd>50.3212887861367</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>9</Length>
+		<NRd>79.8044229568829</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>9</Length>
+		<NRd>120.345262199369</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>9</Length>
+		<NRd>174.183005453405</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>9</Length>
+		<NRd>243.621212257081</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>9</Length>
+		<NRd>330.95470208627</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>9</Length>
+		<NRd>438.37641841563</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>9</Length>
+		<NRd>567.862046822774</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>9</Length>
+		<NRd>721.033739686185</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>10</Length>
+		<NRd>0.16815092651727</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>10</Length>
+		<NRd>0.844752966320118</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>10</Length>
+		<NRd>2.64950688564173</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>10</Length>
+		<NRd>6.41903848394164</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>10</Length>
+		<NRd>13.2072843007253</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>10</Length>
+		<NRd>24.2739757027552</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>10</Length>
+		<NRd>41.071112468806</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>10</Length>
+		<NRd>65.2265928292968</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>10</Length>
+		<NRd>98.5239789591147</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>10</Length>
+		<NRd>142.877134163868</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>10</Length>
+		<NRd>200.298180004631</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>10</Length>
+		<NRd>272.856919738822</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>10</Length>
+		<NRd>362.629633889301</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>10</Length>
+		<NRd>471.635128107553</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>10</Length>
+		<NRd>601.756381044603</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>11</Length>
+		<NRd>0.139163131500375</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>11</Length>
+		<NRd>0.699601954792666</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>11</Length>
+		<NRd>2.19577082352126</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>11</Length>
+		<NRd>5.32358810802989</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>11</Length>
+		<NRd>10.9617578517482</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>11</Length>
+		<NRd>20.16359750514</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>11</Length>
+		<NRd>34.1477221074606</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>11</Length>
+		<NRd>54.2871147821249</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>11</Length>
+		<NRd>82.0960245086961</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>11</Length>
+		<NRd>119.214014540529</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>11</Length>
+		<NRd>167.386339559883</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>11</Length>
+		<NRd>228.439662711669</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>11</Length>
+		<NRd>304.251951666209</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>11</Length>
+		<NRd>396.715252252775</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>11</Length>
+		<NRd>507.689999024429</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>12</Length>
+		<NRd>0.117073054206873</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>12</Length>
+		<NRd>0.588885331823185</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>12</Length>
+		<NRd>1.84933455721596</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>12</Length>
+		<NRd>4.48630357876623</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>12</Length>
+		<NRd>9.24341541687596</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>12</Length>
+		<NRd>17.0139957416946</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>12</Length>
+		<NRd>28.8343538246221</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>12</Length>
+		<NRd>45.8760987942499</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>12</Length>
+		<NRd>69.4371636816976</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>12</Length>
+		<NRd>100.931149944811</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>12</Length>
+		<NRd>141.874529701125</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>12</Length>
+		<NRd>193.87115275394</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>12</Length>
+		<NRd>258.593404457839</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>12</Length>
+		<NRd>337.759257779031</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>12</Length>
+		<NRd>433.104377345922</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>13</Length>
+		<NRd>0.0998539336910083</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>13</Length>
+		<NRd>0.502513967134441</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>13</Length>
+		<NRd>1.5788558123067</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>13</Length>
+		<NRd>3.83203403469635</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>13</Length>
+		<NRd>7.89941226215918</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>13</Length>
+		<NRd>14.5479586706185</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>13</Length>
+		<NRd>24.669220113226</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>13</Length>
+		<NRd>39.2736950800454</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>13</Length>
+		<NRd>59.4844025688042</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>13</Length>
+		<NRd>86.5294121534589</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>13</Length>
+		<NRd>121.733059812819</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>13</Length>
+		<NRd>166.505524440904</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>13</Length>
+		<NRd>222.330382205397</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>13</Length>
+		<NRd>290.749692472352</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>13</Length>
+		<NRd>373.346105215147</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 50x50</Name>
+		<Weight>0.925</Weight>
+		<Length>14</Length>
+		<NRd>0.0861722170250944</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 75x75</Name>
+		<Weight>2.08125</Weight>
+		<Length>14</Length>
+		<NRd>0.433840190479986</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 100x100</Name>
+		<Weight>3.7</Weight>
+		<Length>14</Length>
+		<NRd>1.36365132765589</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 125x125</Name>
+		<Weight>5.78125</Weight>
+		<Length>14</Length>
+		<NRd>3.31109660200443</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 150x150</Name>
+		<Weight>8.325</Weight>
+		<Length>14</Length>
+		<NRd>6.82847997185432</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 175x175</Name>
+		<Weight>11.33125</Weight>
+		<Length>14</Length>
+		<NRd>12.5813154285256</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 200x200</Name>
+		<Weight>14.8</Weight>
+		<Length>14</Length>
+		<NRd>21.3444558641084</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 225x225</Name>
+		<Weight>18.73125</Weight>
+		<Length>14</Length>
+		<NRd>33.9978345142493</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 250x250</Name>
+		<Weight>23.125</Weight>
+		<Length>14</Length>
+		<NRd>51.5216872675601</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 275x275</Name>
+		<Weight>27.98125</Weight>
+		<Length>14</Length>
+		<NRd>74.9911065645111</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 300x300</Name>
+		<Weight>33.3</Weight>
+		<Length>14</Length>
+		<NRd>105.569754796017</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 325x325</Name>
+		<Weight>39.08125</Weight>
+		<Length>14</Length>
+		<NRd>144.502536941328</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 350x350</Name>
+		<Weight>45.325</Weight>
+		<Length>14</Length>
+		<NRd>193.106998759865</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 375x375</Name>
+		<Weight>52.03125</Weight>
+		<Length>14</Length>
+		<NRd>252.76317878526</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>C16 400x400</Name>
+		<Weight>59.2</Weight>
+		<Length>14</Length>
+		<NRd>324.90160123115</NRd>
+	</Beaminfo>
+
+</Root>
