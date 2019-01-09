@@ -1,0 +1,4900 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>1</Length>
+		<NRd>308</NRd>
+		<MRd>15.1</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>1.5</Length>
+		<NRd>210</NRd>
+		<MRd>12.8</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>2</Length>
+		<NRd>140</NRd>
+		<MRd>11.1</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>2.5</Length>
+		<NRd>97.6</NRd>
+		<MRd>9.82</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>3</Length>
+		<NRd>71.3</NRd>
+		<MRd>8.79</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>3.5</Length>
+		<NRd>54.1</NRd>
+		<MRd>7.95</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>4</Length>
+		<NRd>42.4</NRd>
+		<MRd>7.25</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>5</Length>
+		<NRd>28</NRd>
+		<MRd>6.15</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>6</Length>
+		<NRd>19.9</NRd>
+		<MRd>5.36</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>7</Length>
+		<NRd>14.8</NRd>
+		<MRd>4.77</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>8</Length>
+		<NRd>11.5</NRd>
+		<MRd>4.3</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>9</Length>
+		<NRd>9.13</NRd>
+		<MRd>3.92</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>10</Length>
+		<NRd>7.45</NRd>
+		<MRd>3.61</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>11</Length>
+		<NRd>6.19</NRd>
+		<MRd>3.34</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>12</Length>
+		<NRd>5.23</NRd>
+		<MRd>3.11</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>13</Length>
+		<NRd>4.47</NRd>
+		<MRd>2.91</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>14</Length>
+		<NRd>3.87</NRd>
+		<MRd>2.73</MRd>
+		<VRd>109</VRd>
+		<Inertia>207</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>1</Length>
+		<NRd>400</NRd>
+		<MRd>22.4</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>1.5</Length>
+		<NRd>285</NRd>
+		<MRd>19</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>2</Length>
+		<NRd>195</NRd>
+		<MRd>16.4</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>2.5</Length>
+		<NRd>138</NRd>
+		<MRd>14.5</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>3</Length>
+		<NRd>101</NRd>
+		<MRd>12.9</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>3.5</Length>
+		<NRd>77.3</NRd>
+		<MRd>11.6</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>4</Length>
+		<NRd>60.7</NRd>
+		<MRd>10.6</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>5</Length>
+		<NRd>40.3</NRd>
+		<MRd>8.96</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>6</Length>
+		<NRd>28.6</NRd>
+		<MRd>7.8</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>7</Length>
+		<NRd>21.3</NRd>
+		<MRd>6.94</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>8</Length>
+		<NRd>16.5</NRd>
+		<MRd>6.25</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>9</Length>
+		<NRd>13.2</NRd>
+		<MRd>5.7</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>10</Length>
+		<NRd>10.8</NRd>
+		<MRd>5.23</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>11</Length>
+		<NRd>8.95</NRd>
+		<MRd>4.84</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>12</Length>
+		<NRd>7.56</NRd>
+		<MRd>4.51</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>13</Length>
+		<NRd>6.47</NRd>
+		<MRd>4.22</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>14</Length>
+		<NRd>5.6</NRd>
+		<MRd>3.96</MRd>
+		<VRd>147</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>1</Length>
+		<NRd>500</NRd>
+		<MRd>32.3</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>1.5</Length>
+		<NRd>373</NRd>
+		<MRd>27.2</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>2</Length>
+		<NRd>264</NRd>
+		<MRd>23.5</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>2.5</Length>
+		<NRd>189</NRd>
+		<MRd>20.6</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>3</Length>
+		<NRd>140</NRd>
+		<MRd>18.4</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>3.5</Length>
+		<NRd>107</NRd>
+		<MRd>16.5</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>4</Length>
+		<NRd>84.7</NRd>
+		<MRd>15</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>5</Length>
+		<NRd>56.4</NRd>
+		<MRd>12.7</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>6</Length>
+		<NRd>40.1</NRd>
+		<MRd>11</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>7</Length>
+		<NRd>30</NRd>
+		<MRd>9.79</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>8</Length>
+		<NRd>23.3</NRd>
+		<MRd>8.82</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>9</Length>
+		<NRd>18.6</NRd>
+		<MRd>8.03</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>10</Length>
+		<NRd>15.2</NRd>
+		<MRd>7.38</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>11</Length>
+		<NRd>12.6</NRd>
+		<MRd>6.82</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>12</Length>
+		<NRd>10.7</NRd>
+		<MRd>6.35</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>13</Length>
+		<NRd>9.13</NRd>
+		<MRd>5.94</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>14</Length>
+		<NRd>7.9</NRd>
+		<MRd>5.58</MRd>
+		<VRd>169</VRd>
+		<Inertia>600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>1</Length>
+		<NRd>610</NRd>
+		<MRd>44</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>1.5</Length>
+		<NRd>469</NRd>
+		<MRd>37.1</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>2</Length>
+		<NRd>342</NRd>
+		<MRd>31.9</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>2.5</Length>
+		<NRd>249</NRd>
+		<MRd>27.9</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>3</Length>
+		<NRd>186</NRd>
+		<MRd>24.7</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>3.5</Length>
+		<NRd>143</NRd>
+		<MRd>22.2</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>4</Length>
+		<NRd>113</NRd>
+		<MRd>20.1</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>5</Length>
+		<NRd>75.6</NRd>
+		<MRd>16.9</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>6</Length>
+		<NRd>54</NRd>
+		<MRd>14.7</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>7</Length>
+		<NRd>40.4</NRd>
+		<MRd>13</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>8</Length>
+		<NRd>31.4</NRd>
+		<MRd>11.7</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>9</Length>
+		<NRd>25.1</NRd>
+		<MRd>10.7</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>10</Length>
+		<NRd>20.5</NRd>
+		<MRd>9.79</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>11</Length>
+		<NRd>17</NRd>
+		<MRd>9.05</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>12</Length>
+		<NRd>14.4</NRd>
+		<MRd>8.42</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>13</Length>
+		<NRd>12.3</NRd>
+		<MRd>7.87</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>14</Length>
+		<NRd>10.7</NRd>
+		<MRd>7.4</MRd>
+		<VRd>206</VRd>
+		<Inertia>911</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>1</Length>
+		<NRd>727</NRd>
+		<MRd>59</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>1.5</Length>
+		<NRd>578</NRd>
+		<MRd>50</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>2</Length>
+		<NRd>434</NRd>
+		<MRd>43.1</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>2.5</Length>
+		<NRd>322</NRd>
+		<MRd>37.6</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>3</Length>
+		<NRd>243</NRd>
+		<MRd>33.4</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>3.5</Length>
+		<NRd>188</NRd>
+		<MRd>29.9</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>4</Length>
+		<NRd>149</NRd>
+		<MRd>27.1</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>5</Length>
+		<NRd>100</NRd>
+		<MRd>22.8</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>6</Length>
+		<NRd>71.6</NRd>
+		<MRd>19.7</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>7</Length>
+		<NRd>53.7</NRd>
+		<MRd>17.5</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>8</Length>
+		<NRd>41.7</NRd>
+		<MRd>15.7</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>9</Length>
+		<NRd>33.4</NRd>
+		<MRd>14.3</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>10</Length>
+		<NRd>27.3</NRd>
+		<MRd>13.1</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>11</Length>
+		<NRd>22.7</NRd>
+		<MRd>12.1</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>12</Length>
+		<NRd>19.2</NRd>
+		<MRd>11.3</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>13</Length>
+		<NRd>16.5</NRd>
+		<MRd>10.6</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>14</Length>
+		<NRd>14.3</NRd>
+		<MRd>9.92</MRd>
+		<VRd>229</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>1</Length>
+		<NRd>859</NRd>
+		<MRd>76.5</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>1.5</Length>
+		<NRd>699</NRd>
+		<MRd>65.1</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>2</Length>
+		<NRd>538</NRd>
+		<MRd>56.1</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>2.5</Length>
+		<NRd>405</NRd>
+		<MRd>49</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>3</Length>
+		<NRd>309</NRd>
+		<MRd>43.4</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>3.5</Length>
+		<NRd>241</NRd>
+		<MRd>38.8</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>4</Length>
+		<NRd>192</NRd>
+		<MRd>35.1</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>5</Length>
+		<NRd>129</NRd>
+		<MRd>29.5</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>6</Length>
+		<NRd>92.6</NRd>
+		<MRd>25.4</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>7</Length>
+		<NRd>69.5</NRd>
+		<MRd>22.5</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>8</Length>
+		<NRd>54.1</NRd>
+		<MRd>20.2</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>9</Length>
+		<NRd>43.3</NRd>
+		<MRd>18.4</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>10</Length>
+		<NRd>35.4</NRd>
+		<MRd>16.9</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>11</Length>
+		<NRd>29.5</NRd>
+		<MRd>15.6</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>12</Length>
+		<NRd>25</NRd>
+		<MRd>14.5</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>13</Length>
+		<NRd>21.4</NRd>
+		<MRd>13.6</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>14</Length>
+		<NRd>18.5</NRd>
+		<MRd>12.7</MRd>
+		<VRd>276</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>1</Length>
+		<NRd>1020</NRd>
+		<MRd>99.7</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>1.5</Length>
+		<NRd>852</NRd>
+		<MRd>85.5</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>2</Length>
+		<NRd>671</NRd>
+		<MRd>74.1</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>2.5</Length>
+		<NRd>515</NRd>
+		<MRd>64.9</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>3</Length>
+		<NRd>397</NRd>
+		<MRd>57.6</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>3.5</Length>
+		<NRd>311</NRd>
+		<MRd>51.6</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>4</Length>
+		<NRd>249</NRd>
+		<MRd>46.7</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>5</Length>
+		<NRd>168</NRd>
+		<MRd>39.2</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>6</Length>
+		<NRd>121</NRd>
+		<MRd>33.8</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>7</Length>
+		<NRd>91.1</NRd>
+		<MRd>29.9</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>8</Length>
+		<NRd>71</NRd>
+		<MRd>26.9</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>9</Length>
+		<NRd>56.8</NRd>
+		<MRd>24.5</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>10</Length>
+		<NRd>46.5</NRd>
+		<MRd>22.4</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>11</Length>
+		<NRd>38.8</NRd>
+		<MRd>20.8</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>12</Length>
+		<NRd>32.8</NRd>
+		<MRd>19.3</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>13</Length>
+		<NRd>28.1</NRd>
+		<MRd>18.1</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>14</Length>
+		<NRd>24.4</NRd>
+		<MRd>17</MRd>
+		<VRd>325</VRd>
+		<Inertia>2680</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>1</Length>
+		<NRd>1180</NRd>
+		<MRd>123</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>1.5</Length>
+		<NRd>998</NRd>
+		<MRd>108</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>2</Length>
+		<NRd>802</NRd>
+		<MRd>93.6</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>2.5</Length>
+		<NRd>625</NRd>
+		<MRd>82</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>3</Length>
+		<NRd>486</NRd>
+		<MRd>72.7</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>3.5</Length>
+		<NRd>383</NRd>
+		<MRd>65.2</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>4</Length>
+		<NRd>308</NRd>
+		<MRd>59</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>5</Length>
+		<NRd>209</NRd>
+		<MRd>49.4</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>6</Length>
+		<NRd>151</NRd>
+		<MRd>42.5</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>7</Length>
+		<NRd>114</NRd>
+		<MRd>37.5</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>8</Length>
+		<NRd>88.6</NRd>
+		<MRd>33.7</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>9</Length>
+		<NRd>71</NRd>
+		<MRd>30.7</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>10</Length>
+		<NRd>58.2</NRd>
+		<MRd>28.1</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>11</Length>
+		<NRd>48.5</NRd>
+		<MRd>26</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>12</Length>
+		<NRd>41.1</NRd>
+		<MRd>24.2</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>13</Length>
+		<NRd>35.2</NRd>
+		<MRd>22.6</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>14</Length>
+		<NRd>30.5</NRd>
+		<MRd>21.2</MRd>
+		<VRd>384</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>1</Length>
+		<NRd>1400</NRd>
+		<MRd>160</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>1.5</Length>
+		<NRd>1200</NRd>
+		<MRd>143</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>2</Length>
+		<NRd>978</NRd>
+		<MRd>124</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>2.5</Length>
+		<NRd>775</NRd>
+		<MRd>109</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>3</Length>
+		<NRd>610</NRd>
+		<MRd>96.6</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>3.5</Length>
+		<NRd>484</NRd>
+		<MRd>86.5</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>4</Length>
+		<NRd>390</NRd>
+		<MRd>78.1</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>5</Length>
+		<NRd>267</NRd>
+		<MRd>65.2</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>6</Length>
+		<NRd>193</NRd>
+		<MRd>55.9</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>7</Length>
+		<NRd>145</NRd>
+		<MRd>49.3</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>8</Length>
+		<NRd>114</NRd>
+		<MRd>44.2</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>9</Length>
+		<NRd>91.1</NRd>
+		<MRd>40.1</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>10</Length>
+		<NRd>74.6</NRd>
+		<MRd>36.8</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>11</Length>
+		<NRd>62.3</NRd>
+		<MRd>34</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>12</Length>
+		<NRd>52.7</NRd>
+		<MRd>31.6</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>13</Length>
+		<NRd>45.2</NRd>
+		<MRd>29.5</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>14</Length>
+		<NRd>39.2</NRd>
+		<MRd>27.7</MRd>
+		<VRd>455</VRd>
+		<Inertia>5250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>1</Length>
+		<NRd>1780</NRd>
+		<MRd>218</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>1.5</Length>
+		<NRd>1530</NRd>
+		<MRd>198</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>2</Length>
+		<NRd>1270</NRd>
+		<MRd>174</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>2.5</Length>
+		<NRd>1010</NRd>
+		<MRd>154</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>3</Length>
+		<NRd>803</NRd>
+		<MRd>137</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>3.5</Length>
+		<NRd>640</NRd>
+		<MRd>123</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>4</Length>
+		<NRd>518</NRd>
+		<MRd>111</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>5</Length>
+		<NRd>355</NRd>
+		<MRd>93.4</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>6</Length>
+		<NRd>257</NRd>
+		<MRd>80.3</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>7</Length>
+		<NRd>194</NRd>
+		<MRd>70.6</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>8</Length>
+		<NRd>152</NRd>
+		<MRd>63.4</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>9</Length>
+		<NRd>122</NRd>
+		<MRd>57.6</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>10</Length>
+		<NRd>99.7</NRd>
+		<MRd>52.9</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>11</Length>
+		<NRd>83.2</NRd>
+		<MRd>48.9</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>12</Length>
+		<NRd>70.5</NRd>
+		<MRd>45.5</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>13</Length>
+		<NRd>60.5</NRd>
+		<MRd>42.5</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>14</Length>
+		<NRd>52.5</NRd>
+		<MRd>40</MRd>
+		<VRd>621</VRd>
+		<Inertia>7820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>1</Length>
+		<NRd>2140</NRd>
+		<MRd>281</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>1.5</Length>
+		<NRd>1860</NRd>
+		<MRd>260</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>2</Length>
+		<NRd>1560</NRd>
+		<MRd>229</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>2.5</Length>
+		<NRd>1260</NRd>
+		<MRd>203</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>3</Length>
+		<NRd>1000</NRd>
+		<MRd>181</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>3.5</Length>
+		<NRd>801</NRd>
+		<MRd>163</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>4</Length>
+		<NRd>650</NRd>
+		<MRd>148</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>5</Length>
+		<NRd>447</NRd>
+		<MRd>125</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>6</Length>
+		<NRd>324</NRd>
+		<MRd>107</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>7</Length>
+		<NRd>245</NRd>
+		<MRd>94.3</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>8</Length>
+		<NRd>192</NRd>
+		<MRd>84.7</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>9</Length>
+		<NRd>154</NRd>
+		<MRd>77.1</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>10</Length>
+		<NRd>126</NRd>
+		<MRd>70.7</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>11</Length>
+		<NRd>105</NRd>
+		<MRd>65.4</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>12</Length>
+		<NRd>89.2</NRd>
+		<MRd>60.8</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>13</Length>
+		<NRd>76.6</NRd>
+		<MRd>56.9</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>14</Length>
+		<NRd>66.4</NRd>
+		<MRd>53.5</MRd>
+		<VRd>796</VRd>
+		<Inertia>11000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>1</Length>
+		<NRd>2420</NRd>
+		<MRd>339</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>1.5</Length>
+		<NRd>2130</NRd>
+		<MRd>321</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>2</Length>
+		<NRd>1810</NRd>
+		<MRd>284</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>2.5</Length>
+		<NRd>1480</NRd>
+		<MRd>253</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>3</Length>
+		<NRd>1200</NRd>
+		<MRd>226</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>3.5</Length>
+		<NRd>966</NRd>
+		<MRd>204</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>4</Length>
+		<NRd>788</NRd>
+		<MRd>186</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>5</Length>
+		<NRd>545</NRd>
+		<MRd>157</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>6</Length>
+		<NRd>397</NRd>
+		<MRd>135</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>7</Length>
+		<NRd>301</NRd>
+		<MRd>119</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>8</Length>
+		<NRd>235</NRd>
+		<MRd>106</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>9</Length>
+		<NRd>189</NRd>
+		<MRd>96.8</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>10</Length>
+		<NRd>155</NRd>
+		<MRd>88.8</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>11</Length>
+		<NRd>130</NRd>
+		<MRd>82.1</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>12</Length>
+		<NRd>110</NRd>
+		<MRd>76.4</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>13</Length>
+		<NRd>94.4</NRd>
+		<MRd>71.5</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>14</Length>
+		<NRd>81.9</NRd>
+		<MRd>67.2</MRd>
+		<VRd>908</VRd>
+		<Inertia>14800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>1</Length>
+		<NRd>2870</NRd>
+		<MRd>435</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>1.5</Length>
+		<NRd>2540</NRd>
+		<MRd>417</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>2</Length>
+		<NRd>2170</NRd>
+		<MRd>370</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>2.5</Length>
+		<NRd>1790</NRd>
+		<MRd>330</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>3</Length>
+		<NRd>1460</NRd>
+		<MRd>296</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>3.5</Length>
+		<NRd>1180</NRd>
+		<MRd>267</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>4</Length>
+		<NRd>965</NRd>
+		<MRd>243</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>5</Length>
+		<NRd>670</NRd>
+		<MRd>204</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>6</Length>
+		<NRd>488</NRd>
+		<MRd>176</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>7</Length>
+		<NRd>370</NRd>
+		<MRd>154</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>8</Length>
+		<NRd>290</NRd>
+		<MRd>138</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>9</Length>
+		<NRd>233</NRd>
+		<MRd>126</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>10</Length>
+		<NRd>192</NRd>
+		<MRd>115</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>11</Length>
+		<NRd>160</NRd>
+		<MRd>106</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>12</Length>
+		<NRd>136</NRd>
+		<MRd>99</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>13</Length>
+		<NRd>117</NRd>
+		<MRd>92.6</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>14</Length>
+		<NRd>101</NRd>
+		<MRd>87</MRd>
+		<VRd>1120</VRd>
+		<Inertia>21000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>1</Length>
+		<NRd>232</NRd>
+		<MRd>9.72</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>1.5</Length>
+		<NRd>150</NRd>
+		<MRd>8.36</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>2</Length>
+		<NRd>97.3</NRd>
+		<MRd>7.35</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>2.5</Length>
+		<NRd>67</NRd>
+		<MRd>6.55</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>3</Length>
+		<NRd>48.5</NRd>
+		<MRd>5.9</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>3.5</Length>
+		<NRd>36.7</NRd>
+		<MRd>5.36</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>4</Length>
+		<NRd>28.7</NRd>
+		<MRd>4.91</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>5</Length>
+		<NRd>18.9</NRd>
+		<MRd>4.19</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>6</Length>
+		<NRd>13.4</NRd>
+		<MRd>3.65</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>7</Length>
+		<NRd>9.96</NRd>
+		<MRd>3.26</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>8</Length>
+		<NRd>7.7</NRd>
+		<MRd>2.95</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>9</Length>
+		<NRd>6.13</NRd>
+		<MRd>2.69</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>10</Length>
+		<NRd>5</NRd>
+		<MRd>2.48</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>11</Length>
+		<NRd>4.15</NRd>
+		<MRd>2.29</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>12</Length>
+		<NRd>3.5</NRd>
+		<MRd>2.14</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>13</Length>
+		<NRd>2.99</NRd>
+		<MRd>2</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>14</Length>
+		<NRd>2.59</NRd>
+		<MRd>1.88</MRd>
+		<VRd>83.6</VRd>
+		<Inertia>107</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>1</Length>
+		<NRd>290</NRd>
+		<MRd>15</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>1.5</Length>
+		<NRd>179</NRd>
+		<MRd>12.8</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>2</Length>
+		<NRd>114</NRd>
+		<MRd>11.2</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>2.5</Length>
+		<NRd>78</NRd>
+		<MRd>9.98</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>3</Length>
+		<NRd>56.3</NRd>
+		<MRd>8.96</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>3.5</Length>
+		<NRd>42.5</NRd>
+		<MRd>8.12</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>4</Length>
+		<NRd>33.2</NRd>
+		<MRd>7.42</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>5</Length>
+		<NRd>21.8</NRd>
+		<MRd>6.31</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>6</Length>
+		<NRd>15.4</NRd>
+		<MRd>5.5</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>7</Length>
+		<NRd>11.4</NRd>
+		<MRd>4.91</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>8</Length>
+		<NRd>8.84</NRd>
+		<MRd>4.43</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>9</Length>
+		<NRd>7.04</NRd>
+		<MRd>4.04</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>10</Length>
+		<NRd>5.73</NRd>
+		<MRd>3.71</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>11</Length>
+		<NRd>4.76</NRd>
+		<MRd>3.44</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>12</Length>
+		<NRd>4.02</NRd>
+		<MRd>3.2</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>13</Length>
+		<NRd>3.43</NRd>
+		<MRd>3</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>14</Length>
+		<NRd>2.97</NRd>
+		<MRd>2.82</MRd>
+		<VRd>128</VRd>
+		<Inertia>206</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>1</Length>
+		<NRd>391</NRd>
+		<MRd>22.6</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>1.5</Length>
+		<NRd>252</NRd>
+		<MRd>19.2</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>2</Length>
+		<NRd>164</NRd>
+		<MRd>16.8</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>2.5</Length>
+		<NRd>113</NRd>
+		<MRd>14.9</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>3</Length>
+		<NRd>81.7</NRd>
+		<MRd>13.3</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>3.5</Length>
+		<NRd>61.8</NRd>
+		<MRd>12.1</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>4</Length>
+		<NRd>48.3</NRd>
+		<MRd>11</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>5</Length>
+		<NRd>31.8</NRd>
+		<MRd>9.34</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>6</Length>
+		<NRd>22.5</NRd>
+		<MRd>8.15</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>7</Length>
+		<NRd>16.8</NRd>
+		<MRd>7.26</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>8</Length>
+		<NRd>13</NRd>
+		<MRd>6.55</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>9</Length>
+		<NRd>10.3</NRd>
+		<MRd>5.97</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>10</Length>
+		<NRd>8.41</NRd>
+		<MRd>5.49</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>11</Length>
+		<NRd>6.99</NRd>
+		<MRd>5.08</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>12</Length>
+		<NRd>5.89</NRd>
+		<MRd>4.73</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>13</Length>
+		<NRd>5.04</NRd>
+		<MRd>4.43</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>14</Length>
+		<NRd>4.36</NRd>
+		<MRd>4.16</MRd>
+		<VRd>175</VRd>
+		<Inertia>364</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>1</Length>
+		<NRd>503</NRd>
+		<MRd>32.6</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>1.5</Length>
+		<NRd>342</NRd>
+		<MRd>27.7</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>2</Length>
+		<NRd>229</NRd>
+		<MRd>24</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>2.5</Length>
+		<NRd>159</NRd>
+		<MRd>21.2</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>3</Length>
+		<NRd>116</NRd>
+		<MRd>19</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>3.5</Length>
+		<NRd>88.3</NRd>
+		<MRd>17.1</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>4</Length>
+		<NRd>69.2</NRd>
+		<MRd>15.6</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>5</Length>
+		<NRd>45.7</NRd>
+		<MRd>13.2</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>6</Length>
+		<NRd>32.4</NRd>
+		<MRd>11.5</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>7</Length>
+		<NRd>24.2</NRd>
+		<MRd>10.3</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>8</Length>
+		<NRd>18.7</NRd>
+		<MRd>9.26</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>9</Length>
+		<NRd>14.9</NRd>
+		<MRd>8.44</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>10</Length>
+		<NRd>12.2</NRd>
+		<MRd>7.75</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>11</Length>
+		<NRd>10.1</NRd>
+		<MRd>7.18</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>12</Length>
+		<NRd>8.53</NRd>
+		<MRd>6.68</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>13</Length>
+		<NRd>7.3</NRd>
+		<MRd>6.25</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>14</Length>
+		<NRd>6.31</NRd>
+		<MRd>5.88</MRd>
+		<VRd>207</VRd>
+		<Inertia>605</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>1</Length>
+		<NRd>621</NRd>
+		<MRd>44.5</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>1.5</Length>
+		<NRd>441</NRd>
+		<MRd>37.6</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>2</Length>
+		<NRd>302</NRd>
+		<MRd>32.6</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>2.5</Length>
+		<NRd>213</NRd>
+		<MRd>28.6</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>3</Length>
+		<NRd>157</NRd>
+		<MRd>25.5</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>3.5</Length>
+		<NRd>119</NRd>
+		<MRd>23</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>4</Length>
+		<NRd>93.7</NRd>
+		<MRd>21</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>5</Length>
+		<NRd>62.1</NRd>
+		<MRd>17.7</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>6</Length>
+		<NRd>44.1</NRd>
+		<MRd>15.4</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>7</Length>
+		<NRd>32.9</NRd>
+		<MRd>13.7</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>8</Length>
+		<NRd>25.5</NRd>
+		<MRd>12.4</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>9</Length>
+		<NRd>20.3</NRd>
+		<MRd>11.3</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>10</Length>
+		<NRd>16.6</NRd>
+		<MRd>10.3</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>11</Length>
+		<NRd>13.8</NRd>
+		<MRd>9.57</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>12</Length>
+		<NRd>11.7</NRd>
+		<MRd>8.91</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>13</Length>
+		<NRd>9.97</NRd>
+		<MRd>8.34</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>14</Length>
+		<NRd>8.63</NRd>
+		<MRd>7.84</MRd>
+		<VRd>251</VRd>
+		<Inertia>925</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>1</Length>
+		<NRd>752</NRd>
+		<MRd>59</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>1.5</Length>
+		<NRd>553</NRd>
+		<MRd>49.9</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>2</Length>
+		<NRd>388</NRd>
+		<MRd>43.1</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>2.5</Length>
+		<NRd>277</NRd>
+		<MRd>37.9</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>3</Length>
+		<NRd>205</NRd>
+		<MRd>33.7</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>3.5</Length>
+		<NRd>157</NRd>
+		<MRd>30.4</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>4</Length>
+		<NRd>123</NRd>
+		<MRd>27.6</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>5</Length>
+		<NRd>82</NRd>
+		<MRd>23.3</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>6</Length>
+		<NRd>58.3</NRd>
+		<MRd>20.3</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>7</Length>
+		<NRd>43.6</NRd>
+		<MRd>18</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>8</Length>
+		<NRd>33.8</NRd>
+		<MRd>16.2</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>9</Length>
+		<NRd>27</NRd>
+		<MRd>14.8</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>10</Length>
+		<NRd>22</NRd>
+		<MRd>13.6</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>11</Length>
+		<NRd>18.3</NRd>
+		<MRd>12.6</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>12</Length>
+		<NRd>15.5</NRd>
+		<MRd>11.7</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>13</Length>
+		<NRd>13.2</NRd>
+		<MRd>10.9</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>14</Length>
+		<NRd>11.5</NRd>
+		<MRd>10.3</MRd>
+		<VRd>301</VRd>
+		<Inertia>1350</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>1</Length>
+		<NRd>890</NRd>
+		<MRd>76.5</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>1.5</Length>
+		<NRd>673</NRd>
+		<MRd>64.8</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>2</Length>
+		<NRd>483</NRd>
+		<MRd>55.8</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>2.5</Length>
+		<NRd>349</NRd>
+		<MRd>48.9</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>3</Length>
+		<NRd>260</NRd>
+		<MRd>43.5</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>3.5</Length>
+		<NRd>199</NRd>
+		<MRd>39.1</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>4</Length>
+		<NRd>157</NRd>
+		<MRd>35.5</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>5</Length>
+		<NRd>105</NRd>
+		<MRd>29.9</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>6</Length>
+		<NRd>74.8</NRd>
+		<MRd>25.9</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>7</Length>
+		<NRd>55.9</NRd>
+		<MRd>23</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>8</Length>
+		<NRd>43.4</NRd>
+		<MRd>20.7</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>9</Length>
+		<NRd>34.7</NRd>
+		<MRd>18.8</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>10</Length>
+		<NRd>28.3</NRd>
+		<MRd>17.3</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>11</Length>
+		<NRd>23.6</NRd>
+		<MRd>16</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>12</Length>
+		<NRd>19.9</NRd>
+		<MRd>14.9</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>13</Length>
+		<NRd>17</NRd>
+		<MRd>13.9</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>14</Length>
+		<NRd>14.8</NRd>
+		<MRd>13.1</MRd>
+		<VRd>354</VRd>
+		<Inertia>1910</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1</Length>
+		<NRd>1070</NRd>
+		<MRd>100</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1.5</Length>
+		<NRd>835</NRd>
+		<MRd>85.3</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2</Length>
+		<NRd>616</NRd>
+		<MRd>73.7</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2.5</Length>
+		<NRd>453</NRd>
+		<MRd>64.7</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3</Length>
+		<NRd>340</NRd>
+		<MRd>57.6</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3.5</Length>
+		<NRd>262</NRd>
+		<MRd>51.8</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>4</Length>
+		<NRd>208</NRd>
+		<MRd>47.1</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>5</Length>
+		<NRd>139</NRd>
+		<MRd>39.7</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>6</Length>
+		<NRd>99.4</NRd>
+		<MRd>34.3</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>7</Length>
+		<NRd>74.4</NRd>
+		<MRd>30.5</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>8</Length>
+		<NRd>57.8</NRd>
+		<MRd>27.5</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>9</Length>
+		<NRd>46.2</NRd>
+		<MRd>25</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>10</Length>
+		<NRd>37.8</NRd>
+		<MRd>23</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>11</Length>
+		<NRd>31.4</NRd>
+		<MRd>21.3</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>12</Length>
+		<NRd>26.6</NRd>
+		<MRd>19.8</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>13</Length>
+		<NRd>22.8</NRd>
+		<MRd>18.5</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>14</Length>
+		<NRd>19.7</NRd>
+		<MRd>17.4</MRd>
+		<VRd>412</VRd>
+		<Inertia>2690</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>1</Length>
+		<NRd>1230</NRd>
+		<MRd>125</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>1.5</Length>
+		<NRd>984</NRd>
+		<MRd>107</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>2</Length>
+		<NRd>742</NRd>
+		<MRd>92.4</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>2.5</Length>
+		<NRd>552</NRd>
+		<MRd>81.1</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>3</Length>
+		<NRd>417</NRd>
+		<MRd>72.1</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>3.5</Length>
+		<NRd>324</NRd>
+		<MRd>64.8</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>4</Length>
+		<NRd>257</NRd>
+		<MRd>58.8</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>5</Length>
+		<NRd>173</NRd>
+		<MRd>49.6</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>6</Length>
+		<NRd>124</NRd>
+		<MRd>42.8</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>7</Length>
+		<NRd>92.7</NRd>
+		<MRd>38</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>8</Length>
+		<NRd>72</NRd>
+		<MRd>34.2</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>9</Length>
+		<NRd>57.6</NRd>
+		<MRd>31.1</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>10</Length>
+		<NRd>47.1</NRd>
+		<MRd>28.6</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>11</Length>
+		<NRd>39.2</NRd>
+		<MRd>26.4</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>12</Length>
+		<NRd>33.2</NRd>
+		<MRd>24.6</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>13</Length>
+		<NRd>28.4</NRd>
+		<MRd>23</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>14</Length>
+		<NRd>24.6</NRd>
+		<MRd>21.6</MRd>
+		<VRd>474</VRd>
+		<Inertia>3600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>1</Length>
+		<NRd>1440</NRd>
+		<MRd>157</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>1.5</Length>
+		<NRd>1170</NRd>
+		<MRd>135</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>2</Length>
+		<NRd>904</NRd>
+		<MRd>117</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>2.5</Length>
+		<NRd>683</NRd>
+		<MRd>103</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>3</Length>
+		<NRd>521</NRd>
+		<MRd>91.9</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>3.5</Length>
+		<NRd>406</NRd>
+		<MRd>82.7</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>4</Length>
+		<NRd>324</NRd>
+		<MRd>75.2</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>5</Length>
+		<NRd>218</NRd>
+		<MRd>63.4</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>6</Length>
+		<NRd>156</NRd>
+		<MRd>54.8</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>7</Length>
+		<NRd>118</NRd>
+		<MRd>48.5</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>8</Length>
+		<NRd>91.5</NRd>
+		<MRd>43.7</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>9</Length>
+		<NRd>73.2</NRd>
+		<MRd>39.8</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>10</Length>
+		<NRd>59.9</NRd>
+		<MRd>36.5</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>11</Length>
+		<NRd>49.9</NRd>
+		<MRd>33.8</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>12</Length>
+		<NRd>42.2</NRd>
+		<MRd>31.4</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>13</Length>
+		<NRd>36.2</NRd>
+		<MRd>29.4</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>14</Length>
+		<NRd>31.3</NRd>
+		<MRd>27.7</MRd>
+		<VRd>542</VRd>
+		<Inertia>4820</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>1</Length>
+		<NRd>1620</NRd>
+		<MRd>189</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>1.5</Length>
+		<NRd>1350</NRd>
+		<MRd>166</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>2</Length>
+		<NRd>1070</NRd>
+		<MRd>145</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>2.5</Length>
+		<NRd>826</NRd>
+		<MRd>128</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>3</Length>
+		<NRd>638</NRd>
+		<MRd>114</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>3.5</Length>
+		<NRd>501</NRd>
+		<MRd>102</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>4</Length>
+		<NRd>401</NRd>
+		<MRd>93</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>5</Length>
+		<NRd>272</NRd>
+		<MRd>78.4</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>6</Length>
+		<NRd>196</NRd>
+		<MRd>67.7</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>7</Length>
+		<NRd>147</NRd>
+		<MRd>59.8</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>8</Length>
+		<NRd>115</NRd>
+		<MRd>53.8</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>9</Length>
+		<NRd>91.9</NRd>
+		<MRd>49</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>10</Length>
+		<NRd>75.2</NRd>
+		<MRd>45</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>11</Length>
+		<NRd>62.7</NRd>
+		<MRd>41.6</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>12</Length>
+		<NRd>53.1</NRd>
+		<MRd>38.8</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>13</Length>
+		<NRd>45.5</NRd>
+		<MRd>36.3</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>14</Length>
+		<NRd>39.4</NRd>
+		<MRd>34.1</MRd>
+		<VRd>585</VRd>
+		<Inertia>6280</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>1</Length>
+		<NRd>1820</NRd>
+		<MRd>224</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>1.5</Length>
+		<NRd>1540</NRd>
+		<MRd>201</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>2</Length>
+		<NRd>1250</NRd>
+		<MRd>176</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>2.5</Length>
+		<NRd>980</NRd>
+		<MRd>156</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>3</Length>
+		<NRd>766</NRd>
+		<MRd>139</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>3.5</Length>
+		<NRd>605</NRd>
+		<MRd>125</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>4</Length>
+		<NRd>487</NRd>
+		<MRd>114</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>5</Length>
+		<NRd>332</NRd>
+		<MRd>95.9</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>6</Length>
+		<NRd>239</NRd>
+		<MRd>82.8</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>7</Length>
+		<NRd>180</NRd>
+		<MRd>72.9</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>8</Length>
+		<NRd>141</NRd>
+		<MRd>65.6</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>9</Length>
+		<NRd>113</NRd>
+		<MRd>59.7</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>10</Length>
+		<NRd>92.4</NRd>
+		<MRd>54.9</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>11</Length>
+		<NRd>77.1</NRd>
+		<MRd>50.8</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>12</Length>
+		<NRd>65.3</NRd>
+		<MRd>47.2</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>13</Length>
+		<NRd>56</NRd>
+		<MRd>44.2</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>14</Length>
+		<NRd>48.5</NRd>
+		<MRd>41.6</MRd>
+		<VRd>635</VRd>
+		<Inertia>8030</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>1</Length>
+		<NRd>2260</NRd>
+		<MRd>285</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>1.5</Length>
+		<NRd>1910</NRd>
+		<MRd>260</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>2</Length>
+		<NRd>1540</NRd>
+		<MRd>230</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>2.5</Length>
+		<NRd>1200</NRd>
+		<MRd>206</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>3</Length>
+		<NRd>935</NRd>
+		<MRd>185</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>3.5</Length>
+		<NRd>738</NRd>
+		<MRd>169</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>4</Length>
+		<NRd>593</NRd>
+		<MRd>155</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>5</Length>
+		<NRd>403</NRd>
+		<MRd>132</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>6</Length>
+		<NRd>291</NRd>
+		<MRd>116</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>7</Length>
+		<NRd>219</NRd>
+		<MRd>102</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>8</Length>
+		<NRd>171</NRd>
+		<MRd>92.1</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>9</Length>
+		<NRd>137</NRd>
+		<MRd>84.2</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>10</Length>
+		<NRd>112</NRd>
+		<MRd>77.5</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>11</Length>
+		<NRd>93.5</NRd>
+		<MRd>71.9</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>12</Length>
+		<NRd>79.1</NRd>
+		<MRd>67.1</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>13</Length>
+		<NRd>67.9</NRd>
+		<MRd>62.9</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>14</Length>
+		<NRd>58.8</NRd>
+		<MRd>59.2</MRd>
+		<VRd>922</VRd>
+		<Inertia>10900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>1</Length>
+		<NRd>2340</NRd>
+		<MRd>326</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>1.5</Length>
+		<NRd>1950</NRd>
+		<MRd>289</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>2</Length>
+		<NRd>1540</NRd>
+		<MRd>252</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>2.5</Length>
+		<NRd>1190</NRd>
+		<MRd>221</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>3</Length>
+		<NRd>915</NRd>
+		<MRd>196</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>3.5</Length>
+		<NRd>718</NRd>
+		<MRd>176</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>4</Length>
+		<NRd>575</NRd>
+		<MRd>160</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>5</Length>
+		<NRd>389</NRd>
+		<MRd>134</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>6</Length>
+		<NRd>280</NRd>
+		<MRd>115</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>7</Length>
+		<NRd>211</NRd>
+		<MRd>102</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>8</Length>
+		<NRd>164</NRd>
+		<MRd>91.4</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>9</Length>
+		<NRd>131</NRd>
+		<MRd>83.1</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>10</Length>
+		<NRd>108</NRd>
+		<MRd>76.3</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>11</Length>
+		<NRd>89.7</NRd>
+		<MRd>70.5</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>12</Length>
+		<NRd>75.9</NRd>
+		<MRd>65.6</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>13</Length>
+		<NRd>65.1</NRd>
+		<MRd>61.3</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>14</Length>
+		<NRd>56.4</NRd>
+		<MRd>57.6</MRd>
+		<VRd>1030</VRd>
+		<Inertia>12800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>1</Length>
+		<NRd>2450</NRd>
+		<MRd>359</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>1.5</Length>
+		<NRd>2050</NRd>
+		<MRd>320</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>2</Length>
+		<NRd>1630</NRd>
+		<MRd>277</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>2.5</Length>
+		<NRd>1260</NRd>
+		<MRd>242</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>3</Length>
+		<NRd>978</NRd>
+		<MRd>214</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>3.5</Length>
+		<NRd>769</NRd>
+		<MRd>190</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>4</Length>
+		<NRd>617</NRd>
+		<MRd>171</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>5</Length>
+		<NRd>418</NRd>
+		<MRd>142</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>6</Length>
+		<NRd>301</NRd>
+		<MRd>122</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>7</Length>
+		<NRd>227</NRd>
+		<MRd>107</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>8</Length>
+		<NRd>177</NRd>
+		<MRd>95.9</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>9</Length>
+		<NRd>141</NRd>
+		<MRd>86.9</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>10</Length>
+		<NRd>116</NRd>
+		<MRd>79.5</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>11</Length>
+		<NRd>96.6</NRd>
+		<MRd>73.4</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>12</Length>
+		<NRd>81.8</NRd>
+		<MRd>68.2</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>13</Length>
+		<NRd>70.1</NRd>
+		<MRd>63.7</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>14</Length>
+		<NRd>60.8</NRd>
+		<MRd>59.8</MRd>
+		<VRd>1080</VRd>
+		<Inertia>15800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>1</Length>
+		<NRd>2790</NRd>
+		<MRd>428</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>1.5</Length>
+		<NRd>2410</NRd>
+		<MRd>398</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>2</Length>
+		<NRd>1990</NRd>
+		<MRd>350</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>2.5</Length>
+		<NRd>1600</NRd>
+		<MRd>310</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>3</Length>
+		<NRd>1260</NRd>
+		<MRd>276</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>3.5</Length>
+		<NRd>1010</NRd>
+		<MRd>248</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>4</Length>
+		<NRd>815</NRd>
+		<MRd>225</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>5</Length>
+		<NRd>559</NRd>
+		<MRd>189</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>6</Length>
+		<NRd>404</NRd>
+		<MRd>162</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>7</Length>
+		<NRd>306</NRd>
+		<MRd>142</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>8</Length>
+		<NRd>239</NRd>
+		<MRd>128</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>9</Length>
+		<NRd>192</NRd>
+		<MRd>116</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>10</Length>
+		<NRd>157</NRd>
+		<MRd>107</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>11</Length>
+		<NRd>131</NRd>
+		<MRd>98.4</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>12</Length>
+		<NRd>111</NRd>
+		<MRd>91.5</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>13</Length>
+		<NRd>95.3</NRd>
+		<MRd>85.6</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>14</Length>
+		<NRd>82.6</NRd>
+		<MRd>80.4</MRd>
+		<VRd>1150</VRd>
+		<Inertia>20400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>1</Length>
+		<NRd>115</NRd>
+		<MRd>4.17</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>1.5</Length>
+		<NRd>62.8</NRd>
+		<MRd>3.7</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>2</Length>
+		<NRd>38.4</NRd>
+		<MRd>3.33</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>2.5</Length>
+		<NRd>25.6</NRd>
+		<MRd>3.02</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>3</Length>
+		<NRd>18.3</NRd>
+		<MRd>2.76</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>3.5</Length>
+		<NRd>13.7</NRd>
+		<MRd>2.54</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>4</Length>
+		<NRd>10.6</NRd>
+		<MRd>2.35</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>5</Length>
+		<NRd>6.95</NRd>
+		<MRd>2.04</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>6</Length>
+		<NRd>4.89</NRd>
+		<MRd>1.8</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>7</Length>
+		<NRd>3.63</NRd>
+		<MRd>1.6</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>8</Length>
+		<NRd>2.8</NRd>
+		<MRd>1.45</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>9</Length>
+		<NRd>2.22</NRd>
+		<MRd>1.33</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>10</Length>
+		<NRd>1.81</NRd>
+		<MRd>1.23</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>11</Length>
+		<NRd>1.5</NRd>
+		<MRd>1.14</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>12</Length>
+		<NRd>1.26</NRd>
+		<MRd>1.07</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>13</Length>
+		<NRd>1.08</NRd>
+		<MRd>1</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>14</Length>
+		<NRd>0.933</NRd>
+		<MRd>0.944</MRd>
+		<VRd>54.1</VRd>
+		<Inertia>26.4</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>1</Length>
+		<NRd>164</NRd>
+		<MRd>6.78</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>1.5</Length>
+		<NRd>93.8</NRd>
+		<MRd>5.94</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>2</Length>
+		<NRd>58.1</NRd>
+		<MRd>5.3</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>2.5</Length>
+		<NRd>39.1</NRd>
+		<MRd>4.77</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>3</Length>
+		<NRd>28</NRd>
+		<MRd>4.34</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>3.5</Length>
+		<NRd>21</NRd>
+		<MRd>3.97</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>4</Length>
+		<NRd>16.4</NRd>
+		<MRd>3.66</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>5</Length>
+		<NRd>10.7</NRd>
+		<MRd>3.15</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>6</Length>
+		<NRd>7.54</NRd>
+		<MRd>2.76</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>7</Length>
+		<NRd>5.6</NRd>
+		<MRd>2.46</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>8</Length>
+		<NRd>4.32</NRd>
+		<MRd>2.23</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>9</Length>
+		<NRd>3.43</NRd>
+		<MRd>2.04</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>10</Length>
+		<NRd>2.79</NRd>
+		<MRd>1.88</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>11</Length>
+		<NRd>2.32</NRd>
+		<MRd>1.74</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>12</Length>
+		<NRd>1.95</NRd>
+		<MRd>1.63</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>13</Length>
+		<NRd>1.67</NRd>
+		<MRd>1.53</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>14</Length>
+		<NRd>1.44</NRd>
+		<MRd>1.44</MRd>
+		<VRd>75.9</VRd>
+		<Inertia>57.5</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>1</Length>
+		<NRd>214</NRd>
+		<MRd>9.97</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>1.5</Length>
+		<NRd>126</NRd>
+		<MRd>8.65</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>2</Length>
+		<NRd>78.7</NRd>
+		<MRd>7.64</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>2.5</Length>
+		<NRd>53.2</NRd>
+		<MRd>6.84</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>3</Length>
+		<NRd>38.2</NRd>
+		<MRd>6.18</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>3.5</Length>
+		<NRd>28.8</NRd>
+		<MRd>5.63</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>4</Length>
+		<NRd>22.4</NRd>
+		<MRd>5.17</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>5</Length>
+		<NRd>14.7</NRd>
+		<MRd>4.43</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>6</Length>
+		<NRd>10.3</NRd>
+		<MRd>3.86</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>7</Length>
+		<NRd>7.69</NRd>
+		<MRd>3.45</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>8</Length>
+		<NRd>5.93</NRd>
+		<MRd>3.12</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>9</Length>
+		<NRd>4.72</NRd>
+		<MRd>2.85</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>10</Length>
+		<NRd>3.84</NRd>
+		<MRd>2.62</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>11</Length>
+		<NRd>3.19</NRd>
+		<MRd>2.43</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>12</Length>
+		<NRd>2.69</NRd>
+		<MRd>2.27</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>13</Length>
+		<NRd>2.3</NRd>
+		<MRd>2.12</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>14</Length>
+		<NRd>1.99</NRd>
+		<MRd>2</MRd>
+		<VRd>101</VRd>
+		<Inertia>106</Inertia>
+	</Beaminfo>
+	</Root>

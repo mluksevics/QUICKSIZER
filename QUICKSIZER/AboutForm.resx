@@ -117,44 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="CHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="EHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="HEA_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HEA_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="HEB_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HEB_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="IPE_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IPE_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="Lequal_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Lequal_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="PFC_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PFC_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="RHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="SHS_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SHS_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="UBP_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UBP_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="UB_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UB_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="UC_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UC_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
-  <data name="UPE_UPN_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UPE_UPN_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
 </root>

@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QUICKSIZER.Properties
-{
-
-
+namespace QUICKSIZER.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -22,49 +22,430 @@ namespace QUICKSIZER.Properties
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    internal class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("QUICKSIZER.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;CHS 114.3x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;25.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;1120&lt;/NRd&gt;
+        ///		&lt;MRd&gt;38.7&lt;/MRd&gt;
+        ///		&lt;VRd&gt;428&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;450&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;CHS 114.3x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;25.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;1060&lt;/NRd&gt;
+        ///		&lt;MRd&gt;38.7&lt;/MRd&gt;
+        ///		&lt;VRd&gt;428&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;450&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Na [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string CHS_NRd {
+            get {
+                return ResourceManager.GetString("CHS_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;EHS 150x75x4.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;10.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;404&lt;/NRd&gt;
+        ///		&lt;MRd&gt;19.9&lt;/MRd&gt;
+        ///		&lt;VRd&gt;239&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;301&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;EHS 150x75x4.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;10.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;368&lt;/NRd&gt;
+        ///		&lt;MRd&gt;19.9&lt;/MRd&gt;
+        ///		&lt;VRd&gt;239&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;301&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Nam [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string EHS_NRd {
+            get {
+                return ResourceManager.GetString("EHS_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 A&lt;/Name&gt;
+        ///		&lt;Weight&gt;16.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;625&lt;/NRd&gt;
+        ///		&lt;MRd&gt;29.5&lt;/MRd&gt;
+        ///		&lt;VRd&gt;154&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;349&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 AA&lt;/Name&gt;
+        ///		&lt;Weight&gt;12.2&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;455&lt;/NRd&gt;
+        ///		&lt;MRd&gt;20.7&lt;/MRd&gt;
+        ///		&lt;VRd&gt;126&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;236&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 1000 A*&lt; [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HEA_NRd {
+            get {
+                return ResourceManager.GetString("HEA_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 B&lt;/Name&gt;
+        ///		&lt;Weight&gt;20.4&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;769&lt;/NRd&gt;
+        ///		&lt;MRd&gt;37&lt;/MRd&gt;
+        ///		&lt;VRd&gt;184&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;450&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 C&lt;/Name&gt;
+        ///		&lt;Weight&gt;30.9&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;1180&lt;/NRd&gt;
+        ///		&lt;MRd&gt;58.9&lt;/MRd&gt;
+        ///		&lt;VRd&gt;274&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;759&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;HE 100 M&lt;/Nam [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string HEB_NRd {
+            get {
+                return ResourceManager.GetString("HEB_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;IPE 100&lt;/Name&gt;
+        ///		&lt;Weight&gt;8.1&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;206&lt;/NRd&gt;
+        ///		&lt;MRd&gt;12.3&lt;/MRd&gt;
+        ///		&lt;VRd&gt;104&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;171&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;IPE 120&lt;/Name&gt;
+        ///		&lt;Weight&gt;10.4&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;309&lt;/NRd&gt;
+        ///		&lt;MRd&gt;19.7&lt;/MRd&gt;
+        ///		&lt;VRd&gt;129&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;318&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;IPE 140&lt;/Name&gt;        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string IPE_NRd {
+            get {
+                return ResourceManager.GetString("IPE_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;100x100x11&lt;/Name&gt;
+        ///		&lt;Weight&gt;16.4065&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;Resistance&gt;527&lt;/Resistance&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;100x100x12&lt;/Name&gt;
+        ///		&lt;Weight&gt;17.8195&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;Resistance&gt;573&lt;/Resistance&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;100x100x13&lt;/Name&gt;
+        ///		&lt;Weight&gt;19.2325&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;Resistance&gt;618&lt;/Resistance&gt;        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Lequal_NRd {
+            get {
+                return ResourceManager.GetString("Lequal_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;PFC 100x50x10&lt;/Name&gt;
+        ///		&lt;Weight&gt;10&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;297&lt;/NRd&gt;
+        ///		&lt;MRd&gt;15.2&lt;/MRd&gt;
+        ///		&lt;VRd&gt;117&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;208&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;PFC 100x50x10&lt;/Name&gt;
+        ///		&lt;Weight&gt;10&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;191&lt;/NRd&gt;
+        ///		&lt;MRd&gt;12.9&lt;/MRd&gt;
+        ///		&lt;VRd&gt;117&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;208&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;PFC  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string PFC_NRd {
+            get {
+                return ResourceManager.GetString("PFC_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;RHS 100x50x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;19.6&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;732&lt;/NRd&gt;
+        ///		&lt;MRd&gt;25.3&lt;/MRd&gt;
+        ///		&lt;VRd&gt;340&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;259&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;RHS 100x50x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;19.6&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;521&lt;/NRd&gt;
+        ///		&lt;MRd&gt;25.3&lt;/MRd&gt;
+        ///		&lt;VRd&gt;340&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;259&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;N [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string RHS_NRd {
+            get {
+                return ResourceManager.GetString("RHS_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;SHS 100x100x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;27.4&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;1190&lt;/NRd&gt;
+        ///		&lt;MRd&gt;41.2&lt;/MRd&gt;
+        ///		&lt;VRd&gt;358&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;462&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;SHS 100x100x10.0&lt;/Name&gt;
+        ///		&lt;Weight&gt;27.4&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;1130&lt;/NRd&gt;
+        ///		&lt;MRd&gt;41.2&lt;/MRd&gt;
+        ///		&lt;VRd&gt;358&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;462&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string SHS_NRd {
+            get {
+                return ResourceManager.GetString("SHS_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UB 1000x400x296&lt;/Name&gt;
+        ///		&lt;Weight&gt;296&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;11600&lt;/NRd&gt;
+        ///		&lt;MRd&gt;4920&lt;/MRd&gt;
+        ///		&lt;VRd&gt;3620&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;620000&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UB 1000x400x296&lt;/Name&gt;
+        ///		&lt;Weight&gt;296&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;11600&lt;/NRd&gt;
+        ///		&lt;MRd&gt;4920&lt;/MRd&gt;
+        ///		&lt;VRd&gt;3620&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;620000&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Bea [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string UB_NRd {
+            get {
+                return ResourceManager.GetString("UB_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UBP 203x203x45&lt;/Name&gt;
+        ///		&lt;Weight&gt;45&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;1960&lt;/NRd&gt;
+        ///		&lt;MRd&gt;145&lt;/MRd&gt;
+        ///		&lt;VRd&gt;429&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;4100&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UBP 203x203x45&lt;/Name&gt;
+        ///		&lt;Weight&gt;45&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;1820&lt;/NRd&gt;
+        ///		&lt;MRd&gt;145&lt;/MRd&gt;
+        ///		&lt;VRd&gt;429&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;4100&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Na [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string UBP_NRd {
+            get {
+                return ResourceManager.GetString("UBP_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UC 152x152x23&lt;/Name&gt;
+        ///		&lt;Weight&gt;23&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;955&lt;/NRd&gt;
+        ///		&lt;MRd&gt;58.2&lt;/MRd&gt;
+        ///		&lt;VRd&gt;204&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;1250&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UC 152x152x23&lt;/Name&gt;
+        ///		&lt;Weight&gt;23&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;856&lt;/NRd&gt;
+        ///		&lt;MRd&gt;58.2&lt;/MRd&gt;
+        ///		&lt;VRd&gt;204&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;1250&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UC [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string UC_NRd {
+            get {
+                return ResourceManager.GetString("UC_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UPE 100&lt;/Name&gt;
+        ///		&lt;Weight&gt;9.82&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;308&lt;/NRd&gt;
+        ///		&lt;MRd&gt;15.1&lt;/MRd&gt;
+        ///		&lt;VRd&gt;109&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;207&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UPE 100&lt;/Name&gt;
+        ///		&lt;Weight&gt;9.82&lt;/Weight&gt;
+        ///		&lt;Length&gt;1.5&lt;/Length&gt;
+        ///		&lt;NRd&gt;210&lt;/NRd&gt;
+        ///		&lt;MRd&gt;12.8&lt;/MRd&gt;
+        ///		&lt;VRd&gt;109&lt;/VRd&gt;
+        ///		&lt;Inertia&gt;207&lt;/Inertia&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;UPE 100&lt;/ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string UPE_UPN_NRd {
+            get {
+                return ResourceManager.GetString("UPE_UPN_NRd", resourceCulture);
             }
         }
     }

@@ -1,0 +1,3267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>1</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>1.5</Length>
+		<Resistance>210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>2</Length>
+		<Resistance>140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>2.5</Length>
+		<Resistance>97.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>3</Length>
+		<Resistance>71.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>3.5</Length>
+		<Resistance>54.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>4</Length>
+		<Resistance>42.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>5</Length>
+		<Resistance>28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>6</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>7</Length>
+		<Resistance>14.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>8</Length>
+		<Resistance>11.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>9</Length>
+		<Resistance>9.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>10</Length>
+		<Resistance>7.45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>11</Length>
+		<Resistance>6.19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>12</Length>
+		<Resistance>5.23</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>13</Length>
+		<Resistance>4.47</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 100</Name>
+		<Weight>9.82</Weight>
+		<Length>14</Length>
+		<Resistance>3.87</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>1</Length>
+		<Resistance>400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>285</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>2</Length>
+		<Resistance>195</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>138</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>3</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>77.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>4</Length>
+		<Resistance>60.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>5</Length>
+		<Resistance>40.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>6</Length>
+		<Resistance>28.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>7</Length>
+		<Resistance>21.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>8</Length>
+		<Resistance>16.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>9</Length>
+		<Resistance>13.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>10</Length>
+		<Resistance>10.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>11</Length>
+		<Resistance>8.95</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>12</Length>
+		<Resistance>7.56</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>13</Length>
+		<Resistance>6.47</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 120</Name>
+		<Weight>12.1</Weight>
+		<Length>14</Length>
+		<Resistance>5.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>1</Length>
+		<Resistance>500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>373</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>2</Length>
+		<Resistance>264</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>189</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>3</Length>
+		<Resistance>140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>107</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>4</Length>
+		<Resistance>84.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>5</Length>
+		<Resistance>56.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>6</Length>
+		<Resistance>40.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>7</Length>
+		<Resistance>30</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>8</Length>
+		<Resistance>23.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>9</Length>
+		<Resistance>18.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>10</Length>
+		<Resistance>15.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>11</Length>
+		<Resistance>12.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>12</Length>
+		<Resistance>10.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>13</Length>
+		<Resistance>9.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 140</Name>
+		<Weight>14.5</Weight>
+		<Length>14</Length>
+		<Resistance>7.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>1</Length>
+		<Resistance>610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>1.5</Length>
+		<Resistance>469</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>2</Length>
+		<Resistance>342</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>2.5</Length>
+		<Resistance>249</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>3</Length>
+		<Resistance>186</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>3.5</Length>
+		<Resistance>143</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>4</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>5</Length>
+		<Resistance>75.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>6</Length>
+		<Resistance>54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>7</Length>
+		<Resistance>40.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>8</Length>
+		<Resistance>31.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>9</Length>
+		<Resistance>25.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>10</Length>
+		<Resistance>20.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>11</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>12</Length>
+		<Resistance>14.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>13</Length>
+		<Resistance>12.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 160</Name>
+		<Weight>17</Weight>
+		<Length>14</Length>
+		<Resistance>10.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>1</Length>
+		<Resistance>727</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>578</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>2</Length>
+		<Resistance>434</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>322</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>3</Length>
+		<Resistance>243</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>4</Length>
+		<Resistance>149</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>5</Length>
+		<Resistance>100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>6</Length>
+		<Resistance>71.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>7</Length>
+		<Resistance>53.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>8</Length>
+		<Resistance>41.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>9</Length>
+		<Resistance>33.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>10</Length>
+		<Resistance>27.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>11</Length>
+		<Resistance>22.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>12</Length>
+		<Resistance>19.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>13</Length>
+		<Resistance>16.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 180</Name>
+		<Weight>19.7</Weight>
+		<Length>14</Length>
+		<Resistance>14.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>1</Length>
+		<Resistance>859</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>699</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>2</Length>
+		<Resistance>538</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>405</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>3</Length>
+		<Resistance>309</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>241</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>4</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>5</Length>
+		<Resistance>129</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>6</Length>
+		<Resistance>92.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>7</Length>
+		<Resistance>69.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>8</Length>
+		<Resistance>54.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>9</Length>
+		<Resistance>43.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>10</Length>
+		<Resistance>35.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>11</Length>
+		<Resistance>29.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>12</Length>
+		<Resistance>25</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>13</Length>
+		<Resistance>21.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 200</Name>
+		<Weight>22.8</Weight>
+		<Length>14</Length>
+		<Resistance>18.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>1</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>852</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>2</Length>
+		<Resistance>671</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>515</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>3</Length>
+		<Resistance>397</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>4</Length>
+		<Resistance>249</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>5</Length>
+		<Resistance>168</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>6</Length>
+		<Resistance>121</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>7</Length>
+		<Resistance>91.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>8</Length>
+		<Resistance>71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>9</Length>
+		<Resistance>56.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>10</Length>
+		<Resistance>46.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>11</Length>
+		<Resistance>38.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>12</Length>
+		<Resistance>32.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>13</Length>
+		<Resistance>28.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 220</Name>
+		<Weight>26.6</Weight>
+		<Length>14</Length>
+		<Resistance>24.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>1</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>998</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>2</Length>
+		<Resistance>802</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>625</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>3</Length>
+		<Resistance>486</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>4</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>5</Length>
+		<Resistance>209</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>6</Length>
+		<Resistance>151</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>7</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>8</Length>
+		<Resistance>88.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>9</Length>
+		<Resistance>71</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>10</Length>
+		<Resistance>58.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>11</Length>
+		<Resistance>48.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>12</Length>
+		<Resistance>41.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>13</Length>
+		<Resistance>35.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 240</Name>
+		<Weight>30.2</Weight>
+		<Length>14</Length>
+		<Resistance>30.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>1</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>2</Length>
+		<Resistance>978</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>775</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>3</Length>
+		<Resistance>610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>484</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>4</Length>
+		<Resistance>390</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>5</Length>
+		<Resistance>267</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>6</Length>
+		<Resistance>193</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>7</Length>
+		<Resistance>145</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>8</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>9</Length>
+		<Resistance>91.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>10</Length>
+		<Resistance>74.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>11</Length>
+		<Resistance>62.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>12</Length>
+		<Resistance>52.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>13</Length>
+		<Resistance>45.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 270</Name>
+		<Weight>35.2</Weight>
+		<Length>14</Length>
+		<Resistance>39.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>1</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>2</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>3</Length>
+		<Resistance>803</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>4</Length>
+		<Resistance>518</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>5</Length>
+		<Resistance>355</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>6</Length>
+		<Resistance>257</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>7</Length>
+		<Resistance>194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>8</Length>
+		<Resistance>152</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>9</Length>
+		<Resistance>122</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>10</Length>
+		<Resistance>99.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>11</Length>
+		<Resistance>83.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>12</Length>
+		<Resistance>70.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>13</Length>
+		<Resistance>60.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 300</Name>
+		<Weight>44.4</Weight>
+		<Length>14</Length>
+		<Resistance>52.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>1</Length>
+		<Resistance>2140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>2</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>3</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>801</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>4</Length>
+		<Resistance>650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>5</Length>
+		<Resistance>447</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>6</Length>
+		<Resistance>324</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>7</Length>
+		<Resistance>245</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>8</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>9</Length>
+		<Resistance>154</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>10</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>11</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>12</Length>
+		<Resistance>89.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>13</Length>
+		<Resistance>76.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 330</Name>
+		<Weight>53.2</Weight>
+		<Length>14</Length>
+		<Resistance>66.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>1</Length>
+		<Resistance>2420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>2</Length>
+		<Resistance>1810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>3</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>966</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>4</Length>
+		<Resistance>788</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>5</Length>
+		<Resistance>545</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>6</Length>
+		<Resistance>397</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>7</Length>
+		<Resistance>301</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>8</Length>
+		<Resistance>235</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>9</Length>
+		<Resistance>189</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>10</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>11</Length>
+		<Resistance>130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>12</Length>
+		<Resistance>110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>13</Length>
+		<Resistance>94.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 360</Name>
+		<Weight>61.2</Weight>
+		<Length>14</Length>
+		<Resistance>81.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>1</Length>
+		<Resistance>2870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>2540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>2</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>1790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>3</Length>
+		<Resistance>1460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>4</Length>
+		<Resistance>965</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>5</Length>
+		<Resistance>670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>6</Length>
+		<Resistance>488</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>7</Length>
+		<Resistance>370</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>8</Length>
+		<Resistance>290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>9</Length>
+		<Resistance>233</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>10</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>11</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>12</Length>
+		<Resistance>136</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>13</Length>
+		<Resistance>117</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 400</Name>
+		<Weight>72.2</Weight>
+		<Length>14</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>1</Length>
+		<Resistance>232</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>2</Length>
+		<Resistance>97.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>67</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>3</Length>
+		<Resistance>48.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>36.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>4</Length>
+		<Resistance>28.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>5</Length>
+		<Resistance>18.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>6</Length>
+		<Resistance>13.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>7</Length>
+		<Resistance>9.96</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>8</Length>
+		<Resistance>7.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>9</Length>
+		<Resistance>6.13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>10</Length>
+		<Resistance>5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>11</Length>
+		<Resistance>4.15</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>12</Length>
+		<Resistance>3.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>13</Length>
+		<Resistance>2.99</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPE 80</Name>
+		<Weight>7.9</Weight>
+		<Length>14</Length>
+		<Resistance>2.59</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>1</Length>
+		<Resistance>290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>179</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>2</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>78</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>3</Length>
+		<Resistance>56.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>42.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>4</Length>
+		<Resistance>33.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>5</Length>
+		<Resistance>21.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>6</Length>
+		<Resistance>15.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>7</Length>
+		<Resistance>11.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>8</Length>
+		<Resistance>8.84</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>9</Length>
+		<Resistance>7.04</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>10</Length>
+		<Resistance>5.73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>11</Length>
+		<Resistance>4.76</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>12</Length>
+		<Resistance>4.02</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>13</Length>
+		<Resistance>3.43</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 100</Name>
+		<Weight>10.6</Weight>
+		<Length>14</Length>
+		<Resistance>2.97</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>1</Length>
+		<Resistance>391</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>252</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>2</Length>
+		<Resistance>164</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>3</Length>
+		<Resistance>81.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>61.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>4</Length>
+		<Resistance>48.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>5</Length>
+		<Resistance>31.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>6</Length>
+		<Resistance>22.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>7</Length>
+		<Resistance>16.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>8</Length>
+		<Resistance>13</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>9</Length>
+		<Resistance>10.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>10</Length>
+		<Resistance>8.41</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>11</Length>
+		<Resistance>6.99</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>12</Length>
+		<Resistance>5.89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>13</Length>
+		<Resistance>5.04</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 120</Name>
+		<Weight>13.4</Weight>
+		<Length>14</Length>
+		<Resistance>4.36</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>1</Length>
+		<Resistance>503</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>1.5</Length>
+		<Resistance>342</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>2</Length>
+		<Resistance>229</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>2.5</Length>
+		<Resistance>159</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>3</Length>
+		<Resistance>116</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>3.5</Length>
+		<Resistance>88.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>4</Length>
+		<Resistance>69.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>5</Length>
+		<Resistance>45.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>6</Length>
+		<Resistance>32.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>7</Length>
+		<Resistance>24.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>8</Length>
+		<Resistance>18.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>9</Length>
+		<Resistance>14.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>10</Length>
+		<Resistance>12.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>11</Length>
+		<Resistance>10.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>12</Length>
+		<Resistance>8.53</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>13</Length>
+		<Resistance>7.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 140</Name>
+		<Weight>16</Weight>
+		<Length>14</Length>
+		<Resistance>6.31</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>1</Length>
+		<Resistance>621</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>441</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>2</Length>
+		<Resistance>302</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>213</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>3</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>119</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>4</Length>
+		<Resistance>93.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>5</Length>
+		<Resistance>62.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>6</Length>
+		<Resistance>44.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>7</Length>
+		<Resistance>32.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>8</Length>
+		<Resistance>25.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>9</Length>
+		<Resistance>20.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>10</Length>
+		<Resistance>16.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>11</Length>
+		<Resistance>13.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>12</Length>
+		<Resistance>11.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>13</Length>
+		<Resistance>9.97</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 160</Name>
+		<Weight>18.8</Weight>
+		<Length>14</Length>
+		<Resistance>8.63</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>1</Length>
+		<Resistance>752</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>1.5</Length>
+		<Resistance>553</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>2</Length>
+		<Resistance>388</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>2.5</Length>
+		<Resistance>277</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>3</Length>
+		<Resistance>205</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>3.5</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>4</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>5</Length>
+		<Resistance>82</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>6</Length>
+		<Resistance>58.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>7</Length>
+		<Resistance>43.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>8</Length>
+		<Resistance>33.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>9</Length>
+		<Resistance>27</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>10</Length>
+		<Resistance>22</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>11</Length>
+		<Resistance>18.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>12</Length>
+		<Resistance>15.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>13</Length>
+		<Resistance>13.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 180</Name>
+		<Weight>22</Weight>
+		<Length>14</Length>
+		<Resistance>11.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>1</Length>
+		<Resistance>890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>673</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>2</Length>
+		<Resistance>483</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>349</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>3</Length>
+		<Resistance>260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>199</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>4</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>5</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>6</Length>
+		<Resistance>74.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>7</Length>
+		<Resistance>55.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>8</Length>
+		<Resistance>43.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>9</Length>
+		<Resistance>34.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>10</Length>
+		<Resistance>28.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>11</Length>
+		<Resistance>23.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>12</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>13</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 200</Name>
+		<Weight>25.3</Weight>
+		<Length>14</Length>
+		<Resistance>14.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>835</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2</Length>
+		<Resistance>616</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>453</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3</Length>
+		<Resistance>340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>262</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>4</Length>
+		<Resistance>208</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>5</Length>
+		<Resistance>139</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>6</Length>
+		<Resistance>99.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>7</Length>
+		<Resistance>74.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>8</Length>
+		<Resistance>57.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>9</Length>
+		<Resistance>46.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>10</Length>
+		<Resistance>37.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>11</Length>
+		<Resistance>31.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>12</Length>
+		<Resistance>26.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>13</Length>
+		<Resistance>22.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 220</Name>
+		<Weight>29.4</Weight>
+		<Length>14</Length>
+		<Resistance>19.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>1</Length>
+		<Resistance>1230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>984</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>2</Length>
+		<Resistance>742</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>552</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>3</Length>
+		<Resistance>417</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>324</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>4</Length>
+		<Resistance>257</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>5</Length>
+		<Resistance>173</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>6</Length>
+		<Resistance>124</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>7</Length>
+		<Resistance>92.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>8</Length>
+		<Resistance>72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>9</Length>
+		<Resistance>57.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>10</Length>
+		<Resistance>47.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>11</Length>
+		<Resistance>39.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>12</Length>
+		<Resistance>33.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>13</Length>
+		<Resistance>28.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 240</Name>
+		<Weight>33.2</Weight>
+		<Length>14</Length>
+		<Resistance>24.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>1</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>2</Length>
+		<Resistance>904</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>683</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>3</Length>
+		<Resistance>521</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>406</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>4</Length>
+		<Resistance>324</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>5</Length>
+		<Resistance>218</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>6</Length>
+		<Resistance>156</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>7</Length>
+		<Resistance>118</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>8</Length>
+		<Resistance>91.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>9</Length>
+		<Resistance>73.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>10</Length>
+		<Resistance>59.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>11</Length>
+		<Resistance>49.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>12</Length>
+		<Resistance>42.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>13</Length>
+		<Resistance>36.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 260</Name>
+		<Weight>37.9</Weight>
+		<Length>14</Length>
+		<Resistance>31.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>1</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>2</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>826</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>3</Length>
+		<Resistance>638</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>501</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>4</Length>
+		<Resistance>401</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>5</Length>
+		<Resistance>272</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>6</Length>
+		<Resistance>196</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>7</Length>
+		<Resistance>147</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>8</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>9</Length>
+		<Resistance>91.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>10</Length>
+		<Resistance>75.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>11</Length>
+		<Resistance>62.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>12</Length>
+		<Resistance>53.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>13</Length>
+		<Resistance>45.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 280</Name>
+		<Weight>41.8</Weight>
+		<Length>14</Length>
+		<Resistance>39.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>1</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>2</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>980</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>3</Length>
+		<Resistance>766</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>605</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>4</Length>
+		<Resistance>487</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>5</Length>
+		<Resistance>332</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>6</Length>
+		<Resistance>239</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>7</Length>
+		<Resistance>180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>8</Length>
+		<Resistance>141</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>9</Length>
+		<Resistance>113</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>10</Length>
+		<Resistance>92.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>11</Length>
+		<Resistance>77.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>12</Length>
+		<Resistance>65.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>13</Length>
+		<Resistance>56</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 300</Name>
+		<Weight>46.2</Weight>
+		<Length>14</Length>
+		<Resistance>48.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>1</Length>
+		<Resistance>2260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>1910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>2</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>3</Length>
+		<Resistance>935</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>738</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>4</Length>
+		<Resistance>593</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>5</Length>
+		<Resistance>403</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>6</Length>
+		<Resistance>291</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>7</Length>
+		<Resistance>219</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>8</Length>
+		<Resistance>171</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>9</Length>
+		<Resistance>137</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>10</Length>
+		<Resistance>112</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>11</Length>
+		<Resistance>93.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>12</Length>
+		<Resistance>79.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>13</Length>
+		<Resistance>67.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 320</Name>
+		<Weight>59.5</Weight>
+		<Length>14</Length>
+		<Resistance>58.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>1</Length>
+		<Resistance>2340</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>1950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>2</Length>
+		<Resistance>1540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1190</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>3</Length>
+		<Resistance>915</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>718</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>4</Length>
+		<Resistance>575</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>5</Length>
+		<Resistance>389</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>6</Length>
+		<Resistance>280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>7</Length>
+		<Resistance>211</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>8</Length>
+		<Resistance>164</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>9</Length>
+		<Resistance>131</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>10</Length>
+		<Resistance>108</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>11</Length>
+		<Resistance>89.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>12</Length>
+		<Resistance>75.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>13</Length>
+		<Resistance>65.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 350</Name>
+		<Weight>60.6</Weight>
+		<Length>14</Length>
+		<Resistance>56.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>1</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>1.5</Length>
+		<Resistance>2050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>2</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>2.5</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>3</Length>
+		<Resistance>978</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>3.5</Length>
+		<Resistance>769</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>4</Length>
+		<Resistance>617</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>5</Length>
+		<Resistance>418</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>6</Length>
+		<Resistance>301</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>7</Length>
+		<Resistance>227</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>8</Length>
+		<Resistance>177</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>9</Length>
+		<Resistance>141</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>10</Length>
+		<Resistance>116</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>11</Length>
+		<Resistance>96.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>12</Length>
+		<Resistance>81.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>13</Length>
+		<Resistance>70.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 380</Name>
+		<Weight>63.1</Weight>
+		<Length>14</Length>
+		<Resistance>60.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>1</Length>
+		<Resistance>2790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>2410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>2</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>1600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>3</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>4</Length>
+		<Resistance>815</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>5</Length>
+		<Resistance>559</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>6</Length>
+		<Resistance>404</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>7</Length>
+		<Resistance>306</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>8</Length>
+		<Resistance>239</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>9</Length>
+		<Resistance>192</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>10</Length>
+		<Resistance>157</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>11</Length>
+		<Resistance>131</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>12</Length>
+		<Resistance>111</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>13</Length>
+		<Resistance>95.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 400</Name>
+		<Weight>71.8</Weight>
+		<Length>14</Length>
+		<Resistance>82.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>1</Length>
+		<Resistance>115</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>1.5</Length>
+		<Resistance>62.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>2</Length>
+		<Resistance>38.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>2.5</Length>
+		<Resistance>25.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>3</Length>
+		<Resistance>18.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>3.5</Length>
+		<Resistance>13.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>4</Length>
+		<Resistance>10.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>5</Length>
+		<Resistance>6.95</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>6</Length>
+		<Resistance>4.89</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>7</Length>
+		<Resistance>3.63</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>8</Length>
+		<Resistance>2.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>9</Length>
+		<Resistance>2.22</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>10</Length>
+		<Resistance>1.81</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>11</Length>
+		<Resistance>1.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>12</Length>
+		<Resistance>1.26</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>13</Length>
+		<Resistance>1.08</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 50</Name>
+		<Weight>5.59</Weight>
+		<Length>14</Length>
+		<Resistance>0.933</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>1</Length>
+		<Resistance>164</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>1.5</Length>
+		<Resistance>93.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>2</Length>
+		<Resistance>58.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>2.5</Length>
+		<Resistance>39.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>3</Length>
+		<Resistance>28</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>3.5</Length>
+		<Resistance>21</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>4</Length>
+		<Resistance>16.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>5</Length>
+		<Resistance>10.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>6</Length>
+		<Resistance>7.54</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>7</Length>
+		<Resistance>5.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>8</Length>
+		<Resistance>4.32</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>9</Length>
+		<Resistance>3.43</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>10</Length>
+		<Resistance>2.79</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>11</Length>
+		<Resistance>2.32</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>12</Length>
+		<Resistance>1.95</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>13</Length>
+		<Resistance>1.67</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 65</Name>
+		<Weight>7.09</Weight>
+		<Length>14</Length>
+		<Resistance>1.44</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>1</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>1.5</Length>
+		<Resistance>126</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>2</Length>
+		<Resistance>78.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>2.5</Length>
+		<Resistance>53.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>3</Length>
+		<Resistance>38.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>3.5</Length>
+		<Resistance>28.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>4</Length>
+		<Resistance>22.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>5</Length>
+		<Resistance>14.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>6</Length>
+		<Resistance>10.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>7</Length>
+		<Resistance>7.69</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>8</Length>
+		<Resistance>5.93</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>9</Length>
+		<Resistance>4.72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>10</Length>
+		<Resistance>3.84</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>11</Length>
+		<Resistance>3.19</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>12</Length>
+		<Resistance>2.69</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>13</Length>
+		<Resistance>2.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UPN 80</Name>
+		<Weight>8.64</Weight>
+		<Length>14</Length>
+		<Resistance>1.99</Resistance>
+	</Beaminfo>
+</Root>

@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>1</Length>
+		<Resistance>404</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>1.5</Length>
+		<Resistance>368</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>2</Length>
+		<Resistance>313</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>2.5</Length>
+		<Resistance>246</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>3</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>3.5</Length>
+		<Resistance>145</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>4</Length>
+		<Resistance>114</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>5</Length>
+		<Resistance>75.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>6</Length>
+		<Resistance>53.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>7</Length>
+		<Resistance>39.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>8</Length>
+		<Resistance>30.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>9</Length>
+		<Resistance>24.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>10</Length>
+		<Resistance>19.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>11</Length>
+		<Resistance>16.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>12</Length>
+		<Resistance>13.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>13</Length>
+		<Resistance>11.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x4.0</Name>
+		<Weight>10.7</Weight>
+		<Length>14</Length>
+		<Resistance>10.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>1</Length>
+		<Resistance>555</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>499</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>2</Length>
+		<Resistance>410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>311</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>3</Length>
+		<Resistance>234</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>179</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>4</Length>
+		<Resistance>141</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>5</Length>
+		<Resistance>92.7</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>6</Length>
+		<Resistance>65.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>7</Length>
+		<Resistance>48.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>8</Length>
+		<Resistance>37.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>9</Length>
+		<Resistance>29.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>10</Length>
+		<Resistance>24.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>11</Length>
+		<Resistance>20.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>12</Length>
+		<Resistance>17</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>13</Length>
+		<Resistance>14.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x5.0</Name>
+		<Weight>13.3</Weight>
+		<Length>14</Length>
+		<Resistance>12.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>1</Length>
+		<Resistance>690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>616</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>2</Length>
+		<Resistance>501</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>377</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>3</Length>
+		<Resistance>282</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>215</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>4</Length>
+		<Resistance>169</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>5</Length>
+		<Resistance>111</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>6</Length>
+		<Resistance>78.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>7</Length>
+		<Resistance>58.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>8</Length>
+		<Resistance>45</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>9</Length>
+		<Resistance>35.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>10</Length>
+		<Resistance>29.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>11</Length>
+		<Resistance>24.1</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>12</Length>
+		<Resistance>20.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>13</Length>
+		<Resistance>17.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 150x75x6.3</Name>
+		<Weight>16.5</Weight>
+		<Length>14</Length>
+		<Resistance>15</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>1</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>2</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>3</Length>
+		<Resistance>897</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>717</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>4</Length>
+		<Resistance>576</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>5</Length>
+		<Resistance>388</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>6</Length>
+		<Resistance>277</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>7</Length>
+		<Resistance>207</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>8</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>9</Length>
+		<Resistance>127</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>10</Length>
+		<Resistance>104</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>11</Length>
+		<Resistance>86.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>12</Length>
+		<Resistance>72.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>13</Length>
+		<Resistance>62.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x10.0</Name>
+		<Weight>34.5</Weight>
+		<Length>14</Length>
+		<Resistance>53.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>1</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>2</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1320</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>3</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>848</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>4</Length>
+		<Resistance>679</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>5</Length>
+		<Resistance>456</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>6</Length>
+		<Resistance>325</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>7</Length>
+		<Resistance>242</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>8</Length>
+		<Resistance>188</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>9</Length>
+		<Resistance>150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>10</Length>
+		<Resistance>122</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>11</Length>
+		<Resistance>101</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>12</Length>
+		<Resistance>85.4</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>13</Length>
+		<Resistance>73</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x12.5</Name>
+		<Weight>42.4</Weight>
+		<Length>14</Length>
+		<Resistance>63.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>1</Length>
+		<Resistance>677</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>645</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>2</Length>
+		<Resistance>602</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>541</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>3</Length>
+		<Resistance>464</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>384</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>4</Length>
+		<Resistance>315</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>5</Length>
+		<Resistance>216</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>6</Length>
+		<Resistance>155</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>7</Length>
+		<Resistance>116</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>8</Length>
+		<Resistance>90.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>9</Length>
+		<Resistance>72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>10</Length>
+		<Resistance>58.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>11</Length>
+		<Resistance>48.9</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>12</Length>
+		<Resistance>41.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>13</Length>
+		<Resistance>35.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x5.0</Name>
+		<Weight>17.9</Weight>
+		<Length>14</Length>
+		<Resistance>30.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>1</Length>
+		<Resistance>941</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>1.5</Length>
+		<Resistance>891</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>2</Length>
+		<Resistance>821</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>2.5</Length>
+		<Resistance>720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>3</Length>
+		<Resistance>600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>3.5</Length>
+		<Resistance>486</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>4</Length>
+		<Resistance>393</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>5</Length>
+		<Resistance>267</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>6</Length>
+		<Resistance>191</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>7</Length>
+		<Resistance>143</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>8</Length>
+		<Resistance>111</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>9</Length>
+		<Resistance>88.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>10</Length>
+		<Resistance>72</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>11</Length>
+		<Resistance>59.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>12</Length>
+		<Resistance>50.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>13</Length>
+		<Resistance>43.2</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x6.3</Name>
+		<Weight>22.3</Weight>
+		<Length>14</Length>
+		<Resistance>37.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>1</Length>
+		<Resistance>1220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>1.5</Length>
+		<Resistance>1150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>2</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>2.5</Length>
+		<Resistance>910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>3</Length>
+		<Resistance>747</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>3.5</Length>
+		<Resistance>600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>4</Length>
+		<Resistance>483</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>5</Length>
+		<Resistance>326</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>6</Length>
+		<Resistance>233</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>7</Length>
+		<Resistance>174</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>8</Length>
+		<Resistance>135</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>9</Length>
+		<Resistance>107</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>10</Length>
+		<Resistance>87.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>11</Length>
+		<Resistance>72.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>12</Length>
+		<Resistance>61.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>13</Length>
+		<Resistance>52.6</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 200x100x8.0</Name>
+		<Weight>28</Weight>
+		<Length>14</Length>
+		<Resistance>45.5</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>1</Length>
+		<Resistance>1940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>1860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>2</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>1640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>3</Length>
+		<Resistance>1470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>1270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>4</Length>
+		<Resistance>1070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>5</Length>
+		<Resistance>754</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>6</Length>
+		<Resistance>548</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>7</Length>
+		<Resistance>413</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>8</Length>
+		<Resistance>322</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>9</Length>
+		<Resistance>257</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>10</Length>
+		<Resistance>210</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>11</Length>
+		<Resistance>175</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>12</Length>
+		<Resistance>148</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>13</Length>
+		<Resistance>127</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x10.0</Name>
+		<Weight>43.8</Weight>
+		<Length>14</Length>
+		<Resistance>110</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>1</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>1.5</Length>
+		<Resistance>2290</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>2</Length>
+		<Resistance>2170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>2.5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>3</Length>
+		<Resistance>1780</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>3.5</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>4</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>5</Length>
+		<Resistance>900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>6</Length>
+		<Resistance>653</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>7</Length>
+		<Resistance>492</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>8</Length>
+		<Resistance>383</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>9</Length>
+		<Resistance>306</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>10</Length>
+		<Resistance>250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>11</Length>
+		<Resistance>208</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>12</Length>
+		<Resistance>176</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>13</Length>
+		<Resistance>151</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x12.5</Name>
+		<Weight>53.9</Weight>
+		<Length>14</Length>
+		<Resistance>130</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>1</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>1.5</Length>
+		<Resistance>1050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>2</Length>
+		<Resistance>1010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>2.5</Length>
+		<Resistance>951</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>3</Length>
+		<Resistance>877</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>3.5</Length>
+		<Resistance>783</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>4</Length>
+		<Resistance>680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>5</Length>
+		<Resistance>496</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>6</Length>
+		<Resistance>365</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>7</Length>
+		<Resistance>277</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>8</Length>
+		<Resistance>217</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>9</Length>
+		<Resistance>174</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>10</Length>
+		<Resistance>142</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>11</Length>
+		<Resistance>118</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>12</Length>
+		<Resistance>100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>13</Length>
+		<Resistance>85.8</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x6.3</Name>
+		<Weight>28.2</Weight>
+		<Length>14</Length>
+		<Resistance>74.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>1</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>1.5</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>2</Length>
+		<Resistance>1400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>2.5</Length>
+		<Resistance>1310</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>3</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>3.5</Length>
+		<Resistance>1030</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>4</Length>
+		<Resistance>877</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>5</Length>
+		<Resistance>623</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>6</Length>
+		<Resistance>454</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>7</Length>
+		<Resistance>343</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>8</Length>
+		<Resistance>268</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>9</Length>
+		<Resistance>214</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>10</Length>
+		<Resistance>175</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>11</Length>
+		<Resistance>146</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>12</Length>
+		<Resistance>123</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>13</Length>
+		<Resistance>105</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 250x125x8.0</Name>
+		<Weight>35.4</Weight>
+		<Length>14</Length>
+		<Resistance>91.3</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>1</Length>
+		<Resistance>2360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>1.5</Length>
+		<Resistance>2300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>2</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>2.5</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>3</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>3.5</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>4</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>5</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>6</Length>
+		<Resistance>931</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>7</Length>
+		<Resistance>713</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>8</Length>
+		<Resistance>559</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>9</Length>
+		<Resistance>450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>10</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>11</Length>
+		<Resistance>308</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>12</Length>
+		<Resistance>260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>13</Length>
+		<Resistance>223</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x10.0</Name>
+		<Weight>53</Weight>
+		<Length>14</Length>
+		<Resistance>194</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>1</Length>
+		<Resistance>2930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>2840</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>2</Length>
+		<Resistance>2740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>2610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>3</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>2240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>4</Length>
+		<Resistance>1990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>5</Length>
+		<Resistance>1500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>6</Length>
+		<Resistance>1120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>7</Length>
+		<Resistance>857</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>8</Length>
+		<Resistance>673</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>9</Length>
+		<Resistance>540</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>10</Length>
+		<Resistance>443</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>11</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>12</Length>
+		<Resistance>313</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>13</Length>
+		<Resistance>268</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x12.5</Name>
+		<Weight>65.5</Weight>
+		<Length>14</Length>
+		<Resistance>232</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>1</Length>
+		<Resistance>3300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>3200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>2</Length>
+		<Resistance>3080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>2940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>3</Length>
+		<Resistance>2740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>2500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>4</Length>
+		<Resistance>2220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>5</Length>
+		<Resistance>1660</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>6</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>7</Length>
+		<Resistance>947</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>8</Length>
+		<Resistance>742</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>9</Length>
+		<Resistance>596</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>10</Length>
+		<Resistance>489</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>11</Length>
+		<Resistance>407</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>12</Length>
+		<Resistance>345</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>13</Length>
+		<Resistance>296</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x14.2</Name>
+		<Weight>73.8</Weight>
+		<Length>14</Length>
+		<Resistance>256</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>1</Length>
+		<Resistance>3680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>3570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>2</Length>
+		<Resistance>3440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>3270</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>3</Length>
+		<Resistance>3050</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>4</Length>
+		<Resistance>2450</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>5</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>6</Length>
+		<Resistance>1360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>7</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>8</Length>
+		<Resistance>812</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>9</Length>
+		<Resistance>652</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>10</Length>
+		<Resistance>534</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>11</Length>
+		<Resistance>445</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>12</Length>
+		<Resistance>377</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>13</Length>
+		<Resistance>323</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x16.0</Name>
+		<Weight>82.5</Weight>
+		<Length>14</Length>
+		<Resistance>280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>1</Length>
+		<Resistance>1710</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>1.5</Length>
+		<Resistance>1670</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>2</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>2.5</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>3</Length>
+		<Resistance>1480</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>3.5</Length>
+		<Resistance>1380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>4</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>5</Length>
+		<Resistance>986</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>6</Length>
+		<Resistance>753</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>7</Length>
+		<Resistance>581</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>8</Length>
+		<Resistance>458</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>9</Length>
+		<Resistance>369</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>10</Length>
+		<Resistance>303</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>11</Length>
+		<Resistance>253</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>12</Length>
+		<Resistance>215</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>13</Length>
+		<Resistance>184</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 300x150x8.0</Name>
+		<Weight>42.8</Weight>
+		<Length>14</Length>
+		<Resistance>160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>1</Length>
+		<Resistance>2790</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>1.5</Length>
+		<Resistance>2760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>2</Length>
+		<Resistance>2700</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>2.5</Length>
+		<Resistance>2650</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>3</Length>
+		<Resistance>2580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>3.5</Length>
+		<Resistance>2500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>4</Length>
+		<Resistance>2410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>5</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>6</Length>
+		<Resistance>1850</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>7</Length>
+		<Resistance>1530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>8</Length>
+		<Resistance>1260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>9</Length>
+		<Resistance>1040</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>10</Length>
+		<Resistance>862</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>11</Length>
+		<Resistance>727</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>12</Length>
+		<Resistance>620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>13</Length>
+		<Resistance>534</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x10.0</Name>
+		<Weight>71.5</Weight>
+		<Length>14</Length>
+		<Resistance>465</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>1</Length>
+		<Resistance>3870</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>3810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>2</Length>
+		<Resistance>3730</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>3</Length>
+		<Resistance>3530</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>3410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>4</Length>
+		<Resistance>3250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>5</Length>
+		<Resistance>2860</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>6</Length>
+		<Resistance>2380</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>7</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>8</Length>
+		<Resistance>1560</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>9</Length>
+		<Resistance>1280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>10</Length>
+		<Resistance>1060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>11</Length>
+		<Resistance>890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>12</Length>
+		<Resistance>757</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>13</Length>
+		<Resistance>652</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x12.5</Name>
+		<Weight>88.6</Weight>
+		<Length>14</Length>
+		<Resistance>566</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>1</Length>
+		<Resistance>4510</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>1.5</Length>
+		<Resistance>4430</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>2</Length>
+		<Resistance>4330</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>2.5</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>3</Length>
+		<Resistance>4090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>3.5</Length>
+		<Resistance>3940</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>4</Length>
+		<Resistance>3750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>5</Length>
+		<Resistance>3260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>6</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>7</Length>
+		<Resistance>2160</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>8</Length>
+		<Resistance>1740</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>9</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>10</Length>
+		<Resistance>1180</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>11</Length>
+		<Resistance>990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>12</Length>
+		<Resistance>842</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>13</Length>
+		<Resistance>724</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x14.2</Name>
+		<Weight>100</Weight>
+		<Length>14</Length>
+		<Resistance>629</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>1</Length>
+		<Resistance>5080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>1.5</Length>
+		<Resistance>4990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>2</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>2.5</Length>
+		<Resistance>4750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>3</Length>
+		<Resistance>4600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>3.5</Length>
+		<Resistance>4420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>4</Length>
+		<Resistance>4200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>5</Length>
+		<Resistance>3640</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>6</Length>
+		<Resistance>2990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>7</Length>
+		<Resistance>2400</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>8</Length>
+		<Resistance>1930</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>9</Length>
+		<Resistance>1580</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>10</Length>
+		<Resistance>1300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>11</Length>
+		<Resistance>1090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>12</Length>
+		<Resistance>931</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>13</Length>
+		<Resistance>800</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x16.0</Name>
+		<Weight>112</Weight>
+		<Length>14</Length>
+		<Resistance>695</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>1</Length>
+		<Resistance>2010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>1.5</Length>
+		<Resistance>2000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>2</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>2.5</Length>
+		<Resistance>1920</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>3</Length>
+		<Resistance>1880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>3.5</Length>
+		<Resistance>1830</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>4</Length>
+		<Resistance>1770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>5</Length>
+		<Resistance>1620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>6</Length>
+		<Resistance>1420</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>7</Length>
+		<Resistance>1200</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>8</Length>
+		<Resistance>1000</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>9</Length>
+		<Resistance>833</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>10</Length>
+		<Resistance>697</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>11</Length>
+		<Resistance>589</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>12</Length>
+		<Resistance>503</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>13</Length>
+		<Resistance>435</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 400x200x8.0</Name>
+		<Weight>57.6</Weight>
+		<Length>14</Length>
+		<Resistance>379</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>1</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>1.5</Length>
+		<Resistance>3150</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>2</Length>
+		<Resistance>3120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>2.5</Length>
+		<Resistance>3070</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>3</Length>
+		<Resistance>3020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>3.5</Length>
+		<Resistance>2970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>4</Length>
+		<Resistance>2910</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>5</Length>
+		<Resistance>2770</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>6</Length>
+		<Resistance>2590</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>7</Length>
+		<Resistance>2360</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>8</Length>
+		<Resistance>2100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>9</Length>
+		<Resistance>1820</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>10</Length>
+		<Resistance>1570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>11</Length>
+		<Resistance>1350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>12</Length>
+		<Resistance>1170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>13</Length>
+		<Resistance>1020</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x10.0</Name>
+		<Weight>90</Weight>
+		<Length>14</Length>
+		<Resistance>894</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>1</Length>
+		<Resistance>4350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>1.5</Length>
+		<Resistance>4350</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>2</Length>
+		<Resistance>4280</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>2.5</Length>
+		<Resistance>4220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>3</Length>
+		<Resistance>4140</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>3.5</Length>
+		<Resistance>4060</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>4</Length>
+		<Resistance>3970</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>5</Length>
+		<Resistance>3750</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>6</Length>
+		<Resistance>3460</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>7</Length>
+		<Resistance>3090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>8</Length>
+		<Resistance>2690</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>9</Length>
+		<Resistance>2300</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>10</Length>
+		<Resistance>1960</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>11</Length>
+		<Resistance>1680</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>12</Length>
+		<Resistance>1440</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>13</Length>
+		<Resistance>1250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x12.5</Name>
+		<Weight>112</Weight>
+		<Length>14</Length>
+		<Resistance>1100</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>1</Length>
+		<Resistance>5260</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>1.5</Length>
+		<Resistance>5250</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>2</Length>
+		<Resistance>5170</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>2.5</Length>
+		<Resistance>5080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>3</Length>
+		<Resistance>4990</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>3.5</Length>
+		<Resistance>4880</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>4</Length>
+		<Resistance>4760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>5</Length>
+		<Resistance>4470</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>6</Length>
+		<Resistance>4080</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>7</Length>
+		<Resistance>3600</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>8</Length>
+		<Resistance>3090</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>9</Length>
+		<Resistance>2620</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>10</Length>
+		<Resistance>2230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>11</Length>
+		<Resistance>1900</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>12</Length>
+		<Resistance>1630</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>13</Length>
+		<Resistance>1410</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x14.2</Name>
+		<Weight>126</Weight>
+		<Length>14</Length>
+		<Resistance>1240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>1</Length>
+		<Resistance>6240</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>1.5</Length>
+		<Resistance>6220</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>2</Length>
+		<Resistance>6120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>2.5</Length>
+		<Resistance>6010</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>3</Length>
+		<Resistance>5890</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>3.5</Length>
+		<Resistance>5760</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>4</Length>
+		<Resistance>5610</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>5</Length>
+		<Resistance>5230</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>6</Length>
+		<Resistance>4720</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>7</Length>
+		<Resistance>4120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>8</Length>
+		<Resistance>3500</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>9</Length>
+		<Resistance>2950</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>10</Length>
+		<Resistance>2490</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>11</Length>
+		<Resistance>2120</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>12</Length>
+		<Resistance>1810</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>13</Length>
+		<Resistance>1570</Resistance>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>EHS 500x250x16.0</Name>
+		<Weight>142</Weight>
+		<Length>14</Length>
+		<Resistance>1370</Resistance>
+	</Beaminfo>
+</Root>

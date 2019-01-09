@@ -1,0 +1,6429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>1</Length>
+		<NRd>955</NRd>
+		<MRd>58.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>1.5</Length>
+		<NRd>856</NRd>
+		<MRd>58.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>2</Length>
+		<NRd>746</NRd>
+		<MRd>56.3</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>2.5</Length>
+		<NRd>632</NRd>
+		<MRd>53.4</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>3</Length>
+		<NRd>524</NRd>
+		<MRd>50.3</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>3.5</Length>
+		<NRd>431</NRd>
+		<MRd>47.1</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>4</Length>
+		<NRd>356</NRd>
+		<MRd>44</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>5</Length>
+		<NRd>250</NRd>
+		<MRd>38.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>6</Length>
+		<NRd>183</NRd>
+		<MRd>33.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>7</Length>
+		<NRd>140</NRd>
+		<MRd>29.1</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>8</Length>
+		<NRd>110</NRd>
+		<MRd>25.8</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>9</Length>
+		<NRd>88.3</NRd>
+		<MRd>23.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>10</Length>
+		<NRd>72.6</NRd>
+		<MRd>21</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>11</Length>
+		<NRd>60.7</NRd>
+		<MRd>19</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>12</Length>
+		<NRd>51.6</NRd>
+		<MRd>17.2</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>13</Length>
+		<NRd>44.3</NRd>
+		<MRd>15.8</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x23</Name>
+		<Weight>23</Weight>
+		<Length>14</Length>
+		<NRd>38.5</NRd>
+		<MRd>14.6</MRd>
+		<VRd>204</VRd>
+		<Inertia>1250</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>1</Length>
+		<NRd>1260</NRd>
+		<MRd>87.9</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>1.5</Length>
+		<NRd>1140</NRd>
+		<MRd>87.9</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>2</Length>
+		<NRd>999</NRd>
+		<MRd>85.1</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>2.5</Length>
+		<NRd>854</NRd>
+		<MRd>81.1</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>3</Length>
+		<NRd>714</NRd>
+		<MRd>76.9</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>3.5</Length>
+		<NRd>592</NRd>
+		<MRd>72.7</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>4</Length>
+		<NRd>492</NRd>
+		<MRd>68.6</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>5</Length>
+		<NRd>347</NRd>
+		<MRd>60.8</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>6</Length>
+		<NRd>256</NRd>
+		<MRd>54</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>7</Length>
+		<NRd>195</NRd>
+		<MRd>48.2</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>8</Length>
+		<NRd>153</NRd>
+		<MRd>43.4</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>9</Length>
+		<NRd>123</NRd>
+		<MRd>39.3</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>10</Length>
+		<NRd>102</NRd>
+		<MRd>35.9</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>11</Length>
+		<NRd>85</NRd>
+		<MRd>33.2</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>12</Length>
+		<NRd>72.2</NRd>
+		<MRd>30.3</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>13</Length>
+		<NRd>62</NRd>
+		<MRd>27.9</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x30</Name>
+		<Weight>30</Weight>
+		<Length>14</Length>
+		<NRd>53.9</NRd>
+		<MRd>25.8</MRd>
+		<VRd>238</VRd>
+		<Inertia>1750</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>1</Length>
+		<NRd>1550</NRd>
+		<MRd>110</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>1.5</Length>
+		<NRd>1400</NRd>
+		<MRd>110</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>2</Length>
+		<NRd>1240</NRd>
+		<MRd>107</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>2.5</Length>
+		<NRd>1060</NRd>
+		<MRd>103</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>3</Length>
+		<NRd>889</NRd>
+		<MRd>98.4</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>3.5</Length>
+		<NRd>738</NRd>
+		<MRd>94.1</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>4</Length>
+		<NRd>614</NRd>
+		<MRd>89.8</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>5</Length>
+		<NRd>435</NRd>
+		<MRd>81.5</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>6</Length>
+		<NRd>320</NRd>
+		<MRd>74</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>7</Length>
+		<NRd>244</NRd>
+		<MRd>67.3</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>8</Length>
+		<NRd>192</NRd>
+		<MRd>61.4</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>9</Length>
+		<NRd>155</NRd>
+		<MRd>56.2</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>10</Length>
+		<NRd>127</NRd>
+		<MRd>51.8</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>11</Length>
+		<NRd>107</NRd>
+		<MRd>47.8</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>12</Length>
+		<NRd>90.5</NRd>
+		<MRd>44.6</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>13</Length>
+		<NRd>77.8</NRd>
+		<MRd>41.8</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 152x152x37</Name>
+		<Weight>37</Weight>
+		<Length>14</Length>
+		<NRd>67.6</NRd>
+		<MRd>38.9</MRd>
+		<VRd>292</VRd>
+		<Inertia>2210</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>1</Length>
+		<NRd>4280</NRd>
+		<MRd>396</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>1.5</Length>
+		<NRd>4010</NRd>
+		<MRd>396</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>2</Length>
+		<NRd>3730</NRd>
+		<MRd>396</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>2.5</Length>
+		<NRd>3430</NRd>
+		<MRd>396</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>3</Length>
+		<NRd>3120</NRd>
+		<MRd>392</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>3.5</Length>
+		<NRd>2790</NRd>
+		<MRd>384</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>4</Length>
+		<NRd>2460</NRd>
+		<MRd>376</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>5</Length>
+		<NRd>1900</NRd>
+		<MRd>361</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>6</Length>
+		<NRd>1460</NRd>
+		<MRd>346</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>7</Length>
+		<NRd>1150</NRd>
+		<MRd>332</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>8</Length>
+		<NRd>921</NRd>
+		<MRd>318</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>9</Length>
+		<NRd>751</NRd>
+		<MRd>304</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>10</Length>
+		<NRd>624</NRd>
+		<MRd>291</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>11</Length>
+		<NRd>525</NRd>
+		<MRd>278</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>12</Length>
+		<NRd>449</NRd>
+		<MRd>266</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>13</Length>
+		<NRd>387</NRd>
+		<MRd>254</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x100</Name>
+		<Weight>100</Weight>
+		<Length>14</Length>
+		<NRd>337</NRd>
+		<MRd>243</MRd>
+		<VRd>704</VRd>
+		<Inertia>11300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>1</Length>
+		<NRd>2020</NRd>
+		<MRd>177</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>1.5</Length>
+		<NRd>1890</NRd>
+		<MRd>177</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>2</Length>
+		<NRd>1740</NRd>
+		<MRd>177</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>2.5</Length>
+		<NRd>1590</NRd>
+		<MRd>172</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>3</Length>
+		<NRd>1420</NRd>
+		<MRd>166</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>3.5</Length>
+		<NRd>1260</NRd>
+		<MRd>159</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>4</Length>
+		<NRd>1100</NRd>
+		<MRd>153</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>5</Length>
+		<NRd>832</NRd>
+		<MRd>139</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>6</Length>
+		<NRd>635</NRd>
+		<MRd>126</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>7</Length>
+		<NRd>495</NRd>
+		<MRd>114</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>8</Length>
+		<NRd>395</NRd>
+		<MRd>103</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>9</Length>
+		<NRd>321</NRd>
+		<MRd>93.8</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>10</Length>
+		<NRd>266</NRd>
+		<MRd>85.8</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>11</Length>
+		<NRd>224</NRd>
+		<MRd>79</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>12</Length>
+		<NRd>191</NRd>
+		<MRd>73.1</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>13</Length>
+		<NRd>165</NRd>
+		<MRd>68.3</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x46</Name>
+		<Weight>46</Weight>
+		<Length>14</Length>
+		<NRd>143</NRd>
+		<MRd>63.7</MRd>
+		<VRd>347</VRd>
+		<Inertia>4570</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>1</Length>
+		<NRd>2290</NRd>
+		<MRd>201</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>1.5</Length>
+		<NRd>2140</NRd>
+		<MRd>201</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>2</Length>
+		<NRd>1980</NRd>
+		<MRd>201</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>2.5</Length>
+		<NRd>1800</NRd>
+		<MRd>198</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>3</Length>
+		<NRd>1620</NRd>
+		<MRd>191</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>3.5</Length>
+		<NRd>1430</NRd>
+		<MRd>184</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>4</Length>
+		<NRd>1260</NRd>
+		<MRd>177</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>5</Length>
+		<NRd>952</NRd>
+		<MRd>163</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>6</Length>
+		<NRd>728</NRd>
+		<MRd>149</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>7</Length>
+		<NRd>568</NRd>
+		<MRd>136</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>8</Length>
+		<NRd>453</NRd>
+		<MRd>125</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>9</Length>
+		<NRd>369</NRd>
+		<MRd>115</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>10</Length>
+		<NRd>306</NRd>
+		<MRd>106</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>11</Length>
+		<NRd>257</NRd>
+		<MRd>97.8</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>12</Length>
+		<NRd>219</NRd>
+		<MRd>90.9</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>13</Length>
+		<NRd>189</NRd>
+		<MRd>84.8</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x52</Name>
+		<Weight>52</Weight>
+		<Length>14</Length>
+		<NRd>165</NRd>
+		<MRd>79.8</MRd>
+		<VRd>385</VRd>
+		<Inertia>5260</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>1</Length>
+		<NRd>2640</NRd>
+		<MRd>233</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>1.5</Length>
+		<NRd>2470</NRd>
+		<MRd>233</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>2</Length>
+		<NRd>2280</NRd>
+		<MRd>233</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>2.5</Length>
+		<NRd>2080</NRd>
+		<MRd>230</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>3</Length>
+		<NRd>1870</NRd>
+		<MRd>222</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>3.5</Length>
+		<NRd>1660</NRd>
+		<MRd>215</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>4</Length>
+		<NRd>1450</NRd>
+		<MRd>208</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>5</Length>
+		<NRd>1100</NRd>
+		<MRd>193</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>6</Length>
+		<NRd>844</NRd>
+		<MRd>179</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>7</Length>
+		<NRd>659</NRd>
+		<MRd>166</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>8</Length>
+		<NRd>526</NRd>
+		<MRd>153</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>9</Length>
+		<NRd>428</NRd>
+		<MRd>142</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>10</Length>
+		<NRd>355</NRd>
+		<MRd>132</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>11</Length>
+		<NRd>299</NRd>
+		<MRd>123</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>12</Length>
+		<NRd>255</NRd>
+		<MRd>115</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>13</Length>
+		<NRd>220</NRd>
+		<MRd>108</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x60</Name>
+		<Weight>60</Weight>
+		<Length>14</Length>
+		<NRd>191</NRd>
+		<MRd>101</MRd>
+		<VRd>455</VRd>
+		<Inertia>6120</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>1</Length>
+		<NRd>3050</NRd>
+		<MRd>276</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>1.5</Length>
+		<NRd>2860</NRd>
+		<MRd>276</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>2</Length>
+		<NRd>2650</NRd>
+		<MRd>276</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>2.5</Length>
+		<NRd>2430</NRd>
+		<MRd>275</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>3</Length>
+		<NRd>2200</NRd>
+		<MRd>267</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>3.5</Length>
+		<NRd>1960</NRd>
+		<MRd>260</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>4</Length>
+		<NRd>1730</NRd>
+		<MRd>253</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>5</Length>
+		<NRd>1330</NRd>
+		<MRd>238</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>6</Length>
+		<NRd>1020</NRd>
+		<MRd>225</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>7</Length>
+		<NRd>801</NRd>
+		<MRd>211</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>8</Length>
+		<NRd>640</NRd>
+		<MRd>199</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>9</Length>
+		<NRd>522</NRd>
+		<MRd>187</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>10</Length>
+		<NRd>433</NRd>
+		<MRd>175</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>11</Length>
+		<NRd>365</NRd>
+		<MRd>165</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>12</Length>
+		<NRd>311</NRd>
+		<MRd>156</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>13</Length>
+		<NRd>269</NRd>
+		<MRd>147</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x71</Name>
+		<Weight>71</Weight>
+		<Length>14</Length>
+		<NRd>234</NRd>
+		<MRd>139</MRd>
+		<VRd>483</VRd>
+		<Inertia>7620</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>1</Length>
+		<NRd>3700</NRd>
+		<MRd>337</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>1.5</Length>
+		<NRd>3470</NRd>
+		<MRd>337</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>2</Length>
+		<NRd>3220</NRd>
+		<MRd>337</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>2.5</Length>
+		<NRd>2960</NRd>
+		<MRd>337</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>3</Length>
+		<NRd>2680</NRd>
+		<MRd>330</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>3.5</Length>
+		<NRd>2400</NRd>
+		<MRd>323</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>4</Length>
+		<NRd>2120</NRd>
+		<MRd>315</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>5</Length>
+		<NRd>1620</NRd>
+		<MRd>301</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>6</Length>
+		<NRd>1250</NRd>
+		<MRd>286</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>7</Length>
+		<NRd>983</NRd>
+		<MRd>272</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>8</Length>
+		<NRd>786</NRd>
+		<MRd>259</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>9</Length>
+		<NRd>641</NRd>
+		<MRd>246</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>10</Length>
+		<NRd>532</NRd>
+		<MRd>234</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>11</Length>
+		<NRd>448</NRd>
+		<MRd>222</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>12</Length>
+		<NRd>383</NRd>
+		<MRd>211</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>13</Length>
+		<NRd>330</NRd>
+		<MRd>201</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 203x203x86</Name>
+		<Weight>86</Weight>
+		<Length>14</Length>
+		<NRd>288</NRd>
+		<MRd>191</MRd>
+		<VRd>611</VRd>
+		<Inertia>9450</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>1</Length>
+		<NRd>4710</NRd>
+		<MRd>512</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>1.5</Length>
+		<NRd>4480</NRd>
+		<MRd>512</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>2</Length>
+		<NRd>4240</NRd>
+		<MRd>512</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>2.5</Length>
+		<NRd>3990</NRd>
+		<MRd>512</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>3</Length>
+		<NRd>3730</NRd>
+		<MRd>512</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>3.5</Length>
+		<NRd>3450</NRd>
+		<MRd>501</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>4</Length>
+		<NRd>3170</NRd>
+		<MRd>490</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>5</Length>
+		<NRd>2600</NRd>
+		<MRd>467</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>6</Length>
+		<NRd>2100</NRd>
+		<MRd>445</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>7</Length>
+		<NRd>1700</NRd>
+		<MRd>424</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>8</Length>
+		<NRd>1380</NRd>
+		<MRd>403</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>9</Length>
+		<NRd>1140</NRd>
+		<MRd>383</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>10</Length>
+		<NRd>957</NRd>
+		<MRd>364</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>11</Length>
+		<NRd>812</NRd>
+		<MRd>345</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>12</Length>
+		<NRd>696</NRd>
+		<MRd>328</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>13</Length>
+		<NRd>603</NRd>
+		<MRd>312</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x107</Name>
+		<Weight>107</Weight>
+		<Length>14</Length>
+		<NRd>528</NRd>
+		<MRd>297</MRd>
+		<VRd>759</VRd>
+		<Inertia>17500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>1</Length>
+		<NRd>5800</NRd>
+		<MRd>645</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>1.5</Length>
+		<NRd>5540</NRd>
+		<MRd>645</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>2</Length>
+		<NRd>5250</NRd>
+		<MRd>645</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>2.5</Length>
+		<NRd>4950</NRd>
+		<MRd>645</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>3</Length>
+		<NRd>4630</NRd>
+		<MRd>645</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>3.5</Length>
+		<NRd>4290</NRd>
+		<MRd>638</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>4</Length>
+		<NRd>3940</NRd>
+		<MRd>626</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>5</Length>
+		<NRd>3250</NRd>
+		<MRd>603</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>6</Length>
+		<NRd>2640</NRd>
+		<MRd>580</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>7</Length>
+		<NRd>2140</NRd>
+		<MRd>558</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>8</Length>
+		<NRd>1750</NRd>
+		<MRd>536</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>9</Length>
+		<NRd>1440</NRd>
+		<MRd>514</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>10</Length>
+		<NRd>1210</NRd>
+		<MRd>494</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>11</Length>
+		<NRd>1030</NRd>
+		<MRd>474</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>12</Length>
+		<NRd>882</NRd>
+		<MRd>454</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>13</Length>
+		<NRd>764</NRd>
+		<MRd>436</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x132</Name>
+		<Weight>132</Weight>
+		<Length>14</Length>
+		<NRd>668</NRd>
+		<MRd>418</MRd>
+		<VRd>920</VRd>
+		<Inertia>22500</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>1</Length>
+		<NRd>7340</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>1.5</Length>
+		<NRd>7030</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>2</Length>
+		<NRd>6670</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>2.5</Length>
+		<NRd>6300</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>3</Length>
+		<NRd>5900</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>3.5</Length>
+		<NRd>5490</NRd>
+		<MRd>836</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>4</Length>
+		<NRd>5060</NRd>
+		<MRd>825</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>5</Length>
+		<NRd>4190</NRd>
+		<MRd>800</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>6</Length>
+		<NRd>3420</NRd>
+		<MRd>776</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>7</Length>
+		<NRd>2780</NRd>
+		<MRd>753</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>8</Length>
+		<NRd>2270</NRd>
+		<MRd>730</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>9</Length>
+		<NRd>1880</NRd>
+		<MRd>707</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>10</Length>
+		<NRd>1580</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>11</Length>
+		<NRd>1340</NRd>
+		<MRd>664</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>12</Length>
+		<NRd>1150</NRd>
+		<MRd>642</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>13</Length>
+		<NRd>999</NRd>
+		<MRd>621</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x167</Name>
+		<Weight>167</Weight>
+		<Length>14</Length>
+		<NRd>874</NRd>
+		<MRd>601</MRd>
+		<VRd>1170</VRd>
+		<Inertia>30000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>1</Length>
+		<NRd>3300</NRd>
+		<MRd>352</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>1.5</Length>
+		<NRd>3130</NRd>
+		<MRd>352</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>2</Length>
+		<NRd>2960</NRd>
+		<MRd>352</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>2.5</Length>
+		<NRd>2780</NRd>
+		<MRd>352</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>3</Length>
+		<NRd>2580</NRd>
+		<MRd>347</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>3.5</Length>
+		<NRd>2380</NRd>
+		<MRd>337</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>4</Length>
+		<NRd>2170</NRd>
+		<MRd>327</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>5</Length>
+		<NRd>1760</NRd>
+		<MRd>306</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>6</Length>
+		<NRd>1420</NRd>
+		<MRd>284</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>7</Length>
+		<NRd>1140</NRd>
+		<MRd>263</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>8</Length>
+		<NRd>925</NRd>
+		<MRd>243</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>9</Length>
+		<NRd>762</NRd>
+		<MRd>225</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>10</Length>
+		<NRd>637</NRd>
+		<MRd>209</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>11</Length>
+		<NRd>540</NRd>
+		<MRd>194</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>12</Length>
+		<NRd>463</NRd>
+		<MRd>181</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>13</Length>
+		<NRd>401</NRd>
+		<MRd>169</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x73</Name>
+		<Weight>73</Weight>
+		<Length>14</Length>
+		<NRd>350</NRd>
+		<MRd>158</MRd>
+		<VRd>525</VRd>
+		<Inertia>11400</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>1</Length>
+		<NRd>3910</NRd>
+		<MRd>422</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>1.5</Length>
+		<NRd>3720</NRd>
+		<MRd>422</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>2</Length>
+		<NRd>3520</NRd>
+		<MRd>422</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>2.5</Length>
+		<NRd>3310</NRd>
+		<MRd>422</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>3</Length>
+		<NRd>3090</NRd>
+		<MRd>420</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>3.5</Length>
+		<NRd>2860</NRd>
+		<MRd>409</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>4</Length>
+		<NRd>2620</NRd>
+		<MRd>399</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>5</Length>
+		<NRd>2140</NRd>
+		<MRd>378</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>6</Length>
+		<NRd>1730</NRd>
+		<MRd>356</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>7</Length>
+		<NRd>1400</NRd>
+		<MRd>336</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>8</Length>
+		<NRd>1140</NRd>
+		<MRd>315</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>9</Length>
+		<NRd>940</NRd>
+		<MRd>296</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>10</Length>
+		<NRd>787</NRd>
+		<MRd>278</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>11</Length>
+		<NRd>667</NRd>
+		<MRd>262</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>12</Length>
+		<NRd>572</NRd>
+		<MRd>247</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>13</Length>
+		<NRd>496</NRd>
+		<MRd>233</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 254x254x89</Name>
+		<Weight>89</Weight>
+		<Length>14</Length>
+		<NRd>434</NRd>
+		<MRd>220</MRd>
+		<VRd>613</VRd>
+		<Inertia>14300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>1</Length>
+		<NRd>5180</NRd>
+		<MRd>676</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>1.5</Length>
+		<NRd>5050</NRd>
+		<MRd>676</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>2</Length>
+		<NRd>4830</NRd>
+		<MRd>676</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>2.5</Length>
+		<NRd>4610</NRd>
+		<MRd>676</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>3</Length>
+		<NRd>4370</NRd>
+		<MRd>676</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>3.5</Length>
+		<NRd>4130</NRd>
+		<MRd>672</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>4</Length>
+		<NRd>3870</NRd>
+		<MRd>657</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>5</Length>
+		<NRd>3330</NRd>
+		<MRd>626</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>6</Length>
+		<NRd>2810</NRd>
+		<MRd>595</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>7</Length>
+		<NRd>2340</NRd>
+		<MRd>564</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>8</Length>
+		<NRd>1950</NRd>
+		<MRd>533</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>9</Length>
+		<NRd>1640</NRd>
+		<MRd>503</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>10</Length>
+		<NRd>1390</NRd>
+		<MRd>474</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>11</Length>
+		<NRd>1190</NRd>
+		<MRd>447</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>12</Length>
+		<NRd>1020</NRd>
+		<MRd>422</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>13</Length>
+		<NRd>890</NRd>
+		<MRd>399</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x118</Name>
+		<Weight>118</Weight>
+		<Length>14</Length>
+		<NRd>781</NRd>
+		<MRd>377</MRd>
+		<VRd>860</VRd>
+		<Inertia>27700</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>1</Length>
+		<NRd>6020</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>1.5</Length>
+		<NRd>5870</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>2</Length>
+		<NRd>5620</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>2.5</Length>
+		<NRd>5360</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>3</Length>
+		<NRd>5090</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>3.5</Length>
+		<NRd>4810</NRd>
+		<MRd>792</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>4</Length>
+		<NRd>4510</NRd>
+		<MRd>776</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>5</Length>
+		<NRd>3890</NRd>
+		<MRd>743</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>6</Length>
+		<NRd>3290</NRd>
+		<MRd>711</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>7</Length>
+		<NRd>2750</NRd>
+		<MRd>679</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>8</Length>
+		<NRd>2290</NRd>
+		<MRd>647</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>9</Length>
+		<NRd>1930</NRd>
+		<MRd>615</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>10</Length>
+		<NRd>1630</NRd>
+		<MRd>585</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>11</Length>
+		<NRd>1390</NRd>
+		<MRd>557</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>12</Length>
+		<NRd>1200</NRd>
+		<MRd>529</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>13</Length>
+		<NRd>1050</NRd>
+		<MRd>504</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x137</Name>
+		<Weight>137</Weight>
+		<Length>14</Length>
+		<NRd>920</NRd>
+		<MRd>480</MRd>
+		<VRd>992</VRd>
+		<Inertia>32800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>1</Length>
+		<NRd>6950</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>1.5</Length>
+		<NRd>6790</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>2</Length>
+		<NRd>6500</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>2.5</Length>
+		<NRd>6200</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>3</Length>
+		<NRd>5900</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>3.5</Length>
+		<NRd>5570</NRd>
+		<MRd>925</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>4</Length>
+		<NRd>5230</NRd>
+		<MRd>911</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>5</Length>
+		<NRd>4530</NRd>
+		<MRd>877</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>6</Length>
+		<NRd>3830</NRd>
+		<MRd>844</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>7</Length>
+		<NRd>3210</NRd>
+		<MRd>810</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>8</Length>
+		<NRd>2680</NRd>
+		<MRd>778</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>9</Length>
+		<NRd>2250</NRd>
+		<MRd>746</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>10</Length>
+		<NRd>1910</NRd>
+		<MRd>714</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>11</Length>
+		<NRd>1630</NRd>
+		<MRd>684</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>12</Length>
+		<NRd>1410</NRd>
+		<MRd>655</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>13</Length>
+		<NRd>1230</NRd>
+		<MRd>627</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x158</Name>
+		<Weight>158</Weight>
+		<Length>14</Length>
+		<NRd>1080</NRd>
+		<MRd>601</MRd>
+		<VRd>1140</VRd>
+		<Inertia>38800</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>1</Length>
+		<NRd>8710</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>1.5</Length>
+		<NRd>8530</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>2</Length>
+		<NRd>8170</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>2.5</Length>
+		<NRd>7810</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>3</Length>
+		<NRd>7430</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>3.5</Length>
+		<NRd>7030</NRd>
+		<MRd>1190</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>4</Length>
+		<NRd>6620</NRd>
+		<MRd>1180</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>5</Length>
+		<NRd>5750</NRd>
+		<MRd>1150</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>6</Length>
+		<NRd>4890</NRd>
+		<MRd>1110</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>7</Length>
+		<NRd>4110</NRd>
+		<MRd>1080</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>8</Length>
+		<NRd>3440</NRd>
+		<MRd>1040</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>9</Length>
+		<NRd>2900</NRd>
+		<MRd>1010</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>10</Length>
+		<NRd>2460</NRd>
+		<MRd>976</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>11</Length>
+		<NRd>2110</NRd>
+		<MRd>944</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>12</Length>
+		<NRd>1820</NRd>
+		<MRd>912</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>13</Length>
+		<NRd>1590</NRd>
+		<MRd>882</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x198</Name>
+		<Weight>198</Weight>
+		<Length>14</Length>
+		<NRd>1400</NRd>
+		<MRd>852</MRd>
+		<VRd>1400</VRd>
+		<Inertia>50900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>1</Length>
+		<NRd>10600</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>1.5</Length>
+		<NRd>10300</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>2</Length>
+		<NRd>9920</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>2.5</Length>
+		<NRd>9490</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>3</Length>
+		<NRd>9040</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>3.5</Length>
+		<NRd>8570</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>4</Length>
+		<NRd>8080</NRd>
+		<MRd>1460</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>5</Length>
+		<NRd>7040</NRd>
+		<MRd>1440</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>6</Length>
+		<NRd>6010</NRd>
+		<MRd>1400</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>7</Length>
+		<NRd>5060</NRd>
+		<MRd>1360</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>8</Length>
+		<NRd>4250</NRd>
+		<MRd>1330</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>9</Length>
+		<NRd>3590</NRd>
+		<MRd>1290</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>10</Length>
+		<NRd>3050</NRd>
+		<MRd>1260</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>11</Length>
+		<NRd>2610</NRd>
+		<MRd>1220</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>12</Length>
+		<NRd>2260</NRd>
+		<MRd>1190</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>13</Length>
+		<NRd>1970</NRd>
+		<MRd>1160</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x240</Name>
+		<Weight>240</Weight>
+		<Length>14</Length>
+		<NRd>1730</NRd>
+		<MRd>1130</MRd>
+		<VRd>1710</VRd>
+		<Inertia>64200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>1</Length>
+		<NRd>12800</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>1.5</Length>
+		<NRd>12600</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>2</Length>
+		<NRd>12000</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>2.5</Length>
+		<NRd>11500</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>3</Length>
+		<NRd>11000</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>3.5</Length>
+		<NRd>10400</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>4</Length>
+		<NRd>9800</NRd>
+		<MRd>1810</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>5</Length>
+		<NRd>8540</NRd>
+		<MRd>1790</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>6</Length>
+		<NRd>7290</NRd>
+		<MRd>1750</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>7</Length>
+		<NRd>6140</NRd>
+		<MRd>1710</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>8</Length>
+		<NRd>5160</NRd>
+		<MRd>1670</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>9</Length>
+		<NRd>4350</NRd>
+		<MRd>1630</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>10</Length>
+		<NRd>3700</NRd>
+		<MRd>1600</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>11</Length>
+		<NRd>3170</NRd>
+		<MRd>1560</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>12</Length>
+		<NRd>2740</NRd>
+		<MRd>1520</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>13</Length>
+		<NRd>2390</NRd>
+		<MRd>1490</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x283</Name>
+		<Weight>283</Weight>
+		<Length>14</Length>
+		<NRd>2100</NRd>
+		<MRd>1450</MRd>
+		<VRd>2080</VRd>
+		<Inertia>78900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>1</Length>
+		<NRd>4380</NRd>
+		<MRd>513</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>1.5</Length>
+		<NRd>4260</NRd>
+		<MRd>513</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>2</Length>
+		<NRd>4070</NRd>
+		<MRd>513</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>2.5</Length>
+		<NRd>3870</NRd>
+		<MRd>513</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>3</Length>
+		<NRd>3670</NRd>
+		<MRd>513</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>3.5</Length>
+		<NRd>3450</NRd>
+		<MRd>510</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>4</Length>
+		<NRd>3230</NRd>
+		<MRd>499</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>5</Length>
+		<NRd>2760</NRd>
+		<MRd>474</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>6</Length>
+		<NRd>2310</NRd>
+		<MRd>449</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>7</Length>
+		<NRd>1920</NRd>
+		<MRd>423</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>8</Length>
+		<NRd>1590</NRd>
+		<MRd>397</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>9</Length>
+		<NRd>1330</NRd>
+		<MRd>372</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>10</Length>
+		<NRd>1130</NRd>
+		<MRd>348</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>11</Length>
+		<NRd>962</NRd>
+		<MRd>325</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>12</Length>
+		<NRd>829</NRd>
+		<MRd>305</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>13</Length>
+		<NRd>721</NRd>
+		<MRd>286</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 305x305x97</Name>
+		<Weight>97</Weight>
+		<Length>14</Length>
+		<NRd>632</NRd>
+		<MRd>269</MRd>
+		<VRd>729</VRd>
+		<Inertia>22200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>1</Length>
+		<NRd>5670</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>1.5</Length>
+		<NRd>5650</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>2</Length>
+		<NRd>5460</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>2.5</Length>
+		<NRd>5260</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>3</Length>
+		<NRd>5060</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>3.5</Length>
+		<NRd>4840</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>4</Length>
+		<NRd>4630</NRd>
+		<MRd>781</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>5</Length>
+		<NRd>4160</NRd>
+		<MRd>757</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>6</Length>
+		<NRd>3680</NRd>
+		<MRd>726</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>7</Length>
+		<NRd>3200</NRd>
+		<MRd>695</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>8</Length>
+		<NRd>2760</NRd>
+		<MRd>662</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>9</Length>
+		<NRd>2380</NRd>
+		<MRd>629</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>10</Length>
+		<NRd>2050</NRd>
+		<MRd>596</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>11</Length>
+		<NRd>1770</NRd>
+		<MRd>564</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>12</Length>
+		<NRd>1540</NRd>
+		<MRd>534</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>13</Length>
+		<NRd>1360</NRd>
+		<MRd>505</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x129</Name>
+		<Weight>129</Weight>
+		<Length>14</Length>
+		<NRd>1200</NRd>
+		<MRd>478</MRd>
+		<VRd>845</VRd>
+		<Inertia>40200</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>1</Length>
+		<NRd>6720</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>1.5</Length>
+		<NRd>6710</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>2</Length>
+		<NRd>6480</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>2.5</Length>
+		<NRd>6240</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>3</Length>
+		<NRd>6000</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>3.5</Length>
+		<NRd>5760</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>4</Length>
+		<NRd>5500</NRd>
+		<MRd>1020</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>5</Length>
+		<NRd>4950</NRd>
+		<MRd>987</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>6</Length>
+		<NRd>4380</NRd>
+		<MRd>948</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>7</Length>
+		<NRd>3820</NRd>
+		<MRd>908</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>8</Length>
+		<NRd>3300</NRd>
+		<MRd>866</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>9</Length>
+		<NRd>2840</NRd>
+		<MRd>825</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>10</Length>
+		<NRd>2450</NRd>
+		<MRd>785</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>11</Length>
+		<NRd>2120</NRd>
+		<MRd>746</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>12</Length>
+		<NRd>1850</NRd>
+		<MRd>708</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>13</Length>
+		<NRd>1620</NRd>
+		<MRd>673</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x153</Name>
+		<Weight>153</Weight>
+		<Length>14</Length>
+		<NRd>1440</NRd>
+		<MRd>640</MRd>
+		<VRd>1000</VRd>
+		<Inertia>48600</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>1</Length>
+		<NRd>7780</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>1.5</Length>
+		<NRd>7770</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>2</Length>
+		<NRd>7500</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>2.5</Length>
+		<NRd>7230</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>3</Length>
+		<NRd>6960</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>3.5</Length>
+		<NRd>6670</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>4</Length>
+		<NRd>6380</NRd>
+		<MRd>1190</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>5</Length>
+		<NRd>5750</NRd>
+		<MRd>1160</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>6</Length>
+		<NRd>5100</NRd>
+		<MRd>1120</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>7</Length>
+		<NRd>4440</NRd>
+		<MRd>1070</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>8</Length>
+		<NRd>3840</NRd>
+		<MRd>1030</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>9</Length>
+		<NRd>3310</NRd>
+		<MRd>989</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>10</Length>
+		<NRd>2860</NRd>
+		<MRd>947</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>11</Length>
+		<NRd>2480</NRd>
+		<MRd>906</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>12</Length>
+		<NRd>2160</NRd>
+		<MRd>867</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>13</Length>
+		<NRd>1900</NRd>
+		<MRd>829</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x177</Name>
+		<Weight>177</Weight>
+		<Length>14</Length>
+		<NRd>1680</NRd>
+		<MRd>793</MRd>
+		<VRd>1170</VRd>
+		<Inertia>57100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>1</Length>
+		<NRd>8870</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>1.5</Length>
+		<NRd>8870</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>2</Length>
+		<NRd>8560</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>2.5</Length>
+		<NRd>8260</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>3</Length>
+		<NRd>7950</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>3.5</Length>
+		<NRd>7630</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>4</Length>
+		<NRd>7290</NRd>
+		<MRd>1370</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>5</Length>
+		<NRd>6580</NRd>
+		<MRd>1340</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>6</Length>
+		<NRd>5840</NRd>
+		<MRd>1300</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>7</Length>
+		<NRd>5100</NRd>
+		<MRd>1250</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>8</Length>
+		<NRd>4420</NRd>
+		<MRd>1210</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>9</Length>
+		<NRd>3810</NRd>
+		<MRd>1160</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>10</Length>
+		<NRd>3290</NRd>
+		<MRd>1120</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>11</Length>
+		<NRd>2850</NRd>
+		<MRd>1080</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>12</Length>
+		<NRd>2490</NRd>
+		<MRd>1040</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>13</Length>
+		<NRd>2190</NRd>
+		<MRd>999</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x368x202</Name>
+		<Weight>202</Weight>
+		<Length>14</Length>
+		<NRd>1930</NRd>
+		<MRd>961</MRd>
+		<VRd>1340</VRd>
+		<Inertia>66300</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>1</Length>
+		<NRd>49200</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>1.5</Length>
+		<NRd>49200</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>2</Length>
+		<NRd>48700</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>2.5</Length>
+		<NRd>47300</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>3</Length>
+		<NRd>45900</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>3.5</Length>
+		<NRd>44500</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>4</Length>
+		<NRd>43100</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>5</Length>
+		<NRd>40100</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>6</Length>
+		<NRd>36900</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>7</Length>
+		<NRd>33500</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>8</Length>
+		<NRd>30100</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>9</Length>
+		<NRd>26900</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>10</Length>
+		<NRd>23800</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>11</Length>
+		<NRd>21100</NRd>
+		<MRd>9660</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>12</Length>
+		<NRd>18700</NRd>
+		<MRd>9590</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>13</Length>
+		<NRd>16600</NRd>
+		<MRd>9520</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1086</Name>
+		<Weight>1086</Weight>
+		<Length>14</Length>
+		<NRd>14900</NRd>
+		<MRd>9450</MRd>
+		<VRd>7910</VRd>
+		<Inertia>596000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>1</Length>
+		<NRd>54300</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>1.5</Length>
+		<NRd>54300</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>2</Length>
+		<NRd>53900</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>2.5</Length>
+		<NRd>52500</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>3</Length>
+		<NRd>51000</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>3.5</Length>
+		<NRd>49500</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>4</Length>
+		<NRd>47900</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>5</Length>
+		<NRd>44700</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>6</Length>
+		<NRd>41300</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>7</Length>
+		<NRd>37700</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>8</Length>
+		<NRd>34000</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>9</Length>
+		<NRd>30500</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>10</Length>
+		<NRd>27200</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>11</Length>
+		<NRd>24100</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>12</Length>
+		<NRd>21500</NRd>
+		<MRd>10660</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>13</Length>
+		<NRd>19100</NRd>
+		<MRd>10600</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1202</Name>
+		<Weight>1202</Weight>
+		<Length>14</Length>
+		<NRd>17100</NRd>
+		<MRd>10520</MRd>
+		<VRd>9620</VRd>
+		<Inertia>664000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>1</Length>
+		<NRd>58700</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>1.5</Length>
+		<NRd>58700</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>2</Length>
+		<NRd>58400</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>2.5</Length>
+		<NRd>56800</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>3</Length>
+		<NRd>55300</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>3.5</Length>
+		<NRd>53700</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>4</Length>
+		<NRd>52000</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>5</Length>
+		<NRd>48600</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>6</Length>
+		<NRd>45000</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>7</Length>
+		<NRd>41200</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>8</Length>
+		<NRd>37300</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>9</Length>
+		<NRd>33500</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>10</Length>
+		<NRd>29900</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>11</Length>
+		<NRd>26600</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>12</Length>
+		<NRd>23700</NRd>
+		<MRd>11800</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>13</Length>
+		<NRd>21100</NRd>
+		<MRd>11790</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x1299</Name>
+		<Weight>1299</Weight>
+		<Length>14</Length>
+		<NRd>18900</NRd>
+		<MRd>11720</MRd>
+		<VRd>10400</VRd>
+		<Inertia>755000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>1</Length>
+		<NRd>10300</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>1.5</Length>
+		<NRd>10300</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>2</Length>
+		<NRd>10000</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>2.5</Length>
+		<NRd>9700</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>3</Length>
+		<NRd>9370</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>3.5</Length>
+		<NRd>9020</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>4</Length>
+		<NRd>8660</NRd>
+		<MRd>1620</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>5</Length>
+		<NRd>7900</NRd>
+		<MRd>1600</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>6</Length>
+		<NRd>7100</NRd>
+		<MRd>1560</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>7</Length>
+		<NRd>6280</NRd>
+		<MRd>1510</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>8</Length>
+		<NRd>5500</NRd>
+		<MRd>1470</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>9</Length>
+		<NRd>4790</NRd>
+		<MRd>1420</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>10</Length>
+		<NRd>4170</NRd>
+		<MRd>1380</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>11</Length>
+		<NRd>3640</NRd>
+		<MRd>1340</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>12</Length>
+		<NRd>3180</NRd>
+		<MRd>1290</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>13</Length>
+		<NRd>2800</NRd>
+		<MRd>1250</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x235</Name>
+		<Weight>235</Weight>
+		<Length>14</Length>
+		<NRd>2480</NRd>
+		<MRd>1210</MRd>
+		<VRd>1500</VRd>
+		<Inertia>79100</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>1</Length>
+		<NRd>12600</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>1.5</Length>
+		<NRd>12600</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>2</Length>
+		<NRd>12300</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>2.5</Length>
+		<NRd>11900</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>3</Length>
+		<NRd>11500</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>3.5</Length>
+		<NRd>11100</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>4</Length>
+		<NRd>10600</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>5</Length>
+		<NRd>9700</NRd>
+		<MRd>2000</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>6</Length>
+		<NRd>8720</NRd>
+		<MRd>1950</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>7</Length>
+		<NRd>7730</NRd>
+		<MRd>1910</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>8</Length>
+		<NRd>6780</NRd>
+		<MRd>1860</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>9</Length>
+		<NRd>5910</NRd>
+		<MRd>1820</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>10</Length>
+		<NRd>5150</NRd>
+		<MRd>1770</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>11</Length>
+		<NRd>4500</NRd>
+		<MRd>1730</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>12</Length>
+		<NRd>3940</NRd>
+		<MRd>1680</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>13</Length>
+		<NRd>3480</NRd>
+		<MRd>1640</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x287</Name>
+		<Weight>287</Weight>
+		<Length>14</Length>
+		<NRd>3080</NRd>
+		<MRd>1600</MRd>
+		<VRd>1870</VRd>
+		<Inertia>99900</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>1</Length>
+		<NRd>15400</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>1.5</Length>
+		<NRd>15400</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>2</Length>
+		<NRd>15000</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>2.5</Length>
+		<NRd>14500</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>3</Length>
+		<NRd>14000</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>3.5</Length>
+		<NRd>13500</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>4</Length>
+		<NRd>12900</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>5</Length>
+		<NRd>11800</NRd>
+		<MRd>2480</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>6</Length>
+		<NRd>10600</NRd>
+		<MRd>2440</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>7</Length>
+		<NRd>9400</NRd>
+		<MRd>2390</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>8</Length>
+		<NRd>8240</NRd>
+		<MRd>2340</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>9</Length>
+		<NRd>7180</NRd>
+		<MRd>2290</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>10</Length>
+		<NRd>6250</NRd>
+		<MRd>2240</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>11</Length>
+		<NRd>5460</NRd>
+		<MRd>2190</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>12</Length>
+		<NRd>4780</NRd>
+		<MRd>2140</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>13</Length>
+		<NRd>4220</NRd>
+		<MRd>2100</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x340</Name>
+		<Weight>340</Weight>
+		<Length>14</Length>
+		<NRd>3740</NRd>
+		<MRd>2050</MRd>
+		<VRd>2290</VRd>
+		<Inertia>122000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>1</Length>
+		<NRd>17800</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>1.5</Length>
+		<NRd>17800</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>2</Length>
+		<NRd>17300</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>2.5</Length>
+		<NRd>16800</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>3</Length>
+		<NRd>16200</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>3.5</Length>
+		<NRd>15600</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>4</Length>
+		<NRd>15000</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>5</Length>
+		<NRd>13700</NRd>
+		<MRd>2920</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>6</Length>
+		<NRd>12400</NRd>
+		<MRd>2900</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>7</Length>
+		<NRd>11000</NRd>
+		<MRd>2840</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>8</Length>
+		<NRd>9640</NRd>
+		<MRd>2790</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>9</Length>
+		<NRd>8420</NRd>
+		<MRd>2740</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>10</Length>
+		<NRd>7340</NRd>
+		<MRd>2680</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>11</Length>
+		<NRd>6420</NRd>
+		<MRd>2640</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>12</Length>
+		<NRd>5630</NRd>
+		<MRd>2590</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>13</Length>
+		<NRd>4960</NRd>
+		<MRd>2540</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x393</Name>
+		<Weight>393</Weight>
+		<Length>14</Length>
+		<NRd>4400</NRd>
+		<MRd>2490</MRd>
+		<VRd>2670</VRd>
+		<Inertia>147000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>1</Length>
+		<NRd>21100</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>1.5</Length>
+		<NRd>21100</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>2</Length>
+		<NRd>20600</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>2.5</Length>
+		<NRd>20000</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>3</Length>
+		<NRd>19300</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>3.5</Length>
+		<NRd>18600</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>4</Length>
+		<NRd>17900</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>5</Length>
+		<NRd>16400</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>6</Length>
+		<NRd>14800</NRd>
+		<MRd>3550</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>7</Length>
+		<NRd>13200</NRd>
+		<MRd>3500</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>8</Length>
+		<NRd>11600</NRd>
+		<MRd>3440</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>9</Length>
+		<NRd>10200</NRd>
+		<MRd>3390</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>10</Length>
+		<NRd>8910</NRd>
+		<MRd>3340</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>11</Length>
+		<NRd>7800</NRd>
+		<MRd>3280</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>12</Length>
+		<NRd>6850</NRd>
+		<MRd>3230</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>13</Length>
+		<NRd>6040</NRd>
+		<MRd>3180</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x467</Name>
+		<Weight>467</Weight>
+		<Length>14</Length>
+		<NRd>5360</NRd>
+		<MRd>3130</MRd>
+		<VRd>3180</VRd>
+		<Inertia>183000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>1</Length>
+		<NRd>23000</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>1.5</Length>
+		<NRd>23000</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>2</Length>
+		<NRd>22500</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>2.5</Length>
+		<NRd>21800</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>3</Length>
+		<NRd>21100</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>3.5</Length>
+		<NRd>20400</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>4</Length>
+		<NRd>19600</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>5</Length>
+		<NRd>18000</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>6</Length>
+		<NRd>16300</NRd>
+		<MRd>3920</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>7</Length>
+		<NRd>14500</NRd>
+		<MRd>3880</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>8</Length>
+		<NRd>12800</NRd>
+		<MRd>3830</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>9</Length>
+		<NRd>11200</NRd>
+		<MRd>3770</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>10</Length>
+		<NRd>9840</NRd>
+		<MRd>3720</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>11</Length>
+		<NRd>8620</NRd>
+		<MRd>3660</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>12</Length>
+		<NRd>7580</NRd>
+		<MRd>3610</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>13</Length>
+		<NRd>6690</NRd>
+		<MRd>3560</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x509</Name>
+		<Weight>509</Weight>
+		<Length>14</Length>
+		<NRd>5940</NRd>
+		<MRd>3510</MRd>
+		<VRd>3500</VRd>
+		<Inertia>204000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>1</Length>
+		<NRd>24900</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>1.5</Length>
+		<NRd>24900</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>2</Length>
+		<NRd>24400</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>2.5</Length>
+		<NRd>23600</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>3</Length>
+		<NRd>22900</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>3.5</Length>
+		<NRd>22100</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>4</Length>
+		<NRd>21200</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>5</Length>
+		<NRd>19500</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>6</Length>
+		<NRd>17700</NRd>
+		<MRd>4290</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>7</Length>
+		<NRd>15800</NRd>
+		<MRd>4280</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>8</Length>
+		<NRd>14000</NRd>
+		<MRd>4220</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>9</Length>
+		<NRd>12300</NRd>
+		<MRd>4160</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>10</Length>
+		<NRd>10700</NRd>
+		<MRd>4100</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>11</Length>
+		<NRd>9410</NRd>
+		<MRd>4050</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>12</Length>
+		<NRd>8280</NRd>
+		<MRd>3990</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>13</Length>
+		<NRd>7310</NRd>
+		<MRd>3940</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x551</Name>
+		<Weight>551</Weight>
+		<Length>14</Length>
+		<NRd>6490</NRd>
+		<MRd>3890</MRd>
+		<VRd>3810</VRd>
+		<Inertia>227000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>1</Length>
+		<NRd>26800</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>1.5</Length>
+		<NRd>26800</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>2</Length>
+		<NRd>26300</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>2.5</Length>
+		<NRd>25400</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>3</Length>
+		<NRd>24600</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>3.5</Length>
+		<NRd>23800</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>4</Length>
+		<NRd>22900</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>5</Length>
+		<NRd>21100</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>6</Length>
+		<NRd>19100</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>7</Length>
+		<NRd>17100</NRd>
+		<MRd>4660</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>8</Length>
+		<NRd>15100</NRd>
+		<MRd>4610</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>9</Length>
+		<NRd>13300</NRd>
+		<MRd>4550</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>10</Length>
+		<NRd>11700</NRd>
+		<MRd>4500</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>11</Length>
+		<NRd>10200</NRd>
+		<MRd>4440</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>12</Length>
+		<NRd>9000</NRd>
+		<MRd>4380</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>13</Length>
+		<NRd>7950</NRd>
+		<MRd>4330</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x592</Name>
+		<Weight>592</Weight>
+		<Length>14</Length>
+		<NRd>7060</NRd>
+		<MRd>4270</MRd>
+		<VRd>4110</VRd>
+		<Inertia>250000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>1</Length>
+		<NRd>28700</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>1.5</Length>
+		<NRd>28700</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>2</Length>
+		<NRd>28100</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>2.5</Length>
+		<NRd>27300</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>3</Length>
+		<NRd>26400</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>3.5</Length>
+		<NRd>25500</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>4</Length>
+		<NRd>24600</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>5</Length>
+		<NRd>22600</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>6</Length>
+		<NRd>20500</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>7</Length>
+		<NRd>18400</NRd>
+		<MRd>5060</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>8</Length>
+		<NRd>16300</NRd>
+		<MRd>5020</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>9</Length>
+		<NRd>14400</NRd>
+		<MRd>4960</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>10</Length>
+		<NRd>12600</NRd>
+		<MRd>4900</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>11</Length>
+		<NRd>11100</NRd>
+		<MRd>4840</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>12</Length>
+		<NRd>9750</NRd>
+		<MRd>4790</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>13</Length>
+		<NRd>8620</NRd>
+		<MRd>4730</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x634</Name>
+		<Weight>634</Weight>
+		<Length>14</Length>
+		<NRd>7660</NRd>
+		<MRd>4670</MRd>
+		<VRd>4400</VRd>
+		<Inertia>275000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>1</Length>
+		<NRd>30700</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>1.5</Length>
+		<NRd>30700</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>2</Length>
+		<NRd>30100</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>2.5</Length>
+		<NRd>29200</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>3</Length>
+		<NRd>28300</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>3.5</Length>
+		<NRd>27300</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>4</Length>
+		<NRd>26300</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>5</Length>
+		<NRd>24300</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>6</Length>
+		<NRd>22100</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>7</Length>
+		<NRd>19800</NRd>
+		<MRd>5450</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>8</Length>
+		<NRd>17600</NRd>
+		<MRd>5440</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>9</Length>
+		<NRd>15500</NRd>
+		<MRd>5380</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>10</Length>
+		<NRd>13700</NRd>
+		<MRd>5320</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>11</Length>
+		<NRd>12000</NRd>
+		<MRd>5260</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>12</Length>
+		<NRd>10600</NRd>
+		<MRd>5200</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>13</Length>
+		<NRd>9360</NRd>
+		<MRd>5140</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x677</Name>
+		<Weight>677</Weight>
+		<Length>14</Length>
+		<NRd>8320</NRd>
+		<MRd>5080</MRd>
+		<VRd>4750</VRd>
+		<Inertia>300000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>1</Length>
+		<NRd>33700</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>1.5</Length>
+		<NRd>33700</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>2</Length>
+		<NRd>33100</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>2.5</Length>
+		<NRd>32100</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>3</Length>
+		<NRd>31100</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>3.5</Length>
+		<NRd>30100</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>4</Length>
+		<NRd>29000</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>5</Length>
+		<NRd>26800</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>6</Length>
+		<NRd>24400</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>7</Length>
+		<NRd>22000</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>8</Length>
+		<NRd>19600</NRd>
+		<MRd>6100</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>9</Length>
+		<NRd>17300</NRd>
+		<MRd>6060</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>10</Length>
+		<NRd>15200</NRd>
+		<MRd>5990</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>11</Length>
+		<NRd>13400</NRd>
+		<MRd>5930</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>12</Length>
+		<NRd>11800</NRd>
+		<MRd>5870</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>13</Length>
+		<NRd>10500</NRd>
+		<MRd>5810</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x744</Name>
+		<Weight>744</Weight>
+		<Length>14</Length>
+		<NRd>9300</NRd>
+		<MRd>5750</MRd>
+		<VRd>5250</VRd>
+		<Inertia>342000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>1</Length>
+		<NRd>37000</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>1.5</Length>
+		<NRd>37000</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>2</Length>
+		<NRd>36500</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>2.5</Length>
+		<NRd>35400</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>3</Length>
+		<NRd>34300</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>3.5</Length>
+		<NRd>33200</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>4</Length>
+		<NRd>32100</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>5</Length>
+		<NRd>29700</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>6</Length>
+		<NRd>27100</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>7</Length>
+		<NRd>24400</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>8</Length>
+		<NRd>21800</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>9</Length>
+		<NRd>19300</NRd>
+		<MRd>6840</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>10</Length>
+		<NRd>17000</NRd>
+		<MRd>6770</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>11</Length>
+		<NRd>15000</NRd>
+		<MRd>6700</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>12</Length>
+		<NRd>13200</NRd>
+		<MRd>6640</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>13</Length>
+		<NRd>11700</NRd>
+		<MRd>6580</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x818</Name>
+		<Weight>818</Weight>
+		<Length>14</Length>
+		<NRd>10400</NRd>
+		<MRd>6520</MRd>
+		<VRd>5810</VRd>
+		<Inertia>392000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>1</Length>
+		<NRd>40800</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>1.5</Length>
+		<NRd>40800</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>2</Length>
+		<NRd>40200</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>2.5</Length>
+		<NRd>39100</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>3</Length>
+		<NRd>37900</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>3.5</Length>
+		<NRd>36700</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>4</Length>
+		<NRd>35400</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>5</Length>
+		<NRd>32800</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>6</Length>
+		<NRd>30100</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>7</Length>
+		<NRd>27200</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>8</Length>
+		<NRd>24300</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>9</Length>
+		<NRd>21600</NRd>
+		<MRd>7680</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>10</Length>
+		<NRd>19000</NRd>
+		<MRd>7650</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>11</Length>
+		<NRd>16800</NRd>
+		<MRd>7580</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>12</Length>
+		<NRd>14900</NRd>
+		<MRd>7520</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>13</Length>
+		<NRd>13200</NRd>
+		<MRd>7450</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x900</Name>
+		<Weight>900</Weight>
+		<Length>14</Length>
+		<NRd>11800</NRd>
+		<MRd>7390</MRd>
+		<VRd>6430</VRd>
+		<Inertia>450000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>1</Length>
+		<NRd>44800</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>1.5</Length>
+		<NRd>44800</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>2</Length>
+		<NRd>44300</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>2.5</Length>
+		<NRd>43000</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>3</Length>
+		<NRd>41700</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>3.5</Length>
+		<NRd>40400</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>4</Length>
+		<NRd>39100</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>5</Length>
+		<NRd>36300</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>6</Length>
+		<NRd>33300</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>7</Length>
+		<NRd>30200</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>8</Length>
+		<NRd>27100</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>9</Length>
+		<NRd>24100</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>10</Length>
+		<NRd>21300</NRd>
+		<MRd>8620</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>11</Length>
+		<NRd>18800</NRd>
+		<MRd>8570</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>12</Length>
+		<NRd>16700</NRd>
+		<MRd>8500</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>13</Length>
+		<NRd>14800</NRd>
+		<MRd>8430</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>UC 356x406x990</Name>
+		<Weight>990</Weight>
+		<Length>14</Length>
+		<NRd>13200</NRd>
+		<MRd>8360</MRd>
+		<VRd>7160</VRd>
+		<Inertia>519000</Inertia>
+	</Beaminfo>
+	</Root>
