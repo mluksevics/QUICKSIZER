@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>1</Length>
+		<NRd>27.2466654959467</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>1</Length>
+		<NRd>80.1331555674631</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>1</Length>
+		<NRd>148.766747240209</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>1</Length>
+		<NRd>236.313002761999</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>1</Length>
+		<NRd>343.376313502145</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>1</Length>
+		<NRd>470.107629115143</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>1</Length>
+		<NRd>616.563168484591</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>1</Length>
+		<NRd>782.76922687254</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>1</Length>
+		<NRd>968.739995625324</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>1</Length>
+		<NRd>1174.48391578855</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>1</Length>
+		<NRd>1400.00637211082</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>1</Length>
+		<NRd>1645.31098541166</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>1</Length>
+		<NRd>1910.40029240858</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>1</Length>
+		<NRd>2195.27612974306</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>1</Length>
+		<NRd>2499.93986355749</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>1.5</Length>
+		<NRd>13.8200987614441</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>1.5</Length>
+		<NRd>61.30499736588</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>1.5</Length>
+		<NRd>137.34551929996</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>1.5</Length>
+		<NRd>227.26232649058</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>1.5</Length>
+		<NRd>334.72518129047</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>1.5</Length>
+		<NRd>461.195145339789</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>1.5</Length>
+		<NRd>607.098088154012</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>1.5</Length>
+		<NRd>772.596705379826</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>1.5</Length>
+		<NRd>957.76684043824</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>1.5</Length>
+		<NRd>1162.64902424967</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>1.5</Length>
+		<NRd>1387.26712909033</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>1.5</Length>
+		<NRd>1631.63626431793</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>1.5</Length>
+		<NRd>1895.76653337262</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>1.5</Length>
+		<NRd>2179.66499015698</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>1.5</Length>
+		<NRd>2483.33673310389</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>2</Length>
+		<NRd>7.98408825837598</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>2</Length>
+		<NRd>38.60621516599</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>2</Length>
+		<NRd>108.986661983787</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>2</Length>
+		<NRd>208.248097769377</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>2</Length>
+		<NRd>320.532622269852</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>2</Length>
+		<NRd>448.698005099172</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>2</Length>
+		<NRd>595.066988960836</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>2</Length>
+		<NRd>760.472110364083</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>2</Length>
+		<NRd>945.252011047996</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>2</Length>
+		<NRd>1149.56762667751</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>2</Length>
+		<NRd>1373.50525400858</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>2</Length>
+		<NRd>1617.11557761086</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>2</Length>
+		<NRd>1880.43051646057</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>2</Length>
+		<NRd>2163.4712993514</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>2</Length>
+		<NRd>2466.25267393837</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>2.5</Length>
+		<NRd>5.17069792937613</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>2.5</Length>
+		<NRd>25.4937720098054</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>2.5</Length>
+		<NRd>76.958403126325</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>2.5</Length>
+		<NRd>170.291659349667</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>2.5</Length>
+		<NRd>292.669888499997</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>2.5</Length>
+		<NRd>428.022923082193</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>2.5</Length>
+		<NRd>577.671565591069</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>2.5</Length>
+		<NRd>744.495226963319</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>2.5</Length>
+		<NRd>929.792170251307</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>2.5</Length>
+		<NRd>1134.13804543545</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>2.5</Length>
+		<NRd>1357.81633613591</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>2.5</Length>
+		<NRd>1600.98131720444</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>2.5</Length>
+		<NRd>1863.7240654758</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>2.5</Length>
+		<NRd>2146.10195938841</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>2.5</Length>
+		<NRd>2448.15308646848</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>3</Length>
+		<NRd>3.61576419507114</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>3</Length>
+		<NRd>17.964198581346</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>3</Length>
+		<NRd>55.2803950457764</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>3</Length>
+		<NRd>128.996145210406</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>3</Length>
+		<NRd>245.21998946352</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>3</Length>
+		<NRd>390.588308846633</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>3</Length>
+		<NRd>549.382077199842</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>3</Length>
+		<NRd>721.198400107168</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>3</Length>
+		<NRd>909.04930596232</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>3</Length>
+		<NRd>1114.66666299959</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>3</Length>
+		<NRd>1338.90072516188</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>3</Length>
+		<NRd>1582.19050605809</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>3</Length>
+		<NRd>1844.78058135915</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>3</Length>
+		<NRd>2126.81702485799</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>3</Length>
+		<NRd>2428.39235261605</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>3.5</Length>
+		<NRd>2.66885072495847</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>3.5</Length>
+		<NRd>13.3130633949443</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>3.5</Length>
+		<NRd>41.2955395014174</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>3.5</Length>
+		<NRd>98.1391142553681</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>3.5</Length>
+		<NRd>194.733310588498</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>3.5</Length>
+		<NRd>333.771652325347</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>3.5</Length>
+		<NRd>502.020668390978</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>3.5</Length>
+		<NRd>684.407312144616</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>3.5</Length>
+		<NRd>878.93572461622</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>3.5</Length>
+		<NRd>1088.36266248308</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>3.5</Length>
+		<NRd>1314.74601474425</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>3.5</Length>
+		<NRd>1559.21677370951</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>3.5</Length>
+		<NRd>1822.39265369256</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>3.5</Length>
+		<NRd>2104.628290331</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>3.5</Length>
+		<NRd>2406.1390655917</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>4</Length>
+		<NRd>2.05022296249018</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>4</Length>
+		<NRd>10.2526209250335</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>4</Length>
+		<NRd>31.9363530335039</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>4</Length>
+		<NRd>76.5131917794903</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>4</Length>
+		<NRd>154.42486066396</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>4</Length>
+		<NRd>274.160623904119</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>4</Length>
+		<NRd>435.946647935147</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>4</Length>
+		<NRd>626.989798067775</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>4</Length>
+		<NRd>832.992391077509</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>4</Length>
+		<NRd>1050.63190796738</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>4</Length>
+		<NRd>1282.13048907941</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>4</Length>
+		<NRd>1529.7217999121</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>4</Length>
+		<NRd>1794.79202039669</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>4</Length>
+		<NRd>2078.14752904791</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>4</Length>
+		<NRd>2380.26795584335</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>5</Length>
+		<NRd>1.31817664886319</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>5</Length>
+		<NRd>6.61134051196901</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>5</Length>
+		<NRd>20.6827917175045</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>5</Length>
+		<NRd>49.9005516148499</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>5</Length>
+		<NRd>101.975088039222</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>5</Length>
+		<NRd>185.339315543992</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>5</Length>
+		<NRd>307.8336125053</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>5</Length>
+		<NRd>474.037160469574</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>5</Length>
+		<NRd>681.166637398667</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>5</Length>
+		<NRd>917.612382033453</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>5</Length>
+		<NRd>1170.67955399999</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>5</Length>
+		<NRd>1435.24912973462</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>5</Length>
+		<NRd>1712.09169232877</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>5</Length>
+		<NRd>2003.32888918658</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>5</Length>
+		<NRd>2310.68626236428</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>6</Length>
+		<NRd>0.918158812333577</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>6</Length>
+		<NRd>4.6130016656029</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>6</Length>
+		<NRd>14.4630567802846</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>6</Length>
+		<NRd>35.0016993156398</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>6</Length>
+		<NRd>71.8567943253838</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>6</Length>
+		<NRd>131.548470560862</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>6</Length>
+		<NRd>221.121580183106</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>6</Length>
+		<NRd>347.45593649391</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>6</Length>
+		<NRd>515.984580841624</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>6</Length>
+		<NRd>728.546872407216</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>6</Length>
+		<NRd>980.87995785408</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>6</Length>
+		<NRd>1262.5639173471</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>6</Length>
+		<NRd>1562.35323538653</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>6</Length>
+		<NRd>1874.2328799244</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>6</Length>
+		<NRd>2197.52830879937</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>7</Length>
+		<NRd>0.676008366142285</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>7</Length>
+		<NRd>3.40030705125605</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>7</Length>
+		<NRd>10.6754028998339</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>7</Length>
+		<NRd>25.8797057289711</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>7</Length>
+		<NRd>53.2522535797774</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>7</Length>
+		<NRd>97.8050811651058</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>7</Length>
+		<NRd>165.18215800567</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>7</Length>
+		<NRd>261.422947338583</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>7</Length>
+		<NRd>392.556457021472</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>7</Length>
+		<NRd>563.903815121091</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>7</Length>
+		<NRd>778.93324235399</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>7</Length>
+		<NRd>1037.64050711388</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>7</Length>
+		<NRd>1335.08660930139</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>7</Length>
+		<NRd>1661.90543366639</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>7</Length>
+		<NRd>2008.08267356391</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>8</Length>
+		<NRd>0.518397548580196</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>8</Length>
+		<NRd>2.60969734992921</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>8</Length>
+		<NRd>8.2008918499607</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>8</Length>
+		<NRd>19.9029218889141</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>8</Length>
+		<NRd>41.0104837001339</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>8</Length>
+		<NRd>75.4565334915015</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>8</Length>
+		<NRd>127.745412134016</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>8</Length>
+		<NRd>202.850474192024</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>8</Length>
+		<NRd>306.052767117961</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>8</Length>
+		<NRd>442.68206300314</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>8</Length>
+		<NRd>617.69944265584</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>8</Length>
+		<NRd>835.038943598626</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>8</Length>
+		<NRd>1096.64249561648</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>8</Length>
+		<NRd>1401.28845439434</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>8</Length>
+		<NRd>1743.78659174059</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>9</Length>
+		<NRd>0.410108167404078</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>9</Length>
+		<NRd>2.06585732775055</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>9</Length>
+		<NRd>6.49634477848785</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>9</Length>
+		<NRd>15.7784145294769</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>9</Length>
+		<NRd>32.5418777556403</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>9</Length>
+		<NRd>59.9428268258452</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>9</Length>
+		<NRd>101.627040644117</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>9</Length>
+		<NRd>161.677787232114</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>9</Length>
+		<NRd>244.539159281658</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>9</Length>
+		<NRd>354.90099103873</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>9</Length>
+		<NRd>497.523555411988</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>9</Length>
+		<NRd>676.969178509008</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>9</Length>
+		<NRd>897.195775764079</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>9</Length>
+		<NRd>1160.96530689365</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>9</Length>
+		<NRd>1469.0623368244</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>10</Length>
+		<NRd>0.332518910013924</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>10</Length>
+		<NRd>1.67584988143523</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>10</Length>
+		<NRd>5.27270659545276</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>10</Length>
+		<NRd>12.8138935155636</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>10</Length>
+		<NRd>26.445362047876</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>10</Length>
+		<NRd>48.7511411114128</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>10</Length>
+		<NRd>82.731166870018</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>10</Length>
+		<NRd>131.77137805618</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>10</Length>
+		<NRd>199.6022064594</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>10</Length>
+		<NRd>290.239670799777</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>10</Length>
+		<NRd>407.900352156886</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>10</Length>
+		<NRd>556.877208734252</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>10</Length>
+		<NRd>741.357262175967</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>10</Length>
+		<NRd>965.155379149751</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>10</Length>
+		<NRd>1231.3344500212</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>11</Length>
+		<NRd>0.275033572581232</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>11</Length>
+		<NRd>1.38669354451669</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>11</Length>
+		<NRd>4.36478096562357</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>11</Length>
+		<NRd>10.6122541021555</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>11</Length>
+		<NRd>21.9126872453289</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>11</Length>
+		<NRd>40.4186317773425</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>11</Length>
+		<NRd>68.6371381882671</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>11</Length>
+		<NRd>109.411086479715</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>11</Length>
+		<NRd>165.894433054551</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>11</Length>
+		<NRd>241.518669815873</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>11</Length>
+		<NRd>339.946583242924</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>11</Length>
+		<NRd>465.007633811736</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>11</Length>
+		<NRd>620.606765304032</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>11</Length>
+		<NRd>810.595093007297</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>11</Length>
+		<NRd>1038.58698152934</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>12</Length>
+		<NRd>0.23126221505586</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>12</Length>
+		<NRd>1.16639448430544</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>12</Length>
+		<NRd>3.67263524933431</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>12</Length>
+		<NRd>8.93269084214874</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>12</Length>
+		<NRd>18.4520066624116</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>12</Length>
+		<NRd>34.0504353473586</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>12</Length>
+		<NRd>57.8522271211383</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>12</Length>
+		<NRd>92.2735883253013</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>12</Length>
+		<NRd>140.006797262559</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>12</Length>
+		<NRd>203.999489388801</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>12</Length>
+		<NRd>287.427177301535</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>12</Length>
+		<NRd>393.656286861576</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>12</Length>
+		<NRd>526.193882243449</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>12</Length>
+		<NRd>688.618726015413</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>12</Length>
+		<NRd>884.486320732423</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>13</Length>
+		<NRd>0.197165724894873</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>13</Length>
+		<NRd>0.994707521861322</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>13</Length>
+		<NRd>3.13295056284983</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>13</Length>
+		<NRd>7.62236302542029</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>13</Length>
+		<NRd>15.7504057807951</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>13</Length>
+		<NRd>29.0753368269757</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>13</Length>
+		<NRd>49.4189761355731</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>13</Length>
+		<NRd>78.8579821590043</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>13</Length>
+		<NRd>119.713059941922</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>13</Length>
+		<NRd>174.535331896841</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>13</Length>
+		<NRd>246.088834596592</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>13</Length>
+		<NRd>337.327728916385</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>13</Length>
+		<NRd>451.366287411103</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>13</Length>
+		<NRd>591.439003883193</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>13</Length>
+		<NRd>760.847205624296</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 50x50</Name>
+		<Weight>1.125</Weight>
+		<Length>14</Length>
+		<NRd>0.17008949699709</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 75x75</Name>
+		<Weight>2.53125</Weight>
+		<Length>14</Length>
+		<NRd>0.858315482112346</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 100x100</Name>
+		<Weight>4.5</Weight>
+		<Length>14</Length>
+		<NRd>2.70403346456914</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 125x125</Name>
+		<Weight>7.03125</Weight>
+		<Length>14</Length>
+		<NRd>6.58050073353727</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 150x150</Name>
+		<Weight>10.125</Weight>
+		<Length>14</Length>
+		<NRd>13.6012282050242</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 175x175</Name>
+		<Weight>13.78125</Weight>
+		<Length>14</Length>
+		<NRd>25.1152312905047</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 200x200</Name>
+		<Weight>18</Weight>
+		<Length>14</Length>
+		<NRd>42.7016115993356</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 225x225</Name>
+		<Weight>22.78125</Weight>
+		<Length>14</Length>
+		<NRd>68.1631878049785</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 250x250</Name>
+		<Weight>28.125</Weight>
+		<Length>14</Length>
+		<NRd>103.518822915884</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 275x275</Name>
+		<Weight>34.03125</Weight>
+		<Length>14</Length>
+		<NRd>150.993994497574</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 300x300</Name>
+		<Weight>40.5</Weight>
+		<Length>14</Length>
+		<NRd>213.00901431911</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 325x325</Name>
+		<Weight>47.53125</Weight>
+		<Length>14</Length>
+		<NRd>292.164110925244</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 350x350</Name>
+		<Weight>55.125</Weight>
+		<Length>14</Length>
+		<NRd>391.220324660423</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 375x375</Name>
+		<Weight>63.28125</Weight>
+		<Length>14</Length>
+		<NRd>513.074806490879</NRd>
+	</Beaminfo>
+	<Beaminfo>
+		<Name>GL28h 400x400</Name>
+		<Weight>72</Weight>
+		<Length>14</Length>
+		<NRd>660.728632022679</NRd>
+	</Beaminfo>
+</Root>

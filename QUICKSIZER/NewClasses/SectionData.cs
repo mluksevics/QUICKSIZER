@@ -33,7 +33,7 @@ namespace QUICKSIZER
 
         public string AxialOutput()
         {
-            return N_utilisation * 100 + "% " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m N.Rd=" + NRd + "kN";
+            return N_utilisation * 100 + "% " + Name + " | " + Math.Round(Weight,1) + "kg L.eff=" + EffectiveLength + "m N.Rd=" + Math.Round(NRd,1) + "kN";
 
             //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }
@@ -41,7 +41,7 @@ namespace QUICKSIZER
 
         public string BendingOutput()
         {
-            return Total_utilisation * 100 + "% (" + Governing + ") " + Name + " | " + Weight + "kg u=" + uDeflection + "mm  L.eff=" + EffectiveLength + "m M.Rd=" + MRd + "kNm V.Rd="+ VRd + "kN";
+            return Total_utilisation * 100 + "% (" + Governing + ") " + Name + " | " + Math.Round(Weight, 1) + "kg u=" + uDeflection + "mm  L.eff=" + EffectiveLength + "m M.Rd=" + Math.Round(MRd, 1) + "kNm V.Rd="+ Math.Round(VRd, 1) + "kN";
 
             //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }

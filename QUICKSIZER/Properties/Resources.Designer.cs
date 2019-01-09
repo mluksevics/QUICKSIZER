@@ -268,6 +268,36 @@ namespace QUICKSIZER.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Quick_sizer16x16 {
+            get {
+                object obj = ResourceManager.GetObject("Quick_sizer16x16", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Quick_sizer24x24 {
+            get {
+                object obj = ResourceManager.GetObject("Quick_sizer24x24", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Quick_sizer32x32 {
+            get {
+                object obj = ResourceManager.GetObject("Quick_sizer32x32", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
         ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
         ///	&lt;Beaminfo&gt;
@@ -324,6 +354,121 @@ namespace QUICKSIZER.Properties {
         internal static string SHS_NRd {
             get {
                 return ResourceManager.GetString("SHS_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C16 50x50&lt;/Name&gt;
+        ///		&lt;Weight&gt;0.925&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;13.608303440845&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C16 75x75&lt;/Name&gt;
+        ///		&lt;Weight&gt;2.08125&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;47.6859682065281&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C16 100x100&lt;/Name&gt;
+        ///		&lt;Weight&gt;3.7&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;95.2908460763429&lt;/NRd&gt;
+        ///	&lt;/Beaminfo [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TimberC16_NRd {
+            get {
+                return ResourceManager.GetString("TimberC16_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C24 50x50&lt;/Name&gt;
+        ///		&lt;Weight&gt;1.05&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;18.1549253143023&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C24 75x75&lt;/Name&gt;
+        ///		&lt;Weight&gt;2.3625&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;60.6762107677629&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;C24 100x100&lt;/Name&gt;
+        ///		&lt;Weight&gt;4.2&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;119.182717755812&lt;/NRd&gt;
+        ///	&lt;/Beamin [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TimberC24_NRd {
+            get {
+                return ResourceManager.GetString("TimberC24_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL24h 50x50&lt;/Name&gt;
+        ///		&lt;Weight&gt;1.05&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;24.6254677488396&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL24h 75x75&lt;/Name&gt;
+        ///		&lt;Weight&gt;2.3625&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;70.5310655356626&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL24h 100x100&lt;/Name&gt;
+        ///		&lt;Weight&gt;4.2&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;130.480445530267&lt;/NRd&gt;
+        ///	&lt;/ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TimberGL24h_NRd {
+            get {
+                return ResourceManager.GetString("TimberGL24h_NRd", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+        ///&lt;Root xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;&gt;
+        ///	
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL28h 50x50&lt;/Name&gt;
+        ///		&lt;Weight&gt;1.125&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;27.2466654959467&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL28h 75x75&lt;/Name&gt;
+        ///		&lt;Weight&gt;2.53125&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;80.1331555674631&lt;/NRd&gt;
+        ///	&lt;/Beaminfo&gt;
+        ///	&lt;Beaminfo&gt;
+        ///		&lt;Name&gt;GL28h 100x100&lt;/Name&gt;
+        ///		&lt;Weight&gt;4.5&lt;/Weight&gt;
+        ///		&lt;Length&gt;1&lt;/Length&gt;
+        ///		&lt;NRd&gt;148.766747240209&lt;/NRd&gt;
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string TimberGL28h_NRd {
+            get {
+                return ResourceManager.GetString("TimberGL28h_NRd", resourceCulture);
             }
         }
         

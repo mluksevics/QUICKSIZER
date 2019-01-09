@@ -15,6 +15,13 @@ namespace QUICKSIZER
         public AboutForm()
         {
             InitializeComponent();
+            this.Icon = Properties.Resources.Quick_sizer16x16;
+
+        }
+
+        private void AboutForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
