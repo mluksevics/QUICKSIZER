@@ -146,7 +146,7 @@ namespace QUICKSIZER
 
                 // calculating deflection
                 //UDL as kN/m, Inertia as cm4, results in milimeters
-                double deflection = 1000 * (((5 / 384) * UDL_SLS * Math.Pow(BeamSpan,4)) / (2.1 * Inertia));
+                double deflection = Math.Round( 1000 * ((5* UDL_SLS * Math.Pow(BeamSpan,4)) / (384 * 2.1 * Inertia)),1);
 
                 // calculating utilisations
                 double momentUtilisation = Math.Round(BendingMoment / MRd,2);

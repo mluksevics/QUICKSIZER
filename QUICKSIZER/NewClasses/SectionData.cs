@@ -41,7 +41,7 @@ namespace QUICKSIZER
 
         public string BendingOutput()
         {
-            return Total_utilisation * 100 + "% (" + Governing + ") " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m u.defl=" + uDeflection + "mm M.Rd=" + MRd + "kNm V.Rd="+ VRd;
+            return Total_utilisation * 100 + "% (" + Governing + ") " + Name + " | " + Weight + "kg L.eff=" + EffectiveLength + "m u=" + uDeflection + "mm M.Rd=" + MRd + "kNm V.Rd="+ VRd + "kN";
 
             //100% UB456x456x056 L.eff=5m N.Rd=34000kN
         }

@@ -1,1737 +1,2605 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>1</Length>
-		<Resistance>1960</Resistance>
+		<NRd>1960</NRd>
+		<MRd>145</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>1.5</Length>
-		<Resistance>1820</Resistance>
+		<NRd>1820</NRd>
+		<MRd>145</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>2</Length>
-		<Resistance>1680</Resistance>
+		<NRd>1680</NRd>
+		<MRd>145</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>2.5</Length>
-		<Resistance>1520</Resistance>
+		<NRd>1520</NRd>
+		<MRd>143</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>3</Length>
-		<Resistance>1350</Resistance>
+		<NRd>1350</NRd>
+		<MRd>138</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>3.5</Length>
-		<Resistance>1180</Resistance>
+		<NRd>1180</NRd>
+		<MRd>133</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>4</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>128</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>5</Length>
-		<Resistance>764</Resistance>
+		<NRd>764</NRd>
+		<MRd>117</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>6</Length>
-		<Resistance>579</Resistance>
+		<NRd>579</NRd>
+		<MRd>107</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>7</Length>
-		<Resistance>450</Resistance>
+		<NRd>450</NRd>
+		<MRd>97.1</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>8</Length>
-		<Resistance>358</Resistance>
+		<NRd>358</NRd>
+		<MRd>88.5</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>9</Length>
-		<Resistance>291</Resistance>
+		<NRd>291</NRd>
+		<MRd>81</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>10</Length>
-		<Resistance>240</Resistance>
+		<NRd>240</NRd>
+		<MRd>74.4</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>11</Length>
-		<Resistance>202</Resistance>
+		<NRd>202</NRd>
+		<MRd>68.6</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>12</Length>
-		<Resistance>172</Resistance>
+		<NRd>172</NRd>
+		<MRd>63.6</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>13</Length>
-		<Resistance>148</Resistance>
+		<NRd>148</NRd>
+		<MRd>59.3</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 45</Name>
+		<Name>UBP 203x203x45</Name>
 		<Weight>45</Weight>
 		<Length>14</Length>
-		<Resistance>129</Resistance>
+		<NRd>129</NRd>
+		<MRd>55.7</MRd>
+		<VRd>429</VRd>
+		<Inertia>4100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>1</Length>
-		<Resistance>2360</Resistance>
+		<NRd>2360</NRd>
+		<MRd>198</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>1.5</Length>
-		<Resistance>2200</Resistance>
+		<NRd>2200</NRd>
+		<MRd>198</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>2</Length>
-		<Resistance>2020</Resistance>
+		<NRd>2020</NRd>
+		<MRd>198</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>2.5</Length>
-		<Resistance>1830</Resistance>
+		<NRd>1830</NRd>
+		<MRd>194</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>3</Length>
-		<Resistance>1630</Resistance>
+		<NRd>1630</NRd>
+		<MRd>187</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>3.5</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>180</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>4</Length>
-		<Resistance>1250</Resistance>
+		<NRd>1250</NRd>
+		<MRd>173</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>5</Length>
-		<Resistance>934</Resistance>
+		<NRd>934</NRd>
+		<MRd>159</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>6</Length>
-		<Resistance>709</Resistance>
+		<NRd>709</NRd>
+		<MRd>146</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>7</Length>
-		<Resistance>551</Resistance>
+		<NRd>551</NRd>
+		<MRd>134</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>8</Length>
-		<Resistance>439</Resistance>
+		<NRd>439</NRd>
+		<MRd>123</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>9</Length>
-		<Resistance>357</Resistance>
+		<NRd>357</NRd>
+		<MRd>113</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>10</Length>
-		<Resistance>295</Resistance>
+		<NRd>295</NRd>
+		<MRd>104</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>11</Length>
-		<Resistance>248</Resistance>
+		<NRd>248</NRd>
+		<MRd>96.6</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>12</Length>
-		<Resistance>211</Resistance>
+		<NRd>211</NRd>
+		<MRd>89.8</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>13</Length>
-		<Resistance>182</Resistance>
+		<NRd>182</NRd>
+		<MRd>83.8</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 203 x 203 x 54</Name>
+		<Name>UBP 203x203x54</Name>
 		<Weight>54</Weight>
 		<Length>14</Length>
-		<Resistance>159</Resistance>
+		<NRd>159</NRd>
+		<MRd>78.9</MRd>
+		<VRd>512</VRd>
+		<Inertia>5030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>1</Length>
-		<Resistance>2830</Resistance>
+		<NRd>2830</NRd>
+		<MRd>255</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>1.5</Length>
-		<Resistance>2670</Resistance>
+		<NRd>2670</NRd>
+		<MRd>255</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>2</Length>
-		<Resistance>2510</Resistance>
+		<NRd>2510</NRd>
+		<MRd>255</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>2.5</Length>
-		<Resistance>2350</Resistance>
+		<NRd>2350</NRd>
+		<MRd>255</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>3</Length>
-		<Resistance>2170</Resistance>
+		<NRd>2170</NRd>
+		<MRd>251</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>3.5</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>244</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>4</Length>
-		<Resistance>1790</Resistance>
+		<NRd>1790</NRd>
+		<MRd>237</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>5</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>221</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>6</Length>
-		<Resistance>1130</Resistance>
+		<NRd>1130</NRd>
+		<MRd>205</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>7</Length>
-		<Resistance>900</Resistance>
+		<NRd>900</NRd>
+		<MRd>189</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>8</Length>
-		<Resistance>728</Resistance>
+		<NRd>728</NRd>
+		<MRd>173</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>9</Length>
-		<Resistance>598</Resistance>
+		<NRd>598</NRd>
+		<MRd>160</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>10</Length>
-		<Resistance>499</Resistance>
+		<NRd>499</NRd>
+		<MRd>147</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>11</Length>
-		<Resistance>422</Resistance>
+		<NRd>422</NRd>
+		<MRd>136</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>12</Length>
-		<Resistance>361</Resistance>
+		<NRd>361</NRd>
+		<MRd>126</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>13</Length>
-		<Resistance>312</Resistance>
+		<NRd>312</NRd>
+		<MRd>118</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 63</Name>
+		<Name>UBP 254x254x63</Name>
 		<Weight>63</Weight>
 		<Length>14</Length>
-		<Resistance>273</Resistance>
+		<NRd>273</NRd>
+		<MRd>110</MRd>
+		<VRd>597</VRd>
+		<Inertia>8860</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>1</Length>
-		<Resistance>3190</Resistance>
+		<NRd>3190</NRd>
+		<MRd>286</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>1.5</Length>
-		<Resistance>3020</Resistance>
+		<NRd>3020</NRd>
+		<MRd>286</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>2</Length>
-		<Resistance>2840</Resistance>
+		<NRd>2840</NRd>
+		<MRd>286</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>2.5</Length>
-		<Resistance>2650</Resistance>
+		<NRd>2650</NRd>
+		<MRd>286</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>3</Length>
-		<Resistance>2450</Resistance>
+		<NRd>2450</NRd>
+		<MRd>284</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>3.5</Length>
-		<Resistance>2240</Resistance>
+		<NRd>2240</NRd>
+		<MRd>276</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>4</Length>
-		<Resistance>2030</Resistance>
+		<NRd>2030</NRd>
+		<MRd>268</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>5</Length>
-		<Resistance>1620</Resistance>
+		<NRd>1620</NRd>
+		<MRd>252</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>6</Length>
-		<Resistance>1280</Resistance>
+		<NRd>1280</NRd>
+		<MRd>236</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>7</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>219</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>8</Length>
-		<Resistance>829</Resistance>
+		<NRd>829</NRd>
+		<MRd>204</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>9</Length>
-		<Resistance>682</Resistance>
+		<NRd>682</NRd>
+		<MRd>189</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>10</Length>
-		<Resistance>569</Resistance>
+		<NRd>569</NRd>
+		<MRd>176</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>11</Length>
-		<Resistance>481</Resistance>
+		<NRd>481</NRd>
+		<MRd>164</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>12</Length>
-		<Resistance>411</Resistance>
+		<NRd>411</NRd>
+		<MRd>153</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>13</Length>
-		<Resistance>356</Resistance>
+		<NRd>356</NRd>
+		<MRd>143</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 71</Name>
+		<Name>UBP 254x254x71</Name>
 		<Weight>71</Weight>
 		<Length>14</Length>
-		<Resistance>311</Resistance>
+		<NRd>311</NRd>
+		<MRd>135</MRd>
+		<VRd>676</VRd>
+		<Inertia>10100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>1</Length>
-		<Resistance>3830</Resistance>
+		<NRd>3830</NRd>
+		<MRd>388</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>1.5</Length>
-		<Resistance>3620</Resistance>
+		<NRd>3620</NRd>
+		<MRd>388</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>2</Length>
-		<Resistance>3410</Resistance>
+		<NRd>3410</NRd>
+		<MRd>388</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>2.5</Length>
-		<Resistance>3190</Resistance>
+		<NRd>3190</NRd>
+		<MRd>388</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>3</Length>
-		<Resistance>2960</Resistance>
+		<NRd>2960</NRd>
+		<MRd>383</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>3.5</Length>
-		<Resistance>2710</Resistance>
+		<NRd>2710</NRd>
+		<MRd>372</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>4</Length>
-		<Resistance>2450</Resistance>
+		<NRd>2450</NRd>
+		<MRd>362</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>5</Length>
-		<Resistance>1970</Resistance>
+		<NRd>1970</NRd>
+		<MRd>341</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>6</Length>
-		<Resistance>1560</Resistance>
+		<NRd>1560</NRd>
+		<MRd>319</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>7</Length>
-		<Resistance>1250</Resistance>
+		<NRd>1250</NRd>
+		<MRd>298</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>8</Length>
-		<Resistance>1010</Resistance>
+		<NRd>1010</NRd>
+		<MRd>278</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>9</Length>
-		<Resistance>833</Resistance>
+		<NRd>833</NRd>
+		<MRd>260</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>10</Length>
-		<Resistance>695</Resistance>
+		<NRd>695</NRd>
+		<MRd>243</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>11</Length>
-		<Resistance>588</Resistance>
+		<NRd>588</NRd>
+		<MRd>227</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>12</Length>
-		<Resistance>504</Resistance>
+		<NRd>504</NRd>
+		<MRd>213</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>13</Length>
-		<Resistance>436</Resistance>
+		<NRd>436</NRd>
+		<MRd>200</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 254 x 254 x 85</Name>
+		<Name>UBP 254x254x85</Name>
 		<Weight>85</Weight>
 		<Length>14</Length>
-		<Resistance>381</Resistance>
+		<NRd>381</NRd>
+		<MRd>189</MRd>
+		<VRd>812</VRd>
+		<Inertia>12300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>1</Length>
-		<Resistance>4970</Resistance>
+		<NRd>4970</NRd>
+		<MRd>544</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>1.5</Length>
-		<Resistance>4810</Resistance>
+		<NRd>4810</NRd>
+		<MRd>544</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>2</Length>
-		<Resistance>4590</Resistance>
+		<NRd>4590</NRd>
+		<MRd>544</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>2.5</Length>
-		<Resistance>4350</Resistance>
+		<NRd>4350</NRd>
+		<MRd>544</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>3</Length>
-		<Resistance>4110</Resistance>
+		<NRd>4110</NRd>
+		<MRd>544</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>3.5</Length>
-		<Resistance>3860</Resistance>
+		<NRd>3860</NRd>
+		<MRd>542</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>4</Length>
-		<Resistance>3590</Resistance>
+		<NRd>3590</NRd>
+		<MRd>530</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>5</Length>
-		<Resistance>3040</Resistance>
+		<NRd>3040</NRd>
+		<MRd>506</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>6</Length>
-		<Resistance>2520</Resistance>
+		<NRd>2520</NRd>
+		<MRd>481</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>7</Length>
-		<Resistance>2080</Resistance>
+		<NRd>2080</NRd>
+		<MRd>456</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>8</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>431</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>9</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>407</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>10</Length>
-		<Resistance>1210</Resistance>
+		<NRd>1210</NRd>
+		<MRd>383</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>11</Length>
-		<Resistance>1030</Resistance>
+		<NRd>1030</NRd>
+		<MRd>361</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>12</Length>
-		<Resistance>884</Resistance>
+		<NRd>884</NRd>
+		<MRd>341</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>13</Length>
-		<Resistance>768</Resistance>
+		<NRd>768</NRd>
+		<MRd>322</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 110</Name>
+		<Name>UBP 305x305x110</Name>
 		<Weight>110</Weight>
 		<Length>14</Length>
-		<Resistance>673</Resistance>
+		<NRd>673</NRd>
+		<MRd>305</MRd>
+		<VRd>1050</VRd>
+		<Inertia>23600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>1</Length>
-		<Resistance>5540</Resistance>
+		<NRd>5540</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>1.5</Length>
-		<Resistance>5380</Resistance>
+		<NRd>5380</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>2</Length>
-		<Resistance>5130</Resistance>
+		<NRd>5130</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>2.5</Length>
-		<Resistance>4880</Resistance>
+		<NRd>4880</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>3</Length>
-		<Resistance>4620</Resistance>
+		<NRd>4620</NRd>
+		<MRd>685</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>3.5</Length>
-		<Resistance>4340</Resistance>
+		<NRd>4340</NRd>
+		<MRd>681</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>4</Length>
-		<Resistance>4050</Resistance>
+		<NRd>4050</NRd>
+		<MRd>666</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>5</Length>
-		<Resistance>3460</Resistance>
+		<NRd>3460</NRd>
+		<MRd>636</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>6</Length>
-		<Resistance>2880</Resistance>
+		<NRd>2880</NRd>
+		<MRd>606</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>7</Length>
-		<Resistance>2390</Resistance>
+		<NRd>2390</NRd>
+		<MRd>575</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>8</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>545</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>9</Length>
-		<Resistance>1660</Resistance>
+		<NRd>1660</NRd>
+		<MRd>515</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>10</Length>
-		<Resistance>1400</Resistance>
+		<NRd>1400</NRd>
+		<MRd>487</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>11</Length>
-		<Resistance>1190</Resistance>
+		<NRd>1190</NRd>
+		<MRd>461</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>12</Length>
-		<Resistance>1030</Resistance>
+		<NRd>1030</NRd>
+		<MRd>436</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>13</Length>
-		<Resistance>893</Resistance>
+		<NRd>893</NRd>
+		<MRd>413</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 126</Name>
+		<Name>UBP 305x305x126</Name>
 		<Weight>126</Weight>
 		<Length>14</Length>
-		<Resistance>783</Resistance>
+		<NRd>783</NRd>
+		<MRd>391</MRd>
+		<VRd>1170</VRd>
+		<Inertia>27400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>1</Length>
-		<Resistance>6550</Resistance>
+		<NRd>6550</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>1.5</Length>
-		<Resistance>6370</Resistance>
+		<NRd>6370</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>2</Length>
-		<Resistance>6080</Resistance>
+		<NRd>6080</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>2.5</Length>
-		<Resistance>5790</Resistance>
+		<NRd>5790</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>3</Length>
-		<Resistance>5480</Resistance>
+		<NRd>5480</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>3.5</Length>
-		<Resistance>5160</Resistance>
+		<NRd>5160</NRd>
+		<MRd>818</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>4</Length>
-		<Resistance>4820</Resistance>
+		<NRd>4820</NRd>
+		<MRd>802</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>5</Length>
-		<Resistance>4130</Resistance>
+		<NRd>4130</NRd>
+		<MRd>770</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>6</Length>
-		<Resistance>3460</Resistance>
+		<NRd>3460</NRd>
+		<MRd>738</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>7</Length>
-		<Resistance>2870</Resistance>
+		<NRd>2870</NRd>
+		<MRd>707</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>8</Length>
-		<Resistance>2380</Resistance>
+		<NRd>2380</NRd>
+		<MRd>676</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>9</Length>
-		<Resistance>1990</Resistance>
+		<NRd>1990</NRd>
+		<MRd>646</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>10</Length>
-		<Resistance>1680</Resistance>
+		<NRd>1680</NRd>
+		<MRd>616</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>11</Length>
-		<Resistance>1440</Resistance>
+		<NRd>1440</NRd>
+		<MRd>588</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>12</Length>
-		<Resistance>1240</Resistance>
+		<NRd>1240</NRd>
+		<MRd>561</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>13</Length>
-		<Resistance>1080</Resistance>
+		<NRd>1080</NRd>
+		<MRd>536</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 149</Name>
+		<Name>UBP 305x305x149</Name>
 		<Weight>149</Weight>
 		<Length>14</Length>
-		<Resistance>945</Resistance>
+		<NRd>945</NRd>
+		<MRd>512</MRd>
+		<VRd>1390</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>1</Length>
-		<Resistance>8170</Resistance>
+		<NRd>8170</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>1.5</Length>
-		<Resistance>7960</Resistance>
+		<NRd>7960</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>2</Length>
-		<Resistance>7620</Resistance>
+		<NRd>7620</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>2.5</Length>
-		<Resistance>7260</Resistance>
+		<NRd>7260</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>3</Length>
-		<Resistance>6890</Resistance>
+		<NRd>6890</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>3.5</Length>
-		<Resistance>6500</Resistance>
+		<NRd>6500</NRd>
+		<MRd>1040</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>4</Length>
-		<Resistance>6080</Resistance>
+		<NRd>6080</NRd>
+		<MRd>1030</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>5</Length>
-		<Resistance>5230</Resistance>
+		<NRd>5230</NRd>
+		<MRd>994</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>6</Length>
-		<Resistance>4410</Resistance>
+		<NRd>4410</NRd>
+		<MRd>961</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>7</Length>
-		<Resistance>3670</Resistance>
+		<NRd>3670</NRd>
+		<MRd>928</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>8</Length>
-		<Resistance>3060</Resistance>
+		<NRd>3060</NRd>
+		<MRd>897</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>9</Length>
-		<Resistance>2560</Resistance>
+		<NRd>2560</NRd>
+		<MRd>865</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>10</Length>
-		<Resistance>2170</Resistance>
+		<NRd>2170</NRd>
+		<MRd>835</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>11</Length>
-		<Resistance>1850</Resistance>
+		<NRd>1850</NRd>
+		<MRd>805</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>12</Length>
-		<Resistance>1600</Resistance>
+		<NRd>1600</NRd>
+		<MRd>776</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>13</Length>
-		<Resistance>1390</Resistance>
+		<NRd>1390</NRd>
+		<MRd>748</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 186</Name>
+		<Name>UBP 305x305x186</Name>
 		<Weight>186</Weight>
 		<Length>14</Length>
-		<Resistance>1220</Resistance>
+		<NRd>1220</NRd>
+		<MRd>720</MRd>
+		<VRd>1730</VRd>
+		<Inertia>42600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>1</Length>
-		<Resistance>9800</Resistance>
+		<NRd>9800</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>1.5</Length>
-		<Resistance>9570</Resistance>
+		<NRd>9570</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>2</Length>
-		<Resistance>9160</Resistance>
+		<NRd>9160</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>2.5</Length>
-		<Resistance>8740</Resistance>
+		<NRd>8740</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>3</Length>
-		<Resistance>8300</Resistance>
+		<NRd>8300</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>3.5</Length>
-		<Resistance>7850</Resistance>
+		<NRd>7850</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>4</Length>
-		<Resistance>7370</Resistance>
+		<NRd>7370</NRd>
+		<MRd>1260</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>5</Length>
-		<Resistance>6370</Resistance>
+		<NRd>6370</NRd>
+		<MRd>1230</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>6</Length>
-		<Resistance>5380</Resistance>
+		<NRd>5380</NRd>
+		<MRd>1190</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>7</Length>
-		<Resistance>4500</Resistance>
+		<NRd>4500</NRd>
+		<MRd>1160</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>8</Length>
-		<Resistance>3760</Resistance>
+		<NRd>3760</NRd>
+		<MRd>1130</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>9</Length>
-		<Resistance>3160</Resistance>
+		<NRd>3160</NRd>
+		<MRd>1100</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>10</Length>
-		<Resistance>2680</Resistance>
+		<NRd>2680</NRd>
+		<MRd>1060</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>11</Length>
-		<Resistance>2290</Resistance>
+		<NRd>2290</NRd>
+		<MRd>1030</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>12</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>1000</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>13</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>972</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 223</Name>
+		<Name>UBP 305x305x223</Name>
 		<Weight>223</Weight>
 		<Length>14</Length>
-		<Resistance>1510</Resistance>
+		<NRd>1510</NRd>
+		<MRd>943</MRd>
+		<VRd>2080</VRd>
+		<Inertia>52700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>1</Length>
-		<Resistance>3500</Resistance>
+		<NRd>3500</NRd>
+		<MRd>381</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>1.5</Length>
-		<Resistance>3380</Resistance>
+		<NRd>3380</NRd>
+		<MRd>381</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>2</Length>
-		<Resistance>3220</Resistance>
+		<NRd>3220</NRd>
+		<MRd>381</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>2.5</Length>
-		<Resistance>3050</Resistance>
+		<NRd>3050</NRd>
+		<MRd>381</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>3</Length>
-		<Resistance>2880</Resistance>
+		<NRd>2880</NRd>
+		<MRd>381</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>3.5</Length>
-		<Resistance>2700</Resistance>
+		<NRd>2700</NRd>
+		<MRd>377</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>4</Length>
-		<Resistance>2510</Resistance>
+		<NRd>2510</NRd>
+		<MRd>368</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>5</Length>
-		<Resistance>2120</Resistance>
+		<NRd>2120</NRd>
+		<MRd>348</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>6</Length>
-		<Resistance>1750</Resistance>
+		<NRd>1750</NRd>
+		<MRd>326</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>7</Length>
-		<Resistance>1440</Resistance>
+		<NRd>1440</NRd>
+		<MRd>303</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>8</Length>
-		<Resistance>1190</Resistance>
+		<NRd>1190</NRd>
+		<MRd>281</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>9</Length>
-		<Resistance>992</Resistance>
+		<NRd>992</NRd>
+		<MRd>259</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>10</Length>
-		<Resistance>835</Resistance>
+		<NRd>835</NRd>
+		<MRd>239</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>11</Length>
-		<Resistance>711</Resistance>
+		<NRd>711</NRd>
+		<MRd>221</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>12</Length>
-		<Resistance>612</Resistance>
+		<NRd>612</NRd>
+		<MRd>205</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>13</Length>
-		<Resistance>532</Resistance>
+		<NRd>532</NRd>
+		<MRd>191</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 79*</Name>
+		<Name>UBP 305x305x79</Name>
 		<Weight>79</Weight>
 		<Length>14</Length>
-		<Resistance>466</Resistance>
+		<NRd>466</NRd>
+		<MRd>178</MRd>
+		<VRd>760</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>1</Length>
-		<Resistance>3980</Resistance>
+		<NRd>3980</NRd>
+		<MRd>433</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>1.5</Length>
-		<Resistance>3840</Resistance>
+		<NRd>3840</NRd>
+		<MRd>433</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>2</Length>
-		<Resistance>3660</Resistance>
+		<NRd>3660</NRd>
+		<MRd>433</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>2.5</Length>
-		<Resistance>3470</Resistance>
+		<NRd>3470</NRd>
+		<MRd>433</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>3</Length>
-		<Resistance>3270</Resistance>
+		<NRd>3270</NRd>
+		<MRd>433</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>3.5</Length>
-		<Resistance>3060</Resistance>
+		<NRd>3060</NRd>
+		<MRd>429</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>4</Length>
-		<Resistance>2840</Resistance>
+		<NRd>2840</NRd>
+		<MRd>419</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>5</Length>
-		<Resistance>2400</Resistance>
+		<NRd>2400</NRd>
+		<MRd>397</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>6</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>373</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>7</Length>
-		<Resistance>1630</Resistance>
+		<NRd>1630</NRd>
+		<MRd>349</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>8</Length>
-		<Resistance>1340</Resistance>
+		<NRd>1340</NRd>
+		<MRd>325</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>9</Length>
-		<Resistance>1120</Resistance>
+		<NRd>1120</NRd>
+		<MRd>302</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>10</Length>
-		<Resistance>941</Resistance>
+		<NRd>941</NRd>
+		<MRd>281</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>11</Length>
-		<Resistance>801</Resistance>
+		<NRd>801</NRd>
+		<MRd>261</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>12</Length>
-		<Resistance>689</Resistance>
+		<NRd>689</NRd>
+		<MRd>243</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>13</Length>
-		<Resistance>599</Resistance>
+		<NRd>599</NRd>
+		<MRd>227</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 88</Name>
+		<Name>UBP 305x305x88</Name>
 		<Weight>88</Weight>
 		<Length>14</Length>
-		<Resistance>525</Resistance>
+		<NRd>525</NRd>
+		<MRd>212</MRd>
+		<VRd>854</VRd>
+		<Inertia>18400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>1</Length>
-		<Resistance>4290</Resistance>
+		<NRd>4290</NRd>
+		<MRd>469</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>1.5</Length>
-		<Resistance>4150</Resistance>
+		<NRd>4150</NRd>
+		<MRd>469</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>2</Length>
-		<Resistance>3950</Resistance>
+		<NRd>3950</NRd>
+		<MRd>469</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>2.5</Length>
-		<Resistance>3750</Resistance>
+		<NRd>3750</NRd>
+		<MRd>469</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>3</Length>
-		<Resistance>3540</Resistance>
+		<NRd>3540</NRd>
+		<MRd>469</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>3.5</Length>
-		<Resistance>3310</Resistance>
+		<NRd>3310</NRd>
+		<MRd>465</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>4</Length>
-		<Resistance>3080</Resistance>
+		<NRd>3080</NRd>
+		<MRd>454</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>5</Length>
-		<Resistance>2600</Resistance>
+		<NRd>2600</NRd>
+		<MRd>431</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>6</Length>
-		<Resistance>2150</Resistance>
+		<NRd>2150</NRd>
+		<MRd>407</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>7</Length>
-		<Resistance>1770</Resistance>
+		<NRd>1770</NRd>
+		<MRd>383</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>8</Length>
-		<Resistance>1460</Resistance>
+		<NRd>1460</NRd>
+		<MRd>358</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>9</Length>
-		<Resistance>1220</Resistance>
+		<NRd>1220</NRd>
+		<MRd>335</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>10</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>312</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>11</Length>
-		<Resistance>872</Resistance>
+		<NRd>872</NRd>
+		<MRd>292</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>12</Length>
-		<Resistance>751</Resistance>
+		<NRd>751</NRd>
+		<MRd>273</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>13</Length>
-		<Resistance>652</Resistance>
+		<NRd>652</NRd>
+		<MRd>256</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 305 x 305 x 95</Name>
+		<Name>UBP 305x305x95</Name>
 		<Weight>95</Weight>
 		<Length>14</Length>
-		<Resistance>571</Resistance>
+		<NRd>571</NRd>
+		<MRd>241</MRd>
+		<VRd>914</VRd>
+		<Inertia>20000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>1</Length>
-		<Resistance>4700</Resistance>
+		<NRd>4700</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>1.5</Length>
-		<Resistance>4660</Resistance>
+		<NRd>4660</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>2</Length>
-		<Resistance>4490</Resistance>
+		<NRd>4490</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>2.5</Length>
-		<Resistance>4320</Resistance>
+		<NRd>4320</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>3</Length>
-		<Resistance>4140</Resistance>
+		<NRd>4140</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>3.5</Length>
-		<Resistance>3950</Resistance>
+		<NRd>3950</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>4</Length>
-		<Resistance>3760</Resistance>
+		<NRd>3760</NRd>
+		<MRd>596</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>5</Length>
-		<Resistance>3350</Resistance>
+		<NRd>3350</NRd>
+		<MRd>573</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>6</Length>
-		<Resistance>2930</Resistance>
+		<NRd>2930</NRd>
+		<MRd>548</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>7</Length>
-		<Resistance>2520</Resistance>
+		<NRd>2520</NRd>
+		<MRd>521</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>8</Length>
-		<Resistance>2160</Resistance>
+		<NRd>2160</NRd>
+		<MRd>493</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>9</Length>
-		<Resistance>1840</Resistance>
+		<NRd>1840</NRd>
+		<MRd>464</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>10</Length>
-		<Resistance>1580</Resistance>
+		<NRd>1580</NRd>
+		<MRd>436</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>11</Length>
-		<Resistance>1360</Resistance>
+		<NRd>1360</NRd>
+		<MRd>409</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>12</Length>
-		<Resistance>1180</Resistance>
+		<NRd>1180</NRd>
+		<MRd>383</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>13</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>359</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 109*</Name>
+		<Name>UBP 356x368x109</Name>
 		<Weight>109</Weight>
 		<Length>14</Length>
-		<Resistance>913</Resistance>
+		<NRd>913</NRd>
+		<MRd>337</MRd>
+		<VRd>995</VRd>
+		<Inertia>30600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>1</Length>
-		<Resistance>6010</Resistance>
+		<NRd>6010</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>1.5</Length>
-		<Resistance>5960</Resistance>
+		<NRd>5960</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>2</Length>
-		<Resistance>5740</Resistance>
+		<NRd>5740</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>2.5</Length>
-		<Resistance>5510</Resistance>
+		<NRd>5510</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>3</Length>
-		<Resistance>5280</Resistance>
+		<NRd>5280</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>3.5</Length>
-		<Resistance>5040</Resistance>
+		<NRd>5040</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>4</Length>
-		<Resistance>4790</Resistance>
+		<NRd>4790</NRd>
+		<MRd>766</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>5</Length>
-		<Resistance>4250</Resistance>
+		<NRd>4250</NRd>
+		<MRd>739</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>6</Length>
-		<Resistance>3700</Resistance>
+		<NRd>3700</NRd>
+		<MRd>708</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>7</Length>
-		<Resistance>3180</Resistance>
+		<NRd>3180</NRd>
+		<MRd>676</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>8</Length>
-		<Resistance>2710</Resistance>
+		<NRd>2710</NRd>
+		<MRd>643</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>9</Length>
-		<Resistance>2310</Resistance>
+		<NRd>2310</NRd>
+		<MRd>610</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>10</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>577</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>11</Length>
-		<Resistance>1710</Resistance>
+		<NRd>1710</NRd>
+		<MRd>546</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>12</Length>
-		<Resistance>1480</Resistance>
+		<NRd>1480</NRd>
+		<MRd>516</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>13</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>488</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 133</Name>
+		<Name>UBP 356x368x133</Name>
 		<Weight>133</Weight>
 		<Length>14</Length>
-		<Resistance>1140</Resistance>
+		<NRd>1140</NRd>
+		<MRd>462</MRd>
+		<VRd>1210</VRd>
+		<Inertia>38000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>1</Length>
-		<Resistance>6680</Resistance>
+		<NRd>6680</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>1.5</Length>
-		<Resistance>6640</Resistance>
+		<NRd>6640</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>2</Length>
-		<Resistance>6390</Resistance>
+		<NRd>6390</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>2.5</Length>
-		<Resistance>6150</Resistance>
+		<NRd>6150</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>3</Length>
-		<Resistance>5900</Resistance>
+		<NRd>5900</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>3.5</Length>
-		<Resistance>5640</Resistance>
+		<NRd>5640</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>4</Length>
-		<Resistance>5360</Resistance>
+		<NRd>5360</NRd>
+		<MRd>851</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>5</Length>
-		<Resistance>4790</Resistance>
+		<NRd>4790</NRd>
+		<MRd>829</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>6</Length>
-		<Resistance>4190</Resistance>
+		<NRd>4190</NRd>
+		<MRd>798</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>7</Length>
-		<Resistance>3620</Resistance>
+		<NRd>3620</NRd>
+		<MRd>767</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>8</Length>
-		<Resistance>3100</Resistance>
+		<NRd>3100</NRd>
+		<MRd>735</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>9</Length>
-		<Resistance>2650</Resistance>
+		<NRd>2650</NRd>
+		<MRd>703</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>10</Length>
-		<Resistance>2270</Resistance>
+		<NRd>2270</NRd>
+		<MRd>672</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>11</Length>
-		<Resistance>1960</Resistance>
+		<NRd>1960</NRd>
+		<MRd>641</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>12</Length>
-		<Resistance>1700</Resistance>
+		<NRd>1700</NRd>
+		<MRd>611</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>13</Length>
-		<Resistance>1490</Resistance>
+		<NRd>1490</NRd>
+		<MRd>583</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 152</Name>
+		<Name>UBP 356x368x152</Name>
 		<Weight>152</Weight>
 		<Length>14</Length>
-		<Resistance>1320</Resistance>
+		<NRd>1320</NRd>
+		<MRd>556</MRd>
+		<VRd>1350</VRd>
+		<Inertia>44000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>1</Length>
-		<Resistance>7640</Resistance>
+		<NRd>7640</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>1.5</Length>
-		<Resistance>7600</Resistance>
+		<NRd>7600</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>2</Length>
-		<Resistance>7320</Resistance>
+		<NRd>7320</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>2.5</Length>
-		<Resistance>7040</Resistance>
+		<NRd>7040</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>3</Length>
-		<Resistance>6760</Resistance>
+		<NRd>6760</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>3.5</Length>
-		<Resistance>6460</Resistance>
+		<NRd>6460</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>4</Length>
-		<Resistance>6160</Resistance>
+		<NRd>6160</NRd>
+		<MRd>1100</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>5</Length>
-		<Resistance>5510</Resistance>
+		<NRd>5510</NRd>
+		<MRd>1060</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>6</Length>
-		<Resistance>4830</Resistance>
+		<NRd>4830</NRd>
+		<MRd>1020</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>7</Length>
-		<Resistance>4170</Resistance>
+		<NRd>4170</NRd>
+		<MRd>982</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>8</Length>
-		<Resistance>3580</Resistance>
+		<NRd>3580</NRd>
+		<MRd>941</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>9</Length>
-		<Resistance>3060</Resistance>
+		<NRd>3060</NRd>
+		<MRd>901</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>10</Length>
-		<Resistance>2630</Resistance>
+		<NRd>2630</NRd>
+		<MRd>861</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>11</Length>
-		<Resistance>2270</Resistance>
+		<NRd>2270</NRd>
+		<MRd>822</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>12</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>784</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>13</Length>
-		<Resistance>1730</Resistance>
+		<NRd>1730</NRd>
+		<MRd>749</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
-		<Name>UBP 356 x 368 x 174</Name>
+		<Name>UBP 356x368x174</Name>
 		<Weight>174</Weight>
 		<Length>14</Length>
-		<Resistance>1530</Resistance>
+		<NRd>1530</NRd>
+		<MRd>715</MRd>
+		<VRd>1540</VRd>
+		<Inertia>51000</Inertia>
 	</Beaminfo>
 </Root>

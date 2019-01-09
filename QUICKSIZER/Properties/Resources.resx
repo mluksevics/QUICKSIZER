@@ -127,9 +127,6 @@
   <data name="HEA_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HEA_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="HEA_NRd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HEA_NRd1.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
-  </data>
   <data name="HEB_NRd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HEB_NRd.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>

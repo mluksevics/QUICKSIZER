@@ -3,4897 +3,7345 @@
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
-		<Length>1.0</Length>
-		<Resistance>625</Resistance>
+		<Length>1</Length>
+		<NRd>625</NRd>
+		<MRd>29.5</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
-		<Length>1.0</Length>
-		<Resistance>455</Resistance>
+		<Length>1</Length>
+		<NRd>455</NRd>
+		<MRd>20.7</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
-		<Length>1.0</Length>
-		<Resistance>10600</Resistance>
+		<Length>1</Length>
+		<NRd>10600</NRd>
+		<MRd>4420</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
-		<Length>1.0</Length>
-		<Resistance>8280</Resistance>
+		<Length>1</Length>
+		<NRd>8280</NRd>
+		<MRd>3370</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
-		<Length>1.0</Length>
-		<Resistance>790</Resistance>
+		<Length>1</Length>
+		<NRd>790</NRd>
+		<MRd>42.4</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
-		<Length>1.0</Length>
-		<Resistance>576</Resistance>
+		<Length>1</Length>
+		<NRd>576</NRd>
+		<MRd>26.9</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
-		<Length>1.0</Length>
-		<Resistance>1020</Resistance>
+		<Length>1</Length>
+		<NRd>1020</NRd>
+		<MRd>61.6</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
-		<Length>1.0</Length>
-		<Resistance>742</Resistance>
+		<Length>1</Length>
+		<NRd>742</NRd>
+		<MRd>39.9</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
-		<Length>1.0</Length>
-		<Resistance>1290</Resistance>
+		<Length>1</Length>
+		<NRd>1290</NRd>
+		<MRd>87</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
-		<Length>1.0</Length>
-		<Resistance>1010</Resistance>
+		<Length>1</Length>
+		<NRd>1010</NRd>
+		<MRd>61.6</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
-		<Length>1.0</Length>
-		<Resistance>1540</Resistance>
+		<Length>1</Length>
+		<NRd>1540</NRd>
+		<MRd>115</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
-		<Length>1.0</Length>
-		<Resistance>1240</Resistance>
+		<Length>1</Length>
+		<NRd>1240</NRd>
+		<MRd>83.6</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
-		<Length>1.0</Length>
-		<Resistance>1850</Resistance>
+		<Length>1</Length>
+		<NRd>1850</NRd>
+		<MRd>152</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
-		<Length>1.0</Length>
-		<Resistance>1510</Resistance>
+		<Length>1</Length>
+		<NRd>1510</NRd>
+		<MRd>112</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
-		<Length>1.0</Length>
-		<Resistance>2240</Resistance>
+		<Length>1</Length>
+		<NRd>2240</NRd>
+		<MRd>202</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
-		<Length>1.0</Length>
-		<Resistance>1790</Resistance>
+		<Length>1</Length>
+		<NRd>1790</NRd>
+		<MRd>144</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
-		<Length>1.0</Length>
-		<Resistance>2700</Resistance>
+		<Length>1</Length>
+		<NRd>2700</NRd>
+		<MRd>264</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
-		<Length>1.0</Length>
-		<Resistance>2120</Resistance>
+		<Length>1</Length>
+		<NRd>2120</NRd>
+		<MRd>185</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
-		<Length>1.0</Length>
-		<Resistance>3080</Resistance>
+		<Length>1</Length>
+		<NRd>3080</NRd>
+		<MRd>297</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
-		<Length>1.0</Length>
-		<Resistance>2440</Resistance>
+		<Length>1</Length>
+		<NRd>2440</NRd>
+		<MRd>232</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
-		<Length>1.0</Length>
-		<Resistance>3450</Resistance>
+		<Length>1</Length>
+		<NRd>3450</NRd>
+		<MRd>360</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
-		<Length>1.0</Length>
-		<Resistance>2770</Resistance>
+		<Length>1</Length>
+		<NRd>2770</NRd>
+		<MRd>284</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
-		<Length>1.0</Length>
-		<Resistance>3990</Resistance>
+		<Length>1</Length>
+		<NRd>3990</NRd>
+		<MRd>447</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
-		<Length>1.0</Length>
-		<Resistance>3160</Resistance>
+		<Length>1</Length>
+		<NRd>3160</NRd>
+		<MRd>346</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
-		<Length>1.0</Length>
-		<Resistance>4420</Resistance>
+		<Length>1</Length>
+		<NRd>4420</NRd>
+		<MRd>578</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
-		<Length>1.0</Length>
-		<Resistance>3360</Resistance>
+		<Length>1</Length>
+		<NRd>3360</NRd>
+		<MRd>388</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
-		<Length>1.0</Length>
-		<Resistance>4610</Resistance>
+		<Length>1</Length>
+		<NRd>4610</NRd>
+		<MRd>638</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
-		<Length>1.0</Length>
-		<Resistance>3570</Resistance>
+		<Length>1</Length>
+		<NRd>3570</NRd>
+		<MRd>434</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
-		<Length>1.0</Length>
-		<Resistance>4930</Resistance>
+		<Length>1</Length>
+		<NRd>4930</NRd>
+		<MRd>720</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
-		<Length>1.0</Length>
-		<Resistance>3780</Resistance>
+		<Length>1</Length>
+		<NRd>3780</NRd>
+		<MRd>482</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
-		<Length>1.0</Length>
-		<Resistance>5490</Resistance>
+		<Length>1</Length>
+		<NRd>5490</NRd>
+		<MRd>884</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
-		<Length>1.0</Length>
-		<Resistance>4180</Resistance>
+		<Length>1</Length>
+		<NRd>4180</NRd>
+		<MRd>587</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
-		<Length>1.0</Length>
-		<Resistance>6140</Resistance>
+		<Length>1</Length>
+		<NRd>6140</NRd>
+		<MRd>1110</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
-		<Length>1.0</Length>
-		<Resistance>4470</Resistance>
+		<Length>1</Length>
+		<NRd>4470</NRd>
+		<MRd>700</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
-		<Length>1.0</Length>
-		<Resistance>6810</Resistance>
+		<Length>1</Length>
+		<NRd>6810</NRd>
+		<MRd>1360</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
-		<Length>1.0</Length>
-		<Resistance>4720</Resistance>
+		<Length>1</Length>
+		<NRd>4720</NRd>
+		<MRd>822</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
-		<Length>1.0</Length>
-		<Resistance>7200</Resistance>
+		<Length>1</Length>
+		<NRd>7200</NRd>
+		<MRd>1600</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
-		<Length>1.0</Length>
-		<Resistance>5230</Resistance>
+		<Length>1</Length>
+		<NRd>5230</NRd>
+		<MRd>1110</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
-		<Length>1.0</Length>
-		<Resistance>7610</Resistance>
+		<Length>1</Length>
+		<NRd>7610</NRd>
+		<MRd>1850</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
-		<Length>1.0</Length>
-		<Resistance>5520</Resistance>
+		<Length>1</Length>
+		<NRd>5520</NRd>
+		<MRd>1290</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
-		<Length>1.0</Length>
-		<Resistance>8030</Resistance>
+		<Length>1</Length>
+		<NRd>8030</NRd>
+		<MRd>2120</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
-		<Length>1.0</Length>
-		<Resistance>5820</Resistance>
+		<Length>1</Length>
+		<NRd>5820</NRd>
+		<MRd>1480</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
-		<Length>1.0</Length>
-		<Resistance>8600</Resistance>
+		<Length>1</Length>
+		<NRd>8600</NRd>
+		<MRd>2430</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
-		<Length>1.0</Length>
-		<Resistance>6080</Resistance>
+		<Length>1</Length>
+		<NRd>6080</NRd>
+		<MRd>1670</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
-		<Length>1.0</Length>
-		<Resistance>9180</Resistance>
+		<Length>1</Length>
+		<NRd>9180</NRd>
+		<MRd>3000</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
-		<Length>1.0</Length>
-		<Resistance>6770</Resistance>
+		<Length>1</Length>
+		<NRd>6770</NRd>
+		<MRd>2150</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
-		<Length>1.0</Length>
-		<Resistance>10100</Resistance>
+		<Length>1</Length>
+		<NRd>10100</NRd>
+		<MRd>3730</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
-		<Length>1.0</Length>
-		<Resistance>7620</Resistance>
+		<Length>1</Length>
+		<NRd>7620</NRd>
+		<MRd>2760</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>1.5</Length>
-		<Resistance>507</Resistance>
+		<NRd>507</NRd>
+		<MRd>28.6</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>1.5</Length>
-		<Resistance>364</Resistance>
+		<NRd>364</NRd>
+		<MRd>19.7</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>1.5</Length>
-		<Resistance>10200</Resistance>
+		<NRd>10200</NRd>
+		<MRd>4420</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>1.5</Length>
-		<Resistance>7980</Resistance>
+		<NRd>7980</NRd>
+		<MRd>3370</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>1.5</Length>
-		<Resistance>678</Resistance>
+		<NRd>678</NRd>
+		<MRd>41.8</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>1.5</Length>
-		<Resistance>491</Resistance>
+		<NRd>491</NRd>
+		<MRd>26.5</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>1.5</Length>
-		<Resistance>903</Resistance>
+		<NRd>903</NRd>
+		<MRd>61.6</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>1.5</Length>
-		<Resistance>656</Resistance>
+		<NRd>656</NRd>
+		<MRd>39.9</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>1.5</Length>
-		<Resistance>1170</Resistance>
+		<NRd>1170</NRd>
+		<MRd>87</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>1.5</Length>
-		<Resistance>913</Resistance>
+		<NRd>913</NRd>
+		<MRd>61.6</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>1.5</Length>
-		<Resistance>1410</Resistance>
+		<NRd>1410</NRd>
+		<MRd>115</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>1.5</Length>
-		<Resistance>1140</Resistance>
+		<NRd>1140</NRd>
+		<MRd>83.6</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>1.5</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>152</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>1.5</Length>
-		<Resistance>1410</Resistance>
+		<NRd>1410</NRd>
+		<MRd>112</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>1.5</Length>
-		<Resistance>2100</Resistance>
+		<NRd>2100</NRd>
+		<MRd>202</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>1.5</Length>
-		<Resistance>1680</Resistance>
+		<NRd>1680</NRd>
+		<MRd>144</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>1.5</Length>
-		<Resistance>2550</Resistance>
+		<NRd>2550</NRd>
+		<MRd>264</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>1.5</Length>
-		<Resistance>2000</Resistance>
+		<NRd>2000</NRd>
+		<MRd>185</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>1.5</Length>
-		<Resistance>2920</Resistance>
+		<NRd>2920</NRd>
+		<MRd>297</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>1.5</Length>
-		<Resistance>2310</Resistance>
+		<NRd>2310</NRd>
+		<MRd>232</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>1.5</Length>
-		<Resistance>3310</Resistance>
+		<NRd>3310</NRd>
+		<MRd>360</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>1.5</Length>
-		<Resistance>2650</Resistance>
+		<NRd>2650</NRd>
+		<MRd>284</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>1.5</Length>
-		<Resistance>3870</Resistance>
+		<NRd>3870</NRd>
+		<MRd>447</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>1.5</Length>
-		<Resistance>3040</Resistance>
+		<NRd>3040</NRd>
+		<MRd>346</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>1.5</Length>
-		<Resistance>4280</Resistance>
+		<NRd>4280</NRd>
+		<MRd>578</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>1.5</Length>
-		<Resistance>3240</Resistance>
+		<NRd>3240</NRd>
+		<MRd>388</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>1.5</Length>
-		<Resistance>4470</Resistance>
+		<NRd>4470</NRd>
+		<MRd>638</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>1.5</Length>
-		<Resistance>3440</Resistance>
+		<NRd>3440</NRd>
+		<MRd>434</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>1.5</Length>
-		<Resistance>4780</Resistance>
+		<NRd>4780</NRd>
+		<MRd>720</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>1.5</Length>
-		<Resistance>3640</Resistance>
+		<NRd>3640</NRd>
+		<MRd>482</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>1.5</Length>
-		<Resistance>5360</Resistance>
+		<NRd>5360</NRd>
+		<MRd>884</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>1.5</Length>
-		<Resistance>4060</Resistance>
+		<NRd>4060</NRd>
+		<MRd>587</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>1.5</Length>
-		<Resistance>6000</Resistance>
+		<NRd>6000</NRd>
+		<MRd>1110</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>1.5</Length>
-		<Resistance>4380</Resistance>
+		<NRd>4380</NRd>
+		<MRd>700</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>1.5</Length>
-		<Resistance>6650</Resistance>
+		<NRd>6650</NRd>
+		<MRd>1360</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>1.5</Length>
-		<Resistance>4580</Resistance>
+		<NRd>4580</NRd>
+		<MRd>822</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>1.5</Length>
-		<Resistance>7120</Resistance>
+		<NRd>7120</NRd>
+		<MRd>1600</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>1.5</Length>
-		<Resistance>5060</Resistance>
+		<NRd>5060</NRd>
+		<MRd>1110</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>1.5</Length>
-		<Resistance>7420</Resistance>
+		<NRd>7420</NRd>
+		<MRd>1850</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>1.5</Length>
-		<Resistance>5340</Resistance>
+		<NRd>5340</NRd>
+		<MRd>1290</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>1.5</Length>
-		<Resistance>7820</Resistance>
+		<NRd>7820</NRd>
+		<MRd>2120</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>1.5</Length>
-		<Resistance>5620</Resistance>
+		<NRd>5620</NRd>
+		<MRd>1480</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>1.5</Length>
-		<Resistance>8370</Resistance>
+		<NRd>8370</NRd>
+		<MRd>2430</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>1.5</Length>
-		<Resistance>5880</Resistance>
+		<NRd>5880</NRd>
+		<MRd>1670</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>1.5</Length>
-		<Resistance>8910</Resistance>
+		<NRd>8910</NRd>
+		<MRd>3000</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>1.5</Length>
-		<Resistance>6530</Resistance>
+		<NRd>6530</NRd>
+		<MRd>2150</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>1.5</Length>
-		<Resistance>9760</Resistance>
+		<NRd>9760</NRd>
+		<MRd>3730</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>1.5</Length>
-		<Resistance>7340</Resistance>
+		<NRd>7340</NRd>
+		<MRd>2760</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>2</Length>
-		<Resistance>388</Resistance>
+		<NRd>388</NRd>
+		<MRd>27.2</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>2</Length>
-		<Resistance>275</Resistance>
+		<NRd>275</NRd>
+		<MRd>18.4</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>2</Length>
-		<Resistance>9860</Resistance>
+		<NRd>9860</NRd>
+		<MRd>4420</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>2</Length>
-		<Resistance>7650</Resistance>
+		<NRd>7650</NRd>
+		<MRd>3370</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>2</Length>
-		<Resistance>557</Resistance>
+		<NRd>557</NRd>
+		<MRd>39.7</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>2</Length>
-		<Resistance>399</Resistance>
+		<NRd>399</NRd>
+		<MRd>25</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>2</Length>
-		<Resistance>777</Resistance>
+		<NRd>777</NRd>
+		<MRd>59</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>2</Length>
-		<Resistance>562</Resistance>
+		<NRd>562</NRd>
+		<MRd>38.1</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>2</Length>
-		<Resistance>1030</Resistance>
+		<NRd>1030</NRd>
+		<MRd>85.1</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>2</Length>
-		<Resistance>809</Resistance>
+		<NRd>809</NRd>
+		<MRd>60.3</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>2</Length>
-		<Resistance>1280</Resistance>
+		<NRd>1280</NRd>
+		<MRd>115</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>2</Length>
-		<Resistance>1030</Resistance>
+		<NRd>1030</NRd>
+		<MRd>83.4</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>2</Length>
-		<Resistance>1580</Resistance>
+		<NRd>1580</NRd>
+		<MRd>152</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>2</Length>
-		<Resistance>1290</Resistance>
+		<NRd>1290</NRd>
+		<MRd>112</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>2</Length>
-		<Resistance>1960</Resistance>
+		<NRd>1960</NRd>
+		<MRd>202</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>2</Length>
-		<Resistance>1560</Resistance>
+		<NRd>1560</NRd>
+		<MRd>144</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>2</Length>
-		<Resistance>2390</Resistance>
+		<NRd>2390</NRd>
+		<MRd>264</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>2</Length>
-		<Resistance>1870</Resistance>
+		<NRd>1870</NRd>
+		<MRd>185</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>2</Length>
-		<Resistance>2760</Resistance>
+		<NRd>2760</NRd>
+		<MRd>297</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>2</Length>
-		<Resistance>2180</Resistance>
+		<NRd>2180</NRd>
+		<MRd>232</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>2</Length>
-		<Resistance>3150</Resistance>
+		<NRd>3150</NRd>
+		<MRd>360</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>2</Length>
-		<Resistance>2510</Resistance>
+		<NRd>2510</NRd>
+		<MRd>284</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>2</Length>
-		<Resistance>3690</Resistance>
+		<NRd>3690</NRd>
+		<MRd>447</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>2</Length>
-		<Resistance>2900</Resistance>
+		<NRd>2900</NRd>
+		<MRd>346</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>2</Length>
-		<Resistance>4080</Resistance>
+		<NRd>4080</NRd>
+		<MRd>578</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>2</Length>
-		<Resistance>3080</Resistance>
+		<NRd>3080</NRd>
+		<MRd>388</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>2</Length>
-		<Resistance>4260</Resistance>
+		<NRd>4260</NRd>
+		<MRd>638</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>2</Length>
-		<Resistance>3270</Resistance>
+		<NRd>3270</NRd>
+		<MRd>434</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>2</Length>
-		<Resistance>4560</Resistance>
+		<NRd>4560</NRd>
+		<MRd>720</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>2</Length>
-		<Resistance>3460</Resistance>
+		<NRd>3460</NRd>
+		<MRd>482</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>2</Length>
-		<Resistance>5180</Resistance>
+		<NRd>5180</NRd>
+		<MRd>884</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>2</Length>
-		<Resistance>3920</Resistance>
+		<NRd>3920</NRd>
+		<MRd>587</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>2</Length>
-		<Resistance>5800</Resistance>
+		<NRd>5800</NRd>
+		<MRd>1110</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>2</Length>
-		<Resistance>4220</Resistance>
+		<NRd>4220</NRd>
+		<MRd>700</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>2</Length>
-		<Resistance>6420</Resistance>
+		<NRd>6420</NRd>
+		<MRd>1360</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>2</Length>
-		<Resistance>4410</Resistance>
+		<NRd>4410</NRd>
+		<MRd>822</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>2</Length>
-		<Resistance>6880</Resistance>
+		<NRd>6880</NRd>
+		<MRd>1600</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>2</Length>
-		<Resistance>4870</Resistance>
+		<NRd>4870</NRd>
+		<MRd>1110</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>2</Length>
-		<Resistance>7170</Resistance>
+		<NRd>7170</NRd>
+		<MRd>1850</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>2</Length>
-		<Resistance>5140</Resistance>
+		<NRd>5140</NRd>
+		<MRd>1290</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>2</Length>
-		<Resistance>7550</Resistance>
+		<NRd>7550</NRd>
+		<MRd>2120</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>2</Length>
-		<Resistance>5410</Resistance>
+		<NRd>5410</NRd>
+		<MRd>1480</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>2</Length>
-		<Resistance>8070</Resistance>
+		<NRd>8070</NRd>
+		<MRd>2430</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>2</Length>
-		<Resistance>5650</Resistance>
+		<NRd>5650</NRd>
+		<MRd>1670</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>2</Length>
-		<Resistance>8590</Resistance>
+		<NRd>8590</NRd>
+		<MRd>3000</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>2</Length>
-		<Resistance>6270</Resistance>
+		<NRd>6270</NRd>
+		<MRd>2150</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>2</Length>
-		<Resistance>9400</Resistance>
+		<NRd>9400</NRd>
+		<MRd>3730</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>2</Length>
-		<Resistance>7050</Resistance>
+		<NRd>7050</NRd>
+		<MRd>2760</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>2.5</Length>
-		<Resistance>291</Resistance>
+		<NRd>291</NRd>
+		<MRd>25.8</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>2.5</Length>
-		<Resistance>205</Resistance>
+		<NRd>205</NRd>
+		<MRd>17.2</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>2.5</Length>
-		<Resistance>9440</Resistance>
+		<NRd>9440</NRd>
+		<MRd>4420</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>2.5</Length>
-		<Resistance>7290</Resistance>
+		<NRd>7290</NRd>
+		<MRd>3320</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>2.5</Length>
-		<Resistance>443</Resistance>
+		<NRd>443</NRd>
+		<MRd>37.7</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>2.5</Length>
-		<Resistance>314</Resistance>
+		<NRd>314</NRd>
+		<MRd>23.5</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>2.5</Length>
-		<Resistance>648</Resistance>
+		<NRd>648</NRd>
+		<MRd>56.1</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>2.5</Length>
-		<Resistance>466</Resistance>
+		<NRd>466</NRd>
+		<MRd>36</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>2.5</Length>
-		<Resistance>893</Resistance>
+		<NRd>893</NRd>
+		<MRd>81.4</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>2.5</Length>
-		<Resistance>698</Resistance>
+		<NRd>698</NRd>
+		<MRd>57.6</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>2.5</Length>
-		<Resistance>1140</Resistance>
+		<NRd>1140</NRd>
+		<MRd>110</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>2.5</Length>
-		<Resistance>913</Resistance>
+		<NRd>913</NRd>
+		<MRd>80.1</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>2.5</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>148</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>2.5</Length>
-		<Resistance>1170</Resistance>
+		<NRd>1170</NRd>
+		<MRd>110</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>2.5</Length>
-		<Resistance>1800</Resistance>
+		<NRd>1800</NRd>
+		<MRd>200</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>2.5</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>143</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>2.5</Length>
-		<Resistance>2230</Resistance>
+		<NRd>2230</NRd>
+		<MRd>264</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>2.5</Length>
-		<Resistance>1740</Resistance>
+		<NRd>1740</NRd>
+		<MRd>185</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>2.5</Length>
-		<Resistance>2590</Resistance>
+		<NRd>2590</NRd>
+		<MRd>297</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>2.5</Length>
-		<Resistance>2040</Resistance>
+		<NRd>2040</NRd>
+		<MRd>232</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>2.5</Length>
-		<Resistance>2970</Resistance>
+		<NRd>2970</NRd>
+		<MRd>360</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>2.5</Length>
-		<Resistance>2370</Resistance>
+		<NRd>2370</NRd>
+		<MRd>284</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>2.5</Length>
-		<Resistance>3500</Resistance>
+		<NRd>3500</NRd>
+		<MRd>447</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>2.5</Length>
-		<Resistance>2750</Resistance>
+		<NRd>2750</NRd>
+		<MRd>346</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>2.5</Length>
-		<Resistance>3880</Resistance>
+		<NRd>3880</NRd>
+		<MRd>578</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>2.5</Length>
-		<Resistance>2920</Resistance>
+		<NRd>2920</NRd>
+		<MRd>388</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>2.5</Length>
-		<Resistance>4050</Resistance>
+		<NRd>4050</NRd>
+		<MRd>638</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>2.5</Length>
-		<Resistance>3100</Resistance>
+		<NRd>3100</NRd>
+		<MRd>434</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>2.5</Length>
-		<Resistance>4330</Resistance>
+		<NRd>4330</NRd>
+		<MRd>720</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>2.5</Length>
-		<Resistance>3280</Resistance>
+		<NRd>3280</NRd>
+		<MRd>482</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>2.5</Length>
-		<Resistance>4990</Resistance>
+		<NRd>4990</NRd>
+		<MRd>884</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>2.5</Length>
-		<Resistance>3760</Resistance>
+		<NRd>3760</NRd>
+		<MRd>587</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>2.5</Length>
-		<Resistance>5580</Resistance>
+		<NRd>5580</NRd>
+		<MRd>1110</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>2.5</Length>
-		<Resistance>4040</Resistance>
+		<NRd>4040</NRd>
+		<MRd>700</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>2.5</Length>
-		<Resistance>6180</Resistance>
+		<NRd>6180</NRd>
+		<MRd>1360</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>2.5</Length>
-		<Resistance>4280</Resistance>
+		<NRd>4280</NRd>
+		<MRd>822</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>2.5</Length>
-		<Resistance>6620</Resistance>
+		<NRd>6620</NRd>
+		<MRd>1600</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>2.5</Length>
-		<Resistance>4660</Resistance>
+		<NRd>4660</NRd>
+		<MRd>1110</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>2.5</Length>
-		<Resistance>6960</Resistance>
+		<NRd>6960</NRd>
+		<MRd>1850</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>2.5</Length>
-		<Resistance>4910</Resistance>
+		<NRd>4910</NRd>
+		<MRd>1290</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>2.5</Length>
-		<Resistance>7260</Resistance>
+		<NRd>7260</NRd>
+		<MRd>2120</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>2.5</Length>
-		<Resistance>5170</Resistance>
+		<NRd>5170</NRd>
+		<MRd>1480</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>2.5</Length>
-		<Resistance>7750</Resistance>
+		<NRd>7750</NRd>
+		<MRd>2430</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>2.5</Length>
-		<Resistance>5400</Resistance>
+		<NRd>5400</NRd>
+		<MRd>1670</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>2.5</Length>
-		<Resistance>8240</Resistance>
+		<NRd>8240</NRd>
+		<MRd>3000</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>2.5</Length>
-		<Resistance>5980</Resistance>
+		<NRd>5980</NRd>
+		<MRd>2150</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>2.5</Length>
-		<Resistance>9010</Resistance>
+		<NRd>9010</NRd>
+		<MRd>3730</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>2.5</Length>
-		<Resistance>6730</Resistance>
+		<NRd>6730</NRd>
+		<MRd>2760</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>3</Length>
-		<Resistance>222</Resistance>
+		<NRd>222</NRd>
+		<MRd>24.5</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>3</Length>
-		<Resistance>155</Resistance>
+		<NRd>155</NRd>
+		<MRd>16</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>3</Length>
-		<Resistance>8980</Resistance>
+		<NRd>8980</NRd>
+		<MRd>4180</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>3</Length>
-		<Resistance>6880</Resistance>
+		<NRd>6880</NRd>
+		<MRd>3090</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>3</Length>
-		<Resistance>349</Resistance>
+		<NRd>349</NRd>
+		<MRd>35.6</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>3</Length>
-		<Resistance>246</Resistance>
+		<NRd>246</NRd>
+		<MRd>22</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>3</Length>
-		<Resistance>531</Resistance>
+		<NRd>531</NRd>
+		<MRd>53.3</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>3</Length>
-		<Resistance>379</Resistance>
+		<NRd>379</NRd>
+		<MRd>33.9</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>3</Length>
-		<Resistance>754</Resistance>
+		<NRd>754</NRd>
+		<MRd>77.7</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>3</Length>
-		<Resistance>590</Resistance>
+		<NRd>590</NRd>
+		<MRd>54.9</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>3</Length>
-		<Resistance>996</Resistance>
+		<NRd>996</NRd>
+		<MRd>106</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>3</Length>
-		<Resistance>794</Resistance>
+		<NRd>794</NRd>
+		<MRd>76.6</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>3</Length>
-		<Resistance>1280</Resistance>
+		<NRd>1280</NRd>
+		<MRd>143</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>3</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>106</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>3</Length>
-		<Resistance>1640</Resistance>
+		<NRd>1640</NRd>
+		<MRd>193</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>3</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>138</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>3</Length>
-		<Resistance>2050</Resistance>
+		<NRd>2050</NRd>
+		<MRd>257</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>3</Length>
-		<Resistance>1600</Resistance>
+		<NRd>1600</NRd>
+		<MRd>180</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>3</Length>
-		<Resistance>2410</Resistance>
+		<NRd>2410</NRd>
+		<MRd>295</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>3</Length>
-		<Resistance>1900</Resistance>
+		<NRd>1900</NRd>
+		<MRd>229</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>3</Length>
-		<Resistance>2790</Resistance>
+		<NRd>2790</NRd>
+		<MRd>360</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>3</Length>
-		<Resistance>2220</Resistance>
+		<NRd>2220</NRd>
+		<MRd>284</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>3</Length>
-		<Resistance>3310</Resistance>
+		<NRd>3310</NRd>
+		<MRd>447</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>3</Length>
-		<Resistance>2590</Resistance>
+		<NRd>2590</NRd>
+		<MRd>346</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>3</Length>
-		<Resistance>3660</Resistance>
+		<NRd>3660</NRd>
+		<MRd>578</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>3</Length>
-		<Resistance>2750</Resistance>
+		<NRd>2750</NRd>
+		<MRd>388</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>3</Length>
-		<Resistance>3830</Resistance>
+		<NRd>3830</NRd>
+		<MRd>638</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>3</Length>
-		<Resistance>2910</Resistance>
+		<NRd>2910</NRd>
+		<MRd>434</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>3</Length>
-		<Resistance>4100</Resistance>
+		<NRd>4100</NRd>
+		<MRd>720</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>3</Length>
-		<Resistance>3080</Resistance>
+		<NRd>3080</NRd>
+		<MRd>482</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>3</Length>
-		<Resistance>4780</Resistance>
+		<NRd>4780</NRd>
+		<MRd>884</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>3</Length>
-		<Resistance>3590</Resistance>
+		<NRd>3590</NRd>
+		<MRd>587</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>3</Length>
-		<Resistance>5340</Resistance>
+		<NRd>5340</NRd>
+		<MRd>1110</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>3</Length>
-		<Resistance>3850</Resistance>
+		<NRd>3850</NRd>
+		<MRd>700</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>3</Length>
-		<Resistance>5920</Resistance>
+		<NRd>5920</NRd>
+		<MRd>1360</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>3</Length>
-		<Resistance>4120</Resistance>
+		<NRd>4120</NRd>
+		<MRd>822</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>3</Length>
-		<Resistance>6320</Resistance>
+		<NRd>6320</NRd>
+		<MRd>1600</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>3</Length>
-		<Resistance>4570</Resistance>
+		<NRd>4570</NRd>
+		<MRd>1100</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>3</Length>
-		<Resistance>6730</Resistance>
+		<NRd>6730</NRd>
+		<MRd>1850</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>3</Length>
-		<Resistance>4660</Resistance>
+		<NRd>4660</NRd>
+		<MRd>1270</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>3</Length>
-		<Resistance>6930</Resistance>
+		<NRd>6930</NRd>
+		<MRd>2090</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>3</Length>
-		<Resistance>4900</Resistance>
+		<NRd>4900</NRd>
+		<MRd>1430</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>3</Length>
-		<Resistance>7400</Resistance>
+		<NRd>7400</NRd>
+		<MRd>2390</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>3</Length>
-		<Resistance>5130</Resistance>
+		<NRd>5130</NRd>
+		<MRd>1620</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>3</Length>
-		<Resistance>7850</Resistance>
+		<NRd>7850</NRd>
+		<MRd>2940</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>3</Length>
-		<Resistance>5660</Resistance>
+		<NRd>5660</NRd>
+		<MRd>2060</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>3</Length>
-		<Resistance>8580</Resistance>
+		<NRd>8580</NRd>
+		<MRd>3640</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>3</Length>
-		<Resistance>6360</Resistance>
+		<NRd>6360</NRd>
+		<MRd>2640</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>3.5</Length>
-		<Resistance>172</Resistance>
+		<NRd>172</NRd>
+		<MRd>23.2</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>3.5</Length>
-		<Resistance>120</Resistance>
+		<NRd>120</NRd>
+		<MRd>14.9</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>3.5</Length>
-		<Resistance>8460</Resistance>
+		<NRd>8460</NRd>
+		<MRd>3900</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>3.5</Length>
-		<Resistance>6410</Resistance>
+		<NRd>6410</NRd>
+		<MRd>2860</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>3.5</Length>
-		<Resistance>278</Resistance>
+		<NRd>278</NRd>
+		<MRd>33.7</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>3.5</Length>
-		<Resistance>195</Resistance>
+		<NRd>195</NRd>
+		<MRd>20.6</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>3.5</Length>
-		<Resistance>433</Resistance>
+		<NRd>433</NRd>
+		<MRd>50.5</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>3.5</Length>
-		<Resistance>308</Resistance>
+		<NRd>308</NRd>
+		<MRd>31.8</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>3.5</Length>
-		<Resistance>631</Resistance>
+		<NRd>631</NRd>
+		<MRd>74.1</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>3.5</Length>
-		<Resistance>492</Resistance>
+		<NRd>492</NRd>
+		<MRd>52</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>3.5</Length>
-		<Resistance>856</Resistance>
+		<NRd>856</NRd>
+		<MRd>101</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>3.5</Length>
-		<Resistance>681</Resistance>
+		<NRd>681</NRd>
+		<MRd>73.1</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>3.5</Length>
-		<Resistance>1120</Resistance>
+		<NRd>1120</NRd>
+		<MRd>137</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>3.5</Length>
-		<Resistance>909</Resistance>
+		<NRd>909</NRd>
+		<MRd>101</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>3.5</Length>
-		<Resistance>1470</Resistance>
+		<NRd>1470</NRd>
+		<MRd>186</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>3.5</Length>
-		<Resistance>1160</Resistance>
+		<NRd>1160</NRd>
+		<MRd>133</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>3.5</Length>
-		<Resistance>1870</Resistance>
+		<NRd>1870</NRd>
+		<MRd>249</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>3.5</Length>
-		<Resistance>1450</Resistance>
+		<NRd>1450</NRd>
+		<MRd>174</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>3.5</Length>
-		<Resistance>2220</Resistance>
+		<NRd>2220</NRd>
+		<MRd>288</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>3.5</Length>
-		<Resistance>1740</Resistance>
+		<NRd>1740</NRd>
+		<MRd>223</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>3.5</Length>
-		<Resistance>2600</Resistance>
+		<NRd>2600</NRd>
+		<MRd>352</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>3.5</Length>
-		<Resistance>2060</Resistance>
+		<NRd>2060</NRd>
+		<MRd>276</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>3.5</Length>
-		<Resistance>3110</Resistance>
+		<NRd>3110</NRd>
+		<MRd>443</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>3.5</Length>
-		<Resistance>2430</Resistance>
+		<NRd>2430</NRd>
+		<MRd>341</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>3.5</Length>
-		<Resistance>3440</Resistance>
+		<NRd>3440</NRd>
+		<MRd>568</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>3.5</Length>
-		<Resistance>2570</Resistance>
+		<NRd>2570</NRd>
+		<MRd>381</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>3.5</Length>
-		<Resistance>3600</Resistance>
+		<NRd>3600</NRd>
+		<MRd>629</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>3.5</Length>
-		<Resistance>2720</Resistance>
+		<NRd>2720</NRd>
+		<MRd>426</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>3.5</Length>
-		<Resistance>3850</Resistance>
+		<NRd>3850</NRd>
+		<MRd>709</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>3.5</Length>
-		<Resistance>2870</Resistance>
+		<NRd>2870</NRd>
+		<MRd>473</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>3.5</Length>
-		<Resistance>4550</Resistance>
+		<NRd>4550</NRd>
+		<MRd>868</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>3.5</Length>
-		<Resistance>3390</Resistance>
+		<NRd>3390</NRd>
+		<MRd>575</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>3.5</Length>
-		<Resistance>5080</Resistance>
+		<NRd>5080</NRd>
+		<MRd>1090</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>3.5</Length>
-		<Resistance>3630</Resistance>
+		<NRd>3630</NRd>
+		<MRd>683</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>3.5</Length>
-		<Resistance>5620</Resistance>
+		<NRd>5620</NRd>
+		<MRd>1340</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>3.5</Length>
-		<Resistance>3880</Resistance>
+		<NRd>3880</NRd>
+		<MRd>800</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>3.5</Length>
-		<Resistance>6000</Resistance>
+		<NRd>6000</NRd>
+		<MRd>1560</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>3.5</Length>
-		<Resistance>4280</Resistance>
+		<NRd>4280</NRd>
+		<MRd>1060</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>3.5</Length>
-		<Resistance>6380</Resistance>
+		<NRd>6380</NRd>
+		<MRd>1800</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>3.5</Length>
-		<Resistance>4460</Resistance>
+		<NRd>4460</NRd>
+		<MRd>1230</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>3.5</Length>
-		<Resistance>6770</Resistance>
+		<NRd>6770</NRd>
+		<MRd>2010</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>3.5</Length>
-		<Resistance>4600</Resistance>
+		<NRd>4600</NRd>
+		<MRd>1360</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>3.5</Length>
-		<Resistance>7150</Resistance>
+		<NRd>7150</NRd>
+		<MRd>2300</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>3.5</Length>
-		<Resistance>4820</Resistance>
+		<NRd>4820</NRd>
+		<MRd>1540</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>3.5</Length>
-		<Resistance>7420</Resistance>
+		<NRd>7420</NRd>
+		<MRd>2820</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>3.5</Length>
-		<Resistance>5300</Resistance>
+		<NRd>5300</NRd>
+		<MRd>1970</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>3.5</Length>
-		<Resistance>8090</Resistance>
+		<NRd>8090</NRd>
+		<MRd>3480</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>3.5</Length>
-		<Resistance>5950</Resistance>
+		<NRd>5950</NRd>
+		<MRd>2510</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>4</Length>
-		<Resistance>137</Resistance>
+		<NRd>137</NRd>
+		<MRd>21.9</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>4</Length>
-		<Resistance>95.5</Resistance>
+		<NRd>95.5</NRd>
+		<MRd>13.9</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>4</Length>
-		<Resistance>7890</Resistance>
+		<NRd>7890</NRd>
+		<MRd>3640</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>4</Length>
-		<Resistance>5900</Resistance>
+		<NRd>5900</NRd>
+		<MRd>2650</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>4</Length>
-		<Resistance>224</Resistance>
+		<NRd>224</NRd>
+		<MRd>31.8</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>4</Length>
-		<Resistance>157</Resistance>
+		<NRd>157</NRd>
+		<MRd>19.2</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>4</Length>
-		<Resistance>355</Resistance>
+		<NRd>355</NRd>
+		<MRd>47.7</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>4</Length>
-		<Resistance>252</Resistance>
+		<NRd>252</NRd>
+		<MRd>29.7</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>4</Length>
-		<Resistance>527</Resistance>
+		<NRd>527</NRd>
+		<MRd>70.4</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>4</Length>
-		<Resistance>411</Resistance>
+		<NRd>411</NRd>
+		<MRd>49.2</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>4</Length>
-		<Resistance>730</Resistance>
+		<NRd>730</NRd>
+		<MRd>96.2</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>4</Length>
-		<Resistance>580</Resistance>
+		<NRd>580</NRd>
+		<MRd>69.4</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>4</Length>
-		<Resistance>975</Resistance>
+		<NRd>975</NRd>
+		<MRd>132</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>4</Length>
-		<Resistance>788</Resistance>
+		<NRd>788</NRd>
+		<MRd>96.9</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>4</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>179</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>4</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>128</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>4</Length>
-		<Resistance>1680</Resistance>
+		<NRd>1680</NRd>
+		<MRd>241</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>4</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>168</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>4</Length>
-		<Resistance>2030</Resistance>
+		<NRd>2030</NRd>
+		<MRd>280</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>4</Length>
-		<Resistance>1590</Resistance>
+		<NRd>1590</NRd>
+		<MRd>216</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>4</Length>
-		<Resistance>2400</Resistance>
+		<NRd>2400</NRd>
+		<MRd>343</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>4</Length>
-		<Resistance>1900</Resistance>
+		<NRd>1900</NRd>
+		<MRd>268</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>4</Length>
-		<Resistance>2900</Resistance>
+		<NRd>2900</NRd>
+		<MRd>433</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>4</Length>
-		<Resistance>2250</Resistance>
+		<NRd>2250</NRd>
+		<MRd>332</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>4</Length>
-		<Resistance>3200</Resistance>
+		<NRd>3200</NRd>
+		<MRd>554</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>4</Length>
-		<Resistance>2380</Resistance>
+		<NRd>2380</NRd>
+		<MRd>371</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>4</Length>
-		<Resistance>3360</Resistance>
+		<NRd>3360</NRd>
+		<MRd>613</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>4</Length>
-		<Resistance>2520</Resistance>
+		<NRd>2520</NRd>
+		<MRd>415</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>4</Length>
-		<Resistance>3590</Resistance>
+		<NRd>3590</NRd>
+		<MRd>692</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>4</Length>
-		<Resistance>2660</Resistance>
+		<NRd>2660</NRd>
+		<MRd>460</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>4</Length>
-		<Resistance>4290</Resistance>
+		<NRd>4290</NRd>
+		<MRd>846</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>4</Length>
-		<Resistance>3170</Resistance>
+		<NRd>3170</NRd>
+		<MRd>559</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>4</Length>
-		<Resistance>4780</Resistance>
+		<NRd>4780</NRd>
+		<MRd>1060</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>4</Length>
-		<Resistance>3390</Resistance>
+		<NRd>3390</NRd>
+		<MRd>663</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>4</Length>
-		<Resistance>5290</Resistance>
+		<NRd>5290</NRd>
+		<MRd>1300</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>4</Length>
-		<Resistance>3610</Resistance>
+		<NRd>3610</NRd>
+		<MRd>776</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>4</Length>
-		<Resistance>5640</Resistance>
+		<NRd>5640</NRd>
+		<MRd>1520</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>4</Length>
-		<Resistance>3970</Resistance>
+		<NRd>3970</NRd>
+		<MRd>1030</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>4</Length>
-		<Resistance>5980</Resistance>
+		<NRd>5980</NRd>
+		<MRd>1750</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>4</Length>
-		<Resistance>4210</Resistance>
+		<NRd>4210</NRd>
+		<MRd>1180</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>4</Length>
-		<Resistance>6340</Resistance>
+		<NRd>6340</NRd>
+		<MRd>1930</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>4</Length>
-		<Resistance>4370</Resistance>
+		<NRd>4370</NRd>
+		<MRd>1300</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>4</Length>
-		<Resistance>6760</Resistance>
+		<NRd>6760</NRd>
+		<MRd>2200</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>4</Length>
-		<Resistance>4470</Resistance>
+		<NRd>4470</NRd>
+		<MRd>1470</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>4</Length>
-		<Resistance>6930</Resistance>
+		<NRd>6930</NRd>
+		<MRd>2690</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>4</Length>
-		<Resistance>4900</Resistance>
+		<NRd>4900</NRd>
+		<MRd>1860</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>4</Length>
-		<Resistance>7550</Resistance>
+		<NRd>7550</NRd>
+		<MRd>3320</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>4</Length>
-		<Resistance>5490</Resistance>
+		<NRd>5490</NRd>
+		<MRd>2380</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>5</Length>
-		<Resistance>92.4</Resistance>
+		<NRd>92.4</NRd>
+		<MRd>19.6</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>5</Length>
-		<Resistance>64.1</Resistance>
+		<NRd>64.1</NRd>
+		<MRd>12</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>5</Length>
-		<Resistance>6610</Resistance>
+		<NRd>6610</NRd>
+		<MRd>3160</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>5</Length>
-		<Resistance>4810</Resistance>
+		<NRd>4810</NRd>
+		<MRd>2250</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>5</Length>
-		<Resistance>153</Resistance>
+		<NRd>153</NRd>
+		<MRd>28.3</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>5</Length>
-		<Resistance>107</Resistance>
+		<NRd>107</NRd>
+		<MRd>16.7</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>5</Length>
-		<Resistance>248</Resistance>
+		<NRd>248</NRd>
+		<MRd>42.6</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>5</Length>
-		<Resistance>175</Resistance>
+		<NRd>175</NRd>
+		<MRd>25.9</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>5</Length>
-		<Resistance>375</Resistance>
+		<NRd>375</NRd>
+		<MRd>63.5</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>5</Length>
-		<Resistance>292</Resistance>
+		<NRd>292</NRd>
+		<MRd>43.8</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>5</Length>
-		<Resistance>534</Resistance>
+		<NRd>534</NRd>
+		<MRd>87</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>5</Length>
-		<Resistance>423</Resistance>
+		<NRd>423</NRd>
+		<MRd>62.2</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>5</Length>
-		<Resistance>731</Resistance>
+		<NRd>731</NRd>
+		<MRd>120</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>5</Length>
-		<Resistance>589</Resistance>
+		<NRd>589</NRd>
+		<MRd>88.1</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>5</Length>
-		<Resistance>1000</Resistance>
+		<NRd>1000</NRd>
+		<MRd>165</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>5</Length>
-		<Resistance>787</Resistance>
+		<NRd>787</NRd>
+		<MRd>117</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>5</Length>
-		<Resistance>1330</Resistance>
+		<NRd>1330</NRd>
+		<MRd>224</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>5</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>156</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>5</Length>
-		<Resistance>1650</Resistance>
+		<NRd>1650</NRd>
+		<MRd>264</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>5</Length>
-		<Resistance>1280</Resistance>
+		<NRd>1280</NRd>
+		<MRd>201</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>5</Length>
-		<Resistance>2000</Resistance>
+		<NRd>2000</NRd>
+		<MRd>325</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>5</Length>
-		<Resistance>1570</Resistance>
+		<NRd>1570</NRd>
+		<MRd>251</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>5</Length>
-		<Resistance>2460</Resistance>
+		<NRd>2460</NRd>
+		<MRd>412</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>5</Length>
-		<Resistance>1900</Resistance>
+		<NRd>1900</NRd>
+		<MRd>313</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>5</Length>
-		<Resistance>2720</Resistance>
+		<NRd>2720</NRd>
+		<MRd>524</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>5</Length>
-		<Resistance>2010</Resistance>
+		<NRd>2010</NRd>
+		<MRd>350</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>5</Length>
-		<Resistance>2860</Resistance>
+		<NRd>2860</NRd>
+		<MRd>581</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>5</Length>
-		<Resistance>2120</Resistance>
+		<NRd>2120</NRd>
+		<MRd>391</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>5</Length>
-		<Resistance>3050</Resistance>
+		<NRd>3050</NRd>
+		<MRd>655</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>5</Length>
-		<Resistance>2220</Resistance>
+		<NRd>2220</NRd>
+		<MRd>433</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>5</Length>
-		<Resistance>3700</Resistance>
+		<NRd>3700</NRd>
+		<MRd>800</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>5</Length>
-		<Resistance>2690</Resistance>
+		<NRd>2690</NRd>
+		<MRd>525</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>5</Length>
-		<Resistance>4120</Resistance>
+		<NRd>4120</NRd>
+		<MRd>1000</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>5</Length>
-		<Resistance>2850</Resistance>
+		<NRd>2850</NRd>
+		<MRd>621</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>5</Length>
-		<Resistance>4540</Resistance>
+		<NRd>4540</NRd>
+		<MRd>1220</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>5</Length>
-		<Resistance>3010</Resistance>
+		<NRd>3010</NRd>
+		<MRd>724</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>5</Length>
-		<Resistance>4820</Resistance>
+		<NRd>4820</NRd>
+		<MRd>1420</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>5</Length>
-		<Resistance>3290</Resistance>
+		<NRd>3290</NRd>
+		<MRd>947</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>5</Length>
-		<Resistance>5090</Resistance>
+		<NRd>5090</NRd>
+		<MRd>1640</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>5</Length>
-		<Resistance>3470</Resistance>
+		<NRd>3470</NRd>
+		<MRd>1090</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>5</Length>
-		<Resistance>5370</Resistance>
+		<NRd>5370</NRd>
+		<MRd>1760</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>5</Length>
-		<Resistance>3640</Resistance>
+		<NRd>3640</NRd>
+		<MRd>1160</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>5</Length>
-		<Resistance>5690</Resistance>
+		<NRd>5690</NRd>
+		<MRd>2000</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>5</Length>
-		<Resistance>3860</Resistance>
+		<NRd>3860</NRd>
+		<MRd>1310</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>5</Length>
-		<Resistance>6070</Resistance>
+		<NRd>6070</NRd>
+		<MRd>2440</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>5</Length>
-		<Resistance>4230</Resistance>
+		<NRd>4230</NRd>
+		<MRd>1650</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>5</Length>
-		<Resistance>6420</Resistance>
+		<NRd>6420</NRd>
+		<MRd>2990</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>5</Length>
-		<Resistance>4510</Resistance>
+		<NRd>4510</NRd>
+		<MRd>2100</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>6</Length>
-		<Resistance>66.2</Resistance>
+		<NRd>66.2</NRd>
+		<MRd>17.6</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>6</Length>
-		<Resistance>45.9</Resistance>
+		<NRd>45.9</NRd>
+		<MRd>10.6</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>6</Length>
-		<Resistance>5600</Resistance>
+		<NRd>5600</NRd>
+		<MRd>2740</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>6</Length>
-		<Resistance>4000</Resistance>
+		<NRd>4000</NRd>
+		<MRd>1910</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>6</Length>
-		<Resistance>111</Resistance>
+		<NRd>111</NRd>
+		<MRd>25.3</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>6</Length>
-		<Resistance>77.1</Resistance>
+		<NRd>77.1</NRd>
+		<MRd>14.7</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>6</Length>
-		<Resistance>181</Resistance>
+		<NRd>181</NRd>
+		<MRd>38.1</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>6</Length>
-		<Resistance>128</Resistance>
+		<NRd>128</NRd>
+		<MRd>22.7</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>6</Length>
-		<Resistance>277</Resistance>
+		<NRd>277</NRd>
+		<MRd>57.2</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>6</Length>
-		<Resistance>216</Resistance>
+		<NRd>216</NRd>
+		<MRd>39</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>6</Length>
-		<Resistance>400</Resistance>
+		<NRd>400</NRd>
+		<MRd>78.5</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>6</Length>
-		<Resistance>316</Resistance>
+		<NRd>316</NRd>
+		<MRd>55.5</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>6</Length>
-		<Resistance>555</Resistance>
+		<NRd>555</NRd>
+		<MRd>109</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>6</Length>
-		<Resistance>447</Resistance>
+		<NRd>447</NRd>
+		<MRd>79.5</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>6</Length>
-		<Resistance>776</Resistance>
+		<NRd>776</NRd>
+		<MRd>151</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>6</Length>
-		<Resistance>606</Resistance>
+		<NRd>606</NRd>
+		<MRd>106</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>6</Length>
-		<Resistance>1050</Resistance>
+		<NRd>1050</NRd>
+		<MRd>207</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>6</Length>
-		<Resistance>800</Resistance>
+		<NRd>800</NRd>
+		<MRd>143</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>6</Length>
-		<Resistance>1320</Resistance>
+		<NRd>1320</NRd>
+		<MRd>247</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>6</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>186</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>6</Length>
-		<Resistance>1630</Resistance>
+		<NRd>1630</NRd>
+		<MRd>306</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>6</Length>
-		<Resistance>1270</Resistance>
+		<NRd>1270</NRd>
+		<MRd>234</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>6</Length>
-		<Resistance>2050</Resistance>
+		<NRd>2050</NRd>
+		<MRd>390</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>6</Length>
-		<Resistance>1570</Resistance>
+		<NRd>1570</NRd>
+		<MRd>294</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>6</Length>
-		<Resistance>2260</Resistance>
+		<NRd>2260</NRd>
+		<MRd>494</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>6</Length>
-		<Resistance>1650</Resistance>
+		<NRd>1650</NRd>
+		<MRd>328</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>6</Length>
-		<Resistance>2390</Resistance>
+		<NRd>2390</NRd>
+		<MRd>548</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>6</Length>
-		<Resistance>1740</Resistance>
+		<NRd>1740</NRd>
+		<MRd>365</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>6</Length>
-		<Resistance>2540</Resistance>
+		<NRd>2540</NRd>
+		<MRd>617</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>6</Length>
-		<Resistance>1830</Resistance>
+		<NRd>1830</NRd>
+		<MRd>404</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>6</Length>
-		<Resistance>3090</Resistance>
+		<NRd>3090</NRd>
+		<MRd>751</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>6</Length>
-		<Resistance>2210</Resistance>
+		<NRd>2210</NRd>
+		<MRd>488</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>6</Length>
-		<Resistance>3430</Resistance>
+		<NRd>3430</NRd>
+		<MRd>937</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>6</Length>
-		<Resistance>2320</Resistance>
+		<NRd>2320</NRd>
+		<MRd>574</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>6</Length>
-		<Resistance>3770</Resistance>
+		<NRd>3770</NRd>
+		<MRd>1140</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>6</Length>
-		<Resistance>2440</Resistance>
+		<NRd>2440</NRd>
+		<MRd>666</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>6</Length>
-		<Resistance>3990</Resistance>
+		<NRd>3990</NRd>
+		<MRd>1320</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>6</Length>
-		<Resistance>2650</Resistance>
+		<NRd>2650</NRd>
+		<MRd>858</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>6</Length>
-		<Resistance>4190</Resistance>
+		<NRd>4190</NRd>
+		<MRd>1520</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>6</Length>
-		<Resistance>2780</Resistance>
+		<NRd>2780</NRd>
+		<MRd>980</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>6</Length>
-		<Resistance>4410</Resistance>
+		<NRd>4410</NRd>
+		<MRd>1600</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>6</Length>
-		<Resistance>2900</Resistance>
+		<NRd>2900</NRd>
+		<MRd>1020</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>6</Length>
-		<Resistance>4640</Resistance>
+		<NRd>4640</NRd>
+		<MRd>1810</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>6</Length>
-		<Resistance>3070</Resistance>
+		<NRd>3070</NRd>
+		<MRd>1160</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>6</Length>
-		<Resistance>4910</Resistance>
+		<NRd>4910</NRd>
+		<MRd>2190</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>6</Length>
-		<Resistance>3330</Resistance>
+		<NRd>3330</NRd>
+		<MRd>1450</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>6</Length>
-		<Resistance>5340</Resistance>
+		<NRd>5340</NRd>
+		<MRd>2670</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>6</Length>
-		<Resistance>3750</Resistance>
+		<NRd>3750</NRd>
+		<MRd>1830</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>7</Length>
-		<Resistance>49.7</Resistance>
+		<NRd>49.7</NRd>
+		<MRd>15.9</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>7</Length>
-		<Resistance>34.4</Resistance>
+		<NRd>34.4</NRd>
+		<MRd>9.35</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>7</Length>
-		<Resistance>4460</Resistance>
+		<NRd>4460</NRd>
+		<MRd>2380</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>7</Length>
-		<Resistance>3140</Resistance>
+		<NRd>3140</NRd>
+		<MRd>1630</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>7</Length>
-		<Resistance>83.7</Resistance>
+		<NRd>83.7</NRd>
+		<MRd>22.7</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>7</Length>
-		<Resistance>58.2</Resistance>
+		<NRd>58.2</NRd>
+		<MRd>13</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>7</Length>
-		<Resistance>137</Resistance>
+		<NRd>137</NRd>
+		<MRd>34.2</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>7</Length>
-		<Resistance>97</Resistance>
+		<NRd>97</NRd>
+		<MRd>20</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>7</Length>
-		<Resistance>211</Resistance>
+		<NRd>211</NRd>
+		<MRd>51.6</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>7</Length>
-		<Resistance>165</Resistance>
+		<NRd>165</NRd>
+		<MRd>34.9</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>7</Length>
-		<Resistance>308</Resistance>
+		<NRd>308</NRd>
+		<MRd>70.9</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>7</Length>
-		<Resistance>244</Resistance>
+		<NRd>244</NRd>
+		<MRd>49.7</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>7</Length>
-		<Resistance>432</Resistance>
+		<NRd>432</NRd>
+		<MRd>99.2</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>7</Length>
-		<Resistance>347</Resistance>
+		<NRd>347</NRd>
+		<MRd>71.8</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>7</Length>
-		<Resistance>610</Resistance>
+		<NRd>610</NRd>
+		<MRd>138</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>7</Length>
-		<Resistance>476</Resistance>
+		<NRd>476</NRd>
+		<MRd>96.3</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>7</Length>
-		<Resistance>834</Resistance>
+		<NRd>834</NRd>
+		<MRd>191</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>7</Length>
-		<Resistance>634</Resistance>
+		<NRd>634</NRd>
+		<MRd>130</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>7</Length>
-		<Resistance>1060</Resistance>
+		<NRd>1060</NRd>
+		<MRd>231</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>7</Length>
-		<Resistance>820</Resistance>
+		<NRd>820</NRd>
+		<MRd>172</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>7</Length>
-		<Resistance>1330</Resistance>
+		<NRd>1330</NRd>
+		<MRd>286</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>7</Length>
-		<Resistance>1030</Resistance>
+		<NRd>1030</NRd>
+		<MRd>216</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>7</Length>
-		<Resistance>1690</Resistance>
+		<NRd>1690</NRd>
+		<MRd>368</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>7</Length>
-		<Resistance>1290</Resistance>
+		<NRd>1290</NRd>
+		<MRd>274</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>7</Length>
-		<Resistance>1870</Resistance>
+		<NRd>1870</NRd>
+		<MRd>463</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>7</Length>
-		<Resistance>1360</Resistance>
+		<NRd>1360</NRd>
+		<MRd>305</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>7</Length>
-		<Resistance>1970</Resistance>
+		<NRd>1970</NRd>
+		<MRd>514</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>7</Length>
-		<Resistance>1420</Resistance>
+		<NRd>1420</NRd>
+		<MRd>338</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>7</Length>
-		<Resistance>2100</Resistance>
+		<NRd>2100</NRd>
+		<MRd>579</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>7</Length>
-		<Resistance>1490</Resistance>
+		<NRd>1490</NRd>
+		<MRd>374</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>7</Length>
-		<Resistance>2530</Resistance>
+		<NRd>2530</NRd>
+		<MRd>702</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>7</Length>
-		<Resistance>1790</Resistance>
+		<NRd>1790</NRd>
+		<MRd>450</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>7</Length>
-		<Resistance>2810</Resistance>
+		<NRd>2810</NRd>
+		<MRd>873</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>7</Length>
-		<Resistance>1880</Resistance>
+		<NRd>1880</NRd>
+		<MRd>526</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>7</Length>
-		<Resistance>3090</Resistance>
+		<NRd>3090</NRd>
+		<MRd>1060</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>7</Length>
-		<Resistance>1960</Resistance>
+		<NRd>1960</NRd>
+		<MRd>606</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>7</Length>
-		<Resistance>3250</Resistance>
+		<NRd>3250</NRd>
+		<MRd>1220</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>7</Length>
-		<Resistance>2120</Resistance>
+		<NRd>2120</NRd>
+		<MRd>768</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>7</Length>
-		<Resistance>3410</Resistance>
+		<NRd>3410</NRd>
+		<MRd>1400</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>7</Length>
-		<Resistance>2220</Resistance>
+		<NRd>2220</NRd>
+		<MRd>872</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>7</Length>
-		<Resistance>3580</Resistance>
+		<NRd>3580</NRd>
+		<MRd>1450</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>7</Length>
-		<Resistance>2310</Resistance>
+		<NRd>2310</NRd>
+		<MRd>893</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>7</Length>
-		<Resistance>3750</Resistance>
+		<NRd>3750</NRd>
+		<MRd>1630</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>7</Length>
-		<Resistance>2450</Resistance>
+		<NRd>2450</NRd>
+		<MRd>1010</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>7</Length>
-		<Resistance>3940</Resistance>
+		<NRd>3940</NRd>
+		<MRd>1950</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>7</Length>
-		<Resistance>2630</Resistance>
+		<NRd>2630</NRd>
+		<MRd>1260</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>7</Length>
-		<Resistance>4270</Resistance>
+		<NRd>4270</NRd>
+		<MRd>2370</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>7</Length>
-		<Resistance>2950</Resistance>
+		<NRd>2950</NRd>
+		<MRd>1590</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>8</Length>
-		<Resistance>38.7</Resistance>
+		<NRd>38.7</NRd>
+		<MRd>14.4</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>8</Length>
-		<Resistance>26.8</Resistance>
+		<NRd>26.8</NRd>
+		<MRd>8.39</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>8</Length>
-		<Resistance>3590</Resistance>
+		<NRd>3590</NRd>
+		<MRd>2090</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>8</Length>
-		<Resistance>2500</Resistance>
+		<NRd>2500</NRd>
+		<MRd>1400</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>8</Length>
-		<Resistance>65.3</Resistance>
+		<NRd>65.3</NRd>
+		<MRd>20.5</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>8</Length>
-		<Resistance>45.4</Resistance>
+		<NRd>45.4</NRd>
+		<MRd>11.6</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>8</Length>
-		<Resistance>108</Resistance>
+		<NRd>108</NRd>
+		<MRd>30.9</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>8</Length>
-		<Resistance>76</Resistance>
+		<NRd>76</NRd>
+		<MRd>17.9</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>8</Length>
-		<Resistance>166</Resistance>
+		<NRd>166</NRd>
+		<MRd>46.8</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>8</Length>
-		<Resistance>130</Resistance>
+		<NRd>130</NRd>
+		<MRd>31.4</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>8</Length>
-		<Resistance>244</Resistance>
+		<NRd>244</NRd>
+		<MRd>64.3</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>8</Length>
-		<Resistance>193</Resistance>
+		<NRd>193</NRd>
+		<MRd>44.6</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>8</Length>
-		<Resistance>344</Resistance>
+		<NRd>344</NRd>
+		<MRd>90.4</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>8</Length>
-		<Resistance>276</Resistance>
+		<NRd>276</NRd>
+		<MRd>65</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>8</Length>
-		<Resistance>489</Resistance>
+		<NRd>489</NRd>
+		<MRd>126</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>8</Length>
-		<Resistance>381</Resistance>
+		<NRd>381</NRd>
+		<MRd>87.2</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>8</Length>
-		<Resistance>673</Resistance>
+		<NRd>673</NRd>
+		<MRd>176</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>8</Length>
-		<Resistance>510</Resistance>
+		<NRd>510</NRd>
+		<MRd>119</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>8</Length>
-		<Resistance>866</Resistance>
+		<NRd>866</NRd>
+		<MRd>215</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>8</Length>
-		<Resistance>665</Resistance>
+		<NRd>665</NRd>
+		<MRd>158</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>8</Length>
-		<Resistance>1090</Resistance>
+		<NRd>1090</NRd>
+		<MRd>267</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>8</Length>
-		<Resistance>846</Resistance>
+		<NRd>846</NRd>
+		<MRd>199</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>8</Length>
-		<Resistance>1400</Resistance>
+		<NRd>1400</NRd>
+		<MRd>346</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>8</Length>
-		<Resistance>1060</Resistance>
+		<NRd>1060</NRd>
+		<MRd>254</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>8</Length>
-		<Resistance>1540</Resistance>
+		<NRd>1540</NRd>
+		<MRd>433</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>8</Length>
-		<Resistance>1120</Resistance>
+		<NRd>1120</NRd>
+		<MRd>282</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>8</Length>
-		<Resistance>1640</Resistance>
+		<NRd>1640</NRd>
+		<MRd>481</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>8</Length>
-		<Resistance>1170</Resistance>
+		<NRd>1170</NRd>
+		<MRd>312</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>8</Length>
-		<Resistance>1740</Resistance>
+		<NRd>1740</NRd>
+		<MRd>541</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>8</Length>
-		<Resistance>1230</Resistance>
+		<NRd>1230</NRd>
+		<MRd>345</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>8</Length>
-		<Resistance>2080</Resistance>
+		<NRd>2080</NRd>
+		<MRd>654</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>8</Length>
-		<Resistance>1460</Resistance>
+		<NRd>1460</NRd>
+		<MRd>413</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>8</Length>
-		<Resistance>2300</Resistance>
+		<NRd>2300</NRd>
+		<MRd>810</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>8</Length>
-		<Resistance>1520</Resistance>
+		<NRd>1520</NRd>
+		<MRd>478</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>8</Length>
-		<Resistance>2530</Resistance>
+		<NRd>2530</NRd>
+		<MRd>983</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>8</Length>
-		<Resistance>1590</Resistance>
+		<NRd>1590</NRd>
+		<MRd>548</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>8</Length>
-		<Resistance>2660</Resistance>
+		<NRd>2660</NRd>
+		<MRd>1130</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>8</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>684</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>8</Length>
-		<Resistance>2780</Resistance>
+		<NRd>2780</NRd>
+		<MRd>1280</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>8</Length>
-		<Resistance>1790</Resistance>
+		<NRd>1790</NRd>
+		<MRd>771</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>8</Length>
-		<Resistance>2910</Resistance>
+		<NRd>2910</NRd>
+		<MRd>1310</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>8</Length>
-		<Resistance>1860</Resistance>
+		<NRd>1860</NRd>
+		<MRd>783</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>8</Length>
-		<Resistance>3050</Resistance>
+		<NRd>3050</NRd>
+		<MRd>1470</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>8</Length>
-		<Resistance>1970</Resistance>
+		<NRd>1970</NRd>
+		<MRd>888</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>8</Length>
-		<Resistance>3190</Resistance>
+		<NRd>3190</NRd>
+		<MRd>1740</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>8</Length>
-		<Resistance>2110</Resistance>
+		<NRd>2110</NRd>
+		<MRd>1100</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>8</Length>
-		<Resistance>3450</Resistance>
+		<NRd>3450</NRd>
+		<MRd>2100</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>8</Length>
-		<Resistance>2360</Resistance>
+		<NRd>2360</NRd>
+		<MRd>1380</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>9</Length>
-		<Resistance>30.9</Resistance>
+		<NRd>30.9</NRd>
+		<MRd>13.1</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>9</Length>
-		<Resistance>21.4</Resistance>
+		<NRd>21.4</NRd>
+		<MRd>7.6</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>9</Length>
-		<Resistance>2930</Resistance>
+		<NRd>2930</NRd>
+		<MRd>1850</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>9</Length>
-		<Resistance>2040</Resistance>
+		<NRd>2040</NRd>
+		<MRd>1220</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>9</Length>
-		<Resistance>52.4</Resistance>
+		<NRd>52.4</NRd>
+		<MRd>18.6</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>9</Length>
-		<Resistance>36.4</Resistance>
+		<NRd>36.4</NRd>
+		<MRd>10.5</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>9</Length>
-		<Resistance>86.6</Resistance>
+		<NRd>86.6</NRd>
+		<MRd>28.1</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>9</Length>
-		<Resistance>61.1</Resistance>
+		<NRd>61.1</NRd>
+		<MRd>16.1</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>9</Length>
-		<Resistance>134</Resistance>
+		<NRd>134</NRd>
+		<MRd>42.7</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>9</Length>
-		<Resistance>105</Resistance>
+		<NRd>105</NRd>
+		<MRd>28.4</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>9</Length>
-		<Resistance>198</Resistance>
+		<NRd>198</NRd>
+		<MRd>58.6</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>9</Length>
-		<Resistance>156</Resistance>
+		<NRd>156</NRd>
+		<MRd>40.4</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>9</Length>
-		<Resistance>279</Resistance>
+		<NRd>279</NRd>
+		<MRd>82.7</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>9</Length>
-		<Resistance>224</Resistance>
+		<NRd>224</NRd>
+		<MRd>59.1</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>9</Length>
-		<Resistance>399</Resistance>
+		<NRd>399</NRd>
+		<MRd>116</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>9</Length>
-		<Resistance>310</Resistance>
+		<NRd>310</NRd>
+		<MRd>79.3</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>9</Length>
-		<Resistance>552</Resistance>
+		<NRd>552</NRd>
+		<MRd>163</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>9</Length>
-		<Resistance>418</Resistance>
+		<NRd>418</NRd>
+		<MRd>109</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>9</Length>
-		<Resistance>714</Resistance>
+		<NRd>714</NRd>
+		<MRd>201</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>9</Length>
-		<Resistance>548</Resistance>
+		<NRd>548</NRd>
+		<MRd>145</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>9</Length>
-		<Resistance>905</Resistance>
+		<NRd>905</NRd>
+		<MRd>250</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>9</Length>
-		<Resistance>700</Resistance>
+		<NRd>700</NRd>
+		<MRd>183</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>9</Length>
-		<Resistance>1170</Resistance>
+		<NRd>1170</NRd>
+		<MRd>325</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>9</Length>
-		<Resistance>885</Resistance>
+		<NRd>885</NRd>
+		<MRd>235</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>9</Length>
-		<Resistance>1290</Resistance>
+		<NRd>1290</NRd>
+		<MRd>404</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>9</Length>
-		<Resistance>929</Resistance>
+		<NRd>929</NRd>
+		<MRd>261</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>9</Length>
-		<Resistance>1370</Resistance>
+		<NRd>1370</NRd>
+		<MRd>449</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>9</Length>
-		<Resistance>974</Resistance>
+		<NRd>974</NRd>
+		<MRd>288</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>9</Length>
-		<Resistance>1450</Resistance>
+		<NRd>1450</NRd>
+		<MRd>505</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>9</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>317</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>9</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>608</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>9</Length>
-		<Resistance>1200</Resistance>
+		<NRd>1200</NRd>
+		<MRd>378</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>9</Length>
-		<Resistance>1900</Resistance>
+		<NRd>1900</NRd>
+		<MRd>750</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>9</Length>
-		<Resistance>1250</Resistance>
+		<NRd>1250</NRd>
+		<MRd>435</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>9</Length>
-		<Resistance>2090</Resistance>
+		<NRd>2090</NRd>
+		<MRd>908</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>9</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>495</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>9</Length>
-		<Resistance>2190</Resistance>
+		<NRd>2190</NRd>
+		<MRd>1030</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>9</Length>
-		<Resistance>1410</Resistance>
+		<NRd>1410</NRd>
+		<MRd>608</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>9</Length>
-		<Resistance>2290</Resistance>
+		<NRd>2290</NRd>
+		<MRd>1170</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>9</Length>
-		<Resistance>1460</Resistance>
+		<NRd>1460</NRd>
+		<MRd>682</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>9</Length>
-		<Resistance>2400</Resistance>
+		<NRd>2400</NRd>
+		<MRd>1190</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>9</Length>
-		<Resistance>1520</Resistance>
+		<NRd>1520</NRd>
+		<MRd>690</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>9</Length>
-		<Resistance>2500</Resistance>
+		<NRd>2500</NRd>
+		<MRd>1330</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>9</Length>
-		<Resistance>1610</Resistance>
+		<NRd>1610</NRd>
+		<MRd>782</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>9</Length>
-		<Resistance>2620</Resistance>
+		<NRd>2620</NRd>
+		<MRd>1560</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>9</Length>
-		<Resistance>1720</Resistance>
+		<NRd>1720</NRd>
+		<MRd>958</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>9</Length>
-		<Resistance>2820</Resistance>
+		<NRd>2820</NRd>
+		<MRd>1870</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>9</Length>
-		<Resistance>1930</Resistance>
+		<NRd>1930</NRd>
+		<MRd>1200</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>10</Length>
-		<Resistance>25.3</Resistance>
+		<NRd>25.3</NRd>
+		<MRd>12.1</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>10</Length>
-		<Resistance>17.5</Resistance>
+		<NRd>17.5</NRd>
+		<MRd>6.83</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>10</Length>
-		<Resistance>2440</Resistance>
+		<NRd>2440</NRd>
+		<MRd>1650</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>10</Length>
-		<Resistance>1680</Resistance>
+		<NRd>1680</NRd>
+		<MRd>1080</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>10</Length>
-		<Resistance>42.9</Resistance>
+		<NRd>42.9</NRd>
+		<MRd>17.1</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>10</Length>
-		<Resistance>29.8</Resistance>
+		<NRd>29.8</NRd>
+		<MRd>9.57</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>10</Length>
-		<Resistance>71.1</Resistance>
+		<NRd>71.1</NRd>
+		<MRd>25.7</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>10</Length>
-		<Resistance>50.2</Resistance>
+		<NRd>50.2</NRd>
+		<MRd>14.7</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>10</Length>
-		<Resistance>111</Resistance>
+		<NRd>111</NRd>
+		<MRd>39.1</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>10</Length>
-		<Resistance>86.2</Resistance>
+		<NRd>86.2</NRd>
+		<MRd>25.9</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>10</Length>
-		<Resistance>163</Resistance>
+		<NRd>163</NRd>
+		<MRd>53.7</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>10</Length>
-		<Resistance>129</Resistance>
+		<NRd>129</NRd>
+		<MRd>36.8</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>10</Length>
-		<Resistance>231</Resistance>
+		<NRd>231</NRd>
+		<MRd>76</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>10</Length>
-		<Resistance>185</Resistance>
+		<NRd>185</NRd>
+		<MRd>54</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>10</Length>
-		<Resistance>331</Resistance>
+		<NRd>331</NRd>
+		<MRd>107</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>10</Length>
-		<Resistance>258</Resistance>
+		<NRd>258</NRd>
+		<MRd>72.5</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>10</Length>
-		<Resistance>460</Resistance>
+		<NRd>460</NRd>
+		<MRd>150</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>10</Length>
-		<Resistance>348</Resistance>
+		<NRd>348</NRd>
+		<MRd>99.9</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>10</Length>
-		<Resistance>597</Resistance>
+		<NRd>597</NRd>
+		<MRd>187</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>10</Length>
-		<Resistance>457</Resistance>
+		<NRd>457</NRd>
+		<MRd>133</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>10</Length>
-		<Resistance>760</Resistance>
+		<NRd>760</NRd>
+		<MRd>233</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>10</Length>
-		<Resistance>587</Resistance>
+		<NRd>587</NRd>
+		<MRd>169</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>10</Length>
-		<Resistance>984</Resistance>
+		<NRd>984</NRd>
+		<MRd>305</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>10</Length>
-		<Resistance>745</Resistance>
+		<NRd>745</NRd>
+		<MRd>218</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>10</Length>
-		<Resistance>1090</Resistance>
+		<NRd>1090</NRd>
+		<MRd>377</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>10</Length>
-		<Resistance>782</Resistance>
+		<NRd>782</NRd>
+		<MRd>241</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>10</Length>
-		<Resistance>1150</Resistance>
+		<NRd>1150</NRd>
+		<MRd>420</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>10</Length>
-		<Resistance>819</Resistance>
+		<NRd>819</NRd>
+		<MRd>265</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>10</Length>
-		<Resistance>1230</Resistance>
+		<NRd>1230</NRd>
+		<MRd>471</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>10</Length>
-		<Resistance>857</Resistance>
+		<NRd>857</NRd>
+		<MRd>292</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>10</Length>
-		<Resistance>1440</Resistance>
+		<NRd>1440</NRd>
+		<MRd>566</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>10</Length>
-		<Resistance>1000</Resistance>
+		<NRd>1000</NRd>
+		<MRd>346</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>10</Length>
-		<Resistance>1590</Resistance>
+		<NRd>1590</NRd>
+		<MRd>696</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>10</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>395</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>10</Length>
-		<Resistance>1750</Resistance>
+		<NRd>1750</NRd>
+		<MRd>840</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>10</Length>
-		<Resistance>1090</Resistance>
+		<NRd>1090</NRd>
+		<MRd>447</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>10</Length>
-		<Resistance>1830</Resistance>
+		<NRd>1830</NRd>
+		<MRd>951</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>10</Length>
-		<Resistance>1170</Resistance>
+		<NRd>1170</NRd>
+		<MRd>544</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>10</Length>
-		<Resistance>1910</Resistance>
+		<NRd>1910</NRd>
+		<MRd>1070</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>10</Length>
-		<Resistance>1220</Resistance>
+		<NRd>1220</NRd>
+		<MRd>606</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>10</Length>
-		<Resistance>2000</Resistance>
+		<NRd>2000</NRd>
+		<MRd>1080</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>10</Length>
-		<Resistance>1260</Resistance>
+		<NRd>1260</NRd>
+		<MRd>612</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>10</Length>
-		<Resistance>2090</Resistance>
+		<NRd>2090</NRd>
+		<MRd>1200</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>10</Length>
-		<Resistance>1340</Resistance>
+		<NRd>1340</NRd>
+		<MRd>693</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>10</Length>
-		<Resistance>2180</Resistance>
+		<NRd>2180</NRd>
+		<MRd>1410</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>10</Length>
-		<Resistance>1430</Resistance>
+		<NRd>1430</NRd>
+		<MRd>844</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>10</Length>
-		<Resistance>2350</Resistance>
+		<NRd>2350</NRd>
+		<MRd>1680</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>10</Length>
-		<Resistance>1600</Resistance>
+		<NRd>1600</NRd>
+		<MRd>1050</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>11</Length>
-		<Resistance>21.1</Resistance>
+		<NRd>21.1</NRd>
+		<MRd>11.2</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>11</Length>
-		<Resistance>14.6</Resistance>
+		<NRd>14.6</NRd>
+		<MRd>6.2</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>11</Length>
-		<Resistance>2050</Resistance>
+		<NRd>2050</NRd>
+		<MRd>1480</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>11</Length>
-		<Resistance>1420</Resistance>
+		<NRd>1420</NRd>
+		<MRd>963</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>11</Length>
-		<Resistance>35.8</Resistance>
+		<NRd>35.8</NRd>
+		<MRd>15.9</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>11</Length>
-		<Resistance>24.9</Resistance>
+		<NRd>24.9</NRd>
+		<MRd>8.67</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>11</Length>
-		<Resistance>59.5</Resistance>
+		<NRd>59.5</NRd>
+		<MRd>23.8</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>11</Length>
-		<Resistance>41.9</Resistance>
+		<NRd>41.9</NRd>
+		<MRd>13.3</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>11</Length>
-		<Resistance>92.6</Resistance>
+		<NRd>92.6</NRd>
+		<MRd>36.1</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>11</Length>
-		<Resistance>72.2</Resistance>
+		<NRd>72.2</NRd>
+		<MRd>23.9</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>11</Length>
-		<Resistance>137</Resistance>
+		<NRd>137</NRd>
+		<MRd>49.4</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>11</Length>
-		<Resistance>108</Resistance>
+		<NRd>108</NRd>
+		<MRd>33.9</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>11</Length>
-		<Resistance>194</Resistance>
+		<NRd>194</NRd>
+		<MRd>70.1</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>11</Length>
-		<Resistance>156</Resistance>
+		<NRd>156</NRd>
+		<MRd>49.6</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>11</Length>
-		<Resistance>279</Resistance>
+		<NRd>279</NRd>
+		<MRd>98.6</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>11</Length>
-		<Resistance>217</Resistance>
+		<NRd>217</NRd>
+		<MRd>66.5</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>11</Length>
-		<Resistance>389</Resistance>
+		<NRd>389</NRd>
+		<MRd>140</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>11</Length>
-		<Resistance>294</Resistance>
+		<NRd>294</NRd>
+		<MRd>92.1</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>11</Length>
-		<Resistance>506</Resistance>
+		<NRd>506</NRd>
+		<MRd>175</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>11</Length>
-		<Resistance>387</Resistance>
+		<NRd>387</NRd>
+		<MRd>123</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>11</Length>
-		<Resistance>646</Resistance>
+		<NRd>646</NRd>
+		<MRd>218</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>11</Length>
-		<Resistance>499</Resistance>
+		<NRd>499</NRd>
+		<MRd>156</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>11</Length>
-		<Resistance>838</Resistance>
+		<NRd>838</NRd>
+		<MRd>286</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>11</Length>
-		<Resistance>634</Resistance>
+		<NRd>634</NRd>
+		<MRd>202</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>11</Length>
-		<Resistance>927</Resistance>
+		<NRd>927</NRd>
+		<MRd>352</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>11</Length>
-		<Resistance>665</Resistance>
+		<NRd>665</NRd>
+		<MRd>223</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>11</Length>
-		<Resistance>984</Resistance>
+		<NRd>984</NRd>
+		<MRd>392</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>11</Length>
-		<Resistance>697</Resistance>
+		<NRd>697</NRd>
+		<MRd>245</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>11</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>440</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>11</Length>
-		<Resistance>728</Resistance>
+		<NRd>728</NRd>
+		<MRd>269</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>11</Length>
-		<Resistance>1220</Resistance>
+		<NRd>1220</NRd>
+		<MRd>527</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>11</Length>
-		<Resistance>845</Resistance>
+		<NRd>845</NRd>
+		<MRd>318</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>11</Length>
-		<Resistance>1350</Resistance>
+		<NRd>1350</NRd>
+		<MRd>646</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>11</Length>
-		<Resistance>881</Resistance>
+		<NRd>881</NRd>
+		<MRd>360</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>11</Length>
-		<Resistance>1480</Resistance>
+		<NRd>1480</NRd>
+		<MRd>777</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>11</Length>
-		<Resistance>917</Resistance>
+		<NRd>917</NRd>
+		<MRd>406</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>11</Length>
-		<Resistance>1550</Resistance>
+		<NRd>1550</NRd>
+		<MRd>876</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>11</Length>
-		<Resistance>985</Resistance>
+		<NRd>985</NRd>
+		<MRd>489</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>11</Length>
-		<Resistance>1620</Resistance>
+		<NRd>1620</NRd>
+		<MRd>980</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>11</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>543</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>11</Length>
-		<Resistance>1690</Resistance>
+		<NRd>1690</NRd>
+		<MRd>988</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>11</Length>
-		<Resistance>1060</Resistance>
+		<NRd>1060</NRd>
+		<MRd>549</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>11</Length>
-		<Resistance>1760</Resistance>
+		<NRd>1760</NRd>
+		<MRd>1100</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>11</Length>
-		<Resistance>1130</Resistance>
+		<NRd>1130</NRd>
+		<MRd>621</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>11</Length>
-		<Resistance>1840</Resistance>
+		<NRd>1840</NRd>
+		<MRd>1270</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>11</Length>
-		<Resistance>1200</Resistance>
+		<NRd>1200</NRd>
+		<MRd>757</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>11</Length>
-		<Resistance>1980</Resistance>
+		<NRd>1980</NRd>
+		<MRd>1520</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>11</Length>
-		<Resistance>1340</Resistance>
+		<NRd>1340</NRd>
+		<MRd>943</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>12</Length>
-		<Resistance>17.8</Resistance>
+		<NRd>17.8</NRd>
+		<MRd>10.3</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>12</Length>
-		<Resistance>12.3</Resistance>
+		<NRd>12.3</NRd>
+		<MRd>5.67</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>12</Length>
-		<Resistance>1750</Resistance>
+		<NRd>1750</NRd>
+		<MRd>1360</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>12</Length>
-		<Resistance>1200</Resistance>
+		<NRd>1200</NRd>
+		<MRd>872</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>12</Length>
-		<Resistance>30.4</Resistance>
+		<NRd>30.4</NRd>
+		<MRd>14.5</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>12</Length>
-		<Resistance>21.1</Resistance>
+		<NRd>21.1</NRd>
+		<MRd>7.93</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>12</Length>
-		<Resistance>50.4</Resistance>
+		<NRd>50.4</NRd>
+		<MRd>22</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>12</Length>
-		<Resistance>35.6</Resistance>
+		<NRd>35.6</NRd>
+		<MRd>12.1</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>12</Length>
-		<Resistance>78.6</Resistance>
+		<NRd>78.6</NRd>
+		<MRd>33.7</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>12</Length>
-		<Resistance>61.3</Resistance>
+		<NRd>61.3</NRd>
+		<MRd>22.1</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>12</Length>
-		<Resistance>116</Resistance>
+		<NRd>116</NRd>
+		<MRd>46</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>12</Length>
-		<Resistance>91.9</Resistance>
+		<NRd>91.9</NRd>
+		<MRd>31.4</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>12</Length>
-		<Resistance>166</Resistance>
+		<NRd>166</NRd>
+		<MRd>65</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>12</Length>
-		<Resistance>133</Resistance>
+		<NRd>133</NRd>
+		<MRd>46</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>12</Length>
-		<Resistance>238</Resistance>
+		<NRd>238</NRd>
+		<MRd>91.5</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>12</Length>
-		<Resistance>185</Resistance>
+		<NRd>185</NRd>
+		<MRd>61.4</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>12</Length>
-		<Resistance>332</Resistance>
+		<NRd>332</NRd>
+		<MRd>130</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>12</Length>
-		<Resistance>251</Resistance>
+		<NRd>251</NRd>
+		<MRd>85.2</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>12</Length>
-		<Resistance>434</Resistance>
+		<NRd>434</NRd>
+		<MRd>164</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>12</Length>
-		<Resistance>332</Resistance>
+		<NRd>332</NRd>
+		<MRd>114</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>12</Length>
-		<Resistance>555</Resistance>
+		<NRd>555</NRd>
+		<MRd>204</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>12</Length>
-		<Resistance>428</Resistance>
+		<NRd>428</NRd>
+		<MRd>145</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>12</Length>
-		<Resistance>722</Resistance>
+		<NRd>722</NRd>
+		<MRd>269</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>12</Length>
-		<Resistance>545</Resistance>
+		<NRd>545</NRd>
+		<MRd>188</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>12</Length>
-		<Resistance>798</Resistance>
+		<NRd>798</NRd>
+		<MRd>330</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>12</Length>
-		<Resistance>572</Resistance>
+		<NRd>572</NRd>
+		<MRd>207</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>12</Length>
-		<Resistance>847</Resistance>
+		<NRd>847</NRd>
+		<MRd>368</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>12</Length>
-		<Resistance>599</Resistance>
+		<NRd>599</NRd>
+		<MRd>227</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>12</Length>
-		<Resistance>900</Resistance>
+		<NRd>900</NRd>
+		<MRd>412</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>12</Length>
-		<Resistance>626</Resistance>
+		<NRd>626</NRd>
+		<MRd>248</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>12</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>492</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>12</Length>
-		<Resistance>723</Resistance>
+		<NRd>723</NRd>
+		<MRd>293</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>12</Length>
-		<Resistance>1160</Resistance>
+		<NRd>1160</NRd>
+		<MRd>601</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>12</Length>
-		<Resistance>752</Resistance>
+		<NRd>752</NRd>
+		<MRd>330</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>12</Length>
-		<Resistance>1270</Resistance>
+		<NRd>1270</NRd>
+		<MRd>722</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>12</Length>
-		<Resistance>783</Resistance>
+		<NRd>783</NRd>
+		<MRd>370</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>12</Length>
-		<Resistance>1330</Resistance>
+		<NRd>1330</NRd>
+		<MRd>810</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>12</Length>
-		<Resistance>841</Resistance>
+		<NRd>841</NRd>
+		<MRd>444</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>12</Length>
-		<Resistance>1380</Resistance>
+		<NRd>1380</NRd>
+		<MRd>903</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>12</Length>
-		<Resistance>874</Resistance>
+		<NRd>874</NRd>
+		<MRd>493</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>12</Length>
-		<Resistance>1440</Resistance>
+		<NRd>1440</NRd>
+		<MRd>908</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>12</Length>
-		<Resistance>905</Resistance>
+		<NRd>905</NRd>
+		<MRd>499</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>12</Length>
-		<Resistance>1510</Resistance>
+		<NRd>1510</NRd>
+		<MRd>1010</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>12</Length>
-		<Resistance>960</Resistance>
+		<NRd>960</NRd>
+		<MRd>564</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>12</Length>
-		<Resistance>1570</Resistance>
+		<NRd>1570</NRd>
+		<MRd>1160</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>12</Length>
-		<Resistance>1020</Resistance>
+		<NRd>1020</NRd>
+		<MRd>685</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>12</Length>
-		<Resistance>1690</Resistance>
+		<NRd>1690</NRd>
+		<MRd>1380</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>12</Length>
-		<Resistance>1140</Resistance>
+		<NRd>1140</NRd>
+		<MRd>852</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>13</Length>
-		<Resistance>15.3</Resistance>
+		<NRd>15.3</NRd>
+		<MRd>9.49</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>13</Length>
-		<Resistance>10.6</Resistance>
+		<NRd>10.6</NRd>
+		<MRd>5.23</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>13</Length>
-		<Resistance>1510</Resistance>
+		<NRd>1510</NRd>
+		<MRd>1250</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>13</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>795</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>13</Length>
-		<Resistance>26</Resistance>
+		<NRd>26</NRd>
+		<MRd>13.4</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>13</Length>
-		<Resistance>18.1</Resistance>
+		<NRd>18.1</NRd>
+		<MRd>7.3</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>13</Length>
-		<Resistance>43.3</Resistance>
+		<NRd>43.3</NRd>
+		<MRd>20.3</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>13</Length>
-		<Resistance>30.5</Resistance>
+		<NRd>30.5</NRd>
+		<MRd>11.2</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>13</Length>
-		<Resistance>67.6</Resistance>
+		<NRd>67.6</NRd>
+		<MRd>31.3</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>13</Length>
-		<Resistance>52.7</Resistance>
+		<NRd>52.7</NRd>
+		<MRd>20.3</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>13</Length>
-		<Resistance>100</Resistance>
+		<NRd>100</NRd>
+		<MRd>43</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>13</Length>
-		<Resistance>79.1</Resistance>
+		<NRd>79.1</NRd>
+		<MRd>28.9</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>13</Length>
-		<Resistance>143</Resistance>
+		<NRd>143</NRd>
+		<MRd>60.8</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>13</Length>
-		<Resistance>114</Resistance>
+		<NRd>114</NRd>
+		<MRd>42.9</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>13</Length>
-		<Resistance>206</Resistance>
+		<NRd>206</NRd>
+		<MRd>85.2</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>13</Length>
-		<Resistance>160</Resistance>
+		<NRd>160</NRd>
+		<MRd>57.3</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>13</Length>
-		<Resistance>287</Resistance>
+		<NRd>287</NRd>
+		<MRd>121</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>13</Length>
-		<Resistance>217</Resistance>
+		<NRd>217</NRd>
+		<MRd>79.2</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>13</Length>
-		<Resistance>376</Resistance>
+		<NRd>376</NRd>
+		<MRd>154</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>13</Length>
-		<Resistance>287</Resistance>
+		<NRd>287</NRd>
+		<MRd>106</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>13</Length>
-		<Resistance>481</Resistance>
+		<NRd>481</NRd>
+		<MRd>191</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>13</Length>
-		<Resistance>371</Resistance>
+		<NRd>371</NRd>
+		<MRd>134</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>13</Length>
-		<Resistance>627</Resistance>
+		<NRd>627</NRd>
+		<MRd>253</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>13</Length>
-		<Resistance>474</Resistance>
+		<NRd>474</NRd>
+		<MRd>175</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>13</Length>
-		<Resistance>694</Resistance>
+		<NRd>694</NRd>
+		<MRd>309</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>13</Length>
-		<Resistance>497</Resistance>
+		<NRd>497</NRd>
+		<MRd>192</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>13</Length>
-		<Resistance>737</Resistance>
+		<NRd>737</NRd>
+		<MRd>345</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>13</Length>
-		<Resistance>520</Resistance>
+		<NRd>520</NRd>
+		<MRd>211</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>13</Length>
-		<Resistance>783</Resistance>
+		<NRd>783</NRd>
+		<MRd>386</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>13</Length>
-		<Resistance>543</Resistance>
+		<NRd>543</NRd>
+		<MRd>231</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>13</Length>
-		<Resistance>903</Resistance>
+		<NRd>903</NRd>
+		<MRd>460</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>13</Length>
-		<Resistance>624</Resistance>
+		<NRd>624</NRd>
+		<MRd>271</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>13</Length>
-		<Resistance>999</Resistance>
+		<NRd>999</NRd>
+		<MRd>561</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>13</Length>
-		<Resistance>650</Resistance>
+		<NRd>650</NRd>
+		<MRd>304</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>13</Length>
-		<Resistance>1090</Resistance>
+		<NRd>1090</NRd>
+		<MRd>672</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>13</Length>
-		<Resistance>676</Resistance>
+		<NRd>676</NRd>
+		<MRd>339</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>13</Length>
-		<Resistance>1150</Resistance>
+		<NRd>1150</NRd>
+		<MRd>752</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>13</Length>
-		<Resistance>726</Resistance>
+		<NRd>726</NRd>
+		<MRd>406</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>13</Length>
-		<Resistance>1200</Resistance>
+		<NRd>1200</NRd>
+		<MRd>835</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>13</Length>
-		<Resistance>754</Resistance>
+		<NRd>754</NRd>
+		<MRd>445</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>13</Length>
-		<Resistance>1250</Resistance>
+		<NRd>1250</NRd>
+		<MRd>839</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>13</Length>
-		<Resistance>780</Resistance>
+		<NRd>780</NRd>
+		<MRd>457</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>13</Length>
-		<Resistance>1300</Resistance>
+		<NRd>1300</NRd>
+		<MRd>930</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>13</Length>
-		<Resistance>828</Resistance>
+		<NRd>828</NRd>
+		<MRd>516</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>13</Length>
-		<Resistance>1360</Resistance>
+		<NRd>1360</NRd>
+		<MRd>1070</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>13</Length>
-		<Resistance>882</Resistance>
+		<NRd>882</NRd>
+		<MRd>625</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>13</Length>
-		<Resistance>1460</Resistance>
+		<NRd>1460</NRd>
+		<MRd>1270</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>13</Length>
-		<Resistance>984</Resistance>
+		<NRd>984</NRd>
+		<MRd>776</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 A</Name>
 		<Weight>16.7</Weight>
 		<Length>14</Length>
-		<Resistance>13.2</Resistance>
+		<NRd>13.2</NRd>
+		<MRd>8.81</MRd>
+		<VRd>154</VRd>
+		<Inertia>349</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 100 AA</Name>
 		<Weight>12.2</Weight>
 		<Length>14</Length>
-		<Resistance>9.15</Resistance>
+		<NRd>9.15</NRd>
+		<MRd>4.85</MRd>
+		<VRd>126</VRd>
+		<Inertia>236</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 A*</Name>
 		<Weight>272</Weight>
 		<Length>14</Length>
-		<Resistance>1310</Resistance>
+		<NRd>1310</NRd>
+		<MRd>1160</MRd>
+		<VRd>3680</VRd>
+		<Inertia>554000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 1000 AA*</Name>
 		<Weight>222</Weight>
 		<Length>14</Length>
-		<Resistance>902</Resistance>
+		<NRd>902</NRd>
+		<MRd>731</MRd>
+		<VRd>3430</VRd>
+		<Inertia>406000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 A</Name>
 		<Weight>19.9</Weight>
 		<Length>14</Length>
-		<Resistance>22.6</Resistance>
+		<NRd>22.6</NRd>
+		<MRd>12.4</MRd>
+		<VRd>173</VRd>
+		<Inertia>606</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 120 AA</Name>
 		<Weight>14.6</Weight>
 		<Length>14</Length>
-		<Resistance>15.7</Resistance>
+		<NRd>15.7</NRd>
+		<MRd>6.77</MRd>
+		<VRd>142</VRd>
+		<Inertia>413</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 A</Name>
 		<Weight>24.7</Weight>
 		<Length>14</Length>
-		<Resistance>37.6</Resistance>
+		<NRd>37.6</NRd>
+		<MRd>18.8</MRd>
+		<VRd>207</VRd>
+		<Inertia>1030</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 140 AA</Name>
 		<Weight>18.1</Weight>
 		<Length>14</Length>
-		<Resistance>26.5</Resistance>
+		<NRd>26.5</NRd>
+		<MRd>10.3</MRd>
+		<VRd>162</VRd>
+		<Inertia>720</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 A</Name>
 		<Weight>30.4</Weight>
 		<Length>14</Length>
-		<Resistance>58.7</Resistance>
+		<NRd>58.7</NRd>
+		<MRd>29</MRd>
+		<VRd>271</VRd>
+		<Inertia>1670</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 160 AA</Name>
 		<Weight>23.8</Weight>
 		<Length>14</Length>
-		<Resistance>45.8</Resistance>
+		<NRd>45.8</NRd>
+		<MRd>18.8</MRd>
+		<VRd>213</VRd>
+		<Inertia>1280</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 A</Name>
 		<Weight>35.5</Weight>
 		<Length>14</Length>
-		<Resistance>87.2</Resistance>
+		<NRd>87.2</NRd>
+		<MRd>39.8</MRd>
+		<VRd>298</VRd>
+		<Inertia>2510</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 180 AA</Name>
 		<Weight>28.7</Weight>
 		<Length>14</Length>
-		<Resistance>68.8</Resistance>
+		<NRd>68.8</NRd>
+		<MRd>26.7</MRd>
+		<VRd>249</VRd>
+		<Inertia>1970</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 A</Name>
 		<Weight>42.3</Weight>
 		<Length>14</Length>
-		<Resistance>124</Resistance>
+		<NRd>124</NRd>
+		<MRd>57.1</MRd>
+		<VRd>370</VRd>
+		<Inertia>3690</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 200 AA</Name>
 		<Weight>34.6</Weight>
 		<Length>14</Length>
-		<Resistance>99.6</Resistance>
+		<NRd>99.6</NRd>
+		<MRd>39.8</MRd>
+		<VRd>316</VRd>
+		<Inertia>2940</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 A</Name>
 		<Weight>50.5</Weight>
 		<Length>14</Length>
-		<Resistance>179</Resistance>
+		<NRd>179</NRd>
+		<MRd>80.1</MRd>
+		<VRd>423</VRd>
+		<Inertia>5410</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 220 AA</Name>
 		<Weight>40.4</Weight>
 		<Length>14</Length>
-		<Resistance>139</Resistance>
+		<NRd>139</NRd>
+		<MRd>53.6</MRd>
+		<VRd>362</VRd>
+		<Inertia>4170</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 A</Name>
 		<Weight>60.3</Weight>
 		<Length>14</Length>
-		<Resistance>251</Resistance>
+		<NRd>251</NRd>
+		<MRd>114</MRd>
+		<VRd>515</VRd>
+		<Inertia>7760</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 240 AA</Name>
 		<Weight>47.4</Weight>
 		<Length>14</Length>
-		<Resistance>189</Resistance>
+		<NRd>189</NRd>
+		<MRd>74.2</MRd>
+		<VRd>442</VRd>
+		<Inertia>5840</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 A</Name>
 		<Weight>68.2</Weight>
 		<Length>14</Length>
-		<Resistance>328</Resistance>
+		<NRd>328</NRd>
+		<MRd>145</MRd>
+		<VRd>589</VRd>
+		<Inertia>10400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 260 AA</Name>
 		<Weight>54.1</Weight>
 		<Length>14</Length>
-		<Resistance>251</Resistance>
+		<NRd>251</NRd>
+		<MRd>99.4</MRd>
+		<VRd>508</VRd>
+		<Inertia>7980</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 A</Name>
 		<Weight>76.4</Weight>
 		<Length>14</Length>
-		<Resistance>421</Resistance>
+		<NRd>421</NRd>
+		<MRd>180</MRd>
+		<VRd>651</VRd>
+		<Inertia>13700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 280 AA</Name>
 		<Weight>61.2</Weight>
 		<Length>14</Length>
-		<Resistance>325</Resistance>
+		<NRd>325</NRd>
+		<MRd>125</MRd>
+		<VRd>564</VRd>
+		<Inertia>10600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 A</Name>
 		<Weight>88.3</Weight>
 		<Length>14</Length>
-		<Resistance>550</Resistance>
+		<NRd>550</NRd>
+		<MRd>239</MRd>
+		<VRd>763</VRd>
+		<Inertia>18300</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 300 AA</Name>
 		<Weight>69.8</Weight>
 		<Length>14</Length>
-		<Resistance>415</Resistance>
+		<NRd>415</NRd>
+		<MRd>164</MRd>
+		<VRd>663</VRd>
+		<Inertia>13800</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 A</Name>
 		<Weight>97.6</Weight>
 		<Length>14</Length>
-		<Resistance>608</Resistance>
+		<NRd>608</NRd>
+		<MRd>291</MRd>
+		<VRd>844</VRd>
+		<Inertia>22900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 320 AA</Name>
 		<Weight>74.2</Weight>
 		<Length>14</Length>
-		<Resistance>435</Resistance>
+		<NRd>435</NRd>
+		<MRd>180</MRd>
+		<VRd>726</VRd>
+		<Inertia>16400</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 A</Name>
 		<Weight>105</Weight>
 		<Length>14</Length>
-		<Resistance>646</Resistance>
+		<NRd>646</NRd>
+		<MRd>324</MRd>
+		<VRd>896</VRd>
+		<Inertia>27700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 340 AA</Name>
 		<Weight>78.9</Weight>
 		<Length>14</Length>
-		<Resistance>455</Resistance>
+		<NRd>455</NRd>
+		<MRd>197</MRd>
+		<VRd>793</VRd>
+		<Inertia>19600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 A</Name>
 		<Weight>112</Weight>
 		<Length>14</Length>
-		<Resistance>686</Resistance>
+		<NRd>686</NRd>
+		<MRd>363</MRd>
+		<VRd>976</VRd>
+		<Inertia>33100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 360 AA</Name>
 		<Weight>83.7</Weight>
 		<Length>14</Length>
-		<Resistance>476</Resistance>
+		<NRd>476</NRd>
+		<MRd>215</MRd>
+		<VRd>864</VRd>
+		<Inertia>23000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 A</Name>
 		<Weight>125</Weight>
 		<Length>14</Length>
-		<Resistance>789</Resistance>
+		<NRd>789</NRd>
+		<MRd>431</MRd>
+		<VRd>1140</VRd>
+		<Inertia>45100</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 400 AA</Name>
 		<Weight>92.4</Weight>
 		<Length>14</Length>
-		<Resistance>545</Resistance>
+		<NRd>545</NRd>
+		<MRd>251</MRd>
+		<VRd>983</VRd>
+		<Inertia>31200</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 A</Name>
 		<Weight>140</Weight>
 		<Length>14</Length>
-		<Resistance>872</Resistance>
+		<NRd>872</NRd>
+		<MRd>525</MRd>
+		<VRd>1310</VRd>
+		<Inertia>63700</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 450 AA*</Name>
 		<Weight>99.7</Weight>
 		<Length>14</Length>
-		<Resistance>567</Resistance>
+		<NRd>567</NRd>
+		<MRd>282</MRd>
+		<VRd>1120</VRd>
+		<Inertia>41900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 A</Name>
 		<Weight>155</Weight>
 		<Length>14</Length>
-		<Resistance>955</Resistance>
+		<NRd>955</NRd>
+		<MRd>628</MRd>
+		<VRd>1490</VRd>
+		<Inertia>87000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 500 AA*</Name>
 		<Weight>107</Weight>
 		<Length>14</Length>
-		<Resistance>589</Resistance>
+		<NRd>589</NRd>
+		<MRd>315</MRd>
+		<VRd>1270</VRd>
+		<Inertia>54600</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 A*</Name>
 		<Weight>166</Weight>
 		<Length>14</Length>
-		<Resistance>1000</Resistance>
+		<NRd>1000</NRd>
+		<MRd>700</MRd>
+		<VRd>1670</VRd>
+		<Inertia>112000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 550 AA*</Name>
 		<Weight>120</Weight>
 		<Length>14</Length>
-		<Resistance>632</Resistance>
+		<NRd>632</NRd>
+		<MRd>368</MRd>
+		<VRd>1490</VRd>
+		<Inertia>72900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 A*</Name>
 		<Weight>178</Weight>
 		<Length>14</Length>
-		<Resistance>1040</Resistance>
+		<NRd>1040</NRd>
+		<MRd>776</MRd>
+		<VRd>1860</VRd>
+		<Inertia>141000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 600 AA*</Name>
 		<Weight>129</Weight>
 		<Length>14</Length>
-		<Resistance>656</Resistance>
+		<NRd>656</NRd>
+		<MRd>402</MRd>
+		<VRd>1670</VRd>
+		<Inertia>91900</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 A*</Name>
 		<Weight>190</Weight>
 		<Length>14</Length>
-		<Resistance>1090</Resistance>
+		<NRd>1090</NRd>
+		<MRd>782</MRd>
+		<VRd>2060</VRd>
+		<Inertia>175000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 650 AA*</Name>
 		<Weight>138</Weight>
 		<Length>14</Length>
-		<Resistance>679</Resistance>
+		<NRd>679</NRd>
+		<MRd>421</MRd>
+		<VRd>1850</VRd>
+		<Inertia>114000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 A*</Name>
 		<Weight>204</Weight>
 		<Length>14</Length>
-		<Resistance>1130</Resistance>
+		<NRd>1130</NRd>
+		<MRd>867</MRd>
+		<VRd>2330</VRd>
+		<Inertia>215000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 700 AA*</Name>
 		<Weight>150</Weight>
 		<Length>14</Length>
-		<Resistance>721</Resistance>
+		<NRd>721</NRd>
+		<MRd>475</MRd>
+		<VRd>2000</VRd>
+		<Inertia>143000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 A*</Name>
 		<Weight>224</Weight>
 		<Length>14</Length>
-		<Resistance>1180</Resistance>
+		<NRd>1180</NRd>
+		<MRd>997</MRd>
+		<VRd>2760</VRd>
+		<Inertia>303000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 800 AA*</Name>
 		<Weight>172</Weight>
 		<Length>14</Length>
-		<Resistance>768</Resistance>
+		<NRd>768</NRd>
+		<MRd>575</MRd>
+		<VRd>2470</VRd>
+		<Inertia>209000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 A*</Name>
 		<Weight>252</Weight>
 		<Length>14</Length>
-		<Resistance>1270</Resistance>
+		<NRd>1270</NRd>
+		<MRd>1180</MRd>
+		<VRd>3250</VRd>
+		<Inertia>422000</Inertia>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>HE 900 AA*</Name>
 		<Weight>198</Weight>
 		<Length>14</Length>
-		<Resistance>857</Resistance>
+		<NRd>857</NRd>
+		<MRd>712</MRd>
+		<VRd>2930</VRd>
+		<Inertia>301000</Inertia>
 	</Beaminfo>
 </Root>

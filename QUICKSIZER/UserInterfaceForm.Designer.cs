@@ -75,7 +75,7 @@
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.AxialSelectionTrigger = new System.Windows.Forms.Button();
             this.AxialLeff = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.AxialNed = new System.Windows.Forms.TextBox();
@@ -93,7 +93,7 @@
             this.label47 = new System.Windows.Forms.Label();
             this.BeamSteelGrade = new System.Windows.Forms.ComboBox();
             this.label44 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
+            this.BendingSelectionTrigger = new System.Windows.Forms.Button();
             this.BeamSpan = new System.Windows.Forms.TextBox();
             this.label45 = new System.Windows.Forms.Label();
             this.BeamUDLatULS = new System.Windows.Forms.TextBox();
@@ -113,31 +113,31 @@
             this.tabPage10 = new System.Windows.Forms.TabPage();
             this.label37 = new System.Windows.Forms.Label();
             this.label36 = new System.Windows.Forms.Label();
-            this.listBox16 = new System.Windows.Forms.ListBox();
-            this.listBox14 = new System.Windows.Forms.ListBox();
+            this.SHSbendingListBox = new System.Windows.Forms.ListBox();
+            this.CHSbendingListBox = new System.Windows.Forms.ListBox();
             this.label35 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
-            this.listBox10 = new System.Windows.Forms.ListBox();
-            this.listBox9 = new System.Windows.Forms.ListBox();
+            this.RHSbendingListBox = new System.Windows.Forms.ListBox();
+            this.EHSbendingListBox = new System.Windows.Forms.ListBox();
             this.label33 = new System.Windows.Forms.Label();
             this.tabPage9 = new System.Windows.Forms.TabPage();
             this.label32 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
-            this.listBox8 = new System.Windows.Forms.ListBox();
-            this.listBox7 = new System.Windows.Forms.ListBox();
+            this.HEAbendingListBox = new System.Windows.Forms.ListBox();
+            this.HEBbendingListBox = new System.Windows.Forms.ListBox();
             this.label30 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
-            this.listBox6 = new System.Windows.Forms.ListBox();
-            this.listBox5 = new System.Windows.Forms.ListBox();
+            this.IPEbendingListBox = new System.Windows.Forms.ListBox();
+            this.UPEbendingListBox = new System.Windows.Forms.ListBox();
             this.tabPage8 = new System.Windows.Forms.TabPage();
             this.label28 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
-            this.listBox4 = new System.Windows.Forms.ListBox();
-            this.listBox3 = new System.Windows.Forms.ListBox();
+            this.UBbendingListBox = new System.Windows.Forms.ListBox();
+            this.UCbendingListBox = new System.Windows.Forms.ListBox();
             this.label26 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.listBox2 = new System.Windows.Forms.ListBox();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.UBPbendingListBox = new System.Windows.Forms.ListBox();
+            this.PFCbendingListBox = new System.Windows.Forms.ListBox();
             this.tabControl3 = new System.Windows.Forms.TabControl();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -172,7 +172,7 @@
             this.tabPage1.Controls.Add(this.label7);
             this.tabPage1.Controls.Add(this.tabControl2);
             this.tabPage1.Controls.Add(this.label4);
-            this.tabPage1.Controls.Add(this.button1);
+            this.tabPage1.Controls.Add(this.AxialSelectionTrigger);
             this.tabPage1.Controls.Add(this.AxialLeff);
             this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.AxialNed);
@@ -180,7 +180,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(541, 464);
+            this.tabPage1.Size = new System.Drawing.Size(654, 464);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Column - axial force only";
             // 
@@ -652,15 +652,15 @@
             this.label4.Size = new System.Drawing.Size(0, 13);
             this.label4.TabIndex = 8;
             // 
-            // button1
+            // AxialSelectionTrigger
             // 
-            this.button1.Location = new System.Drawing.Point(296, 9);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(226, 74);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Find appropriate sections";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.AxialSelectionTrigger.Location = new System.Drawing.Point(296, 9);
+            this.AxialSelectionTrigger.Name = "AxialSelectionTrigger";
+            this.AxialSelectionTrigger.Size = new System.Drawing.Size(226, 74);
+            this.AxialSelectionTrigger.TabIndex = 6;
+            this.AxialSelectionTrigger.Text = "Find appropriate sections";
+            this.AxialSelectionTrigger.UseVisualStyleBackColor = true;
+            this.AxialSelectionTrigger.Click += new System.EventHandler(this.button1_Click);
             // 
             // AxialLeff
             // 
@@ -713,7 +713,7 @@
             this.tabPage7.Controls.Add(this.label47);
             this.tabPage7.Controls.Add(this.BeamSteelGrade);
             this.tabPage7.Controls.Add(this.label44);
-            this.tabPage7.Controls.Add(this.button3);
+            this.tabPage7.Controls.Add(this.BendingSelectionTrigger);
             this.tabPage7.Controls.Add(this.BeamSpan);
             this.tabPage7.Controls.Add(this.label45);
             this.tabPage7.Controls.Add(this.BeamUDLatULS);
@@ -843,15 +843,15 @@
             this.label44.TabIndex = 23;
             this.label44.Text = "Steel Grade";
             // 
-            // button3
+            // BendingSelectionTrigger
             // 
-            this.button3.Location = new System.Drawing.Point(411, 9);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(114, 86);
-            this.button3.TabIndex = 22;
-            this.button3.Text = "Find appropriate sections";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.BendingSelectionTrigger.Location = new System.Drawing.Point(411, 9);
+            this.BendingSelectionTrigger.Name = "BendingSelectionTrigger";
+            this.BendingSelectionTrigger.Size = new System.Drawing.Size(114, 86);
+            this.BendingSelectionTrigger.TabIndex = 22;
+            this.BendingSelectionTrigger.Text = "Find appropriate sections";
+            this.BendingSelectionTrigger.UseVisualStyleBackColor = true;
+            this.BendingSelectionTrigger.Click += new System.EventHandler(this.button3_Click);
             // 
             // BeamSpan
             // 
@@ -925,7 +925,7 @@
             this.tabPage12.Location = new System.Drawing.Point(4, 22);
             this.tabPage12.Name = "tabPage12";
             this.tabPage12.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage12.Size = new System.Drawing.Size(521, 322);
+            this.tabPage12.Size = new System.Drawing.Size(637, 322);
             this.tabPage12.TabIndex = 4;
             this.tabPage12.Text = "Timber";
             this.tabPage12.UseVisualStyleBackColor = true;
@@ -1018,18 +1018,18 @@
             // tabPage10
             // 
             this.tabPage10.Controls.Add(this.label33);
-            this.tabPage10.Controls.Add(this.listBox9);
-            this.tabPage10.Controls.Add(this.listBox10);
+            this.tabPage10.Controls.Add(this.EHSbendingListBox);
+            this.tabPage10.Controls.Add(this.RHSbendingListBox);
             this.tabPage10.Controls.Add(this.label34);
             this.tabPage10.Controls.Add(this.label35);
-            this.tabPage10.Controls.Add(this.listBox14);
-            this.tabPage10.Controls.Add(this.listBox16);
+            this.tabPage10.Controls.Add(this.CHSbendingListBox);
+            this.tabPage10.Controls.Add(this.SHSbendingListBox);
             this.tabPage10.Controls.Add(this.label36);
             this.tabPage10.Controls.Add(this.label37);
             this.tabPage10.Location = new System.Drawing.Point(4, 22);
             this.tabPage10.Name = "tabPage10";
             this.tabPage10.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage10.Size = new System.Drawing.Size(521, 322);
+            this.tabPage10.Size = new System.Drawing.Size(637, 322);
             this.tabPage10.TabIndex = 2;
             this.tabPage10.Text = "Hollow sections";
             this.tabPage10.UseVisualStyleBackColor = true;
@@ -1052,25 +1052,25 @@
             this.label36.TabIndex = 35;
             this.label36.Text = "Circular Hollow Sections (CHS):";
             // 
-            // listBox16
+            // SHSbendingListBox
             // 
-            this.listBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox16.FormattingEnabled = true;
-            this.listBox16.ItemHeight = 12;
-            this.listBox16.Location = new System.Drawing.Point(9, 26);
-            this.listBox16.Name = "listBox16";
-            this.listBox16.Size = new System.Drawing.Size(250, 124);
-            this.listBox16.TabIndex = 36;
+            this.SHSbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SHSbendingListBox.FormattingEnabled = true;
+            this.SHSbendingListBox.ItemHeight = 12;
+            this.SHSbendingListBox.Location = new System.Drawing.Point(9, 26);
+            this.SHSbendingListBox.Name = "SHSbendingListBox";
+            this.SHSbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.SHSbendingListBox.TabIndex = 36;
             // 
-            // listBox14
+            // CHSbendingListBox
             // 
-            this.listBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox14.FormattingEnabled = true;
-            this.listBox14.ItemHeight = 12;
-            this.listBox14.Location = new System.Drawing.Point(265, 26);
-            this.listBox14.Name = "listBox14";
-            this.listBox14.Size = new System.Drawing.Size(250, 124);
-            this.listBox14.TabIndex = 37;
+            this.CHSbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CHSbendingListBox.FormattingEnabled = true;
+            this.CHSbendingListBox.ItemHeight = 12;
+            this.CHSbendingListBox.Location = new System.Drawing.Point(265, 26);
+            this.CHSbendingListBox.Name = "CHSbendingListBox";
+            this.CHSbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.CHSbendingListBox.TabIndex = 37;
             // 
             // label35
             // 
@@ -1090,25 +1090,25 @@
             this.label34.TabIndex = 39;
             this.label34.Text = "Elliptical Hollow Sections (EHS):";
             // 
-            // listBox10
+            // RHSbendingListBox
             // 
-            this.listBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox10.FormattingEnabled = true;
-            this.listBox10.ItemHeight = 12;
-            this.listBox10.Location = new System.Drawing.Point(9, 175);
-            this.listBox10.Name = "listBox10";
-            this.listBox10.Size = new System.Drawing.Size(250, 124);
-            this.listBox10.TabIndex = 40;
+            this.RHSbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.RHSbendingListBox.FormattingEnabled = true;
+            this.RHSbendingListBox.ItemHeight = 12;
+            this.RHSbendingListBox.Location = new System.Drawing.Point(9, 175);
+            this.RHSbendingListBox.Name = "RHSbendingListBox";
+            this.RHSbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.RHSbendingListBox.TabIndex = 40;
             // 
-            // listBox9
+            // EHSbendingListBox
             // 
-            this.listBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox9.FormattingEnabled = true;
-            this.listBox9.ItemHeight = 12;
-            this.listBox9.Location = new System.Drawing.Point(265, 175);
-            this.listBox9.Name = "listBox9";
-            this.listBox9.Size = new System.Drawing.Size(250, 124);
-            this.listBox9.TabIndex = 41;
+            this.EHSbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.EHSbendingListBox.FormattingEnabled = true;
+            this.EHSbendingListBox.ItemHeight = 12;
+            this.EHSbendingListBox.Location = new System.Drawing.Point(265, 175);
+            this.EHSbendingListBox.Name = "EHSbendingListBox";
+            this.EHSbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.EHSbendingListBox.TabIndex = 41;
             // 
             // label33
             // 
@@ -1121,18 +1121,18 @@
             // 
             // tabPage9
             // 
-            this.tabPage9.Controls.Add(this.listBox5);
-            this.tabPage9.Controls.Add(this.listBox6);
+            this.tabPage9.Controls.Add(this.UPEbendingListBox);
+            this.tabPage9.Controls.Add(this.IPEbendingListBox);
             this.tabPage9.Controls.Add(this.label29);
             this.tabPage9.Controls.Add(this.label30);
-            this.tabPage9.Controls.Add(this.listBox7);
-            this.tabPage9.Controls.Add(this.listBox8);
+            this.tabPage9.Controls.Add(this.HEBbendingListBox);
+            this.tabPage9.Controls.Add(this.HEAbendingListBox);
             this.tabPage9.Controls.Add(this.label31);
             this.tabPage9.Controls.Add(this.label32);
             this.tabPage9.Location = new System.Drawing.Point(4, 22);
             this.tabPage9.Name = "tabPage9";
             this.tabPage9.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage9.Size = new System.Drawing.Size(521, 322);
+            this.tabPage9.Size = new System.Drawing.Size(637, 322);
             this.tabPage9.TabIndex = 1;
             this.tabPage9.Text = "Europe";
             this.tabPage9.UseVisualStyleBackColor = true;
@@ -1155,25 +1155,25 @@
             this.label31.TabIndex = 27;
             this.label31.Text = "HE-B and HE-M:";
             // 
-            // listBox8
+            // HEAbendingListBox
             // 
-            this.listBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox8.FormattingEnabled = true;
-            this.listBox8.ItemHeight = 12;
-            this.listBox8.Location = new System.Drawing.Point(9, 26);
-            this.listBox8.Name = "listBox8";
-            this.listBox8.Size = new System.Drawing.Size(250, 124);
-            this.listBox8.TabIndex = 28;
+            this.HEAbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HEAbendingListBox.FormattingEnabled = true;
+            this.HEAbendingListBox.ItemHeight = 12;
+            this.HEAbendingListBox.Location = new System.Drawing.Point(9, 26);
+            this.HEAbendingListBox.Name = "HEAbendingListBox";
+            this.HEAbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.HEAbendingListBox.TabIndex = 28;
             // 
-            // listBox7
+            // HEBbendingListBox
             // 
-            this.listBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox7.FormattingEnabled = true;
-            this.listBox7.ItemHeight = 12;
-            this.listBox7.Location = new System.Drawing.Point(265, 26);
-            this.listBox7.Name = "listBox7";
-            this.listBox7.Size = new System.Drawing.Size(250, 124);
-            this.listBox7.TabIndex = 29;
+            this.HEBbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.HEBbendingListBox.FormattingEnabled = true;
+            this.HEBbendingListBox.ItemHeight = 12;
+            this.HEBbendingListBox.Location = new System.Drawing.Point(265, 26);
+            this.HEBbendingListBox.Name = "HEBbendingListBox";
+            this.HEBbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.HEBbendingListBox.TabIndex = 29;
             // 
             // label30
             // 
@@ -1193,34 +1193,34 @@
             this.label29.TabIndex = 31;
             this.label29.Text = "Parallel Flange Sections (UPE, UPN):";
             // 
-            // listBox6
+            // IPEbendingListBox
             // 
-            this.listBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox6.FormattingEnabled = true;
-            this.listBox6.ItemHeight = 12;
-            this.listBox6.Location = new System.Drawing.Point(9, 175);
-            this.listBox6.Name = "listBox6";
-            this.listBox6.Size = new System.Drawing.Size(250, 124);
-            this.listBox6.TabIndex = 32;
+            this.IPEbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.IPEbendingListBox.FormattingEnabled = true;
+            this.IPEbendingListBox.ItemHeight = 12;
+            this.IPEbendingListBox.Location = new System.Drawing.Point(9, 175);
+            this.IPEbendingListBox.Name = "IPEbendingListBox";
+            this.IPEbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.IPEbendingListBox.TabIndex = 32;
             // 
-            // listBox5
+            // UPEbendingListBox
             // 
-            this.listBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox5.FormattingEnabled = true;
-            this.listBox5.ItemHeight = 12;
-            this.listBox5.Location = new System.Drawing.Point(265, 175);
-            this.listBox5.Name = "listBox5";
-            this.listBox5.Size = new System.Drawing.Size(250, 124);
-            this.listBox5.TabIndex = 33;
+            this.UPEbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UPEbendingListBox.FormattingEnabled = true;
+            this.UPEbendingListBox.ItemHeight = 12;
+            this.UPEbendingListBox.Location = new System.Drawing.Point(265, 175);
+            this.UPEbendingListBox.Name = "UPEbendingListBox";
+            this.UPEbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.UPEbendingListBox.TabIndex = 33;
             // 
             // tabPage8
             // 
-            this.tabPage8.Controls.Add(this.listBox1);
-            this.tabPage8.Controls.Add(this.listBox2);
+            this.tabPage8.Controls.Add(this.PFCbendingListBox);
+            this.tabPage8.Controls.Add(this.UBPbendingListBox);
             this.tabPage8.Controls.Add(this.label25);
             this.tabPage8.Controls.Add(this.label26);
-            this.tabPage8.Controls.Add(this.listBox3);
-            this.tabPage8.Controls.Add(this.listBox4);
+            this.tabPage8.Controls.Add(this.UCbendingListBox);
+            this.tabPage8.Controls.Add(this.UBbendingListBox);
             this.tabPage8.Controls.Add(this.label27);
             this.tabPage8.Controls.Add(this.label28);
             this.tabPage8.Location = new System.Drawing.Point(4, 22);
@@ -1249,25 +1249,25 @@
             this.label27.TabIndex = 16;
             this.label27.Text = "Universal Columns (UC):";
             // 
-            // listBox4
+            // UBbendingListBox
             // 
-            this.listBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox4.FormattingEnabled = true;
-            this.listBox4.ItemHeight = 12;
-            this.listBox4.Location = new System.Drawing.Point(6, 25);
-            this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(392, 124);
-            this.listBox4.TabIndex = 20;
+            this.UBbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UBbendingListBox.FormattingEnabled = true;
+            this.UBbendingListBox.ItemHeight = 12;
+            this.UBbendingListBox.Location = new System.Drawing.Point(6, 25);
+            this.UBbendingListBox.Name = "UBbendingListBox";
+            this.UBbendingListBox.Size = new System.Drawing.Size(392, 124);
+            this.UBbendingListBox.TabIndex = 20;
             // 
-            // listBox3
+            // UCbendingListBox
             // 
-            this.listBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox3.FormattingEnabled = true;
-            this.listBox3.ItemHeight = 12;
-            this.listBox3.Location = new System.Drawing.Point(422, 25);
-            this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(209, 124);
-            this.listBox3.TabIndex = 21;
+            this.UCbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UCbendingListBox.FormattingEnabled = true;
+            this.UCbendingListBox.ItemHeight = 12;
+            this.UCbendingListBox.Location = new System.Drawing.Point(422, 25);
+            this.UCbendingListBox.Name = "UCbendingListBox";
+            this.UCbendingListBox.Size = new System.Drawing.Size(209, 124);
+            this.UCbendingListBox.TabIndex = 21;
             // 
             // label26
             // 
@@ -1287,25 +1287,25 @@
             this.label25.TabIndex = 23;
             this.label25.Text = "Parallel Flange Channels (PFC) - load at centroid:";
             // 
-            // listBox2
+            // UBPbendingListBox
             // 
-            this.listBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 12;
-            this.listBox2.Location = new System.Drawing.Point(6, 174);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(342, 124);
-            this.listBox2.TabIndex = 24;
+            this.UBPbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.UBPbendingListBox.FormattingEnabled = true;
+            this.UBPbendingListBox.ItemHeight = 12;
+            this.UBPbendingListBox.Location = new System.Drawing.Point(6, 174);
+            this.UBPbendingListBox.Name = "UBPbendingListBox";
+            this.UBPbendingListBox.Size = new System.Drawing.Size(342, 124);
+            this.UBPbendingListBox.TabIndex = 24;
             // 
-            // listBox1
+            // PFCbendingListBox
             // 
-            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 12;
-            this.listBox1.Location = new System.Drawing.Point(381, 174);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(250, 124);
-            this.listBox1.TabIndex = 25;
+            this.PFCbendingListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.PFCbendingListBox.FormattingEnabled = true;
+            this.PFCbendingListBox.ItemHeight = 12;
+            this.PFCbendingListBox.Location = new System.Drawing.Point(381, 174);
+            this.PFCbendingListBox.Name = "PFCbendingListBox";
+            this.PFCbendingListBox.Size = new System.Drawing.Size(250, 124);
+            this.PFCbendingListBox.TabIndex = 25;
             // 
             // tabControl3
             // 
@@ -1368,7 +1368,7 @@
         private System.Windows.Forms.TextBox AxialNed;
         private System.Windows.Forms.TextBox AxialLeff;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button AxialSelectionTrigger;
         private System.Windows.Forms.TabControl tabControl2;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Label label6;
@@ -1422,7 +1422,7 @@
         private System.Windows.Forms.Label label47;
         private System.Windows.Forms.ComboBox BeamSteelGrade;
         private System.Windows.Forms.Label label44;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button BendingSelectionTrigger;
         private System.Windows.Forms.TextBox BeamSpan;
         private System.Windows.Forms.Label label45;
         private System.Windows.Forms.TextBox BeamUDLatULS;
@@ -1435,31 +1435,31 @@
         private System.Windows.Forms.Label label53;
         private System.Windows.Forms.TabControl tabControl3;
         private System.Windows.Forms.TabPage tabPage8;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.ListBox PFCbendingListBox;
+        private System.Windows.Forms.ListBox UBPbendingListBox;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.ListBox listBox3;
-        private System.Windows.Forms.ListBox listBox4;
+        private System.Windows.Forms.ListBox UCbendingListBox;
+        private System.Windows.Forms.ListBox UBbendingListBox;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.TabPage tabPage9;
-        private System.Windows.Forms.ListBox listBox5;
-        private System.Windows.Forms.ListBox listBox6;
+        private System.Windows.Forms.ListBox UPEbendingListBox;
+        private System.Windows.Forms.ListBox IPEbendingListBox;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.ListBox listBox7;
-        private System.Windows.Forms.ListBox listBox8;
+        private System.Windows.Forms.ListBox HEBbendingListBox;
+        private System.Windows.Forms.ListBox HEAbendingListBox;
         private System.Windows.Forms.Label label31;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.TabPage tabPage10;
         private System.Windows.Forms.Label label33;
-        private System.Windows.Forms.ListBox listBox9;
-        private System.Windows.Forms.ListBox listBox10;
+        private System.Windows.Forms.ListBox EHSbendingListBox;
+        private System.Windows.Forms.ListBox RHSbendingListBox;
         private System.Windows.Forms.Label label34;
         private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.ListBox listBox14;
-        private System.Windows.Forms.ListBox listBox16;
+        private System.Windows.Forms.ListBox CHSbendingListBox;
+        private System.Windows.Forms.ListBox SHSbendingListBox;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label37;
         private System.Windows.Forms.TabPage tabPage12;

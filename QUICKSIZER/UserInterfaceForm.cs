@@ -131,16 +131,62 @@ namespace QUICKSIZER
             }
 
             // getting XML data from resources;
-            string xmlDataHEA = Properties.Resources.HEA_NRd1;
+            string xmlDataHEA = Properties.Resources.HEA_NRd;
+            string xmlDataHEB = Properties.Resources.HEB_NRd;
+            string xmlDataIPE = Properties.Resources.IPE_NRd;
+            string xmlDataUPE = Properties.Resources.UPE_UPN_NRd;
+            string xmlDataUB = Properties.Resources.UB_NRd;
+            string xmlDataUC = Properties.Resources.UC_NRd;
+            string xmlDataUBP = Properties.Resources.UBP_NRd;
+            string xmlDataPFC = Properties.Resources.PFC_NRd;
+            string xmlDataSHS = Properties.Resources.SHS_NRd;
+            string xmlDataCHS = Properties.Resources.CHS_NRd;
+            string xmlDataEHS = Properties.Resources.EHS_NRd;
+            string xmlDataRHS = Properties.Resources.RHS_NRd;
 
             //defining ouput variables;
             List<string> HEAlistboxItemsOutput = new List<string>();
+            List<string> HEBlistboxItemsOutput = new List<string>();
+            List<string> IPElistboxItemsOutput = new List<string>();
+            List<string> UPElistboxItemsOutput = new List<string>();
+            List<string> UBlistboxItemsOutput = new List<string>();
+            List<string> UClistboxItemsOutput = new List<string>();
+            List<string> UBPlistboxItemsOutput = new List<string>();
+            List<string> PFClistboxItemsOutput = new List<string>();
+            List<string> SHSlistboxItemsOutput = new List<string>();
+            List<string> CHSlistboxItemsOutput = new List<string>();
+            List<string> RHSlistboxItemsOutput = new List<string>();
+            List<string> EHSlistboxItemsOutput = new List<string>();
+            List<string> AngleslistboxItemsOutput = new List<string>();
 
             //running the section selection;
             HEAlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataHEA);
+            HEBlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataHEB);
+            IPElistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataIPE);
+            UPElistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataUPE);
+            UBlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataUB);
+            UClistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataUC);
+            UBPlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataUBP);
+            PFClistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataPFC);
+            SHSlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataSHS);
+            CHSlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataCHS);
+            RHSlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataRHS);
+            EHSlistboxItemsOutput = SectionSelecton.EvaluateBending(BendingMomentInput, ShearForceInput, UDL_SLSInput, SpanInput, AllowableDeflectionInput, xmlDataEHS);
 
             //output results to listbox
-            listBox4.DataSource = HEAlistboxItemsOutput;
+            HEAbendingListBox.DataSource = HEAlistboxItemsOutput;
+            HEBbendingListBox.DataSource = HEBlistboxItemsOutput;
+            IPEbendingListBox.DataSource = IPElistboxItemsOutput;
+            UPEbendingListBox.DataSource = UPElistboxItemsOutput;
+            UBbendingListBox.DataSource = UBlistboxItemsOutput;
+            UCbendingListBox.DataSource = UClistboxItemsOutput;
+            UBPbendingListBox.DataSource = UBPlistboxItemsOutput;
+            PFCbendingListBox.DataSource = PFClistboxItemsOutput;
+            SHSbendingListBox.DataSource = SHSlistboxItemsOutput;
+            CHSbendingListBox.DataSource = CHSlistboxItemsOutput;
+            RHSbendingListBox.DataSource = RHSlistboxItemsOutput;
+            EHSbendingListBox.DataSource = EHSlistboxItemsOutput;
+
         }
 
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Root>
+  <Beaminfo>
+    <Name>Jane Winston</Name>
+    <Weight>345</Weight>
+    <Length>1.0</Length>
+    <NRd>111</NRd>
+    <MRd>111</MRd>
+    <VRd>111</VRd>
+    <Inertia>111</Inertia>
+  </Beaminfo>  
+  <Beaminfo>
+    <Name>Jane Winston</Name>
+    <Weight>345</Weight>
+    <Length>1.0</Length>
+    <NRd>111</NRd>
+    <MRd>111</MRd>
+    <VRd>111</VRd>
+    <Inertia>111</Inertia>
+  </Beaminfo>
+</Root>

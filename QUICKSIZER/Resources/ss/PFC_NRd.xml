@@ -1,2451 +1,1635 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Beaminfo>
+<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>1</Length>
-		<NRd>297</NRd>
-		<MRd>15.2</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>297</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>1.5</Length>
-		<NRd>191</NRd>
-		<MRd>12.9</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>191</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>2</Length>
-		<NRd>124</NRd>
-		<MRd>11.3</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>124</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>2.5</Length>
-		<NRd>85.2</NRd>
-		<MRd>10</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>85.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>3</Length>
-		<NRd>61.8</NRd>
-		<MRd>8.97</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>61.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>3.5</Length>
-		<NRd>46.7</NRd>
-		<MRd>8.12</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>46.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>4</Length>
-		<NRd>36.5</NRd>
-		<MRd>7.41</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>36.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>5</Length>
-		<NRd>24</NRd>
-		<MRd>6.3</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>24</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>6</Length>
-		<NRd>17</NRd>
-		<MRd>5.49</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>17</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>7</Length>
-		<NRd>12.7</NRd>
-		<MRd>4.89</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>12.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>8</Length>
-		<NRd>9.79</NRd>
-		<MRd>4.42</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>9.79</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>9</Length>
-		<NRd>7.79</NRd>
-		<MRd>4.03</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>7.79</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>10</Length>
-		<NRd>6.35</NRd>
-		<MRd>3.7</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>6.35</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>11</Length>
-		<NRd>5.28</NRd>
-		<MRd>3.43</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>5.28</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>12</Length>
-		<NRd>4.45</NRd>
-		<MRd>3.19</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>4.45</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>13</Length>
-		<NRd>3.81</NRd>
-		<MRd>2.99</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>3.81</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 100x50x10</Name>
 		<Weight>10</Weight>
 		<Length>14</Length>
-		<NRd>3.29</NRd>
-		<MRd>2.81</MRd>
-		<VRd>117</VRd>
-		<Inertia>208</Inertia>
+		<Resistance>3.29</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>1</Length>
-		<NRd>510</NRd>
-		<MRd>30</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>510</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>1.5</Length>
-		<NRd>379</NRd>
-		<MRd>25.9</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>379</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>2</Length>
-		<NRd>268</NRd>
-		<MRd>22.7</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>268</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>2.5</Length>
-		<NRd>192</NRd>
-		<MRd>20.3</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>192</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>3</Length>
-		<NRd>142</NRd>
-		<MRd>18.3</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>142</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>3.5</Length>
-		<NRd>109</NRd>
-		<MRd>16.6</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>109</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>4</Length>
-		<NRd>85.8</NRd>
-		<MRd>15.3</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>85.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>5</Length>
-		<NRd>57.1</NRd>
-		<MRd>13.1</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>57.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>6</Length>
-		<NRd>40.6</NRd>
-		<MRd>11.4</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>40.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>7</Length>
-		<NRd>30.4</NRd>
-		<MRd>10.1</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>30.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>8</Length>
-		<NRd>23.6</NRd>
-		<MRd>9.18</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>23.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>9</Length>
-		<NRd>18.8</NRd>
-		<MRd>8.38</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>18.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>10</Length>
-		<NRd>15.4</NRd>
-		<MRd>7.72</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>15.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>11</Length>
-		<NRd>12.8</NRd>
-		<MRd>7.16</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>12.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>12</Length>
-		<NRd>10.8</NRd>
-		<MRd>6.67</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>10.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>13</Length>
-		<NRd>9.24</NRd>
-		<MRd>6.25</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>9.24</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 125x65x15</Name>
 		<Weight>15</Weight>
 		<Length>14</Length>
-		<NRd>8</NRd>
-		<MRd>5.89</MRd>
-		<VRd>166</VRd>
-		<Inertia>483</Inertia>
+		<Resistance>8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>1</Length>
-		<NRd>661</NRd>
-		<MRd>45.6</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>661</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>1.5</Length>
-		<NRd>527</NRd>
-		<MRd>39.3</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>527</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>2</Length>
-		<NRd>396</NRd>
-		<MRd>34.4</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>396</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>2.5</Length>
-		<NRd>294</NRd>
-		<MRd>30.5</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>294</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>3</Length>
-		<NRd>222</NRd>
-		<MRd>27.3</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>222</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>3.5</Length>
-		<NRd>172</NRd>
-		<MRd>24.8</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>172</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>4</Length>
-		<NRd>137</NRd>
-		<MRd>22.6</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>137</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>5</Length>
-		<NRd>91.6</NRd>
-		<MRd>19.3</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>91.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>6</Length>
-		<NRd>65.6</NRd>
-		<MRd>16.8</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>65.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>7</Length>
-		<NRd>49.2</NRd>
-		<MRd>14.9</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>49.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>8</Length>
-		<NRd>38.2</NRd>
-		<MRd>13.4</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>38.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>9</Length>
-		<NRd>30.6</NRd>
-		<MRd>12.3</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>30.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>10</Length>
-		<NRd>25</NRd>
-		<MRd>11.3</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>25</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>11</Length>
-		<NRd>20.8</NRd>
-		<MRd>10.5</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>20.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>12</Length>
-		<NRd>17.6</NRd>
-		<MRd>9.75</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>17.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>13</Length>
-		<NRd>15.1</NRd>
-		<MRd>9.13</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>15.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x75x18</Name>
 		<Weight>18</Weight>
 		<Length>14</Length>
-		<NRd>13.1</NRd>
-		<MRd>8.59</MRd>
-		<VRd>196</VRd>
-		<Inertia>861</Inertia>
+		<Resistance>13.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>1</Length>
-		<NRd>938</NRd>
-		<MRd>63.5</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>938</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>1.5</Length>
-		<NRd>796</NRd>
-		<MRd>58.3</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>796</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>2</Length>
-		<NRd>643</NRd>
-		<MRd>52.5</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>643</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>2.5</Length>
-		<NRd>504</NRd>
-		<MRd>47.8</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>504</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>3</Length>
-		<NRd>394</NRd>
-		<MRd>43.8</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>394</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>3.5</Length>
-		<NRd>311</NRd>
-		<MRd>40.5</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>311</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>4</Length>
-		<NRd>250</NRd>
-		<MRd>37.6</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>250</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>5</Length>
-		<NRd>170</NRd>
-		<MRd>32.8</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>170</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>6</Length>
-		<NRd>123</NRd>
-		<MRd>29.1</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>123</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>7</Length>
-		<NRd>92.7</NRd>
-		<MRd>26.1</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>92.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>8</Length>
-		<NRd>72.3</NRd>
-		<MRd>23.7</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>72.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>9</Length>
-		<NRd>58</NRd>
-		<MRd>21.6</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>58</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>10</Length>
-		<NRd>47.5</NRd>
-		<MRd>20</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>47.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>11</Length>
-		<NRd>39.6</NRd>
-		<MRd>18.6</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>39.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>12</Length>
-		<NRd>33.5</NRd>
-		<MRd>17.4</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>33.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>13</Length>
-		<NRd>28.8</NRd>
-		<MRd>16.4</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>28.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 150x90x24</Name>
 		<Weight>24</Weight>
 		<Length>14</Length>
-		<NRd>24.9</NRd>
-		<MRd>15.5</MRd>
-		<VRd>226</VRd>
-		<Inertia>1160</Inertia>
+		<Resistance>24.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>1</Length>
-		<NRd>749</NRd>
-		<MRd>60.4</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>749</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>1.5</Length>
-		<NRd>594</NRd>
-		<MRd>51.4</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>594</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>2</Length>
-		<NRd>445</NRd>
-		<MRd>44.3</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>445</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>2.5</Length>
-		<NRd>330</NRd>
-		<MRd>38.7</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>330</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>3</Length>
-		<NRd>249</NRd>
-		<MRd>34.3</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>249</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>3.5</Length>
-		<NRd>193</NRd>
-		<MRd>30.8</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>193</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>4</Length>
-		<NRd>153</NRd>
-		<MRd>27.9</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>153</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>5</Length>
-		<NRd>103</NRd>
-		<MRd>23.5</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>103</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>6</Length>
-		<NRd>73.3</NRd>
-		<MRd>20.3</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>73.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>7</Length>
-		<NRd>55</NRd>
-		<MRd>18</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>55</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>8</Length>
-		<NRd>42.7</NRd>
-		<MRd>16.2</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>42.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>9</Length>
-		<NRd>34.2</NRd>
-		<MRd>14.7</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>34.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>10</Length>
-		<NRd>27.9</NRd>
-		<MRd>13.5</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>27.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>11</Length>
-		<NRd>23.3</NRd>
-		<MRd>12.5</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>23.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>12</Length>
-		<NRd>19.7</NRd>
-		<MRd>11.6</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>19.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>13</Length>
-		<NRd>16.8</NRd>
-		<MRd>10.9</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>16.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x75x20</Name>
 		<Weight>20</Weight>
 		<Length>14</Length>
-		<NRd>14.6</NRd>
-		<MRd>10.2</MRd>
-		<VRd>247</VRd>
-		<Inertia>1370</Inertia>
+		<Resistance>14.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>1</Length>
-		<NRd>1020</NRd>
-		<MRd>82.4</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>1020</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>1.5</Length>
-		<NRd>869</NRd>
-		<MRd>74.4</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>869</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>2</Length>
-		<NRd>703</NRd>
-		<MRd>66.1</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>703</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>2.5</Length>
-		<NRd>551</NRd>
-		<MRd>59.4</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>551</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>3</Length>
-		<NRd>430</NRd>
-		<MRd>53.9</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>430</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>3.5</Length>
-		<NRd>340</NRd>
-		<MRd>49.3</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>340</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>4</Length>
-		<NRd>273</NRd>
-		<MRd>45.3</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>273</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>5</Length>
-		<NRd>186</NRd>
-		<MRd>39.1</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>186</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>6</Length>
-		<NRd>134</NRd>
-		<MRd>34.3</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>134</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>7</Length>
-		<NRd>101</NRd>
-		<MRd>30.5</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>101</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>8</Length>
-		<NRd>79</NRd>
-		<MRd>27.5</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>79</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>9</Length>
-		<NRd>63.3</NRd>
-		<MRd>25.2</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>63.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>10</Length>
-		<NRd>51.8</NRd>
-		<MRd>23.2</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>51.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>11</Length>
-		<NRd>43.2</NRd>
-		<MRd>21.5</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>43.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>12</Length>
-		<NRd>36.6</NRd>
-		<MRd>20.1</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>36.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>13</Length>
-		<NRd>31.4</NRd>
-		<MRd>18.9</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>31.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 180x90x26</Name>
 		<Weight>26</Weight>
 		<Length>14</Length>
-		<NRd>27.2</NRd>
-		<MRd>17.8</MRd>
-		<VRd>267</VRd>
-		<Inertia>1820</Inertia>
+		<Resistance>27.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>1</Length>
-		<NRd>866</NRd>
-		<MRd>78</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>866</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>1.5</Length>
-		<NRd>689</NRd>
-		<MRd>66.5</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>689</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>2</Length>
-		<NRd>517</NRd>
-		<MRd>57.5</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>517</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>2.5</Length>
-		<NRd>383</NRd>
-		<MRd>50.4</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>383</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>3</Length>
-		<NRd>289</NRd>
-		<MRd>44.8</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>289</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>3.5</Length>
-		<NRd>224</NRd>
-		<MRd>40.3</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>224</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>4</Length>
-		<NRd>178</NRd>
-		<MRd>36.6</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>178</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>5</Length>
-		<NRd>119</NRd>
-		<MRd>30.8</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>119</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>6</Length>
-		<NRd>85.3</NRd>
-		<MRd>26.6</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>85.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>7</Length>
-		<NRd>64</NRd>
-		<MRd>23.7</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>64</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>8</Length>
-		<NRd>49.7</NRd>
-		<MRd>21.3</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>49.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>9</Length>
-		<NRd>39.8</NRd>
-		<MRd>19.4</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>39.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>10</Length>
-		<NRd>32.5</NRd>
-		<MRd>17.8</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>32.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>11</Length>
-		<NRd>27.1</NRd>
-		<MRd>16.5</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>27.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>12</Length>
-		<NRd>22.9</NRd>
-		<MRd>15.3</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>22.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>13</Length>
-		<NRd>19.6</NRd>
-		<MRd>14.3</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>19.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x75x23</Name>
 		<Weight>23</Weight>
 		<Length>14</Length>
-		<NRd>17</NRd>
-		<MRd>13.5</MRd>
-		<VRd>275</VRd>
-		<Inertia>1960</Inertia>
+		<Resistance>17</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>1</Length>
-		<NRd>1170</NRd>
-		<MRd>103</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>1170</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>1.5</Length>
-		<NRd>990</NRd>
-		<MRd>93.3</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>990</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>2</Length>
-		<NRd>800</NRd>
-		<MRd>82.9</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>800</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>2.5</Length>
-		<NRd>626</NRd>
-		<MRd>74.5</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>626</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>3</Length>
-		<NRd>489</NRd>
-		<MRd>67.5</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>489</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>3.5</Length>
-		<NRd>386</NRd>
-		<MRd>61.7</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>386</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>4</Length>
-		<NRd>310</NRd>
-		<MRd>56.8</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>310</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>5</Length>
-		<NRd>211</NRd>
-		<MRd>48.9</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>211</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>6</Length>
-		<NRd>152</NRd>
-		<MRd>42.9</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>152</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>7</Length>
-		<NRd>115</NRd>
-		<MRd>38.2</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>115</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>8</Length>
-		<NRd>89.6</NRd>
-		<MRd>34.4</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>89.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>9</Length>
-		<NRd>71.8</NRd>
-		<MRd>31.5</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>71.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>10</Length>
-		<NRd>58.8</NRd>
-		<MRd>29</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>58.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>11</Length>
-		<NRd>49</NRd>
-		<MRd>26.9</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>49</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>12</Length>
-		<NRd>41.5</NRd>
-		<MRd>25.2</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>41.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>13</Length>
-		<NRd>35.6</NRd>
-		<MRd>23.6</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>35.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 200x90x30</Name>
 		<Weight>30</Weight>
 		<Length>14</Length>
-		<NRd>30.9</NRd>
-		<MRd>22.2</MRd>
-		<VRd>315</VRd>
-		<Inertia>2520</Inertia>
+		<Resistance>30.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>1</Length>
-		<NRd>941</NRd>
-		<MRd>94.9</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>941</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>1.5</Length>
-		<NRd>743</NRd>
-		<MRd>80</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>743</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>2</Length>
-		<NRd>554</NRd>
-		<MRd>68.1</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>554</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>2.5</Length>
-		<NRd>409</NRd>
-		<MRd>58.9</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>409</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>3</Length>
-		<NRd>308</NRd>
-		<MRd>51.7</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>308</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>3.5</Length>
-		<NRd>238</NRd>
-		<MRd>46</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>238</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>4</Length>
-		<NRd>189</NRd>
-		<MRd>41.4</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>189</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>5</Length>
-		<NRd>126</NRd>
-		<MRd>34.4</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>126</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>6</Length>
-		<NRd>90.4</NRd>
-		<MRd>29.7</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>90.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>7</Length>
-		<NRd>67.8</NRd>
-		<MRd>26.2</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>67.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>8</Length>
-		<NRd>52.7</NRd>
-		<MRd>23.5</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>52.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>9</Length>
-		<NRd>42.1</NRd>
-		<MRd>21.3</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>42.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>10</Length>
-		<NRd>34.4</NRd>
-		<MRd>19.5</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>34.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>11</Length>
-		<NRd>28.7</NRd>
-		<MRd>18</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>28.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>12</Length>
-		<NRd>24.2</NRd>
-		<MRd>16.8</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>24.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>13</Length>
-		<NRd>20.8</NRd>
-		<MRd>15.7</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>20.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x75x26</Name>
 		<Weight>26</Weight>
 		<Length>14</Length>
-		<NRd>18</NRd>
-		<MRd>14.7</MRd>
-		<VRd>333</VRd>
-		<Inertia>2750</Inertia>
+		<Resistance>18</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>1</Length>
-		<NRd>1260</NRd>
-		<MRd>126</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>1260</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>1.5</Length>
-		<NRd>1070</NRd>
-		<MRd>112</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>1070</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>2</Length>
-		<NRd>859</NRd>
-		<MRd>98.7</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>859</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>2.5</Length>
-		<NRd>671</NRd>
-		<MRd>87.5</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>671</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>3</Length>
-		<NRd>523</NRd>
-		<MRd>78.5</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>523</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>3.5</Length>
-		<NRd>413</NRd>
-		<MRd>71</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>413</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>4</Length>
-		<NRd>332</NRd>
-		<MRd>64.8</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>332</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>5</Length>
-		<NRd>226</NRd>
-		<MRd>55</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>226</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>6</Length>
-		<NRd>163</NRd>
-		<MRd>47.7</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>163</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>7</Length>
-		<NRd>123</NRd>
-		<MRd>42.1</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>123</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>8</Length>
-		<NRd>95.6</NRd>
-		<MRd>38</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>95.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>9</Length>
-		<NRd>76.6</NRd>
-		<MRd>34.7</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>76.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>10</Length>
-		<NRd>62.8</NRd>
-		<MRd>31.9</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>62.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>11</Length>
-		<NRd>52.4</NRd>
-		<MRd>29.5</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>52.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>12</Length>
-		<NRd>44.3</NRd>
-		<MRd>27.5</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>44.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>13</Length>
-		<NRd>38</NRd>
-		<MRd>25.8</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>38</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 230x90x32</Name>
 		<Weight>32</Weight>
 		<Length>14</Length>
-		<NRd>33</NRd>
-		<MRd>24.2</MRd>
-		<VRd>380</VRd>
-		<Inertia>3520</Inertia>
+		<Resistance>33</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>1</Length>
-		<NRd>1000</NRd>
-		<MRd>111</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>1000</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>1.5</Length>
-		<NRd>783</NRd>
-		<MRd>92.3</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>783</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>2</Length>
-		<NRd>579</NRd>
-		<MRd>77.4</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>579</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>2.5</Length>
-		<NRd>425</NRd>
-		<MRd>65.8</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>425</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>3</Length>
-		<NRd>319</NRd>
-		<MRd>56.9</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>319</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>3.5</Length>
-		<NRd>246</NRd>
-		<MRd>50</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>246</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>4</Length>
-		<NRd>195</NRd>
-		<MRd>44.5</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>195</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>5</Length>
-		<NRd>131</NRd>
-		<MRd>36.6</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>131</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>6</Length>
-		<NRd>93.3</NRd>
-		<MRd>31.4</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>93.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>7</Length>
-		<NRd>69.9</NRd>
-		<MRd>27.6</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>69.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>8</Length>
-		<NRd>54.3</NRd>
-		<MRd>24.6</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>54.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>9</Length>
-		<NRd>43.4</NRd>
-		<MRd>22.3</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>43.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>10</Length>
-		<NRd>35.4</NRd>
-		<MRd>20.3</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>35.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>11</Length>
-		<NRd>29.5</NRd>
-		<MRd>18.7</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>29.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>12</Length>
-		<NRd>24.9</NRd>
-		<MRd>17.4</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>24.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>13</Length>
-		<NRd>21.4</NRd>
-		<MRd>16.2</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>21.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x75x28</Name>
 		<Weight>28</Weight>
 		<Length>14</Length>
-		<NRd>18.5</NRd>
-		<MRd>15.2</MRd>
-		<VRd>397</VRd>
-		<Inertia>3620</Inertia>
+		<Resistance>18.5</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>1</Length>
-		<NRd>1360</NRd>
-		<MRd>151</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>1360</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>1.5</Length>
-		<NRd>1150</NRd>
-		<MRd>133</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>1150</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>2</Length>
-		<NRd>918</NRd>
-		<MRd>116</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>918</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>2.5</Length>
-		<NRd>714</NRd>
-		<MRd>102</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>714</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>3</Length>
-		<NRd>555</NRd>
-		<MRd>90.2</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>555</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>3.5</Length>
-		<NRd>437</NRd>
-		<MRd>80.9</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>437</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>4</Length>
-		<NRd>351</NRd>
-		<MRd>73.2</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>351</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>5</Length>
-		<NRd>238</NRd>
-		<MRd>61.4</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>238</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>6</Length>
-		<NRd>172</NRd>
-		<MRd>52.8</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>172</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>7</Length>
-		<NRd>129</NRd>
-		<MRd>46.6</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>129</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>8</Length>
-		<NRd>101</NRd>
-		<MRd>41.9</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>101</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>9</Length>
-		<NRd>80.8</NRd>
-		<MRd>38.1</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>80.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>10</Length>
-		<NRd>66.2</NRd>
-		<MRd>34.9</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>66.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>11</Length>
-		<NRd>55.2</NRd>
-		<MRd>32.3</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>55.2</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>12</Length>
-		<NRd>46.7</NRd>
-		<MRd>30</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>46.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>13</Length>
-		<NRd>40.1</NRd>
-		<MRd>28.1</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>40.1</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 260x90x35</Name>
 		<Weight>35</Weight>
 		<Length>14</Length>
-		<NRd>34.7</NRd>
-		<MRd>26.4</MRd>
-		<VRd>451</VRd>
-		<Inertia>4730</Inertia>
+		<Resistance>34.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>1</Length>
-		<NRd>1780</NRd>
-		<MRd>221</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>1780</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>1.5</Length>
-		<NRd>1550</NRd>
-		<MRd>205</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>1550</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>2</Length>
-		<NRd>1290</NRd>
-		<MRd>181</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>1290</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>2.5</Length>
-		<NRd>1040</NRd>
-		<MRd>161</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>1040</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>3</Length>
-		<NRd>834</NRd>
-		<MRd>144</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>834</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>3.5</Length>
-		<NRd>668</NRd>
-		<MRd>130</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>668</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>4</Length>
-		<NRd>542</NRd>
-		<MRd>119</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>542</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>5</Length>
-		<NRd>373</NRd>
-		<MRd>100</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>373</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>6</Length>
-		<NRd>270</NRd>
-		<MRd>86.9</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>270</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>7</Length>
-		<NRd>204</NRd>
-		<MRd>76.5</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>204</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>8</Length>
-		<NRd>160</NRd>
-		<MRd>68.7</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>160</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>9</Length>
-		<NRd>128</NRd>
-		<MRd>62.6</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>128</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>10</Length>
-		<NRd>105</NRd>
-		<MRd>57.5</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>105</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>11</Length>
-		<NRd>87.8</NRd>
-		<MRd>53.2</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>87.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>12</Length>
-		<NRd>74.4</NRd>
-		<MRd>49.6</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>74.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>13</Length>
-		<NRd>63.9</NRd>
-		<MRd>46.4</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>63.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x100x46</Name>
 		<Weight>46</Weight>
 		<Length>14</Length>
-		<NRd>55.4</NRd>
-		<MRd>43.6</MRd>
-		<VRd>577</VRd>
-		<Inertia>8230</Inertia>
+		<Resistance>55.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>1</Length>
-		<NRd>1610</NRd>
-		<MRd>202</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>1610</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>1.5</Length>
-		<NRd>1350</NRd>
-		<MRd>177</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>1350</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>2</Length>
-		<NRd>1070</NRd>
-		<MRd>153</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>1070</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>2.5</Length>
-		<NRd>828</NRd>
-		<MRd>134</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>828</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>3</Length>
-		<NRd>641</NRd>
-		<MRd>118</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>641</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>3.5</Length>
-		<NRd>504</NRd>
-		<MRd>106</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>504</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>4</Length>
-		<NRd>404</NRd>
-		<MRd>95.1</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>404</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>5</Length>
-		<NRd>274</NRd>
-		<MRd>79.4</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>274</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>6</Length>
-		<NRd>197</NRd>
-		<MRd>67.9</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>197</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>7</Length>
-		<NRd>149</NRd>
-		<MRd>60</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>149</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>8</Length>
-		<NRd>116</NRd>
-		<MRd>53.8</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>116</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>9</Length>
-		<NRd>92.7</NRd>
-		<MRd>48.8</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>92.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>10</Length>
-		<NRd>75.9</NRd>
-		<MRd>44.8</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>75.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>11</Length>
-		<NRd>63.3</NRd>
-		<MRd>41.3</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>63.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>12</Length>
-		<NRd>53.6</NRd>
-		<MRd>38.4</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>53.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>13</Length>
-		<NRd>45.9</NRd>
-		<MRd>35.9</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>45.9</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 300x90x41</Name>
 		<Weight>41</Weight>
 		<Length>14</Length>
-		<NRd>39.8</NRd>
-		<MRd>33.7</MRd>
-		<VRd>575</VRd>
-		<Inertia>7220</Inertia>
+		<Resistance>39.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>1</Length>
-		<NRd>2100</NRd>
-		<MRd>322</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>2100</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>1.5</Length>
-		<NRd>1820</NRd>
-		<MRd>295</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>1820</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>2</Length>
-		<NRd>1500</NRd>
-		<MRd>257</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>1500</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>2.5</Length>
-		<NRd>1210</NRd>
-		<MRd>225</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>1210</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>3</Length>
-		<NRd>957</NRd>
-		<MRd>198</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>957</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>3.5</Length>
-		<NRd>764</NRd>
-		<MRd>176</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>764</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>4</Length>
-		<NRd>619</NRd>
-		<MRd>158</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>619</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>5</Length>
-		<NRd>424</NRd>
-		<MRd>131</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>424</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>6</Length>
-		<NRd>307</NRd>
-		<MRd>111</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>307</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>7</Length>
-		<NRd>232</NRd>
-		<MRd>97.5</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>232</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>8</Length>
-		<NRd>181</NRd>
-		<MRd>87.1</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>181</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>9</Length>
-		<NRd>146</NRd>
-		<MRd>78.8</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>146</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>10</Length>
-		<NRd>119</NRd>
-		<MRd>72.1</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>119</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>11</Length>
-		<NRd>99.6</NRd>
-		<MRd>66.4</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>99.6</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>12</Length>
-		<NRd>84.4</NRd>
-		<MRd>61.6</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>84.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>13</Length>
-		<NRd>72.4</NRd>
-		<MRd>57.5</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>72.4</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 380x100x54</Name>
 		<Weight>54</Weight>
 		<Length>14</Length>
-		<NRd>62.8</NRd>
-		<MRd>54</MRd>
-		<VRd>757</VRd>
-		<Inertia>15000</Inertia>
+		<Resistance>62.8</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>1</Length>
-		<NRd>2490</NRd>
-		<MRd>422</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>2490</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>1.5</Length>
-		<NRd>2140</NRd>
-		<MRd>383</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>2140</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>2</Length>
-		<NRd>1750</NRd>
-		<MRd>333</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>1750</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>2.5</Length>
-		<NRd>1390</NRd>
-		<MRd>290</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>1390</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>3</Length>
-		<NRd>1100</NRd>
-		<MRd>255</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>1100</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>3.5</Length>
-		<NRd>872</NRd>
-		<MRd>226</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>872</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>4</Length>
-		<NRd>704</NRd>
-		<MRd>202</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>704</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>5</Length>
-		<NRd>481</NRd>
-		<MRd>166</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>481</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>6</Length>
-		<NRd>348</NRd>
-		<MRd>141</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>348</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>7</Length>
-		<NRd>263</NRd>
-		<MRd>123</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>263</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>8</Length>
-		<NRd>205</NRd>
-		<MRd>110</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>205</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>9</Length>
-		<NRd>164</NRd>
-		<MRd>99.4</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>164</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>10</Length>
-		<NRd>135</NRd>
-		<MRd>90.8</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>135</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>11</Length>
-		<NRd>113</NRd>
-		<MRd>83.6</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>113</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>12</Length>
-		<NRd>95.3</NRd>
-		<MRd>77.5</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>95.3</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>13</Length>
-		<NRd>81.7</NRd>
-		<MRd>72.3</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
+		<Resistance>81.7</Resistance>
 	</Beaminfo>
 	<Beaminfo>
 		<Name>PFC 430x100x64</Name>
 		<Weight>64</Weight>
 		<Length>14</Length>
-		<NRd>70.9</NRd>
-		<MRd>67.8</MRd>
-		<VRd>977</VRd>
-		<Inertia>21900</Inertia>
-	</Beaminfo>	
+		<Resistance>70.9</Resistance>
+	</Beaminfo>
 	</Root>
