@@ -14,16 +14,7 @@ namespace QUICKSIZER
         public static double RoundEffectiveLength(double inputLength)
         {
             double roundedLength = 0;
-
-            if (inputLength > 14)
-            {
-                MessageBox.Show("Wow! Looks like your columns is really long. Sorry, I can only deal with lenght up to 14m.");
-            }
-            else if (inputLength <= 0)
-            {
-                MessageBox.Show("Hey! You are trying to kill me! No negative values allowed for length input.");
-            }
-            else if (inputLength <= 0.5)
+            if (inputLength <= 0.5)
             {
                 roundedLength = 1;
             }
@@ -53,6 +44,22 @@ namespace QUICKSIZER
                 }
             }
             return roundedLength;
+        }
+
+        public static bool CheckEffectiveLength(double inputLength)
+        {
+            bool check = true;
+            if (inputLength > 14)
+            {
+                MessageBox.Show("Wow! Looks like your element is really long. Sorry, I can only deal with lenght up to 14m.");
+                check = false;
+            }
+            else if (inputLength <= 0)
+            {
+                MessageBox.Show("Hey! You are trying to kill me! No negative values allowed for length input.");
+                check = false;
+            }
+            return check;
         }
 
         public static List<string> EvaluateAxialForce(double AxialForce, double EffectiveLength, string xmlSectionData)
@@ -107,17 +114,17 @@ namespace QUICKSIZER
 
             foreach (SectionData section in sectionsList)
             {
-                listboxItems.Add(section.ToString());
+                listboxItems.Add(section.AxialOutput());
             }
 
             return listboxItems;
 
         }
 
-        public static List<string> EvaluateBending(double BendingMoment, double ShearForce, double UDL, double AllowableDeflection, double EffectiveLength, string xmlSectionData)
+        public static List<string> EvaluateBending(double BendingMoment, double ShearForce, double UDL_SLS, double BeamSpan, double AllowableDeflection, string xmlSectionData)
         {
             // rounding effective length 
-            double EffectiveLengthRounded = RoundEffectiveLength(EffectiveLength);
+            double BeamSpanRounded = RoundEffectiveLength(BeamSpan);
 
             //defining a list with sections
             List<SectionData> sectionsList = new List<SectionData>();
@@ -139,7 +146,7 @@ namespace QUICKSIZER
 
                 // calculating deflection
                 //UDL as kN/m, Inertia as cm4, results in milimeters
-                double deflection = 1000 * ((5 / 384) * UDL * Math.Pow(EffectiveLength,4)) / (2.1 * Inertia);
+                double deflection = 1000 * (((5 / 384) * UDL_SLS * Math.Pow(BeamSpan,4)) / (2.1 * Inertia));
 
                 // calculating utilisations
                 double momentUtilisation = Math.Round(BendingMoment / MRd,2);
@@ -149,28 +156,12 @@ namespace QUICKSIZER
                 string governingAction;
 
                 //if capacity refers to wrong effective length, ignore the row
-                if (EffectiveLengthRounded != Leff)
-                {
-                    continue;
-                }
+                if (BeamSpanRounded != Leff) continue;
 
-                //calculate deflection utilisation ratio and ignore all sections that are over 100%
-                if ( deflectionUtilisation > 1)
-                {
-                    continue;
-                }
-
-                //calculate moment utilisation ratio and ignore all sections that are over 100%
-                if ( momentUtilisation > 1)
-                {
-                    continue;
-                }
-
-                //calculate shear utilisation ratio and ignore all sections that are over 100%
-                if (shearUtilisation > 1)
-                {
-                    continue;
-                }
+                //calculate  utilisation ratios and ignore all sections that are over 100%
+                if ( deflectionUtilisation > 1) continue;
+                if ( momentUtilisation > 1)  continue;
+                if (shearUtilisation > 1) continue;
 
                 //determining governing effect and total utilisation
                 if (deflectionUtilisation >= momentUtilisation && deflectionUtilisation >= shearUtilisation)
@@ -196,7 +187,12 @@ namespace QUICKSIZER
                     Weight = weight,
                     EffectiveLength = Leff,
                     MRd = MRd,
-                    N_utilisation = Math.Round(AxialForce / NRd, 2)
+                    VRd = VRd,
+                    uDeflection = deflection,
+                    M_utilisation = momentUtilisation,
+                    V_utilisation = shearUtilisation,
+                    Total_utilisation = totalUtilisation,
+                    Governing = governingAction
                 });
 
             }
@@ -209,7 +205,7 @@ namespace QUICKSIZER
 
             foreach (SectionData section in sectionsList)
             {
-                listboxItems.Add(section.ToString());
+                listboxItems.Add(section.BendingOutput());
             }
 
             return listboxItems;

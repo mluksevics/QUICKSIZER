@@ -22,7 +22,7 @@ namespace QUICKSIZER
         public double M_utilisation { get; set; }
         public double V_utilisation { get; set; }
         public double Total_utilisation { get; set; }
-        public double Governing { get; set; }
+        public string Governing { get; set; }
 
         public override string ToString()
         {
